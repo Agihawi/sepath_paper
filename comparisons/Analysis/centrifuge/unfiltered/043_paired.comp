@@ -1,0 +1,1828 @@
+NCBI-TaxID	Kingdom	Phylum	Class	Order	Family	Genus	Species	Number_of_Reads	Relative_Abundance
+0	NA	Proteobacteria	Gammaproteobacteria	Myxococcales	Spirochaetaceae	Methylophilus	Buchnera aphidicola	0	0
+0	NA	Firmicutes	Actinobacteria	Rhizobiales	Moraxellaceae	Stigmatella	Cystobacter fuscus	0	0
+0	NA	Chloroflexi	Alphaproteobacteria	Bacillales	Neisseriaceae	Treponema	Chondromyces crocatus	0	0
+0	NA	Actinobacteria	Betaproteobacteria	Nitrosomonadales	Alcaligenaceae	Achromobacter	Sorangium cellulosum	0	0
+0	NA	Tenericutes	Mollicutes	Desulfuromonadales	Enterobacteriaceae	Alteromonas	Vitreoscilla filiformis	0	0
+0	NA	Proteobacteria	Coriobacteriia	Pseudomonadales	Vibrionaceae	Brucella	Lysobacter enzymogenes	0	0
+0	NA	Firmicutes	Bacilli	Burkholderiales	Pasteurellaceae	Flavobacterium	Simonsiella muelleri	0	0
+0	NA	Chloroflexi	Chlorobia	Micrococcales	Chromatiaceae	Francisella	Gemmata obscuriglobus	0	0
+0	NA	Actinobacteria	Fusobacteriia	Corynebacteriales	Micrococcaceae	Pseudomonas	Borreliella burgdorferi	0	0
+0	NA	Tenericutes	Spirochaetia	Enterobacterales	Streptococcaceae	Xanthomonas	Borrelia turicatae	0	0
+0	NA	Proteobacteria	Gloeobacteria	Methanosarcinales	Corynebacteriaceae	Rhizobium	Brachyspira hyodysenteriae	0	0
+0	NA	Firmicutes	Gammaproteobacteria	Deinococcales	Mycobacteriaceae	Methylobacterium	Azospirillum brasilense	0	0
+0	NA	Chloroflexi	Actinobacteria	Chromatiales	Thermomonosporaceae	Gluconobacter	Azospirillum lipoferum	0	0
+0	NA	Actinobacteria	Alphaproteobacteria	Xanthomonadales	Actinomycetaceae	Acinetobacter	Campylobacter coli	0	0
+0	NA	Tenericutes	Betaproteobacteria	Oceanospirillales	Streptomycetaceae	Neisseria	Campylobacter fetus	0	0
+0	NA	Proteobacteria	Mollicutes	Alteromonadales	Pseudonocardiaceae	Psychrobacter	Campylobacter jejuni	0	0
+0	NA	Firmicutes	Coriobacteriia	Pasteurellales	Micromonosporaceae	Bordetella	Campylobacter concisus	0	0
+0	NA	Chloroflexi	Bacilli	Bacteroidales	Bifidobacteriaceae	Chromobacterium	Campylobacter sputorum	0	0
+0	NA	Actinobacteria	Chlorobia	Clostridiales	Propionibacteriaceae	Citrobacter	Helicobacter pylori	0	0
+0	NA	Tenericutes	Fusobacteriia	Lactobacillales	Veillonellaceae	Enterobacter	Helicobacter cinaedi	0	0
+0	NA	Proteobacteria	Spirochaetia	Flavobacteriales	Rhodobacteraceae	Erwinia	Elizabethkingia meningoseptica	0	0
+0	NA	Firmicutes	Gloeobacteria	Rhodospirillales	Lactobacillaceae	Escherichia	Chryseobacterium indologenes	0	0
+0	NA	Chloroflexi	Gammaproteobacteria	Rhodobacterales	Bradyrhizobiaceae	Klebsiella	Francisella tularensis	0	0
+0	NA	Actinobacteria	Actinobacteria	Sphingomonadales	Rhodospirillaceae	Morganella	Pseudomonas aeruginosa	0	0
+0	NA	Tenericutes	Alphaproteobacteria	Neisseriales	Flavobacteriaceae	Proteus	Burkholderia cepacia	0	0
+0	NA	Proteobacteria	Betaproteobacteria	Rhodocyclales	Phyllobacteriaceae	Salmonella	Pseudomonas fluorescens	0	0
+0	NA	Firmicutes	Mollicutes	Campylobacterales	Caulobacteraceae	Serratia	Pseudomonas mendocina	0	0
+0	NA	Chloroflexi	Coriobacteriia	Gemmatimonadales	Comamonadaceae	Yersinia	Pseudomonas putida	0	0
+0	NA	Actinobacteria	Bacilli	Erysipelotrichales	Nocardiopsaceae	Aeromonas	Ralstonia solanacearum	0	0
+0	NA	Tenericutes	Chlorobia	Cytophagales	Nocardioidaceae	Haemophilus	Pseudomonas stutzeri	0	0
+0	NA	Proteobacteria	Fusobacteriia	Selenomonadales	Dermabacteraceae	Rickettsia	Pseudomonas syringae	0	0
+0	NA	Firmicutes	Spirochaetia	Tissierellales	Microbacteriaceae	Bacteroides	Ralstonia pickettii	0	0
+0	NA	Chloroflexi	Gloeobacteria	Veillonellales	Nocardiaceae	Prevotella	Xanthomonas citri	0	0
+0	NA	Actinobacteria	Gammaproteobacteria	Myxococcales	Gordoniaceae	Selenomonas	Xanthomonas oryzae	0	0
+0	NA	Tenericutes	Actinobacteria	Rhizobiales	Geodermatophilaceae	Capnocytophaga	Agrobacterium tumefaciens	0	0
+0	NA	Proteobacteria	Alphaproteobacteria	Bacillales	Burkholderiaceae	Staphylococcus	Bradyrhizobium japonicum	0	0
+0	NA	Firmicutes	Betaproteobacteria	Nitrosomonadales	Erysipelotrichaceae	Streptococcus	Bradyrhizobium sp.	0	0
+0	NA	Chloroflexi	Mollicutes	Desulfuromonadales	Pseudomonadaceae	Planococcus	Sinorhizobium fredii	0	0
+0	NA	Actinobacteria	Coriobacteriia	Pseudomonadales	Peptostreptococcaceae	Aerococcus	Sinorhizobium meliloti	0	0
+0	NA	Tenericutes	Bacilli	Burkholderiales	Bacillaceae	Gemella	Rhizobium leguminosarum	0	0
+0	NA	Proteobacteria	Chlorobia	Micrococcales	Aerococcaceae	Bacillus	Rhizobium phaseoli	0	0
+0	NA	Firmicutes	Fusobacteriia	Corynebacteriales	Fusobacteriaceae	Clostridium	Acetobacter aceti	0	0
+0	NA	Chloroflexi	Spirochaetia	Enterobacterales	Nitrosomonadaceae	Actinomyces	Gluconobacter oxydans	0	0
+0	NA	Actinobacteria	Gloeobacteria	Methanosarcinales	Hahellaceae	Arthrobacter	Legionella pneumophila	0	0
+0	NA	Tenericutes	Gammaproteobacteria	Deinococcales	Shewanellaceae	Bifidobacterium	Legionella hackeliae	0	0
+0	NA	Proteobacteria	Actinobacteria	Chromatiales	Caldilineaceae	Corynebacterium	Legionella longbeachae	0	0
+0	NA	Firmicutes	Alphaproteobacteria	Xanthomonadales	Orbaceae	Mycobacterium	Tatlockia micdadei	0	0
+0	NA	Chloroflexi	Betaproteobacteria	Oceanospirillales	Peptoniphilaceae	Amycolatopsis	Legionella spiritensis	0	0
+0	NA	Actinobacteria	Mollicutes	Alteromonadales	Atopobiaceae	Nocardia	Acinetobacter baumannii	0	0
+0	NA	Tenericutes	Coriobacteriia	Pasteurellales	Eggerthellaceae	Rhodococcus	Acinetobacter calcoaceticus	0	0
+0	NA	Proteobacteria	Bacilli	Bacteroidales	Microbulbiferaceae	Nocardioides	Moraxella bovis	0	0
+0	NA	Firmicutes	Chlorobia	Clostridiales	Rhodanobacteraceae	Pseudonocardia	Moraxella catarrhalis	0	0
+0	NA	Chloroflexi	Fusobacteriia	Lactobacillales	Morganellaceae	Geodermatophilus	Neisseria cinerea	0	0
+0	NA	Actinobacteria	Spirochaetia	Flavobacteriales	Hungateiclostridiaceae	Actinoplanes	Neisseria gonorrhoeae	0	0
+0	NA	Tenericutes	Gloeobacteria	Rhodospirillales	Spirochaetaceae	Micromonospora	Neisseria lactamica	0	0
+0	NA	Proteobacteria	Gammaproteobacteria	Rhodobacterales	Moraxellaceae	Streptomyces	Neisseria meningitidis	0	0
+0	NA	Firmicutes	Actinobacteria	Sphingomonadales	Neisseriaceae	Nocardiopsis	Neisseria mucosa	0	0
+0	NA	Chloroflexi	Alphaproteobacteria	Neisseriales	Alcaligenaceae	Aeromicrobium	Neisseria polysaccharea	0	0
+0	NA	Actinobacteria	Betaproteobacteria	Rhodocyclales	Enterobacteriaceae	Gordonia	Neisseria sicca	0	0
+0	NA	Tenericutes	Mollicutes	Campylobacterales	Vibrionaceae	Tsukamurella	Neisseria elongata	0	0
+0	NA	Proteobacteria	Coriobacteriia	Gemmatimonadales	Pasteurellaceae	Kitasatospora	Kingella kingae	0	0
+0	NA	Firmicutes	Bacilli	Erysipelotrichales	Chromatiaceae	Mycoplasma	Alcaligenes faecalis	0	0
+0	NA	Chloroflexi	Chlorobia	Cytophagales	Micrococcaceae	Acholeplasma	Bordetella parapertussis	0	0
+0	NA	Actinobacteria	Fusobacteriia	Selenomonadales	Streptococcaceae	Magnetospirillum	Bordetella pertussis	0	0
+0	NA	Tenericutes	Spirochaetia	Tissierellales	Corynebacteriaceae	Sphingomonas	Acidiphilium cryptum	0	0
+0	NA	Proteobacteria	Gloeobacteria	Veillonellales	Mycobacteriaceae	Acidothermus	Ochrobactrum anthropi	0	0
+0	NA	Firmicutes	Gammaproteobacteria	Myxococcales	Thermomonosporaceae	Arcanobacterium	Chromobacterium violaceum	0	0
+0	NA	Chloroflexi	Actinobacteria	Rhizobiales	Actinomycetaceae	Janthinobacterium	Eikenella corrodens	0	0
+0	NA	Actinobacteria	Alphaproteobacteria	Bacillales	Streptomycetaceae	Burkholderia	Citrobacter koseri	0	0
+0	NA	Tenericutes	Betaproteobacteria	Nitrosomonadales	Pseudonocardiaceae	Rothia	Citrobacter freundii	0	0
+0	NA	Proteobacteria	Mollicutes	Desulfuromonadales	Micromonosporaceae	Blastococcus	Klebsiella aerogenes	0	0
+0	NA	Firmicutes	Coriobacteriia	Pseudomonadales	Bifidobacteriaceae	Stenotrophomonas	Pantoea agglomerans	0	0
+0	NA	Chloroflexi	Bacilli	Burkholderiales	Propionibacteriaceae	Actinosynnema	Enterobacter cloacae	0	0
+0	NA	Actinobacteria	Chlorobia	Micrococcales	Veillonellaceae	Brachybacterium	Escherichia coli	0	0
+0	NA	Tenericutes	Fusobacteriia	Corynebacteriales	Rhodobacteraceae	Cyanothece	Hafnia alvei	0	0
+0	NA	Proteobacteria	Spirochaetia	Enterobacterales	Lactobacillaceae	Salinicoccus	Klebsiella oxytoca	0	0
+0	NA	Firmicutes	Gloeobacteria	Methanosarcinales	Bradyrhizobiaceae	Pantoea	Klebsiella pneumoniae	0	0
+0	NA	Chloroflexi	Gammaproteobacteria	Deinococcales	Rhodospirillaceae	Nakamurella	Morganella morganii	0	0
+0	NA	Actinobacteria	Actinobacteria	Chromatiales	Flavobacteriaceae	Dermacoccus	Proteus mirabilis	0	0
+0	NA	Tenericutes	Alphaproteobacteria	Xanthomonadales	Phyllobacteriaceae	Alcanivorax	Proteus vulgaris	0	0
+0	NA	Proteobacteria	Betaproteobacteria	Oceanospirillales	Caulobacteraceae	Borreliella	Providencia rettgeri	0	0
+0	NA	Firmicutes	Mollicutes	Alteromonadales	Comamonadaceae	Actinoalloteichus	Providencia stuartii	0	0
+0	NA	Chloroflexi	Coriobacteriia	Pasteurellales	Nocardiopsaceae	Orientia	Serratia liquefaciens	0	0
+0	NA	Actinobacteria	Bacilli	Bacteroidales	Nocardioidaceae	Cryobacterium	Serratia marcescens	0	0
+0	NA	Tenericutes	Chlorobia	Clostridiales	Dermabacteraceae	Tessaracoccus	Shigella dysenteriae	0	0
+0	NA	Proteobacteria	Fusobacteriia	Lactobacillales	Microbacteriaceae	Pseudoxanthomonas	Xenorhabdus nematophila	0	0
+0	NA	Firmicutes	Spirochaetia	Flavobacteriales	Nocardiaceae	Modestobacter	Yersinia enterocolitica	0	0
+0	NA	Chloroflexi	Gloeobacteria	Rhodospirillales	Gordoniaceae	Collinsella	Yersinia intermedia	0	0
+0	NA	Actinobacteria	Gammaproteobacteria	Rhodobacterales	Geodermatophilaceae	Micropruina	Yersinia pestis	0	0
+0	NA	Tenericutes	Actinobacteria	Sphingomonadales	Burkholderiaceae	Ornithinimicrobium	Edwardsiella tarda	0	0
+0	NA	Proteobacteria	Alphaproteobacteria	Neisseriales	Erysipelotrichaceae	Olsenella	Aeromonas hydrophila	0	0
+0	NA	Firmicutes	Betaproteobacteria	Rhodocyclales	Pseudomonadaceae	Jeotgalibacillus	Aeromonas salmonicida	0	0
+0	NA	Chloroflexi	Mollicutes	Campylobacterales	Peptostreptococcaceae	Anaerococcus	Aeromonas caviae	0	0
+0	NA	Actinobacteria	Coriobacteriia	Gemmatimonadales	Bacillaceae	Tistrella	Aeromonas schubertii	0	0
+0	NA	Tenericutes	Bacilli	Erysipelotrichales	Aerococcaceae	Parvularcula	Aeromonas veronii	0	0
+0	NA	Proteobacteria	Chlorobia	Cytophagales	Fusobacteriaceae	Micavibrio	Vibrio alginolyticus	0	0
+0	NA	Firmicutes	Fusobacteriia	Selenomonadales	Nitrosomonadaceae	Kangiella	Vibrio cholerae	0	0
+0	NA	Chloroflexi	Spirochaetia	Tissierellales	Hahellaceae	Arsenicicoccus	Vibrio harveyi	0	0
+0	NA	Actinobacteria	Gloeobacteria	Veillonellales	Shewanellaceae	Lysinibacillus	Vibrio parahaemolyticus	0	0
+0	NA	Tenericutes	Gammaproteobacteria	Myxococcales	Caldilineaceae	Phytobacter	Vibrio vulnificus	0	0
+0	NA	Proteobacteria	Actinobacteria	Rhizobiales	Orbaceae	Oscillibacter	Vibrio mimicus	0	0
+0	NA	Firmicutes	Alphaproteobacteria	Bacillales	Peptoniphilaceae	Sinomonas	Vibrio campbellii	0	0
+0	NA	Chloroflexi	Betaproteobacteria	Nitrosomonadales	Atopobiaceae	Candidatus Planktophila	Vibrio gazogenes	0	0
+0	NA	Actinobacteria	Mollicutes	Desulfuromonadales	Eggerthellaceae	Gordonibacter	Vibrio natriegens	0	0
+0	NA	Tenericutes	Coriobacteriia	Pseudomonadales	Microbulbiferaceae	Mycobacteroides	Plesiomonas shigelloides	0	0
+0	NA	Proteobacteria	Bacilli	Burkholderiales	Rhodanobacteraceae	Plantactinospora	Aggregatibacter actinomycetemcomitans	0	0
+0	NA	Firmicutes	Chlorobia	Micrococcales	Morganellaceae	Sphingorhabdus	Actinobacillus pleuropneumoniae	0	0
+0	NA	Chloroflexi	Fusobacteriia	Corynebacteriales	Hungateiclostridiaceae	Ezakiella	Actinobacillus suis	0	0
+0	NA	Actinobacteria	Spirochaetia	Enterobacterales	Spirochaetaceae	Aurantimicrobium	Actinobacillus equuli	0	0
+0	NA	Tenericutes	Gloeobacteria	Methanosarcinales	Moraxellaceae	Mycolicibacterium	Haemophilus haemolyticus	0	0
+0	NA	Proteobacteria	Gammaproteobacteria	Deinococcales	Neisseriaceae	Clostridioides	Haemophilus influenzae	0	0
+0	NA	Firmicutes	Actinobacteria	Chromatiales	Alcaligenaceae	Acidipropionibacterium	Haemophilus parainfluenzae	0	0
+0	NA	Chloroflexi	Alphaproteobacteria	Xanthomonadales	Enterobacteriaceae	Cutibacterium	[Haemophilus] ducreyi	0	0
+0	NA	Actinobacteria	Betaproteobacteria	Oceanospirillales	Vibrionaceae	Methylorubrum	Histophilus somni	0	0
+0	NA	Tenericutes	Mollicutes	Alteromonadales	Pasteurellaceae	Methylophilus	Aggregatibacter aphrophilus	0	0
+0	NA	Proteobacteria	Coriobacteriia	Pasteurellales	Chromatiaceae	Stigmatella	Glaesserella parasuis	0	0
+0	NA	Firmicutes	Bacilli	Bacteroidales	Micrococcaceae	Treponema	Pasteurella multocida	0	0
+0	NA	Chloroflexi	Chlorobia	Clostridiales	Streptococcaceae	Achromobacter	Pasteurella dagmatis	0	0
+0	NA	Actinobacteria	Fusobacteriia	Lactobacillales	Corynebacteriaceae	Alteromonas	Coxiella burnetii	0	0
+0	NA	Tenericutes	Spirochaetia	Flavobacteriales	Mycobacteriaceae	Brucella	Orientia tsutsugamushi	0	0
+0	NA	Proteobacteria	Gloeobacteria	Rhodospirillales	Thermomonosporaceae	Flavobacterium	Chlamydia trachomatis	0	0
+0	NA	Firmicutes	Gammaproteobacteria	Rhodobacterales	Actinomycetaceae	Francisella	Bacteroides fragilis	0	0
+0	NA	Chloroflexi	Actinobacteria	Sphingomonadales	Streptomycetaceae	Pseudomonas	Bacteroides thetaiotaomicron	0	0
+0	NA	Actinobacteria	Alphaproteobacteria	Neisseriales	Pseudonocardiaceae	Xanthomonas	Campylobacter gracilis	0	0
+0	NA	Tenericutes	Betaproteobacteria	Rhodocyclales	Micromonosporaceae	Rhizobium	Porphyromonas gingivalis	0	0
+0	NA	Proteobacteria	Mollicutes	Campylobacterales	Bifidobacteriaceae	Methylobacterium	Prevotella ruminicola	0	0
+0	NA	Firmicutes	Coriobacteriia	Gemmatimonadales	Propionibacteriaceae	Gluconobacter	Oxalobacter formigenes	0	0
+0	NA	Chloroflexi	Bacilli	Erysipelotrichales	Veillonellaceae	Acinetobacter	Fusobacterium gonidiaformans	0	0
+0	NA	Actinobacteria	Chlorobia	Cytophagales	Rhodobacteraceae	Neisseria	Fusobacterium nucleatum	0	0
+0	NA	Tenericutes	Fusobacteriia	Selenomonadales	Lactobacillaceae	Psychrobacter	Faecalibacterium prausnitzii	0	0
+0	NA	Proteobacteria	Spirochaetia	Tissierellales	Bradyrhizobiaceae	Bordetella	Fusobacterium varium	0	0
+0	NA	Firmicutes	Gloeobacteria	Veillonellales	Rhodospirillaceae	Chromobacterium	Fusobacterium necrophorum	0	0
+0	NA	Chloroflexi	Gammaproteobacteria	Myxococcales	Flavobacteriaceae	Citrobacter	Fusobacterium periodonticum	0	0
+0	NA	Actinobacteria	Actinobacteria	Rhizobiales	Phyllobacteriaceae	Enterobacter	Fusobacterium ulcerans	0	0
+0	NA	Tenericutes	Alphaproteobacteria	Bacillales	Caulobacteraceae	Erwinia	Desulfovibrio desulfuricans	0	0
+0	NA	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Comamonadaceae	Escherichia	Desulfococcus multivorans	0	0
+0	NA	Firmicutes	Mollicutes	Desulfuromonadales	Nocardiopsaceae	Klebsiella	Desulfovibrio piger	0	0
+0	NA	Chloroflexi	Coriobacteriia	Pseudomonadales	Nocardioidaceae	Morganella	Megasphaera elsdenii	0	0
+0	NA	Actinobacteria	Bacilli	Burkholderiales	Dermabacteraceae	Proteus	Bdellovibrio bacteriovorus	0	0
+0	NA	Tenericutes	Chlorobia	Micrococcales	Microbacteriaceae	Salmonella	Bacteriovorax stolpii	0	0
+0	NA	Proteobacteria	Fusobacteriia	Corynebacteriales	Nocardiaceae	Serratia	Herbaspirillum seropedicae	0	0
+0	NA	Firmicutes	Spirochaetia	Enterobacterales	Gordoniaceae	Yersinia	Cellulophaga lytica	0	0
+0	NA	Chloroflexi	Gloeobacteria	Methanosarcinales	Geodermatophilaceae	Aeromonas	Flavobacterium johnsoniae	0	0
+0	NA	Actinobacteria	Gammaproteobacteria	Deinococcales	Burkholderiaceae	Haemophilus	Flavobacterium columnare	0	0
+0	NA	Tenericutes	Actinobacteria	Chromatiales	Erysipelotrichaceae	Rickettsia	Sphingobacterium mizutaii	0	0
+0	NA	Proteobacteria	Alphaproteobacteria	Xanthomonadales	Pseudomonadaceae	Bacteroides	Capnocytophaga gingivalis	0	0
+0	NA	Firmicutes	Betaproteobacteria	Oceanospirillales	Peptostreptococcaceae	Prevotella	Capnocytophaga sputigena	0	0
+0	NA	Chloroflexi	Mollicutes	Alteromonadales	Bacillaceae	Selenomonas	Rhodobacter sphaeroides	0	0
+0	NA	Actinobacteria	Coriobacteriia	Pasteurellales	Aerococcaceae	Capnocytophaga	Rhodopseudomonas palustris	0	0
+0	NA	Tenericutes	Bacilli	Bacteroidales	Fusobacteriaceae	Staphylococcus	Blastochloris viridis	0	0
+0	NA	Proteobacteria	Chlorobia	Clostridiales	Nitrosomonadaceae	Streptococcus	Piscirickettsia salmonis	0	0
+0	NA	Firmicutes	Fusobacteriia	Lactobacillales	Hahellaceae	Planococcus	Oenococcus oeni	0	0
+0	NA	Chloroflexi	Spirochaetia	Flavobacteriales	Shewanellaceae	Aerococcus	Weissella paramesenteroides	0	0
+0	NA	Actinobacteria	Gloeobacteria	Rhodospirillales	Caldilineaceae	Gemella	Pediococcus acidilactici	0	0
+0	NA	Tenericutes	Gammaproteobacteria	Rhodobacterales	Orbaceae	Bacillus	Finegoldia magna	0	0
+0	NA	Proteobacteria	Actinobacteria	Sphingomonadales	Peptoniphilaceae	Clostridium	Micrococcus luteus	0	0
+0	NA	Firmicutes	Alphaproteobacteria	Neisseriales	Atopobiaceae	Actinomyces	Dermacoccus nishinomiyaensis	0	0
+0	NA	Chloroflexi	Betaproteobacteria	Rhodocyclales	Eggerthellaceae	Arthrobacter	Staphylococcus aureus	0	0
+0	NA	Actinobacteria	Mollicutes	Campylobacterales	Microbulbiferaceae	Bifidobacterium	Staphylococcus carnosus	0	0
+0	NA	Tenericutes	Coriobacteriia	Gemmatimonadales	Rhodanobacteraceae	Corynebacterium	Staphylococcus epidermidis	0	0
+0	NA	Proteobacteria	Bacilli	Erysipelotrichales	Morganellaceae	Mycobacterium	Staphylococcus haemolyticus	0	0
+0	NA	Firmicutes	Chlorobia	Cytophagales	Hungateiclostridiaceae	Amycolatopsis	Staphylococcus simulans	0	0
+0	NA	Chloroflexi	Fusobacteriia	Selenomonadales	Spirochaetaceae	Nocardia	Staphylococcus xylosus	0	0
+0	NA	Actinobacteria	Spirochaetia	Tissierellales	Moraxellaceae	Rhodococcus	Staphylococcus warneri	0	0
+0	NA	Tenericutes	Gloeobacteria	Veillonellales	Neisseriaceae	Nocardioides	Staphylococcus muscae	0	0
+0	NA	Proteobacteria	Gammaproteobacteria	Myxococcales	Alcaligenaceae	Pseudonocardia	Staphylococcus schleiferi	0	0
+0	NA	Firmicutes	Actinobacteria	Rhizobiales	Enterobacteriaceae	Geodermatophilus	Staphylococcus sciuri	0	0
+0	NA	Chloroflexi	Alphaproteobacteria	Bacillales	Vibrionaceae	Actinoplanes	Streptococcus gordonii	0	0
+0	NA	Actinobacteria	Betaproteobacteria	Nitrosomonadales	Pasteurellaceae	Micromonospora	Streptococcus oralis	0	0
+0	NA	Tenericutes	Mollicutes	Desulfuromonadales	Chromatiaceae	Streptomyces	Streptococcus salivarius	0	0
+0	NA	Proteobacteria	Coriobacteriia	Pseudomonadales	Micrococcaceae	Nocardiopsis	Streptococcus sanguinis	0	0
+0	NA	Firmicutes	Bacilli	Burkholderiales	Streptococcaceae	Aeromicrobium	Streptococcus suis	0	0
+0	NA	Chloroflexi	Chlorobia	Micrococcales	Corynebacteriaceae	Gordonia	Streptococcus thermophilus	0	0
+0	NA	Actinobacteria	Fusobacteriia	Corynebacteriales	Mycobacteriaceae	Tsukamurella	Streptococcus mutans	0	0
+0	NA	Tenericutes	Spirochaetia	Enterobacterales	Thermomonosporaceae	Kitasatospora	Streptococcus sobrinus	0	0
+0	NA	Proteobacteria	Gloeobacteria	Methanosarcinales	Actinomycetaceae	Mycoplasma	Streptococcus agalactiae	0	0
+0	NA	Firmicutes	Gammaproteobacteria	Deinococcales	Streptomycetaceae	Acholeplasma	Streptococcus pneumoniae	0	0
+0	NA	Chloroflexi	Actinobacteria	Chromatiales	Pseudonocardiaceae	Magnetospirillum	Streptococcus pyogenes	0	0
+0	NA	Actinobacteria	Alphaproteobacteria	Xanthomonadales	Micromonosporaceae	Sphingomonas	Streptococcus parasanguinis	0	0
+0	NA	Tenericutes	Betaproteobacteria	Oceanospirillales	Bifidobacteriaceae	Acidothermus	Streptococcus sp. 'group B'	0	0
+0	NA	Proteobacteria	Mollicutes	Alteromonadales	Propionibacteriaceae	Arcanobacterium	Streptococcus acidominimus	0	0
+0	NA	Firmicutes	Coriobacteriia	Pasteurellales	Veillonellaceae	Janthinobacterium	Streptococcus anginosus	0	0
+0	NA	Chloroflexi	Bacilli	Bacteroidales	Rhodobacteraceae	Burkholderia	Streptococcus dysgalactiae	0	0
+0	NA	Actinobacteria	Chlorobia	Clostridiales	Lactobacillaceae	Rothia	Streptococcus equinus	0	0
+0	NA	Tenericutes	Fusobacteriia	Lactobacillales	Bradyrhizobiaceae	Blastococcus	Streptococcus intermedius	0	0
+0	NA	Proteobacteria	Spirochaetia	Flavobacteriales	Rhodospirillaceae	Stenotrophomonas	Streptococcus porcinus	0	0
+0	NA	Firmicutes	Gloeobacteria	Rhodospirillales	Flavobacteriaceae	Actinosynnema	Streptococcus uberis	0	0
+0	NA	Chloroflexi	Gammaproteobacteria	Rhodobacterales	Phyllobacteriaceae	Brachybacterium	Enterococcus faecalis	0	0
+0	NA	Actinobacteria	Actinobacteria	Sphingomonadales	Caulobacteraceae	Cyanothece	Enterococcus faecium	0	0
+0	NA	Tenericutes	Alphaproteobacteria	Neisseriales	Comamonadaceae	Salinicoccus	Enterococcus hirae	0	0
+0	NA	Proteobacteria	Betaproteobacteria	Rhodocyclales	Nocardiopsaceae	Pantoea	Lactococcus lactis	0	0
+0	NA	Firmicutes	Mollicutes	Campylobacterales	Nocardioidaceae	Nakamurella	Lactococcus garvieae	0	0
+0	NA	Chloroflexi	Coriobacteriia	Gemmatimonadales	Dermabacteraceae	Dermacoccus	Lactococcus raffinolactis	0	0
+0	NA	Actinobacteria	Bacilli	Erysipelotrichales	Microbacteriaceae	Alcanivorax	Planococcus kocurii	0	0
+0	NA	Tenericutes	Chlorobia	Cytophagales	Nocardiaceae	Borreliella	Aerococcus urinae	0	0
+0	NA	Proteobacteria	Fusobacteriia	Selenomonadales	Gordoniaceae	Actinoalloteichus	Aerococcus viridans	0	0
+0	NA	Firmicutes	Spirochaetia	Tissierellales	Geodermatophilaceae	Orientia	Atopobium parvulum	0	0
+0	NA	Chloroflexi	Gloeobacteria	Veillonellales	Burkholderiaceae	Cryobacterium	Bacillus anthracis	0	0
+0	NA	Actinobacteria	Gammaproteobacteria	Myxococcales	Erysipelotrichaceae	Tessaracoccus	Bacillus cereus	0	0
+0	NA	Tenericutes	Actinobacteria	Rhizobiales	Pseudomonadaceae	Pseudoxanthomonas	Bacillus licheniformis	0	0
+0	NA	Proteobacteria	Alphaproteobacteria	Bacillales	Peptostreptococcaceae	Modestobacter	Bacillus megaterium	0	0
+0	NA	Firmicutes	Betaproteobacteria	Nitrosomonadales	Bacillaceae	Collinsella	Bacillus mycoides	0	0
+0	NA	Chloroflexi	Mollicutes	Desulfuromonadales	Aerococcaceae	Micropruina	Paenibacillus polymyxa	0	0
+0	NA	Actinobacteria	Coriobacteriia	Pseudomonadales	Fusobacteriaceae	Ornithinimicrobium	Bacillus pumilus	0	0
+0	NA	Tenericutes	Bacilli	Burkholderiales	Nitrosomonadaceae	Olsenella	Lysinibacillus sphaericus	0	0
+0	NA	Proteobacteria	Chlorobia	Micrococcales	Hahellaceae	Jeotgalibacillus	Bacillus subtilis	0	0
+0	NA	Firmicutes	Fusobacteriia	Corynebacteriales	Shewanellaceae	Anaerococcus	Parageobacillus thermoglucosidasius	0	0
+0	NA	Chloroflexi	Spirochaetia	Enterobacterales	Caldilineaceae	Tistrella	Bacillus thuringiensis	0	0
+0	NA	Actinobacteria	Gloeobacteria	Methanosarcinales	Orbaceae	Parvularcula	Paenibacillus larvae	0	0
+0	NA	Tenericutes	Gammaproteobacteria	Deinococcales	Peptoniphilaceae	Micavibrio	Brevibacillus laterosporus	0	0
+0	NA	Proteobacteria	Actinobacteria	Chromatiales	Atopobiaceae	Kangiella	Bacillus lentus	0	0
+0	NA	Firmicutes	Alphaproteobacteria	Xanthomonadales	Eggerthellaceae	Arsenicicoccus	Virgibacillus pantothenticus	0	0
+0	NA	Chloroflexi	Betaproteobacteria	Oceanospirillales	Microbulbiferaceae	Lysinibacillus	Sporosarcina psychrophila	0	0
+0	NA	Actinobacteria	Mollicutes	Alteromonadales	Rhodanobacteraceae	Phytobacter	Bacillus simplex	0	0
+0	NA	Tenericutes	Coriobacteriia	Pasteurellales	Morganellaceae	Oscillibacter	Virgibacillus halodenitrificans	0	0
+0	NA	Proteobacteria	Bacilli	Bacteroidales	Hungateiclostridiaceae	Sinomonas	Clostridium botulinum	0	0
+0	NA	Firmicutes	Chlorobia	Clostridiales	Spirochaetaceae	Candidatus Planktophila	Clostridium butyricum	0	0
+0	NA	Chloroflexi	Fusobacteriia	Lactobacillales	Moraxellaceae	Gordonibacter	Clostridium cochlearium	0	0
+0	NA	Actinobacteria	Spirochaetia	Flavobacteriales	Neisseriaceae	Mycobacteroides	Clostridioides difficile	0	0
+0	NA	Tenericutes	Gloeobacteria	Rhodospirillales	Alcaligenaceae	Plantactinospora	Clostridium formicaceticum	0	0
+0	NA	Proteobacteria	Gammaproteobacteria	Rhodobacterales	Enterobacteriaceae	Sphingorhabdus	Clostridium pasteurianum	0	0
+0	NA	Firmicutes	Actinobacteria	Sphingomonadales	Vibrionaceae	Ezakiella	Clostridium perfringens	0	0
+0	NA	Chloroflexi	Alphaproteobacteria	Neisseriales	Pasteurellaceae	Aurantimicrobium	Paeniclostridium sordellii	0	0
+0	NA	Actinobacteria	Betaproteobacteria	Rhodocyclales	Chromatiaceae	Mycolicibacterium	Clostridium sporogenes	0	0
+0	NA	Tenericutes	Mollicutes	Campylobacterales	Micrococcaceae	Clostridioides	Acetoanaerobium sticklandii	0	0
+0	NA	Proteobacteria	Coriobacteriia	Gemmatimonadales	Streptococcaceae	Acidipropionibacterium	Clostridium tyrobutyricum	0	0
+0	NA	Firmicutes	Bacilli	Erysipelotrichales	Corynebacteriaceae	Cutibacterium	Clostridium beijerinckii	0	0
+0	NA	Chloroflexi	Chlorobia	Cytophagales	Mycobacteriaceae	Methylorubrum	Moorella thermoacetica	0	0
+0	NA	Actinobacteria	Fusobacteriia	Selenomonadales	Thermomonosporaceae	Methylophilus	Clostridium kluyveri	0	0
+0	NA	Tenericutes	Spirochaetia	Tissierellales	Actinomycetaceae	Stigmatella	Clostridium scatologenes	0	0
+0	NA	Proteobacteria	Gloeobacteria	Veillonellales	Streptomycetaceae	Treponema	Clostridium baratii	0	0
+0	NA	Firmicutes	Gammaproteobacteria	Myxococcales	Pseudonocardiaceae	Achromobacter	Halobacillus halophilus	0	0
+0	NA	Chloroflexi	Actinobacteria	Rhizobiales	Micromonosporaceae	Alteromonas	Sporosarcina ureae	0	0
+0	NA	Actinobacteria	Alphaproteobacteria	Bacillales	Bifidobacteriaceae	Brucella	Leifsonia xyli	0	0
+0	NA	Tenericutes	Betaproteobacteria	Nitrosomonadales	Propionibacteriaceae	Flavobacterium	Lactobacillus acidophilus	0	0
+0	NA	Proteobacteria	Mollicutes	Desulfuromonadales	Veillonellaceae	Francisella	Lactobacillus brevis	0	0
+0	NA	Firmicutes	Coriobacteriia	Pseudomonadales	Rhodobacteraceae	Pseudomonas	Lactobacillus casei	0	0
+0	NA	Chloroflexi	Bacilli	Burkholderiales	Lactobacillaceae	Xanthomonas	Lactobacillus helveticus	0	0
+0	NA	Actinobacteria	Chlorobia	Micrococcales	Bradyrhizobiaceae	Rhizobium	Lactobacillus pentosus	0	0
+0	NA	Tenericutes	Fusobacteriia	Corynebacteriales	Rhodospirillaceae	Methylobacterium	Lactobacillus plantarum	0	0
+0	NA	Proteobacteria	Spirochaetia	Enterobacterales	Flavobacteriaceae	Gluconobacter	Lactobacillus paracasei	0	0
+0	NA	Firmicutes	Gloeobacteria	Methanosarcinales	Phyllobacteriaceae	Acinetobacter	Lactobacillus reuteri	0	0
+0	NA	Chloroflexi	Gammaproteobacteria	Deinococcales	Caulobacteraceae	Neisseria	Lactobacillus sakei	0	0
+0	NA	Actinobacteria	Actinobacteria	Chromatiales	Comamonadaceae	Psychrobacter	Lactobacillus agilis	0	0
+0	NA	Tenericutes	Alphaproteobacteria	Xanthomonadales	Nocardiopsaceae	Bordetella	Lactobacillus murinus	0	0
+0	NA	Proteobacteria	Betaproteobacteria	Oceanospirillales	Nocardioidaceae	Chromobacterium	Lactobacillus salivarius	0	0
+0	NA	Firmicutes	Mollicutes	Alteromonadales	Dermabacteraceae	Citrobacter	Listeria ivanovii	0	0
+0	NA	Chloroflexi	Coriobacteriia	Pasteurellales	Microbacteriaceae	Enterobacter	Listeria monocytogenes	0	0
+0	NA	Actinobacteria	Bacilli	Bacteroidales	Nocardiaceae	Erwinia	Listeria welshimeri	0	0
+0	NA	Tenericutes	Chlorobia	Clostridiales	Gordoniaceae	Escherichia	Renibacterium salmoninarum	0	0
+0	NA	Proteobacteria	Fusobacteriia	Lactobacillales	Geodermatophilaceae	Klebsiella	Erysipelothrix rhusiopathiae	0	0
+0	NA	Firmicutes	Spirochaetia	Flavobacteriales	Burkholderiaceae	Morganella	Trueperella pyogenes	0	0
+0	NA	Chloroflexi	Gloeobacteria	Rhodospirillales	Erysipelotrichaceae	Proteus	Bifidobacterium adolescentis	0	0
+0	NA	Actinobacteria	Gammaproteobacteria	Rhodobacterales	Pseudomonadaceae	Salmonella	Bifidobacterium bifidum	0	0
+0	NA	Tenericutes	Actinobacteria	Sphingomonadales	Peptostreptococcaceae	Serratia	Bifidobacterium angulatum	0	0
+0	NA	Proteobacteria	Alphaproteobacteria	Neisseriales	Bacillaceae	Yersinia	Bifidobacterium breve	0	0
+0	NA	Firmicutes	Betaproteobacteria	Rhodocyclales	Aerococcaceae	Aeromonas	Bifidobacterium coryneforme	0	0
+0	NA	Chloroflexi	Mollicutes	Campylobacterales	Fusobacteriaceae	Haemophilus	Bifidobacterium pseudolongum	0	0
+0	NA	Actinobacteria	Coriobacteriia	Gemmatimonadales	Nitrosomonadaceae	Rickettsia	Corynebacterium ammoniagenes	0	0
+0	NA	Tenericutes	Bacilli	Erysipelotrichales	Hahellaceae	Bacteroides	Brevibacterium linens	0	0
+0	NA	Proteobacteria	Chlorobia	Cytophagales	Shewanellaceae	Prevotella	Corynebacterium stationis	0	0
+0	NA	Firmicutes	Fusobacteriia	Selenomonadales	Caldilineaceae	Selenomonas	Cellulosimicrobium cellulans	0	0
+0	NA	Chloroflexi	Spirochaetia	Tissierellales	Orbaceae	Capnocytophaga	Corynebacterium diphtheriae	0	0
+0	NA	Actinobacteria	Gloeobacteria	Veillonellales	Peptoniphilaceae	Staphylococcus	Corynebacterium glutamicum	0	0
+0	NA	Tenericutes	Gammaproteobacteria	Myxococcales	Atopobiaceae	Streptococcus	Corynebacterium pseudotuberculosis	0	0
+0	NA	Proteobacteria	Actinobacteria	Rhizobiales	Eggerthellaceae	Planococcus	Corynebacterium renale	0	0
+0	NA	Firmicutes	Alphaproteobacteria	Bacillales	Microbulbiferaceae	Aerococcus	Eubacterium limosum	0	0
+0	NA	Chloroflexi	Betaproteobacteria	Nitrosomonadales	Rhodanobacteraceae	Gemella	Propionibacterium freudenreichii	0	0
+0	NA	Actinobacteria	Mollicutes	Desulfuromonadales	Morganellaceae	Bacillus	Cutibacterium acnes	0	0
+0	NA	Tenericutes	Coriobacteriia	Pseudomonadales	Hungateiclostridiaceae	Clostridium	Acidipropionibacterium acidipropionici	0	0
+0	NA	Proteobacteria	Bacilli	Burkholderiales	Spirochaetaceae	Actinomyces	Pseudopropionibacterium propionicum	0	0
+0	NA	Firmicutes	Chlorobia	Micrococcales	Moraxellaceae	Arthrobacter	Mycobacterium avium	0	0
+0	NA	Chloroflexi	Fusobacteriia	Corynebacteriales	Neisseriaceae	Bifidobacterium	Mycolicibacterium fortuitum	0	0
+0	NA	Actinobacteria	Spirochaetia	Enterobacterales	Alcaligenaceae	Corynebacterium	Mycobacterium intracellulare	0	0
+0	NA	Tenericutes	Gloeobacteria	Methanosarcinales	Enterobacteriaceae	Mycobacterium	Mycobacterium leprae	0	0
+0	NA	Proteobacteria	Gammaproteobacteria	Deinococcales	Vibrionaceae	Amycolatopsis	Mycolicibacterium phlei	0	0
+0	NA	Firmicutes	Actinobacteria	Chromatiales	Pasteurellaceae	Nocardia	Mycolicibacterium smegmatis	0	0
+0	NA	Chloroflexi	Alphaproteobacteria	Xanthomonadales	Chromatiaceae	Rhodococcus	Mycobacterium tuberculosis	0	0
+0	NA	Actinobacteria	Betaproteobacteria	Oceanospirillales	Micrococcaceae	Nocardioides	Mycobacteroides chelonae	0	0
+0	NA	Tenericutes	Mollicutes	Alteromonadales	Streptococcaceae	Pseudonocardia	Mycobacterium marinum	0	0
+0	NA	Proteobacteria	Coriobacteriia	Pasteurellales	Corynebacteriaceae	Geodermatophilus	Mycolicibacterium aurum	0	0
+0	NA	Firmicutes	Bacilli	Bacteroidales	Mycobacteriaceae	Actinoplanes	Mycolicibacterium neoaurum	0	0
+0	NA	Chloroflexi	Chlorobia	Clostridiales	Thermomonosporaceae	Micromonospora	Mycolicibacterium thermoresistibile	0	0
+0	NA	Actinobacteria	Fusobacteriia	Lactobacillales	Actinomycetaceae	Streptomyces	Rhodococcus rhodochrous	0	0
+0	NA	Tenericutes	Spirochaetia	Flavobacteriales	Streptomycetaceae	Nocardiopsis	Rhodococcus ruber	0	0
+0	NA	Proteobacteria	Gloeobacteria	Rhodospirillales	Pseudonocardiaceae	Aeromicrobium	Rhodococcus erythropolis	0	0
+0	NA	Firmicutes	Gammaproteobacteria	Rhodobacterales	Micromonosporaceae	Gordonia	Saccharopolyspora erythraea	0	0
+0	NA	Chloroflexi	Actinobacteria	Sphingomonadales	Bifidobacteriaceae	Tsukamurella	Frankia alni	0	0
+0	NA	Actinobacteria	Alphaproteobacteria	Neisseriales	Propionibacteriaceae	Kitasatospora	Geodermatophilus obscurus	0	0
+0	NA	Tenericutes	Betaproteobacteria	Rhodocyclales	Veillonellaceae	Mycoplasma	Dermatophilus congolensis	0	0
+0	NA	Proteobacteria	Mollicutes	Campylobacterales	Rhodobacteraceae	Acholeplasma	Streptomyces actuosus	0	0
+0	NA	Firmicutes	Coriobacteriia	Gemmatimonadales	Lactobacillaceae	Magnetospirillum	Streptomyces albus	0	0
+0	NA	Chloroflexi	Bacilli	Erysipelotrichales	Bradyrhizobiaceae	Sphingomonas	Streptomyces ambofaciens	0	0
+0	NA	Actinobacteria	Chlorobia	Cytophagales	Rhodospirillaceae	Acidothermus	Streptomyces atratus	0	0
+0	NA	Tenericutes	Fusobacteriia	Selenomonadales	Flavobacteriaceae	Arcanobacterium	Kitasatospora aureofaciens	0	0
+0	NA	Proteobacteria	Spirochaetia	Tissierellales	Phyllobacteriaceae	Janthinobacterium	Streptomyces clavuligerus	0	0
+0	NA	Firmicutes	Gloeobacteria	Veillonellales	Caulobacteraceae	Burkholderia	Streptomyces glaucescens	0	0
+0	NA	Chloroflexi	Gammaproteobacteria	Myxococcales	Comamonadaceae	Rothia	Streptomyces globisporus	0	0
+0	NA	Actinobacteria	Actinobacteria	Rhizobiales	Nocardiopsaceae	Blastococcus	Streptomyces hygroscopicus	0	0
+0	NA	Tenericutes	Alphaproteobacteria	Bacillales	Nocardioidaceae	Stenotrophomonas	Streptomyces lincolnensis	0	0
+0	NA	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Dermabacteraceae	Actinosynnema	Streptomyces reticuli	0	0
+0	NA	Firmicutes	Mollicutes	Desulfuromonadales	Microbacteriaceae	Brachybacterium	Streptomyces violaceoruber	0	0
+0	NA	Chloroflexi	Coriobacteriia	Pseudomonadales	Nocardiaceae	Cyanothece	Streptomyces chartreusis	0	0
+0	NA	Actinobacteria	Bacilli	Burkholderiales	Gordoniaceae	Salinicoccus	Nocardiopsis dassonvillei	0	0
+0	NA	Tenericutes	Chlorobia	Micrococcales	Geodermatophilaceae	Pantoea	Aeromicrobium erythreum	0	0
+0	NA	Proteobacteria	Fusobacteriia	Corynebacteriales	Burkholderiaceae	Nakamurella	Pimelobacter simplex	0	0
+0	NA	Firmicutes	Spirochaetia	Enterobacterales	Erysipelotrichaceae	Dermacoccus	Rothia dentocariosa	0	0
+0	NA	Chloroflexi	Gloeobacteria	Methanosarcinales	Pseudomonadaceae	Alcanivorax	Gordonia terrae	0	0
+0	NA	Actinobacteria	Gammaproteobacteria	Deinococcales	Peptostreptococcaceae	Borreliella	Kitasatospora setae	0	0
+0	NA	Tenericutes	Actinobacteria	Chromatiales	Bacillaceae	Actinoalloteichus	Mycoplasma arginini	0	0
+0	NA	Proteobacteria	Alphaproteobacteria	Xanthomonadales	Aerococcaceae	Orientia	Mycoplasma capricolum	0	0
+0	NA	Firmicutes	Betaproteobacteria	Oceanospirillales	Fusobacteriaceae	Cryobacterium	Mycoplasma hominis	0	0
+0	NA	Chloroflexi	Mollicutes	Alteromonadales	Nitrosomonadaceae	Tessaracoccus	Mycoplasma hyopneumoniae	0	0
+0	NA	Actinobacteria	Coriobacteriia	Pasteurellales	Hahellaceae	Pseudoxanthomonas	Mycoplasma hyorhinis	0	0
+0	NA	Tenericutes	Bacilli	Bacteroidales	Shewanellaceae	Modestobacter	Mycoplasma mycoides	0	0
+0	NA	Proteobacteria	Chlorobia	Clostridiales	Caldilineaceae	Collinsella	Mycoplasma synoviae	0	0
+0	NA	Firmicutes	Fusobacteriia	Lactobacillales	Orbaceae	Micropruina	Mycoplasma agalactiae	0	0
+0	NA	Chloroflexi	Spirochaetia	Flavobacteriales	Peptoniphilaceae	Ornithinimicrobium	Mycoplasma bovigenitalium	0	0
+0	NA	Actinobacteria	Gloeobacteria	Rhodospirillales	Atopobiaceae	Olsenella	Spiroplasma citri	0	0
+0	NA	Tenericutes	Gammaproteobacteria	Rhodobacterales	Eggerthellaceae	Jeotgalibacillus	Spiroplasma taiwanense	0	0
+0	NA	Proteobacteria	Actinobacteria	Sphingomonadales	Microbulbiferaceae	Anaerococcus	Mesoplasma entomophilum	0	0
+0	NA	Firmicutes	Alphaproteobacteria	Neisseriales	Rhodanobacteraceae	Tistrella	Mesoplasma florum	0	0
+0	NA	Chloroflexi	Betaproteobacteria	Rhodocyclales	Morganellaceae	Parvularcula	Methanobacterium formicicum	0	0
+0	NA	Actinobacteria	Mollicutes	Campylobacterales	Hungateiclostridiaceae	Micavibrio	Methanobrevibacter smithii	0	0
+0	NA	Tenericutes	Coriobacteriia	Gemmatimonadales	Spirochaetaceae	Kangiella	Sulfolobus solfataricus	0	0
+0	NA	Proteobacteria	Bacilli	Erysipelotrichales	Moraxellaceae	Arsenicicoccus	Thermoanaerobacter kivui	0	0
+0	NA	Firmicutes	Chlorobia	Cytophagales	Neisseriaceae	Lysinibacillus	Xylella fastidiosa	0	0
+0	NA	Chloroflexi	Fusobacteriia	Selenomonadales	Alcaligenaceae	Phytobacter	Gardnerella vaginalis	0	0
+0	NA	Actinobacteria	Spirochaetia	Tissierellales	Enterobacteriaceae	Oscillibacter	Homo sapiens	0	0
+0	NA	Tenericutes	Gloeobacteria	Veillonellales	Vibrionaceae	Sinomonas	Orf virus	0	0
+0	NA	Proteobacteria	Gammaproteobacteria	Myxococcales	Pasteurellaceae	Candidatus Planktophila	Choristoneura biennis entomopoxvirus	0	0
+0	NA	Firmicutes	Actinobacteria	Rhizobiales	Chromatiaceae	Gordonibacter	Human gammaherpesvirus 4	0	0
+0	NA	Chloroflexi	Alphaproteobacteria	Bacillales	Micrococcaceae	Mycobacteroides	Burkholderia mallei	0	0
+0	NA	Actinobacteria	Betaproteobacteria	Nitrosomonadales	Streptococcaceae	Plantactinospora	Sphingobium yanoikuyae	0	0
+0	NA	Tenericutes	Mollicutes	Desulfuromonadales	Corynebacteriaceae	Sphingorhabdus	Bifidobacterium animalis	0	0
+0	NA	Proteobacteria	Coriobacteriia	Pseudomonadales	Mycobacteriaceae	Ezakiella	Corynebacterium flavescens	0	0
+0	NA	Firmicutes	Bacilli	Burkholderiales	Thermomonosporaceae	Aurantimicrobium	Staphylococcus lugdunensis	0	0
+0	NA	Chloroflexi	Chlorobia	Micrococcales	Actinomycetaceae	Mycolicibacterium	Streptococcus mitis	0	0
+0	NA	Actinobacteria	Fusobacteriia	Corynebacteriales	Streptomycetaceae	Clostridioides	Rubrivivax gelatinosus	0	0
+0	NA	Tenericutes	Spirochaetia	Enterobacterales	Pseudonocardiaceae	Acidipropionibacterium	Neisseria weaveri	0	0
+0	NA	Proteobacteria	Gloeobacteria	Methanosarcinales	Micromonosporaceae	Cutibacterium	Burkholderia gladioli	0	0
+0	NA	Firmicutes	Gammaproteobacteria	Deinococcales	Bifidobacteriaceae	Methylorubrum	Alteromonas macleodii	0	0
+0	NA	Chloroflexi	Actinobacteria	Chromatiales	Propionibacteriaceae	Methylophilus	Francisella philomiragia	0	0
+0	NA	Actinobacteria	Alphaproteobacteria	Xanthomonadales	Veillonellaceae	Stigmatella	Bacteroides heparinolyticus	0	0
+0	NA	Tenericutes	Betaproteobacteria	Oceanospirillales	Rhodobacteraceae	Treponema	Bacteroides ovatus	0	0
+0	NA	Proteobacteria	Mollicutes	Alteromonadales	Lactobacillaceae	Achromobacter	Odoribacter splanchnicus	0	0
+0	NA	Firmicutes	Coriobacteriia	Pasteurellales	Bradyrhizobiaceae	Alteromonas	Bacteroides zoogleoformans	0	0
+0	NA	Chloroflexi	Bacilli	Bacteroidales	Rhodospirillaceae	Brucella	Prevotella denticola	0	0
+0	NA	Actinobacteria	Chlorobia	Clostridiales	Flavobacteriaceae	Flavobacterium	Prevotella intermedia	0	0
+0	NA	Tenericutes	Fusobacteriia	Lactobacillales	Phyllobacteriaceae	Francisella	Prevotella melaninogenica	0	0
+0	NA	Proteobacteria	Spirochaetia	Flavobacteriales	Caulobacteraceae	Pseudomonas	Cronobacter sakazakii	0	0
+0	NA	Firmicutes	Gloeobacteria	Rhodospirillales	Comamonadaceae	Xanthomonas	Yersinia kristensenii	0	0
+0	NA	Chloroflexi	Gammaproteobacteria	Rhodobacterales	Nocardiopsaceae	Rhizobium	Vibrio nigripulchritudo	0	0
+0	NA	Actinobacteria	Actinobacteria	Sphingomonadales	Nocardioidaceae	Methylobacterium	Capnocytophaga canimorsus	0	0
+0	NA	Tenericutes	Alphaproteobacteria	Neisseriales	Dermabacteraceae	Gluconobacter	Capnocytophaga cynodegmi	0	0
+0	NA	Proteobacteria	Betaproteobacteria	Rhodocyclales	Microbacteriaceae	Acinetobacter	Aliiarcobacter butzleri	0	0
+0	NA	Firmicutes	Mollicutes	Campylobacterales	Nocardiaceae	Neisseria	Ornithobacterium rhinotracheale	0	0
+0	NA	Chloroflexi	Coriobacteriia	Gemmatimonadales	Gordoniaceae	Psychrobacter	Cobetia marina	0	0
+0	NA	Actinobacteria	Bacilli	Erysipelotrichales	Geodermatophilaceae	Bordetella	Arcanobacterium haemolyticum	0	0
+0	NA	Tenericutes	Chlorobia	Cytophagales	Burkholderiaceae	Chromobacterium	Komagataeibacter xylinus	0	0
+0	NA	Proteobacteria	Fusobacteriia	Selenomonadales	Erysipelotrichaceae	Citrobacter	Neisseria subflava	0	0
+0	NA	Firmicutes	Spirochaetia	Tissierellales	Pseudomonadaceae	Enterobacter	Burkholderia pseudomallei	0	0
+0	NA	Chloroflexi	Gloeobacteria	Veillonellales	Peptostreptococcaceae	Erwinia	Salmonella enterica	0	0
+0	NA	Actinobacteria	Gammaproteobacteria	Myxococcales	Bacillaceae	Escherichia	Clostridium argentinense	0	0
+0	NA	Tenericutes	Actinobacteria	Rhizobiales	Aerococcaceae	Klebsiella	[Clostridium] cellulosi	0	0
+0	NA	Proteobacteria	Alphaproteobacteria	Bacillales	Fusobacteriaceae	Morganella	Staphylococcus auricularis	0	0
+0	NA	Firmicutes	Betaproteobacteria	Nitrosomonadales	Nitrosomonadaceae	Proteus	Staphylococcus cohnii	0	0
+0	NA	Chloroflexi	Mollicutes	Desulfuromonadales	Hahellaceae	Salmonella	Staphylococcus kloosii	0	0
+0	NA	Actinobacteria	Coriobacteriia	Pseudomonadales	Shewanellaceae	Serratia	Staphylococcus saprophyticus	0	0
+0	NA	Tenericutes	Bacilli	Burkholderiales	Caldilineaceae	Yersinia	Staphylococcus capitis	0	0
+0	NA	Proteobacteria	Chlorobia	Micrococcales	Orbaceae	Aeromonas	Gemella morbillorum	0	0
+0	NA	Firmicutes	Fusobacteriia	Corynebacteriales	Peptoniphilaceae	Haemophilus	Microlunatus phosphovorus	0	0
+0	NA	Chloroflexi	Spirochaetia	Enterobacterales	Atopobiaceae	Rickettsia	Acinetobacter haemolyticus	0	0
+0	NA	Actinobacteria	Gloeobacteria	Methanosarcinales	Eggerthellaceae	Bacteroides	Moraxella ovis	0	0
+0	NA	Tenericutes	Gammaproteobacteria	Deinococcales	Microbulbiferaceae	Prevotella	Veillonella parvula	0	0
+0	NA	Proteobacteria	Actinobacteria	Chromatiales	Rhodanobacteraceae	Selenomonas	Pectobacterium atrosepticum	0	0
+0	NA	Firmicutes	Alphaproteobacteria	Xanthomonadales	Morganellaceae	Capnocytophaga	Yersinia frederiksenii	0	0
+0	NA	Chloroflexi	Betaproteobacteria	Oceanospirillales	Hungateiclostridiaceae	Staphylococcus	Photorhabdus luminescens	0	0
+0	NA	Actinobacteria	Mollicutes	Alteromonadales	Spirochaetaceae	Streptococcus	Vibrio splendidus	0	0
+0	NA	Tenericutes	Coriobacteriia	Pasteurellales	Moraxellaceae	Planococcus	Borreliella garinii	0	0
+0	NA	Proteobacteria	Bacilli	Bacteroidales	Neisseriaceae	Aerococcus	Pelobacter acetylenicus	0	0
+0	NA	Firmicutes	Chlorobia	Clostridiales	Alcaligenaceae	Gemella	Mycoplasma canis	0	0
+0	NA	Chloroflexi	Fusobacteriia	Lactobacillales	Enterobacteriaceae	Bacillus	Taylorella equigenitalis	0	0
+0	NA	Actinobacteria	Spirochaetia	Flavobacteriales	Vibrionaceae	Clostridium	Amycolatopsis orientalis	0	0
+0	NA	Tenericutes	Gloeobacteria	Rhodospirillales	Pasteurellaceae	Actinomyces	Achromobacter denitrificans	0	0
+0	NA	Proteobacteria	Gammaproteobacteria	Rhodobacterales	Chromatiaceae	Arthrobacter	synthetic construct	0	0
+0	NA	Firmicutes	Actinobacteria	Sphingomonadales	Micrococcaceae	Bifidobacterium	Cutibacterium avidum	0	0
+0	NA	Chloroflexi	Alphaproteobacteria	Neisseriales	Streptococcaceae	Corynebacterium	Cutibacterium granulosum	0	0
+0	NA	Actinobacteria	Betaproteobacteria	Rhodocyclales	Corynebacteriaceae	Mycobacterium	Parvimonas micra	0	0
+0	NA	Tenericutes	Mollicutes	Campylobacterales	Mycobacteriaceae	Amycolatopsis	Acidithiobacillus caldus	0	0
+0	NA	Proteobacteria	Coriobacteriia	Gemmatimonadales	Thermomonosporaceae	Nocardia	Pseudomonas viridiflava	0	0
+0	NA	Firmicutes	Bacilli	Erysipelotrichales	Actinomycetaceae	Rhodococcus	Acidobacterium capsulatum	0	0
+0	NA	Chloroflexi	Chlorobia	Cytophagales	Streptomycetaceae	Nocardioides	Rathayibacter tritici	0	0
+0	NA	Actinobacteria	Fusobacteriia	Selenomonadales	Pseudonocardiaceae	Pseudonocardia	Amycolatopsis mediterranei	0	0
+0	NA	Tenericutes	Spirochaetia	Tissierellales	Micromonosporaceae	Geodermatophilus	Bacillus cohnii	0	0
+0	NA	Proteobacteria	Gloeobacteria	Veillonellales	Bifidobacteriaceae	Actinoplanes	Anoxybacillus flavithermus	0	0
+0	NA	Firmicutes	Gammaproteobacteria	Myxococcales	Propionibacteriaceae	Micromonospora	Aeribacillus pallidus	0	0
+0	NA	Chloroflexi	Actinobacteria	Rhizobiales	Veillonellaceae	Streptomyces	Geobacillus thermodenitrificans	0	0
+0	NA	Actinobacteria	Alphaproteobacteria	Bacillales	Rhodobacteraceae	Nocardiopsis	Geobacillus thermoleovorans	0	0
+0	NA	Tenericutes	Betaproteobacteria	Nitrosomonadales	Lactobacillaceae	Aeromicrobium	Lactobacillus johnsonii	0	0
+0	NA	Proteobacteria	Mollicutes	Desulfuromonadales	Bradyrhizobiaceae	Gordonia	Rickettsia bellii	0	0
+0	NA	Firmicutes	Coriobacteriia	Pseudomonadales	Rhodospirillaceae	Tsukamurella	Komagataeibacter europaeus	0	0
+0	NA	Chloroflexi	Bacilli	Burkholderiales	Flavobacteriaceae	Kitasatospora	Paracoccus aminophilus	0	0
+0	NA	Actinobacteria	Chlorobia	Micrococcales	Phyllobacteriaceae	Mycoplasma	Paracoccus aminovorans	0	0
+0	NA	Tenericutes	Fusobacteriia	Corynebacteriales	Caulobacteraceae	Acholeplasma	Rhodospirillum centenum	0	0
+0	NA	Proteobacteria	Spirochaetia	Enterobacterales	Comamonadaceae	Magnetospirillum	Rahnella aquatilis	0	0
+0	NA	Firmicutes	Gloeobacteria	Methanosarcinales	Nocardiopsaceae	Sphingomonas	Moraxella osloensis	0	0
+0	NA	Chloroflexi	Gammaproteobacteria	Deinococcales	Nocardioidaceae	Acidothermus	Riemerella anatipestifer	0	0
+0	NA	Actinobacteria	Actinobacteria	Chromatiales	Dermabacteraceae	Arcanobacterium	Streptobacillus moniliformis	0	0
+0	NA	Tenericutes	Alphaproteobacteria	Xanthomonadales	Microbacteriaceae	Janthinobacterium	Geobacter sulfurreducens	0	0
+0	NA	Proteobacteria	Betaproteobacteria	Oceanospirillales	Nocardiaceae	Burkholderia	Acholeplasma oculi	0	0
+0	NA	Firmicutes	Mollicutes	Alteromonadales	Gordoniaceae	Rothia	Corynebacterium cystitidis	0	0
+0	NA	Chloroflexi	Coriobacteriia	Pasteurellales	Geodermatophilaceae	Blastococcus	Bifidobacterium choerinum	0	0
+0	NA	Actinobacteria	Bacilli	Bacteroidales	Burkholderiaceae	Stenotrophomonas	Rhodovulum sulfidophilum	0	0
+0	NA	Tenericutes	Chlorobia	Clostridiales	Erysipelotrichaceae	Actinosynnema	Bacillus thermoamylovorans	0	0
+0	NA	Proteobacteria	Fusobacteriia	Lactobacillales	Pseudomonadaceae	Brachybacterium	Lymphocystis disease virus 1	0	0
+0	NA	Firmicutes	Spirochaetia	Flavobacteriales	Peptostreptococcaceae	Cyanothece	Clostridium saccharoperbutylacetonicum	0	0
+0	NA	Chloroflexi	Gloeobacteria	Rhodospirillales	Bacillaceae	Salinicoccus	Microbacterium aurum	0	0
+0	NA	Actinobacteria	Gammaproteobacteria	Rhodobacterales	Aerococcaceae	Pantoea	Mycobacteroides abscessus	0	0
+0	NA	Tenericutes	Actinobacteria	Sphingomonadales	Fusobacteriaceae	Nakamurella	Gordonia rubripertincta	0	0
+0	NA	Proteobacteria	Alphaproteobacteria	Neisseriales	Nitrosomonadaceae	Dermacoccus	Nocardia brasiliensis	0	0
+0	NA	Firmicutes	Betaproteobacteria	Rhodocyclales	Hahellaceae	Alcanivorax	Nocardia farcinica	0	0
+0	NA	Chloroflexi	Mollicutes	Campylobacterales	Shewanellaceae	Borreliella	Nocardia seriolae	0	0
+0	NA	Actinobacteria	Coriobacteriia	Gemmatimonadales	Caldilineaceae	Actinoalloteichus	Rhodococcus opacus	0	0
+0	NA	Tenericutes	Bacilli	Erysipelotrichales	Orbaceae	Orientia	Sinomonas atrocyanea	0	0
+0	NA	Proteobacteria	Chlorobia	Cytophagales	Peptoniphilaceae	Cryobacterium	Arthrobacter crystallopoietes	0	0
+0	NA	Firmicutes	Fusobacteriia	Selenomonadales	Atopobiaceae	Tessaracoccus	Corynebacterium jeikeium	0	0
+0	NA	Chloroflexi	Spirochaetia	Tissierellales	Eggerthellaceae	Pseudoxanthomonas	Photobacterium damselae	0	0
+0	NA	Actinobacteria	Gloeobacteria	Veillonellales	Microbulbiferaceae	Modestobacter	Streptomyces pristinaespiralis	0	0
+0	NA	Tenericutes	Gammaproteobacteria	Myxococcales	Rhodanobacteraceae	Collinsella	Corynebacterium minutissimum	0	0
+0	NA	Proteobacteria	Actinobacteria	Rhizobiales	Morganellaceae	Micropruina	Corynebacterium vitaeruminis	0	0
+0	NA	Firmicutes	Alphaproteobacteria	Bacillales	Hungateiclostridiaceae	Ornithinimicrobium	Rhodococcus coprophilus	0	0
+0	NA	Chloroflexi	Betaproteobacteria	Nitrosomonadales	Spirochaetaceae	Olsenella	Shewanella algae	0	0
+0	NA	Actinobacteria	Mollicutes	Desulfuromonadales	Moraxellaceae	Jeotgalibacillus	Bartonella henselae	0	0
+0	NA	Tenericutes	Coriobacteriia	Pseudomonadales	Neisseriaceae	Anaerococcus	[Eubacterium] hallii	0	0
+0	NA	Proteobacteria	Bacilli	Burkholderiales	Alcaligenaceae	Tistrella	Mesorhizobium ciceri	0	0
+0	NA	Firmicutes	Chlorobia	Micrococcales	Enterobacteriaceae	Parvularcula	Acinetobacter junii	0	0
+0	NA	Chloroflexi	Fusobacteriia	Corynebacteriales	Vibrionaceae	Micavibrio	Stenotrophomonas maltophilia	0	0
+0	NA	Actinobacteria	Spirochaetia	Enterobacterales	Pasteurellaceae	Kangiella	Xenorhabdus bovienii	0	0
+0	NA	Tenericutes	Gloeobacteria	Methanosarcinales	Chromatiaceae	Arsenicicoccus	Brevundimonas vesicularis	0	0
+0	NA	Proteobacteria	Gammaproteobacteria	Deinococcales	Micrococcaceae	Lysinibacillus	Acidianus brierleyi	0	0
+0	NA	Firmicutes	Actinobacteria	Chromatiales	Streptococcaceae	Phytobacter	Burkholderia plantarii	0	0
+0	NA	Chloroflexi	Alphaproteobacteria	Xanthomonadales	Corynebacteriaceae	Oscillibacter	Azoarcus communis	0	0
+0	NA	Actinobacteria	Betaproteobacteria	Oceanospirillales	Mycobacteriaceae	Sinomonas	Actinosynnema pretiosum	0	0
+0	NA	Tenericutes	Mollicutes	Alteromonadales	Thermomonosporaceae	Candidatus Planktophila	Streptomyces sampsonii	0	0
+0	NA	Proteobacteria	Coriobacteriia	Pasteurellales	Actinomycetaceae	Gordonibacter	Rubrobacter radiotolerans	0	0
+0	NA	Firmicutes	Bacilli	Bacteroidales	Streptomycetaceae	Mycobacteroides	Pseudomonas alcaligenes	0	0
+0	NA	Chloroflexi	Chlorobia	Clostridiales	Pseudonocardiaceae	Plantactinospora	Pseudoalteromonas rubra	0	0
+0	NA	Actinobacteria	Fusobacteriia	Lactobacillales	Micromonosporaceae	Sphingorhabdus	Pseudoalteromonas tetraodonis	0	0
+0	NA	Tenericutes	Spirochaetia	Flavobacteriales	Bifidobacteriaceae	Ezakiella	Pseudoalteromonas piscicida	0	0
+0	NA	Proteobacteria	Gloeobacteria	Rhodospirillales	Propionibacteriaceae	Aurantimicrobium	Paenarthrobacter aurescens	0	0
+0	NA	Firmicutes	Gammaproteobacteria	Rhodobacterales	Veillonellaceae	Mycolicibacterium	Jonesia denitrificans	0	0
+0	NA	Chloroflexi	Actinobacteria	Sphingomonadales	Rhodobacteraceae	Clostridioides	Rothia mucilaginosa	0	0
+0	NA	Actinobacteria	Alphaproteobacteria	Neisseriales	Lactobacillaceae	Acidipropionibacterium	Metallosphaera sedula	0	0
+0	NA	Tenericutes	Betaproteobacteria	Rhodocyclales	Bradyrhizobiaceae	Cutibacterium	Rhodococcus hoagii	0	0
+0	NA	Proteobacteria	Mollicutes	Campylobacterales	Rhodospirillaceae	Methylorubrum	Corynebacterium striatum	0	0
+0	NA	Firmicutes	Coriobacteriia	Gemmatimonadales	Flavobacteriaceae	Methylophilus	Corynebacterium urealyticum	0	0
+0	NA	Chloroflexi	Bacilli	Erysipelotrichales	Phyllobacteriaceae	Stigmatella	Cyanothece sp. ATCC 51142	0	0
+0	NA	Actinobacteria	Chlorobia	Cytophagales	Caulobacteraceae	Treponema	Enterococcus cecorum	0	0
+0	NA	Tenericutes	Fusobacteriia	Selenomonadales	Comamonadaceae	Achromobacter	Paenibacillus durus	0	0
+0	NA	Proteobacteria	Spirochaetia	Tissierellales	Nocardiopsaceae	Alteromonas	Nitrosomonas ureae	0	0
+0	NA	Firmicutes	Gloeobacteria	Veillonellales	Nocardioidaceae	Brucella	Desulfovibrio fairfieldensis	0	0
+0	NA	Chloroflexi	Gammaproteobacteria	Myxococcales	Dermabacteraceae	Flavobacterium	Capnocytophaga haemolytica	0	0
+0	NA	Actinobacteria	Actinobacteria	Rhizobiales	Microbacteriaceae	Francisella	Mycoplasma bovoculi	0	0
+0	NA	Tenericutes	Alphaproteobacteria	Bacillales	Nocardiaceae	Pseudomonas	Streptococcus cristatus	0	0
+0	NA	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Gordoniaceae	Xanthomonas	Staphylococcus pasteuri	0	0
+0	NA	Firmicutes	Mollicutes	Desulfuromonadales	Geodermatophilaceae	Rhizobium	Staphylococcus felis	0	0
+0	NA	Chloroflexi	Coriobacteriia	Pseudomonadales	Burkholderiaceae	Methylobacterium	Anabaena sp. 90	0	0
+0	NA	Actinobacteria	Bacilli	Burkholderiales	Erysipelotrichaceae	Gluconobacter	Pseudomonas avellanae	0	0
+0	NA	Tenericutes	Chlorobia	Micrococcales	Pseudomonadaceae	Acinetobacter	Clostridium chauvoei	0	0
+0	NA	Proteobacteria	Fusobacteriia	Corynebacteriales	Peptostreptococcaceae	Neisseria	Borrelia miyamotoi	0	0
+0	NA	Firmicutes	Spirochaetia	Enterobacterales	Bacillaceae	Psychrobacter	Bacteroides caccae	0	0
+0	NA	Chloroflexi	Gloeobacteria	Methanosarcinales	Aerococcaceae	Bordetella	Lactobacillus rhamnosus	0	0
+0	NA	Actinobacteria	Gammaproteobacteria	Deinococcales	Fusobacteriaceae	Chromobacterium	Bibersteinia trehalosi	0	0
+0	NA	Tenericutes	Actinobacteria	Chromatiales	Nitrosomonadaceae	Citrobacter	Streptomyces lydicus	0	0
+0	NA	Proteobacteria	Alphaproteobacteria	Xanthomonadales	Hahellaceae	Enterobacter	Micromonospora aurantiaca	0	0
+0	NA	Firmicutes	Betaproteobacteria	Oceanospirillales	Shewanellaceae	Erwinia	Pseudomonas corrugata	0	0
+0	NA	Chloroflexi	Mollicutes	Alteromonadales	Caldilineaceae	Escherichia	Pseudomonas fulva	0	0
+0	NA	Actinobacteria	Coriobacteriia	Pasteurellales	Orbaceae	Klebsiella	Pseudomonas taetrolens	0	0
+0	NA	Tenericutes	Bacilli	Bacteroidales	Peptoniphilaceae	Morganella	Pseudomonas oryzihabitans	0	0
+0	NA	Proteobacteria	Chlorobia	Clostridiales	Atopobiaceae	Proteus	Acinetobacter pittii	0	0
+0	NA	Firmicutes	Fusobacteriia	Lactobacillales	Eggerthellaceae	Salmonella	Vibrio diabolicus	0	0
+0	NA	Chloroflexi	Spirochaetia	Flavobacteriales	Microbulbiferaceae	Serratia	Dehalobacterium formicoaceticum	0	0
+0	NA	Actinobacteria	Gloeobacteria	Rhodospirillales	Rhodanobacteraceae	Yersinia	Pediococcus damnosus	0	0
+0	NA	Tenericutes	Gammaproteobacteria	Rhodobacterales	Morganellaceae	Aeromonas	Aerococcus urinaeequi	0	0
+0	NA	Proteobacteria	Actinobacteria	Sphingomonadales	Hungateiclostridiaceae	Haemophilus	Meiothermus silvanus	0	0
+0	NA	Firmicutes	Alphaproteobacteria	Neisseriales	Spirochaetaceae	Rickettsia	Prevotella dentalis	0	0
+0	NA	Chloroflexi	Betaproteobacteria	Rhodocyclales	Moraxellaceae	Bacteroides	Actinomyces meyeri	0	0
+0	NA	Actinobacteria	Mollicutes	Campylobacterales	Neisseriaceae	Prevotella	Enterococcus durans	0	0
+0	NA	Tenericutes	Coriobacteriia	Gemmatimonadales	Alcaligenaceae	Selenomonas	Enterococcus mundtii	0	0
+0	NA	Proteobacteria	Bacilli	Erysipelotrichales	Enterobacteriaceae	Capnocytophaga	Intrasporangium calvum	0	0
+0	NA	Firmicutes	Chlorobia	Cytophagales	Vibrionaceae	Staphylococcus	Pseudomonas citronellolis	0	0
+0	NA	Chloroflexi	Fusobacteriia	Selenomonadales	Pasteurellaceae	Streptococcus	Nakamurella multipartita	0	0
+0	NA	Actinobacteria	Spirochaetia	Tissierellales	Chromatiaceae	Planococcus	Thermococcus chitonophagus	0	0
+0	NA	Tenericutes	Gloeobacteria	Veillonellales	Micrococcaceae	Aerococcus	Raoultella ornithinolytica	0	0
+0	NA	Proteobacteria	Gammaproteobacteria	Myxococcales	Streptococcaceae	Gemella	Streptomyces venezuelae	0	0
+0	NA	Firmicutes	Actinobacteria	Rhizobiales	Corynebacteriaceae	Bacillus	Salmonella bongori	0	0
+0	NA	Chloroflexi	Alphaproteobacteria	Bacillales	Mycobacteriaceae	Clostridium	Magnetospirillum gryphiswaldense	0	0
+0	NA	Actinobacteria	Betaproteobacteria	Nitrosomonadales	Thermomonosporaceae	Actinomyces	Vibrio anguillarum	0	0
+0	NA	Tenericutes	Mollicutes	Desulfuromonadales	Actinomycetaceae	Arthrobacter	Xanthomonas hortorum	0	0
+0	NA	Proteobacteria	Coriobacteriia	Pseudomonadales	Streptomycetaceae	Bifidobacterium	Xanthomonas sacchari	0	0
+0	NA	Firmicutes	Bacilli	Burkholderiales	Pseudonocardiaceae	Corynebacterium	Rhizobium gallicum	0	0
+0	NA	Chloroflexi	Chlorobia	Micrococcales	Micromonosporaceae	Mycobacterium	Thermus brockianus	0	0
+0	NA	Actinobacteria	Fusobacteriia	Corynebacteriales	Bifidobacteriaceae	Amycolatopsis	Tsukamurella tyrosinosolvens	0	0
+0	NA	Tenericutes	Spirochaetia	Enterobacterales	Propionibacteriaceae	Nocardia	Citrobacter braakii	0	0
+0	NA	Proteobacteria	Gloeobacteria	Methanosarcinales	Veillonellaceae	Rhodococcus	Burkholderia thailandensis	0	0
+0	NA	Firmicutes	Gammaproteobacteria	Deinococcales	Rhodobacteraceae	Nocardioides	Colwellia sp. MT41	0	0
+0	NA	Chloroflexi	Actinobacteria	Chromatiales	Lactobacillaceae	Pseudonocardia	Methanobacterium subterraneum	0	0
+0	NA	Actinobacteria	Alphaproteobacteria	Xanthomonadales	Bradyrhizobiaceae	Geodermatophilus	Actinotignum schaalii	0	0
+0	NA	Tenericutes	Betaproteobacteria	Oceanospirillales	Rhodospirillaceae	Actinoplanes	Candidatus Phytoplasma australiense	0	0
+0	NA	Proteobacteria	Mollicutes	Alteromonadales	Flavobacteriaceae	Micromonospora	Paenibacillus peoriae	0	0
+0	NA	Firmicutes	Coriobacteriia	Pasteurellales	Phyllobacteriaceae	Streptomyces	Burkholderia pyrrocinia	0	0
+0	NA	Chloroflexi	Bacilli	Bacteroidales	Caulobacteraceae	Nocardiopsis	Burkholderia vietnamiensis	0	0
+0	NA	Actinobacteria	Chlorobia	Clostridiales	Comamonadaceae	Aeromicrobium	Staphylococcus succinus	0	0
+0	NA	Tenericutes	Fusobacteriia	Lactobacillales	Nocardiopsaceae	Gordonia	Acholeplasma brassicae	0	0
+0	NA	Proteobacteria	Spirochaetia	Flavobacteriales	Nocardioidaceae	Tsukamurella	Enterobacter asburiae	0	0
+0	NA	Firmicutes	Gloeobacteria	Rhodospirillales	Dermabacteraceae	Kitasatospora	Lelliottia amnigena	0	0
+0	NA	Chloroflexi	Gammaproteobacteria	Rhodobacterales	Microbacteriaceae	Mycoplasma	Pluralibacter gergoviae	0	0
+0	NA	Actinobacteria	Actinobacteria	Sphingomonadales	Nocardiaceae	Acholeplasma	Kluyvera intermedia	0	0
+0	NA	Tenericutes	Alphaproteobacteria	Neisseriales	Gordoniaceae	Magnetospirillum	Serratia ficaria	0	0
+0	NA	Proteobacteria	Betaproteobacteria	Rhodocyclales	Geodermatophilaceae	Sphingomonas	Acidiphilium multivorum	0	0
+0	NA	Firmicutes	Mollicutes	Campylobacterales	Burkholderiaceae	Acidothermus	Azoarcus sp. BH72	0	0
+0	NA	Chloroflexi	Coriobacteriia	Gemmatimonadales	Erysipelotrichaceae	Arcanobacterium	Acinetobacter sp. ADP1	0	0
+0	NA	Actinobacteria	Bacilli	Erysipelotrichales	Pseudomonadaceae	Janthinobacterium	Bacillus pseudomycoides	0	0
+0	NA	Tenericutes	Chlorobia	Cytophagales	Peptostreptococcaceae	Burkholderia	Synechococcus sp. CC9311	0	0
+0	NA	Proteobacteria	Fusobacteriia	Selenomonadales	Bacillaceae	Rothia	Corynebacterium ulcerans	0	0
+0	NA	Firmicutes	Spirochaetia	Tissierellales	Aerococcaceae	Blastococcus	Halothece sp. PCC 7418	0	0
+0	NA	Chloroflexi	Gloeobacteria	Veillonellales	Fusobacteriaceae	Stenotrophomonas	Cyanothece sp. PCC 7424	0	0
+0	NA	Actinobacteria	Gammaproteobacteria	Myxococcales	Nitrosomonadaceae	Actinosynnema	Acetobacter pomorum	0	0
+0	NA	Tenericutes	Actinobacteria	Rhizobiales	Hahellaceae	Brachybacterium	Legionella waltersii	0	0
+0	NA	Proteobacteria	Alphaproteobacteria	Bacillales	Shewanellaceae	Cyanothece	Streptomyces cavourensis	0	0
+0	NA	Firmicutes	Betaproteobacteria	Nitrosomonadales	Caldilineaceae	Salinicoccus	Streptomyces alboflavus	0	0
+0	NA	Chloroflexi	Mollicutes	Desulfuromonadales	Orbaceae	Pantoea	Edwardsiella ictaluri	0	0
+0	NA	Actinobacteria	Coriobacteriia	Pseudomonadales	Peptoniphilaceae	Nakamurella	Citrobacter farmeri	0	0
+0	NA	Tenericutes	Bacilli	Burkholderiales	Atopobiaceae	Dermacoccus	Citrobacter werkmanii	0	0
+0	NA	Proteobacteria	Chlorobia	Micrococcales	Eggerthellaceae	Alcanivorax	Actinobacillus succinogenes	0	0
+0	NA	Firmicutes	Fusobacteriia	Corynebacteriales	Microbulbiferaceae	Borreliella	Kitasatospora albolonga	0	0
+0	NA	Chloroflexi	Spirochaetia	Enterobacterales	Rhodanobacteraceae	Actinoalloteichus	Streptomyces bacillaris	0	0
+0	NA	Actinobacteria	Gloeobacteria	Methanosarcinales	Morganellaceae	Orientia	Streptomyces griseochromogenes	0	0
+0	NA	Tenericutes	Gammaproteobacteria	Deinococcales	Hungateiclostridiaceae	Cryobacterium	Streptomyces pactum	0	0
+0	NA	Proteobacteria	Actinobacteria	Chromatiales	Spirochaetaceae	Tessaracoccus	Streptomyces albulus	0	0
+0	NA	Firmicutes	Alphaproteobacteria	Xanthomonadales	Moraxellaceae	Pseudoxanthomonas	Cupriavidus basilensis	0	0
+0	NA	Chloroflexi	Betaproteobacteria	Oceanospirillales	Neisseriaceae	Modestobacter	Lelliottia nimipressuralis	0	0
+0	NA	Actinobacteria	Mollicutes	Alteromonadales	Alcaligenaceae	Collinsella	Caulobacter mirabilis	0	0
+0	NA	Tenericutes	Coriobacteriia	Pasteurellales	Enterobacteriaceae	Micropruina	Macrococcus caseolyticus	0	0
+0	NA	Proteobacteria	Bacilli	Bacteroidales	Vibrionaceae	Ornithinimicrobium	Staphylococcus condimenti	0	0
+0	NA	Firmicutes	Chlorobia	Clostridiales	Pasteurellaceae	Olsenella	Staphylococcus piscifermentans	0	0
+0	NA	Chloroflexi	Fusobacteriia	Lactobacillales	Chromatiaceae	Jeotgalibacillus	Pseudomonas plecoglossicida	0	0
+0	NA	Actinobacteria	Spirochaetia	Flavobacteriales	Micrococcaceae	Anaerococcus	Kocuria palustris	0	0
+0	NA	Tenericutes	Gloeobacteria	Rhodospirillales	Streptococcaceae	Tistrella	Kocuria rhizophila	0	0
+0	NA	Proteobacteria	Gammaproteobacteria	Rhodobacterales	Corynebacteriaceae	Parvularcula	Antarctobacter heliothermus	0	0
+0	NA	Firmicutes	Actinobacteria	Sphingomonadales	Mycobacteriaceae	Micavibrio	Collinsella aerofaciens	0	0
+0	NA	Chloroflexi	Alphaproteobacteria	Neisseriales	Thermomonosporaceae	Kangiella	Paraburkholderia caribensis	0	0
+0	NA	Actinobacteria	Betaproteobacteria	Rhodocyclales	Actinomycetaceae	Arsenicicoccus	Streptomyces autolyticus	0	0
+0	NA	Tenericutes	Mollicutes	Campylobacterales	Streptomycetaceae	Lysinibacillus	Micropruina glycogenica	0	0
+0	NA	Proteobacteria	Coriobacteriia	Gemmatimonadales	Pseudonocardiaceae	Phytobacter	Mannheimia haemolytica	0	0
+0	NA	Firmicutes	Bacilli	Erysipelotrichales	Micromonosporaceae	Oscillibacter	Prevotella enoeca	0	0
+0	NA	Chloroflexi	Chlorobia	Cytophagales	Bifidobacteriaceae	Sinomonas	Roseateles depolymerans	0	0
+0	NA	Actinobacteria	Fusobacteriia	Selenomonadales	Propionibacteriaceae	Candidatus Planktophila	Pseudomonas orientalis	0	0
+0	NA	Tenericutes	Spirochaetia	Tissierellales	Veillonellaceae	Gordonibacter	Pseudomonas monteilii	0	0
+0	NA	Proteobacteria	Gloeobacteria	Veillonellales	Rhodobacteraceae	Mycobacteroides	Pseudomonas veronii	0	0
+0	NA	Firmicutes	Gammaproteobacteria	Myxococcales	Lactobacillaceae	Plantactinospora	Myroides odoratimimus	0	0
+0	NA	Chloroflexi	Actinobacteria	Rhizobiales	Bradyrhizobiaceae	Sphingorhabdus	Streptococcus constellatus	0	0
+0	NA	Actinobacteria	Alphaproteobacteria	Bacillales	Rhodospirillaceae	Ezakiella	Pseudomonas mosselii	0	0
+0	NA	Tenericutes	Betaproteobacteria	Nitrosomonadales	Flavobacteriaceae	Aurantimicrobium	Denitrobacterium detoxificans	0	0
+0	NA	Proteobacteria	Mollicutes	Desulfuromonadales	Phyllobacteriaceae	Mycolicibacterium	Bacillus clausii	0	0
+0	NA	Firmicutes	Coriobacteriia	Pseudomonadales	Caulobacteraceae	Clostridioides	Bacillus horikoshii	0	0
+0	NA	Chloroflexi	Bacilli	Burkholderiales	Comamonadaceae	Acidipropionibacterium	Moritella viscosa	0	0
+0	NA	Actinobacteria	Chlorobia	Micrococcales	Nocardiopsaceae	Cutibacterium	Acidovorax citrulli	0	0
+0	NA	Tenericutes	Fusobacteriia	Corynebacteriales	Nocardioidaceae	Methylorubrum	Entomoplasma melaleucae	0	0
+0	NA	Proteobacteria	Spirochaetia	Enterobacterales	Dermabacteraceae	Methylophilus	Streptococcus pluranimalium	0	0
+0	NA	Firmicutes	Gloeobacteria	Methanosarcinales	Microbacteriaceae	Stigmatella	Serratia plymuthica	0	0
+0	NA	Chloroflexi	Gammaproteobacteria	Deinococcales	Nocardiaceae	Treponema	Mycobacteroides immunogenum	0	0
+0	NA	Actinobacteria	Actinobacteria	Chromatiales	Gordoniaceae	Achromobacter	Aminobacter aminovorans	0	0
+0	NA	Tenericutes	Alphaproteobacteria	Xanthomonadales	Geodermatophilaceae	Alteromonas	Chlamydia abortus	0	0
+0	NA	Proteobacteria	Betaproteobacteria	Oceanospirillales	Burkholderiaceae	Brucella	Chlamydia pneumoniae	0	0
+0	NA	Firmicutes	Mollicutes	Alteromonadales	Erysipelotrichaceae	Flavobacterium	Chlamydia muridarum	0	0
+0	NA	Chloroflexi	Coriobacteriia	Pasteurellales	Pseudomonadaceae	Francisella	Lactobacillus amylolyticus	0	0
+0	NA	Actinobacteria	Bacilli	Bacteroidales	Peptostreptococcaceae	Pseudomonas	Clostridium aceticum	0	0
+0	NA	Tenericutes	Chlorobia	Clostridiales	Bacillaceae	Xanthomonas	Eggerthella lenta	0	0
+0	NA	Proteobacteria	Fusobacteriia	Lactobacillales	Aerococcaceae	Rhizobium	Microbacterium chocolatum	0	0
+0	NA	Firmicutes	Spirochaetia	Flavobacteriales	Fusobacteriaceae	Methylobacterium	Pseudarthrobacter chlorophenolicus	0	0
+0	NA	Chloroflexi	Gloeobacteria	Rhodospirillales	Nitrosomonadaceae	Gluconobacter	Mannheimia varigena	0	0
+0	NA	Actinobacteria	Gammaproteobacteria	Rhodobacterales	Hahellaceae	Acinetobacter	Thauera sp. MZ1T	0	0
+0	NA	Tenericutes	Actinobacteria	Sphingomonadales	Shewanellaceae	Neisseria	Achromobacter xylosoxidans	0	0
+0	NA	Proteobacteria	Alphaproteobacteria	Neisseriales	Caldilineaceae	Psychrobacter	Bartonella tribocorum	0	0
+0	NA	Firmicutes	Betaproteobacteria	Rhodocyclales	Orbaceae	Bordetella	endosymbiont of Acanthamoeba sp. UWC8	0	0
+0	NA	Chloroflexi	Mollicutes	Campylobacterales	Peptoniphilaceae	Chromobacterium	Mycoplasma dispar	0	0
+0	NA	Actinobacteria	Coriobacteriia	Gemmatimonadales	Atopobiaceae	Citrobacter	Bacillus flexus	0	0
+0	NA	Tenericutes	Bacilli	Erysipelotrichales	Eggerthellaceae	Enterobacter	Aerococcus christensenii	0	0
+0	NA	Proteobacteria	Chlorobia	Cytophagales	Microbulbiferaceae	Erwinia	Burkholderia multivorans	0	0
+0	NA	Firmicutes	Fusobacteriia	Selenomonadales	Rhodanobacteraceae	Escherichia	Xanthomonas gardneri	0	0
+0	NA	Chloroflexi	Spirochaetia	Tissierellales	Morganellaceae	Klebsiella	Candidatus Paracaedibacter acanthamoebae	0	0
+0	NA	Actinobacteria	Gloeobacteria	Veillonellales	Hungateiclostridiaceae	Morganella	Mycoplasma anseris	0	0
+0	NA	Tenericutes	Gammaproteobacteria	Myxococcales	Spirochaetaceae	Proteus	Streptomyces malaysiensis	0	0
+0	NA	Proteobacteria	Actinobacteria	Rhizobiales	Moraxellaceae	Salmonella	Herbaspirillum frisingense	0	0
+0	NA	Firmicutes	Alphaproteobacteria	Bacillales	Neisseriaceae	Serratia	[Brevibacterium] flavum	0	0
+0	NA	Chloroflexi	Betaproteobacteria	Nitrosomonadales	Alcaligenaceae	Yersinia	Ketogulonicigenium vulgare	0	0
+0	NA	Actinobacteria	Mollicutes	Desulfuromonadales	Enterobacteriaceae	Aeromonas	Ketogulonicigenium robustum	0	0
+0	NA	Tenericutes	Coriobacteriia	Pseudomonadales	Vibrionaceae	Haemophilus	Sphingomonas koreensis	0	0
+0	NA	Proteobacteria	Bacilli	Burkholderiales	Pasteurellaceae	Rickettsia	Pandoraea apista	0	0
+0	NA	Firmicutes	Chlorobia	Micrococcales	Chromatiaceae	Bacteroides	Pandoraea norimbergensis	0	0
+0	NA	Chloroflexi	Fusobacteriia	Corynebacteriales	Micrococcaceae	Prevotella	Pandoraea pnomenusa	0	0
+0	NA	Actinobacteria	Spirochaetia	Enterobacterales	Streptococcaceae	Selenomonas	Pandoraea pulmonicola	0	0
+0	NA	Tenericutes	Gloeobacteria	Methanosarcinales	Corynebacteriaceae	Capnocytophaga	Edwardsiella hoshinae	0	0
+0	NA	Proteobacteria	Gammaproteobacteria	Deinococcales	Mycobacteriaceae	Staphylococcus	Fervidobacterium pennivorans	0	0
+0	NA	Firmicutes	Actinobacteria	Chromatiales	Thermomonosporaceae	Streptococcus	Bordetella petrii	0	0
+0	NA	Chloroflexi	Alphaproteobacteria	Xanthomonadales	Actinomycetaceae	Planococcus	Burkholderia stabilis	0	0
+0	NA	Actinobacteria	Betaproteobacteria	Oceanospirillales	Streptomycetaceae	Aerococcus	Burkholderia cenocepacia	0	0
+0	NA	Tenericutes	Mollicutes	Alteromonadales	Pseudonocardiaceae	Gemella	Flavobacterium psychrophilum	0	0
+0	NA	Proteobacteria	Coriobacteriia	Pasteurellales	Micromonosporaceae	Bacillus	Halobacteriovorax marinus	0	0
+0	NA	Firmicutes	Bacilli	Bacteroidales	Bifidobacteriaceae	Clostridium	Heterosigma akashiwo virus 01	0	0
+0	NA	Chloroflexi	Chlorobia	Clostridiales	Propionibacteriaceae	Actinomyces	Bacillus sp. OxB-1	0	0
+0	NA	Actinobacteria	Fusobacteriia	Lactobacillales	Veillonellaceae	Arthrobacter	Calothrix sp. PCC 7507	0	0
+0	NA	Tenericutes	Spirochaetia	Flavobacteriales	Rhodobacteraceae	Bifidobacterium	Austwickia chelonae	0	0
+0	NA	Proteobacteria	Gloeobacteria	Rhodospirillales	Lactobacillaceae	Corynebacterium	Streptococcus infantarius	0	0
+0	NA	Firmicutes	Gammaproteobacteria	Rhodobacterales	Bradyrhizobiaceae	Mycobacterium	Nostoc sp. PCC 7120	0	0
+0	NA	Chloroflexi	Actinobacteria	Sphingomonadales	Rhodospirillaceae	Amycolatopsis	Saccharothrix espanaensis	0	0
+0	NA	Actinobacteria	Alphaproteobacteria	Neisseriales	Flavobacteriaceae	Nocardia	Rhodococcus pyridinivorans	0	0
+0	NA	Tenericutes	Betaproteobacteria	Rhodocyclales	Phyllobacteriaceae	Rhodococcus	Pseudomonas frederiksbergensis	0	0
+0	NA	Proteobacteria	Mollicutes	Campylobacterales	Caulobacteraceae	Nocardioides	Acetobacter tropicalis	0	0
+0	NA	Firmicutes	Coriobacteriia	Gemmatimonadales	Comamonadaceae	Pseudonocardia	Microbacterium foliorum	0	0
+0	NA	Chloroflexi	Bacilli	Erysipelotrichales	Nocardiopsaceae	Geodermatophilus	Ralstonia mannitolilytica	0	0
+0	NA	Actinobacteria	Chlorobia	Cytophagales	Nocardioidaceae	Actinoplanes	Frankia casuarinae	0	0
+0	NA	Tenericutes	Fusobacteriia	Selenomonadales	Dermabacteraceae	Micromonospora	Ensifer adhaerens	0	0
+0	NA	Proteobacteria	Spirochaetia	Tissierellales	Microbacteriaceae	Streptomyces	Thioalkalivibrio versutus	0	0
+0	NA	Firmicutes	Gloeobacteria	Veillonellales	Nocardiaceae	Nocardiopsis	Acinetobacter bereziniae	0	0
+0	NA	Chloroflexi	Gammaproteobacteria	Myxococcales	Gordoniaceae	Aeromicrobium	Acinetobacter nosocomialis	0	0
+0	NA	Actinobacteria	Actinobacteria	Rhizobiales	Geodermatophilaceae	Gordonia	Acinetobacter schindleri	0	0
+0	NA	Tenericutes	Alphaproteobacteria	Bacillales	Burkholderiaceae	Tsukamurella	Lactobacillus jensenii	0	0
+0	NA	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Erysipelotrichaceae	Kitasatospora	Actinomyces radicidentis	0	0
+0	NA	Firmicutes	Mollicutes	Desulfuromonadales	Pseudomonadaceae	Mycoplasma	Leptolyngbya sp. PCC 7376	0	0
+0	NA	Chloroflexi	Coriobacteriia	Pseudomonadales	Peptostreptococcaceae	Acholeplasma	Streptococcus australis	0	0
+0	NA	Actinobacteria	Bacilli	Burkholderiales	Bacillaceae	Magnetospirillum	Pediococcus inopinatus	0	0
+0	NA	Tenericutes	Chlorobia	Micrococcales	Aerococcaceae	Sphingomonas	Mogibacterium diversum	0	0
+0	NA	Proteobacteria	Fusobacteriia	Corynebacteriales	Fusobacteriaceae	Acidothermus	Bradyrhizobium sp. ORS 278	0	0
+0	NA	Firmicutes	Spirochaetia	Enterobacterales	Nitrosomonadaceae	Arcanobacterium	Halomonas hydrothermalis	0	0
+0	NA	Chloroflexi	Gloeobacteria	Methanosarcinales	Hahellaceae	Janthinobacterium	Bradyrhizobium sp. ORS 285	0	0
+0	NA	Actinobacteria	Gammaproteobacteria	Deinococcales	Shewanellaceae	Burkholderia	Aerococcus sanguinicola	0	0
+0	NA	Tenericutes	Actinobacteria	Chromatiales	Caldilineaceae	Rothia	Bacillus sonorensis	0	0
+0	NA	Proteobacteria	Alphaproteobacteria	Xanthomonadales	Orbaceae	Blastococcus	Sphingobium cloacae	0	0
+0	NA	Firmicutes	Betaproteobacteria	Oceanospirillales	Peptoniphilaceae	Stenotrophomonas	Pseudarthrobacter sulfonivorans	0	0
+0	NA	Chloroflexi	Mollicutes	Alteromonadales	Atopobiaceae	Actinosynnema	Providencia alcalifaciens	0	0
+0	NA	Actinobacteria	Coriobacteriia	Pasteurellales	Eggerthellaceae	Brachybacterium	Thermotoga sp. RQ2	0	0
+0	NA	Tenericutes	Bacilli	Bacteroidales	Microbulbiferaceae	Cyanothece	Stenotrophomonas acidaminiphila	0	0
+0	NA	Proteobacteria	Chlorobia	Clostridiales	Rhodanobacteraceae	Salinicoccus	Aerococcus urinaehominis	0	0
+0	NA	Firmicutes	Fusobacteriia	Lactobacillales	Morganellaceae	Pantoea	Kineococcus radiotolerans	0	0
+0	NA	Chloroflexi	Spirochaetia	Flavobacteriales	Hungateiclostridiaceae	Nakamurella	Citrobacter youngae	0	0
+0	NA	Actinobacteria	Gloeobacteria	Rhodospirillales	Spirochaetaceae	Dermacoccus	Paraburkholderia caledonica	0	0
+0	NA	Tenericutes	Gammaproteobacteria	Rhodobacterales	Moraxellaceae	Alcanivorax	Paraburkholderia fungorum	0	0
+0	NA	Proteobacteria	Actinobacteria	Sphingomonadales	Neisseriaceae	Borreliella	Mycolicibacterium goodii	0	0
+0	NA	Firmicutes	Alphaproteobacteria	Neisseriales	Alcaligenaceae	Actinoalloteichus	Actinoplanes sp. SE50/110	0	0
+0	NA	Chloroflexi	Betaproteobacteria	Rhodocyclales	Enterobacteriaceae	Orientia	Ureaplasma parvum	0	0
+0	NA	Actinobacteria	Mollicutes	Campylobacterales	Vibrionaceae	Cryobacterium	Nocardia soli	0	0
+0	NA	Tenericutes	Coriobacteriia	Gemmatimonadales	Pasteurellaceae	Tessaracoccus	Nocardia cyriacigeorgica	0	0
+0	NA	Proteobacteria	Bacilli	Erysipelotrichales	Chromatiaceae	Pseudoxanthomonas	Helicobacter apodemus	0	0
+0	NA	Firmicutes	Chlorobia	Cytophagales	Micrococcaceae	Modestobacter	Corynebacterium testudinoris	0	0
+0	NA	Chloroflexi	Fusobacteriia	Selenomonadales	Streptococcaceae	Collinsella	Weissella cibaria	0	0
+0	NA	Actinobacteria	Spirochaetia	Tissierellales	Corynebacteriaceae	Micropruina	Blastococcus saxobsidens	0	0
+0	NA	Tenericutes	Gloeobacteria	Veillonellales	Mycobacteriaceae	Ornithinimicrobium	Mycoplasma phocidae	0	0
+0	NA	Proteobacteria	Gammaproteobacteria	Myxococcales	Thermomonosporaceae	Olsenella	Rathayibacter toxicus	0	0
+0	NA	Firmicutes	Actinobacteria	Rhizobiales	Actinomycetaceae	Jeotgalibacillus	Elephantid betaherpesvirus 1	0	0
+0	NA	Chloroflexi	Alphaproteobacteria	Bacillales	Streptomycetaceae	Anaerococcus	Corynebacterium simulans	0	0
+0	NA	Actinobacteria	Betaproteobacteria	Nitrosomonadales	Pseudonocardiaceae	Tistrella	Salinibacter ruber	0	0
+0	NA	Tenericutes	Mollicutes	Desulfuromonadales	Micromonosporaceae	Parvularcula	Streptomyces parvulus	0	0
+0	NA	Proteobacteria	Coriobacteriia	Pseudomonadales	Bifidobacteriaceae	Micavibrio	Paracoccus yeei	0	0
+0	NA	Firmicutes	Bacilli	Burkholderiales	Propionibacteriaceae	Kangiella	Paraburkholderia phymatum	0	0
+0	NA	Chloroflexi	Chlorobia	Micrococcales	Veillonellaceae	Arsenicicoccus	Lactobacillus kunkeei	0	0
+0	NA	Actinobacteria	Fusobacteriia	Corynebacteriales	Rhodobacteraceae	Lysinibacillus	Streptococcus lutetiensis	0	0
+0	NA	Tenericutes	Spirochaetia	Enterobacterales	Lactobacillaceae	Phytobacter	Pseudoalteromonas issachenkonii	0	0
+0	NA	Proteobacteria	Gloeobacteria	Methanosarcinales	Bradyrhizobiaceae	Oscillibacter	Sphingomonas melonis	0	0
+0	NA	Firmicutes	Gammaproteobacteria	Deinococcales	Rhodospirillaceae	Sinomonas	Kozakia baliensis	0	0
+0	NA	Chloroflexi	Actinobacteria	Chromatiales	Flavobacteriaceae	Candidatus Planktophila	Staphylococcus lutrae	0	0
+0	NA	Actinobacteria	Alphaproteobacteria	Xanthomonadales	Phyllobacteriaceae	Gordonibacter	Caulobacter vibrioides	0	0
+0	NA	Tenericutes	Betaproteobacteria	Oceanospirillales	Caulobacteraceae	Mycobacteroides	Corynebacterium imitans	0	0
+0	NA	Proteobacteria	Mollicutes	Alteromonadales	Comamonadaceae	Plantactinospora	[Mannheimia] succiniciproducens	0	0
+0	NA	Firmicutes	Coriobacteriia	Pasteurellales	Nocardiopsaceae	Sphingorhabdus	Kushneria marisflavi	0	0
+0	NA	Chloroflexi	Bacilli	Bacteroidales	Nocardioidaceae	Ezakiella	Pseudomonas parafulva	0	0
+0	NA	Actinobacteria	Chlorobia	Clostridiales	Dermabacteraceae	Aurantimicrobium	Novosphingobium resinovorum	0	0
+0	NA	Tenericutes	Fusobacteriia	Lactobacillales	Microbacteriaceae	Mycolicibacterium	Cedecea neteri	0	0
+0	NA	Proteobacteria	Spirochaetia	Flavobacteriales	Nocardiaceae	Clostridioides	Enterobacter hormaechei	0	0
+0	NA	Firmicutes	Gloeobacteria	Rhodospirillales	Gordoniaceae	Acidipropionibacterium	Megamonas hypermegale	0	0
+0	NA	Chloroflexi	Gammaproteobacteria	Rhodobacterales	Geodermatophilaceae	Cutibacterium	Collimonas fungivorans	0	0
+0	NA	Actinobacteria	Actinobacteria	Sphingomonadales	Burkholderiaceae	Methylorubrum	Acidihalobacter prosperus	0	0
+0	NA	Tenericutes	Alphaproteobacteria	Neisseriales	Erysipelotrichaceae	Methylophilus	Pseudoalteromonas phenolica	0	0
+0	NA	Proteobacteria	Betaproteobacteria	Rhodocyclales	Pseudomonadaceae	Stigmatella	Corynebacterium phocae	0	0
+0	NA	Firmicutes	Mollicutes	Campylobacterales	Peptostreptococcaceae	Treponema	Corynebacterium camporealensis	0	0
+0	NA	Chloroflexi	Coriobacteriia	Gemmatimonadales	Bacillaceae	Achromobacter	Corynebacterium singulare	0	0
+0	NA	Actinobacteria	Bacilli	Erysipelotrichales	Aerococcaceae	Alteromonas	Paenibacillus naphthalenovorans	0	0
+0	NA	Tenericutes	Chlorobia	Cytophagales	Fusobacteriaceae	Brucella	Microbacterium hominis	0	0
+0	NA	Proteobacteria	Fusobacteriia	Selenomonadales	Nitrosomonadaceae	Flavobacterium	Virgibacillus necropolis	0	0
+0	NA	Firmicutes	Spirochaetia	Tissierellales	Hahellaceae	Francisella	Streptomyces puniciscabiei	0	0
+0	NA	Chloroflexi	Gloeobacteria	Veillonellales	Shewanellaceae	Pseudomonas	Blattabacterium punctulatus	0	0
+0	NA	Actinobacteria	Gammaproteobacteria	Myxococcales	Caldilineaceae	Xanthomonas	Blattabacterium clevelandi	0	0
+0	NA	Tenericutes	Actinobacteria	Rhizobiales	Orbaceae	Rhizobium	Mycobacterium sp. JLS	0	0
+0	NA	Proteobacteria	Alphaproteobacteria	Bacillales	Peptoniphilaceae	Methylobacterium	Weissella koreensis	0	0
+0	NA	Firmicutes	Betaproteobacteria	Nitrosomonadales	Atopobiaceae	Gluconobacter	Laribacter hongkongensis	0	0
+0	NA	Chloroflexi	Mollicutes	Desulfuromonadales	Eggerthellaceae	Acinetobacter	Salinispora tropica	0	0
+0	NA	Actinobacteria	Coriobacteriia	Pseudomonadales	Microbulbiferaceae	Neisseria	Salinispora arenicola	0	0
+0	NA	Tenericutes	Bacilli	Burkholderiales	Rhodanobacteraceae	Psychrobacter	Wolbachia endosymbiont of Folsomia candida	0	0
+0	NA	Proteobacteria	Chlorobia	Micrococcales	Morganellaceae	Bordetella	Clostridium saccharobutylicum	0	0
+0	NA	Firmicutes	Fusobacteriia	Corynebacteriales	Hungateiclostridiaceae	Chromobacterium	Paenibacillus stellifer	0	0
+0	NA	Chloroflexi	Spirochaetia	Enterobacterales	Spirochaetaceae	Citrobacter	Staphylococcus pettenkoferi	0	0
+0	NA	Actinobacteria	Gloeobacteria	Methanosarcinales	Moraxellaceae	Enterobacter	Elizabethkingia miricola	0	0
+0	NA	Tenericutes	Gammaproteobacteria	Deinococcales	Neisseriaceae	Erwinia	Paenibacillus kribbensis	0	0
+0	NA	Proteobacteria	Actinobacteria	Chromatiales	Alcaligenaceae	Escherichia	Sulfolobus islandicus filamentous virus	0	0
+0	NA	Firmicutes	Alphaproteobacteria	Xanthomonadales	Enterobacteriaceae	Klebsiella	Carboxydocella thermautotrophica	0	0
+0	NA	Chloroflexi	Betaproteobacteria	Oceanospirillales	Vibrionaceae	Morganella	Delftia tsuruhatensis	0	0
+0	NA	Actinobacteria	Mollicutes	Alteromonadales	Pasteurellaceae	Proteus	Butyrivibrio hungatei	0	0
+0	NA	Tenericutes	Coriobacteriia	Pasteurellales	Chromatiaceae	Salmonella	Sneathia amnii	0	0
+0	NA	Proteobacteria	Bacilli	Bacteroidales	Micrococcaceae	Serratia	Pediococcus claussenii	0	0
+0	NA	Firmicutes	Chlorobia	Clostridiales	Streptococcaceae	Yersinia	Corynebacterium glaucum	0	0
+0	NA	Chloroflexi	Fusobacteriia	Lactobacillales	Corynebacteriaceae	Aeromonas	Streptomyces koyangensis	0	0
+0	NA	Actinobacteria	Spirochaetia	Flavobacteriales	Mycobacteriaceae	Haemophilus	Pedobacter cryoconitis	0	0
+0	NA	Tenericutes	Gloeobacteria	Rhodospirillales	Thermomonosporaceae	Rickettsia	Paenibacillus graminis	0	0
+0	NA	Proteobacteria	Gammaproteobacteria	Rhodobacterales	Actinomycetaceae	Bacteroides	Paenibacillus odorifer	0	0
+0	NA	Firmicutes	Actinobacteria	Sphingomonadales	Streptomycetaceae	Prevotella	Actinobacillus porcitonsillarum	0	0
+0	NA	Chloroflexi	Alphaproteobacteria	Neisseriales	Pseudonocardiaceae	Selenomonas	Ralstonia insidiosa	0	0
+0	NA	Actinobacteria	Betaproteobacteria	Rhodocyclales	Micromonosporaceae	Capnocytophaga	Vibrio coralliilyticus	0	0
+0	NA	Tenericutes	Mollicutes	Campylobacterales	Bifidobacteriaceae	Staphylococcus	Vibrio rotiferianus	0	0
+0	NA	Proteobacteria	Coriobacteriia	Gemmatimonadales	Propionibacteriaceae	Streptococcus	Rhodococcus aetherivorans	0	0
+0	NA	Firmicutes	Bacilli	Erysipelotrichales	Veillonellaceae	Planococcus	Corynebacterium atypicum	0	0
+0	NA	Chloroflexi	Chlorobia	Cytophagales	Rhodobacteraceae	Aerococcus	Planococcus maritimus	0	0
+0	NA	Actinobacteria	Fusobacteriia	Selenomonadales	Lactobacillaceae	Gemella	Streptomyces niveus	0	0
+0	NA	Tenericutes	Spirochaetia	Tissierellales	Bradyrhizobiaceae	Bacillus	Nocardioides sp. JS614	0	0
+0	NA	Proteobacteria	Gloeobacteria	Veillonellales	Rhodospirillaceae	Clostridium	Malacobacter halophilus	0	0
+0	NA	Firmicutes	Gammaproteobacteria	Myxococcales	Flavobacteriaceae	Actinomyces	Haemophilus aegyptius	0	0
+0	NA	Chloroflexi	Actinobacteria	Rhizobiales	Phyllobacteriaceae	Arthrobacter	Streptococcus pasteurianus	0	0
+0	NA	Actinobacteria	Alphaproteobacteria	Bacillales	Caulobacteraceae	Bifidobacterium	Anoxybacillus gonensis	0	0
+0	NA	Tenericutes	Betaproteobacteria	Nitrosomonadales	Comamonadaceae	Corynebacterium	Pseudomonas koreensis	0	0
+0	NA	Proteobacteria	Mollicutes	Desulfuromonadales	Nocardiopsaceae	Mycobacterium	Bacillus krulwichiae	0	0
+0	NA	Firmicutes	Coriobacteriia	Pseudomonadales	Nocardioidaceae	Amycolatopsis	Pseudomonas trivialis	0	0
+0	NA	Chloroflexi	Bacilli	Burkholderiales	Dermabacteraceae	Nocardia	Planococcus rifietoensis	0	0
+0	NA	Actinobacteria	Chlorobia	Micrococcales	Microbacteriaceae	Rhodococcus	Maize bushy stunt phytoplasma	0	0
+0	NA	Tenericutes	Fusobacteriia	Corynebacteriales	Nocardiaceae	Nocardioides	Dickeya zeae	0	0
+0	NA	Proteobacteria	Spirochaetia	Enterobacterales	Gordoniaceae	Pseudonocardia	Kosakonia cowanii	0	0
+0	NA	Firmicutes	Gloeobacteria	Methanosarcinales	Geodermatophilaceae	Geodermatophilus	Enterobacter kobei	0	0
+0	NA	Chloroflexi	Gammaproteobacteria	Deinococcales	Burkholderiaceae	Actinoplanes	Amycolatopsis japonica	0	0
+0	NA	Actinobacteria	Actinobacteria	Chromatiales	Erysipelotrichaceae	Micromonospora	[Clostridium] bolteae	0	0
+0	NA	Tenericutes	Alphaproteobacteria	Xanthomonadales	Pseudomonadaceae	Streptomyces	Carnobacterium sp. 17-4	0	0
+0	NA	Proteobacteria	Betaproteobacteria	Oceanospirillales	Peptostreptococcaceae	Nocardiopsis	Escherichia albertii	0	0
+0	NA	Firmicutes	Mollicutes	Alteromonadales	Bacillaceae	Aeromicrobium	Capnocytophaga sp. ChDC OS43	0	0
+0	NA	Chloroflexi	Coriobacteriia	Pasteurellales	Aerococcaceae	Gordonia	Acanthamoeba polyphaga mimivirus	0	0
+0	NA	Actinobacteria	Bacilli	Bacteroidales	Fusobacteriaceae	Tsukamurella	Mycobacterium sp. JS623	0	0
+0	NA	Tenericutes	Chlorobia	Clostridiales	Nitrosomonadaceae	Kitasatospora	Halomonas campaniensis	0	0
+0	NA	Proteobacteria	Fusobacteriia	Lactobacillales	Hahellaceae	Mycoplasma	Staphylococcus nepalensis	0	0
+0	NA	Firmicutes	Spirochaetia	Flavobacteriales	Shewanellaceae	Acholeplasma	Alistipes finegoldii	0	0
+0	NA	Chloroflexi	Gloeobacteria	Rhodospirillales	Caldilineaceae	Magnetospirillum	Bifidobacterium longum	0	0
+0	NA	Actinobacteria	Gammaproteobacteria	Rhodobacterales	Orbaceae	Sphingomonas	Spiroplasma corruscae	0	0
+0	NA	Tenericutes	Actinobacteria	Sphingomonadales	Peptoniphilaceae	Acidothermus	Spiroplasma floricola	0	0
+0	NA	Proteobacteria	Alphaproteobacteria	Neisseriales	Atopobiaceae	Arcanobacterium	Spiroplasma litorale	0	0
+0	NA	Firmicutes	Betaproteobacteria	Rhodocyclales	Eggerthellaceae	Janthinobacterium	Spiroplasma turonicum	0	0
+0	NA	Chloroflexi	Mollicutes	Campylobacterales	Microbulbiferaceae	Burkholderia	Achromobacter insolitus	0	0
+0	NA	Actinobacteria	Coriobacteriia	Gemmatimonadales	Rhodanobacteraceae	Rothia	Mesoplasma tabanidae	0	0
+0	NA	Tenericutes	Bacilli	Erysipelotrichales	Morganellaceae	Blastococcus	Treponema putidum	0	0
+0	NA	Proteobacteria	Chlorobia	Cytophagales	Hungateiclostridiaceae	Stenotrophomonas	Mycobacterium chimaera	0	0
+0	NA	Firmicutes	Fusobacteriia	Selenomonadales	Spirochaetaceae	Actinosynnema	Comamonas kerstersii	0	0
+0	NA	Chloroflexi	Spirochaetia	Tissierellales	Moraxellaceae	Brachybacterium	Mesoplasma syrphidae	0	0
+0	NA	Actinobacteria	Gloeobacteria	Veillonellales	Neisseriaceae	Cyanothece	Photorhabdus thracensis	0	0
+0	NA	Tenericutes	Gammaproteobacteria	Myxococcales	Alcaligenaceae	Salinicoccus	Methanobrevibacter millerae	0	0
+0	NA	Proteobacteria	Actinobacteria	Rhizobiales	Enterobacteriaceae	Pantoea	Alteromonas stellipolaris	0	0
+0	NA	Firmicutes	Alphaproteobacteria	Bacillales	Vibrionaceae	Nakamurella	Pseudoalteromonas sp. SM9913	0	0
+0	NA	Chloroflexi	Betaproteobacteria	Nitrosomonadales	Pasteurellaceae	Dermacoccus	Fastidiosipila sanguinis	0	0
+0	NA	Actinobacteria	Mollicutes	Desulfuromonadales	Chromatiaceae	Alcanivorax	Pseudomonas alkylphenolica	0	0
+0	NA	Tenericutes	Coriobacteriia	Pseudomonadales	Micrococcaceae	Borreliella	Pseudomonas psychrotolerans	0	0
+0	NA	Proteobacteria	Bacilli	Burkholderiales	Streptococcaceae	Actinoalloteichus	Akkermansia muciniphila	0	0
+0	NA	Firmicutes	Chlorobia	Micrococcales	Corynebacteriaceae	Orientia	Rummeliibacillus stabekisii	0	0
+0	NA	Chloroflexi	Fusobacteriia	Corynebacteriales	Mycobacteriaceae	Cryobacterium	Ichthyobacterium seriolicida	0	0
+0	NA	Actinobacteria	Spirochaetia	Enterobacterales	Thermomonosporaceae	Tessaracoccus	endosymbiont 'TC1' of Trimyema compressum	0	0
+0	NA	Tenericutes	Gloeobacteria	Methanosarcinales	Actinomycetaceae	Pseudoxanthomonas	Klebsiella variicola	0	0
+0	NA	Proteobacteria	Gammaproteobacteria	Deinococcales	Streptomycetaceae	Modestobacter	Pseudomonas lurida	0	0
+0	NA	Firmicutes	Actinobacteria	Chromatiales	Pseudonocardiaceae	Collinsella	Staphylococcus equorum	0	0
+0	NA	Chloroflexi	Alphaproteobacteria	Xanthomonadales	Micromonosporaceae	Micropruina	Bacteroides cellulosilyticus	0	0
+0	NA	Actinobacteria	Betaproteobacteria	Oceanospirillales	Bifidobacteriaceae	Ornithinimicrobium	Pseudoalteromonas aliena	0	0
+0	NA	Tenericutes	Mollicutes	Alteromonadales	Propionibacteriaceae	Olsenella	Haemophilus pittmaniae	0	0
+0	NA	Proteobacteria	Coriobacteriia	Pasteurellales	Veillonellaceae	Jeotgalibacillus	Pseudomonas syringae group genomosp. 3	0	0
+0	NA	Firmicutes	Bacilli	Bacteroidales	Rhodobacteraceae	Anaerococcus	Microbulbifer thermotolerans	0	0
+0	NA	Chloroflexi	Chlorobia	Clostridiales	Lactobacillaceae	Tistrella	Fictibacillus arsenicus	0	0
+0	NA	Actinobacteria	Fusobacteriia	Lactobacillales	Bradyrhizobiaceae	Parvularcula	Leuconostoc garlicum	0	0
+0	NA	Tenericutes	Spirochaetia	Flavobacteriales	Rhodospirillaceae	Micavibrio	Glutamicibacter arilaitensis	0	0
+0	NA	Proteobacteria	Gloeobacteria	Rhodospirillales	Flavobacteriaceae	Kangiella	Roseomonas gilardii	0	0
+0	NA	Firmicutes	Gammaproteobacteria	Rhodobacterales	Phyllobacteriaceae	Arsenicicoccus	Shewanella marisflavi	0	0
+0	NA	Chloroflexi	Actinobacteria	Sphingomonadales	Caulobacteraceae	Lysinibacillus	Psychrobacter alimentarius	0	0
+0	NA	Actinobacteria	Alphaproteobacteria	Neisseriales	Comamonadaceae	Phytobacter	Nitrosomonas sp. Is79A3	0	0
+0	NA	Tenericutes	Betaproteobacteria	Rhodocyclales	Nocardiopsaceae	Oscillibacter	Komagataeibacter saccharivorans	0	0
+0	NA	Proteobacteria	Mollicutes	Campylobacterales	Nocardioidaceae	Sinomonas	Komagataeibacter nataicola	0	0
+0	NA	Firmicutes	Coriobacteriia	Gemmatimonadales	Dermabacteraceae	Candidatus Planktophila	Chelativorans sp. BNC1	0	0
+0	NA	Chloroflexi	Bacilli	Erysipelotrichales	Microbacteriaceae	Gordonibacter	Sphingorhabdus flavimaris	0	0
+0	NA	Actinobacteria	Chlorobia	Cytophagales	Nocardiaceae	Mycobacteroides	Erythrobacter seohaensis	0	0
+0	NA	Tenericutes	Fusobacteriia	Selenomonadales	Gordoniaceae	Plantactinospora	Sphingopyxis granuli	0	0
+0	NA	Proteobacteria	Spirochaetia	Tissierellales	Geodermatophilaceae	Sphingorhabdus	Lactobacillus zymae	0	0
+0	NA	Firmicutes	Gloeobacteria	Veillonellales	Burkholderiaceae	Ezakiella	Pseudoalteromonas marina	0	0
+0	NA	Chloroflexi	Gammaproteobacteria	Myxococcales	Erysipelotrichaceae	Aurantimicrobium	Methylobacterium aquaticum	0	0
+0	NA	Actinobacteria	Actinobacteria	Rhizobiales	Pseudomonadaceae	Mycolicibacterium	Ochrobactrum sp. A44	0	0
+0	NA	Tenericutes	Alphaproteobacteria	Bacillales	Peptostreptococcaceae	Clostridioides	Chlorobaculum limnaeum	0	0
+0	NA	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Bacillaceae	Acidipropionibacterium	Mesorhizobium sp. WSM1497	0	0
+0	NA	Firmicutes	Mollicutes	Desulfuromonadales	Aerococcaceae	Cutibacterium	Collimonas arenae	0	0
+0	NA	Chloroflexi	Coriobacteriia	Pseudomonadales	Fusobacteriaceae	Methylorubrum	Collimonas pratensis	0	0
+0	NA	Actinobacteria	Bacilli	Burkholderiales	Nitrosomonadaceae	Methylophilus	Microcella alkaliphila	0	0
+0	NA	Tenericutes	Chlorobia	Micrococcales	Hahellaceae	Stigmatella	Pseudoalteromonas sp. Bsw20308	0	0
+0	NA	Proteobacteria	Fusobacteriia	Corynebacteriales	Shewanellaceae	Treponema	Staphylococcus pseudintermedius	0	0
+0	NA	Firmicutes	Spirochaetia	Enterobacterales	Caldilineaceae	Achromobacter	Streptomyces rubrolavendulae	0	0
+0	NA	Chloroflexi	Gloeobacteria	Methanosarcinales	Orbaceae	Alteromonas	Alteromonas addita	0	0
+0	NA	Actinobacteria	Gammaproteobacteria	Deinococcales	Peptoniphilaceae	Brucella	Bradyrhizobium sp. BTAi1	0	0
+0	NA	Tenericutes	Actinobacteria	Chromatiales	Atopobiaceae	Flavobacterium	Beggiatoa leptomitoformis	0	0
+0	NA	Proteobacteria	Alphaproteobacteria	Xanthomonadales	Eggerthellaceae	Francisella	Arthrobacter sp. FB24	0	0
+0	NA	Firmicutes	Betaproteobacteria	Oceanospirillales	Microbulbiferaceae	Pseudomonas	Photorhabdus asymbiotica	0	0
+0	NA	Chloroflexi	Mollicutes	Alteromonadales	Rhodanobacteraceae	Xanthomonas	Sphingopyxis sp. 113P3	0	0
+0	NA	Actinobacteria	Coriobacteriia	Pasteurellales	Morganellaceae	Rhizobium	Methanobrevibacter olleyae	0	0
+0	NA	Tenericutes	Bacilli	Bacteroidales	Hungateiclostridiaceae	Methylobacterium	Anoxybacillus amylolyticus	0	0
+0	NA	Proteobacteria	Chlorobia	Clostridiales	Spirochaetaceae	Gluconobacter	Frankia sp. EAN1pec	0	0
+0	NA	Firmicutes	Fusobacteriia	Lactobacillales	Moraxellaceae	Acinetobacter	Frankia inefficax	0	0
+0	NA	Chloroflexi	Spirochaetia	Flavobacteriales	Neisseriaceae	Neisseria	Blattabacterium sp. (Cryptocercus kyebangensis)	0	0
+0	NA	Actinobacteria	Gloeobacteria	Rhodospirillales	Alcaligenaceae	Psychrobacter	Pseudoalteromonas spongiae	0	0
+0	NA	Tenericutes	Gammaproteobacteria	Rhodobacterales	Enterobacteriaceae	Bordetella	Enterobacter ludwigii	0	0
+0	NA	Proteobacteria	Actinobacteria	Sphingomonadales	Vibrionaceae	Chromobacterium	Microbacterium paludicola	0	0
+0	NA	Firmicutes	Alphaproteobacteria	Neisseriales	Pasteurellaceae	Citrobacter	Lactobacillus apis	0	0
+0	NA	Chloroflexi	Betaproteobacteria	Rhodocyclales	Chromatiaceae	Enterobacter	Catenulispora acidiphila	0	0
+0	NA	Actinobacteria	Mollicutes	Campylobacterales	Micrococcaceae	Erwinia	Staphylococcus simiae	0	0
+0	NA	Tenericutes	Coriobacteriia	Gemmatimonadales	Streptococcaceae	Escherichia	Rhodovulum sp. MB263	0	0
+0	NA	Proteobacteria	Bacilli	Erysipelotrichales	Corynebacteriaceae	Klebsiella	Flavobacterium indicum	0	0
+0	NA	Firmicutes	Chlorobia	Cytophagales	Mycobacteriaceae	Morganella	Dokdonia sp. MED134	0	0
+0	NA	Chloroflexi	Fusobacteriia	Selenomonadales	Thermomonosporaceae	Proteus	Polaribacter sp. MED152	0	0
+0	NA	Actinobacteria	Spirochaetia	Tissierellales	Actinomycetaceae	Salmonella	Psychromonas sp. CNPT3	0	0
+0	NA	Tenericutes	Gloeobacteria	Veillonellales	Streptomycetaceae	Serratia	Pseudoxanthomonas suwonensis	0	0
+0	NA	Proteobacteria	Gammaproteobacteria	Myxococcales	Pseudonocardiaceae	Yersinia	Spiroplasma eriocheiris	0	0
+0	NA	Firmicutes	Actinobacteria	Rhizobiales	Micromonosporaceae	Aeromonas	Streptococcus gallolyticus	0	0
+0	NA	Chloroflexi	Alphaproteobacteria	Bacillales	Bifidobacteriaceae	Haemophilus	Synechococcus sp. RCC307	0	0
+0	NA	Actinobacteria	Betaproteobacteria	Nitrosomonadales	Propionibacteriaceae	Rickettsia	Synechococcus sp. CC9902	0	0
+0	NA	Tenericutes	Mollicutes	Desulfuromonadales	Veillonellaceae	Bacteroides	Nostoc sp. PCC 7107	0	0
+0	NA	Proteobacteria	Coriobacteriia	Pseudomonadales	Rhodobacteraceae	Prevotella	Gluconobacter albidus	0	0
+0	NA	Firmicutes	Bacilli	Burkholderiales	Lactobacillaceae	Selenomonas	Nonlabens sediminis	0	0
+0	NA	Chloroflexi	Chlorobia	Micrococcales	Bradyrhizobiaceae	Capnocytophaga	Cyclobacterium amurskyense	0	0
+0	NA	Actinobacteria	Fusobacteriia	Corynebacteriales	Rhodospirillaceae	Staphylococcus	Synechococcus sp. JA-3-3Ab	0	0
+0	NA	Tenericutes	Spirochaetia	Enterobacterales	Flavobacteriaceae	Streptococcus	Pontibacter actiniarum	0	0
+0	NA	Proteobacteria	Gloeobacteria	Methanosarcinales	Phyllobacteriaceae	Planococcus	Paenibacillus sp. JDR-2	0	0
+0	NA	Firmicutes	Gammaproteobacteria	Deinococcales	Caulobacteraceae	Aerococcus	Mesoplasma coleopterae	0	0
+0	NA	Chloroflexi	Actinobacteria	Chromatiales	Comamonadaceae	Gemella	Neisseria zoodegmatis	0	0
+0	NA	Actinobacteria	Alphaproteobacteria	Xanthomonadales	Nocardiopsaceae	Bacillus	Capnocytophaga leadbetteri	0	0
+0	NA	Tenericutes	Betaproteobacteria	Oceanospirillales	Nocardioidaceae	Clostridium	Clostridium drakei	0	0
+0	NA	Proteobacteria	Mollicutes	Alteromonadales	Dermabacteraceae	Actinomyces	Aquitalea magnusonii	0	0
+0	NA	Firmicutes	Coriobacteriia	Pasteurellales	Microbacteriaceae	Arthrobacter	Providencia heimbachae	0	0
+0	NA	Chloroflexi	Bacilli	Bacteroidales	Nocardiaceae	Bifidobacterium	Rhodococcus qingshengii	0	0
+0	NA	Actinobacteria	Chlorobia	Clostridiales	Gordoniaceae	Corynebacterium	Bradyrhizobium sp. S23321	0	0
+0	NA	Tenericutes	Fusobacteriia	Lactobacillales	Geodermatophilaceae	Mycobacterium	Gordonia sp. KTR9	0	0
+0	NA	Proteobacteria	Spirochaetia	Flavobacteriales	Burkholderiaceae	Amycolatopsis	Erwinia tasmaniensis	0	0
+0	NA	Firmicutes	Gloeobacteria	Rhodospirillales	Erysipelotrichaceae	Nocardia	Mycobacterium colombiense	0	0
+0	NA	Chloroflexi	Gammaproteobacteria	Rhodobacterales	Pseudomonadaceae	Rhodococcus	Actinoalloteichus hymeniacidonis	0	0
+0	NA	Actinobacteria	Actinobacteria	Sphingomonadales	Peptostreptococcaceae	Nocardioides	Burkholderia oklahomensis	0	0
+0	NA	Tenericutes	Alphaproteobacteria	Neisseriales	Bacillaceae	Pseudonocardia	Pyrococcus sp. NA2	0	0
+0	NA	Proteobacteria	Betaproteobacteria	Rhodocyclales	Aerococcaceae	Geodermatophilus	Zobellella denitrificans	0	0
+0	NA	Firmicutes	Mollicutes	Campylobacterales	Fusobacteriaceae	Actinoplanes	Xenorhabdus hominickii	0	0
+0	NA	Chloroflexi	Coriobacteriia	Gemmatimonadales	Nitrosomonadaceae	Micromonospora	Roseiflexus sp. RS-1	0	0
+0	NA	Actinobacteria	Bacilli	Erysipelotrichales	Hahellaceae	Streptomyces	Acidovorax sp. KKS102	0	0
+0	NA	Tenericutes	Chlorobia	Cytophagales	Shewanellaceae	Nocardiopsis	Microbulbifer sp. A4B17	0	0
+0	NA	Proteobacteria	Fusobacteriia	Selenomonadales	Caldilineaceae	Aeromicrobium	Altererythrobacter epoxidivorans	0	0
+0	NA	Firmicutes	Spirochaetia	Tissierellales	Orbaceae	Gordonia	Pseudarthrobacter phenanthrenivorans	0	0
+0	NA	Chloroflexi	Gloeobacteria	Veillonellales	Peptoniphilaceae	Tsukamurella	Streptomyces vietnamensis	0	0
+0	NA	Actinobacteria	Gammaproteobacteria	Myxococcales	Atopobiaceae	Kitasatospora	Spiroplasma cantharicola	0	0
+0	NA	Tenericutes	Actinobacteria	Rhizobiales	Eggerthellaceae	Mycoplasma	Pedobacter ginsengisoli	0	0
+0	NA	Proteobacteria	Alphaproteobacteria	Bacillales	Microbulbiferaceae	Acholeplasma	Granulibacter bethesdensis	0	0
+0	NA	Firmicutes	Betaproteobacteria	Nitrosomonadales	Rhodanobacteraceae	Magnetospirillum	Sulfurospirillum cavolei	0	0
+0	NA	Chloroflexi	Mollicutes	Desulfuromonadales	Morganellaceae	Sphingomonas	Caulobacter sp. K31	0	0
+0	NA	Actinobacteria	Coriobacteriia	Pseudomonadales	Hungateiclostridiaceae	Acidothermus	Microbacterium sp. XT11	0	0
+0	NA	Tenericutes	Bacilli	Burkholderiales	Spirochaetaceae	Arcanobacterium	Cupriavidus sp. USMAA1020	0	0
+0	NA	Proteobacteria	Chlorobia	Micrococcales	Moraxellaceae	Janthinobacterium	Janthinobacterium svalbardensis	0	0
+0	NA	Firmicutes	Fusobacteriia	Corynebacteriales	Neisseriaceae	Burkholderia	Rivularia sp. PCC 7116	0	0
+0	NA	Chloroflexi	Spirochaetia	Enterobacterales	Alcaligenaceae	Rothia	Enterobacteria phage 933W sensu lato	0	0
+0	NA	Actinobacteria	Gloeobacteria	Methanosarcinales	Enterobacteriaceae	Blastococcus	Lactobacillus backii	0	0
+0	NA	Tenericutes	Gammaproteobacteria	Deinococcales	Vibrionaceae	Stenotrophomonas	Janthinobacterium sp. Marseille	0	0
+0	NA	Proteobacteria	Actinobacteria	Chromatiales	Pasteurellaceae	Actinosynnema	Epibacterium mobile	0	0
+0	NA	Firmicutes	Alphaproteobacteria	Xanthomonadales	Chromatiaceae	Brachybacterium	Pseudomonas protegens	0	0
+0	NA	Chloroflexi	Betaproteobacteria	Oceanospirillales	Micrococcaceae	Cyanothece	Paramecium bursaria Chlorella virus AR158	0	0
+0	NA	Actinobacteria	Mollicutes	Alteromonadales	Streptococcaceae	Salinicoccus	Cycloclasticus sp. P1	0	0
+0	NA	Tenericutes	Coriobacteriia	Pasteurellales	Corynebacteriaceae	Pantoea	Moraxella bovoculi	0	0
+0	NA	Proteobacteria	Bacilli	Bacteroidales	Mycobacteriaceae	Nakamurella	Nitratiruptor sp. SB155-2	0	0
+0	NA	Firmicutes	Chlorobia	Clostridiales	Thermomonosporaceae	Dermacoccus	Sulfurovum sp. NBC37-1	0	0
+0	NA	Chloroflexi	Fusobacteriia	Lactobacillales	Actinomycetaceae	Alcanivorax	Candidatus Protochlamydia naegleriophila	0	0
+0	NA	Actinobacteria	Spirochaetia	Flavobacteriales	Streptomycetaceae	Borreliella	Ehrlichia sp. HF	0	0
+0	NA	Tenericutes	Gloeobacteria	Rhodospirillales	Pseudonocardiaceae	Actinoalloteichus	Lactobacillus crustorum	0	0
+0	NA	Proteobacteria	Gammaproteobacteria	Rhodobacterales	Micromonosporaceae	Orientia	Porphyromonas crevioricanis	0	0
+0	NA	Firmicutes	Actinobacteria	Sphingomonadales	Bifidobacteriaceae	Cryobacterium	Clostridium taeniosporum	0	0
+0	NA	Chloroflexi	Alphaproteobacteria	Neisseriales	Propionibacteriaceae	Tessaracoccus	Cyanothece sp. PCC 7425	0	0
+0	NA	Actinobacteria	Betaproteobacteria	Rhodocyclales	Veillonellaceae	Pseudoxanthomonas	Thioalkalivibrio sp. K90mix	0	0
+0	NA	Tenericutes	Mollicutes	Campylobacterales	Rhodobacteraceae	Modestobacter	Barnesiella viscericola	0	0
+0	NA	Proteobacteria	Coriobacteriia	Gemmatimonadales	Lactobacillaceae	Collinsella	Tessaracoccus flavescens	0	0
+0	NA	Firmicutes	Bacilli	Erysipelotrichales	Bradyrhizobiaceae	Micropruina	Thermoanaerobacter sp. X514	0	0
+0	NA	Chloroflexi	Chlorobia	Cytophagales	Rhodospirillaceae	Ornithinimicrobium	Streptococcus merionis	0	0
+0	NA	Actinobacteria	Fusobacteriia	Selenomonadales	Flavobacteriaceae	Olsenella	Pontibacter korlensis	0	0
+0	NA	Tenericutes	Spirochaetia	Tissierellales	Phyllobacteriaceae	Jeotgalibacillus	Corynebacterium ureicelerivorans	0	0
+0	NA	Proteobacteria	Gloeobacteria	Veillonellales	Caulobacteraceae	Anaerococcus	Halobacillus mangrovi	0	0
+0	NA	Firmicutes	Gammaproteobacteria	Myxococcales	Comamonadaceae	Tistrella	Virgibacillus sp. SK37	0	0
+0	NA	Chloroflexi	Actinobacteria	Rhizobiales	Nocardiopsaceae	Parvularcula	Anaeromyxobacter sp. Fw109-5	0	0
+0	NA	Actinobacteria	Alphaproteobacteria	Bacillales	Nocardioidaceae	Micavibrio	Natrinema sp. J7-2	0	0
+0	NA	Tenericutes	Betaproteobacteria	Nitrosomonadales	Dermabacteraceae	Kangiella	Salinicoccus halodurans	0	0
+0	NA	Proteobacteria	Mollicutes	Desulfuromonadales	Microbacteriaceae	Arsenicicoccus	Streptomyces xiamenensis	0	0
+0	NA	Firmicutes	Coriobacteriia	Pseudomonadales	Nocardiaceae	Lysinibacillus	Bacillus aryabhattai	0	0
+0	NA	Chloroflexi	Bacilli	Burkholderiales	Gordoniaceae	Phytobacter	Microterricola viridarii	0	0
+0	NA	Actinobacteria	Chlorobia	Micrococcales	Geodermatophilaceae	Oscillibacter	[Polyangium] brachysporum	0	0
+0	NA	Tenericutes	Fusobacteriia	Corynebacteriales	Burkholderiaceae	Sinomonas	Paenibacillus donghaensis	0	0
+0	NA	Proteobacteria	Spirochaetia	Enterobacterales	Erysipelotrichaceae	Candidatus Planktophila	Planococcus donghaensis	0	0
+0	NA	Firmicutes	Gloeobacteria	Methanosarcinales	Pseudomonadaceae	Gordonibacter	Actinopolyspora erythraea	0	0
+0	NA	Chloroflexi	Gammaproteobacteria	Deinococcales	Peptostreptococcaceae	Mycobacteroides	Enterococcus thailandicus	0	0
+0	NA	Actinobacteria	Actinobacteria	Chromatiales	Bacillaceae	Plantactinospora	Methylobacterium phyllosphaerae	0	0
+0	NA	Tenericutes	Alphaproteobacteria	Xanthomonadales	Aerococcaceae	Sphingorhabdus	Azoarcus olearius	0	0
+0	NA	Proteobacteria	Betaproteobacteria	Oceanospirillales	Fusobacteriaceae	Ezakiella	Ochrobactrum pseudogrignonense	0	0
+0	NA	Firmicutes	Mollicutes	Alteromonadales	Nitrosomonadaceae	Aurantimicrobium	Bacillus butanolivorans	0	0
+0	NA	Chloroflexi	Coriobacteriia	Pasteurellales	Hahellaceae	Mycolicibacterium	Rhizobium sp. IRBG74	0	0
+0	NA	Actinobacteria	Bacilli	Bacteroidales	Shewanellaceae	Clostridioides	Methylobacterium sp. 4-46	0	0
+0	NA	Tenericutes	Chlorobia	Clostridiales	Caldilineaceae	Acidipropionibacterium	Lysobacter capsici	0	0
+0	NA	Proteobacteria	Fusobacteriia	Lactobacillales	Orbaceae	Cutibacterium	Sulfurihydrogenibium sp. YO3AOP1	0	0
+0	NA	Firmicutes	Spirochaetia	Flavobacteriales	Peptoniphilaceae	Methylorubrum	Variovorax boronicumulans	0	0
+0	NA	Chloroflexi	Gloeobacteria	Rhodospirillales	Atopobiaceae	Methylophilus	Xanthomonas perforans	0	0
+0	NA	Actinobacteria	Gammaproteobacteria	Rhodobacterales	Eggerthellaceae	Stigmatella	Geobacter sp. M21	0	0
+0	NA	Tenericutes	Actinobacteria	Sphingomonadales	Microbulbiferaceae	Treponema	Streptomyces sp. CNQ-509	0	0
+0	NA	Proteobacteria	Alphaproteobacteria	Neisseriales	Rhodanobacteraceae	Achromobacter	Chelatococcus daeguensis	0	0
+0	NA	Firmicutes	Betaproteobacteria	Rhodocyclales	Morganellaceae	Alteromonas	Pseudonocardia sp. AL041005-10	0	0
+0	NA	Chloroflexi	Mollicutes	Campylobacterales	Hungateiclostridiaceae	Brucella	Dyella thiooxydans	0	0
+0	NA	Actinobacteria	Coriobacteriia	Gemmatimonadales	Spirochaetaceae	Flavobacterium	Nostoc sphaeroides	0	0
+0	NA	Tenericutes	Bacilli	Erysipelotrichales	Moraxellaceae	Francisella	Acetobacter senegalensis	0	0
+0	NA	Proteobacteria	Chlorobia	Cytophagales	Neisseriaceae	Pseudomonas	Kocuria flava	0	0
+0	NA	Firmicutes	Fusobacteriia	Selenomonadales	Alcaligenaceae	Xanthomonas	Anaeromyxobacter sp. K	0	0
+0	NA	Chloroflexi	Spirochaetia	Tissierellales	Enterobacteriaceae	Rhizobium	Agromyces aureus	0	0
+0	NA	Actinobacteria	Gloeobacteria	Veillonellales	Vibrionaceae	Methylobacterium	Nocardia terpenica	0	0
+0	NA	Tenericutes	Gammaproteobacteria	Myxococcales	Pasteurellaceae	Gluconobacter	Xanthomonas euvesicatoria	0	0
+0	NA	Proteobacteria	Actinobacteria	Rhizobiales	Chromatiaceae	Acinetobacter	Bordetella genomosp. 6	0	0
+0	NA	Firmicutes	Alphaproteobacteria	Bacillales	Micrococcaceae	Neisseria	Bordetella bronchialis	0	0
+0	NA	Chloroflexi	Betaproteobacteria	Nitrosomonadales	Streptococcaceae	Psychrobacter	Streptomyces sp. Mg1	0	0
+0	NA	Actinobacteria	Mollicutes	Desulfuromonadales	Corynebacteriaceae	Bordetella	Pantoea vagans	0	0
+0	NA	Tenericutes	Coriobacteriia	Pseudomonadales	Mycobacteriaceae	Chromobacterium	Geobacillus sp. WCH70	0	0
+0	NA	Proteobacteria	Bacilli	Burkholderiales	Thermomonosporaceae	Citrobacter	Devriesea agamarum	0	0
+0	NA	Firmicutes	Chlorobia	Micrococcales	Actinomycetaceae	Enterobacter	Candidatus Purcelliella pentastirinorum	0	0
+0	NA	Chloroflexi	Fusobacteriia	Corynebacteriales	Streptomycetaceae	Erwinia	Halomonas beimenensis	0	0
+0	NA	Actinobacteria	Spirochaetia	Enterobacterales	Pseudonocardiaceae	Escherichia	Modestobacter marinus	0	0
+0	NA	Tenericutes	Gloeobacteria	Methanosarcinales	Micromonosporaceae	Klebsiella	Filimonas lacunae	0	0
+0	NA	Proteobacteria	Gammaproteobacteria	Deinococcales	Bifidobacteriaceae	Morganella	Myroides profundi	0	0
+0	NA	Firmicutes	Actinobacteria	Chromatiales	Propionibacteriaceae	Proteus	Acetobacter ascendens	0	0
+0	NA	Chloroflexi	Alphaproteobacteria	Xanthomonadales	Veillonellaceae	Salmonella	Mycobacterium dioxanotrophicus	0	0
+0	NA	Actinobacteria	Betaproteobacteria	Oceanospirillales	Rhodobacteraceae	Serratia	Burkholderia lata	0	0
+0	NA	Tenericutes	Mollicutes	Alteromonadales	Lactobacillaceae	Yersinia	Sphingobium sp. YBL2	0	0
+0	NA	Proteobacteria	Coriobacteriia	Pasteurellales	Bradyrhizobiaceae	Aeromonas	Pelosinus sp. UFO1	0	0
+0	NA	Firmicutes	Bacilli	Bacteroidales	Rhodospirillaceae	Haemophilus	Serratia sp. SCBI	0	0
+0	NA	Chloroflexi	Chlorobia	Clostridiales	Flavobacteriaceae	Rickettsia	Burkholderia latens	0	0
+0	NA	Actinobacteria	Fusobacteriia	Lactobacillales	Phyllobacteriaceae	Bacteroides	Burkholderia contaminans	0	0
+0	NA	Tenericutes	Spirochaetia	Flavobacteriales	Caulobacteraceae	Prevotella	Bacillus velezensis	0	0
+0	NA	Proteobacteria	Gloeobacteria	Rhodospirillales	Comamonadaceae	Selenomonas	Kosakonia oryzae	0	0
+0	NA	Firmicutes	Gammaproteobacteria	Rhodobacterales	Nocardiopsaceae	Capnocytophaga	Dietzia timorensis	0	0
+0	NA	Chloroflexi	Actinobacteria	Sphingomonadales	Nocardioidaceae	Staphylococcus	Eggerthella sp. YY7918	0	0
+0	NA	Actinobacteria	Alphaproteobacteria	Neisseriales	Dermabacteraceae	Streptococcus	Malacobacter marinus	0	0
+0	NA	Tenericutes	Betaproteobacteria	Rhodocyclales	Microbacteriaceae	Planococcus	Halomonas chromatireducens	0	0
+0	NA	Proteobacteria	Mollicutes	Campylobacterales	Nocardiaceae	Aerococcus	Oceanimonas sp. GK1	0	0
+0	NA	Firmicutes	Coriobacteriia	Gemmatimonadales	Gordoniaceae	Gemella	Rufibacter tibetensis	0	0
+0	NA	Chloroflexi	Bacilli	Erysipelotrichales	Geodermatophilaceae	Bacillus	Bartonella sp. 1-1C	0	0
+0	NA	Actinobacteria	Chlorobia	Cytophagales	Burkholderiaceae	Clostridium	Muricauda lutaonensis	0	0
+0	NA	Tenericutes	Fusobacteriia	Selenomonadales	Erysipelotrichaceae	Actinomyces	Vagococcus teuberi	0	0
+0	NA	Proteobacteria	Spirochaetia	Tissierellales	Pseudomonadaceae	Arthrobacter	Paenibacillus xylanexedens	0	0
+0	NA	Firmicutes	Gloeobacteria	Veillonellales	Peptostreptococcaceae	Bifidobacterium	Azospirillum thiophilum	0	0
+0	NA	Chloroflexi	Gammaproteobacteria	Myxococcales	Bacillaceae	Corynebacterium	Rhodoluna lacicola	0	0
+0	NA	Actinobacteria	Actinobacteria	Rhizobiales	Aerococcaceae	Mycobacterium	Prauserella marina	0	0
+0	NA	Tenericutes	Alphaproteobacteria	Bacillales	Fusobacteriaceae	Amycolatopsis	Candidatus Rhodoluna planktonica	0	0
+0	NA	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Nitrosomonadaceae	Nocardia	Chryseobacterium taklimakanense	0	0
+0	NA	Firmicutes	Mollicutes	Desulfuromonadales	Hahellaceae	Rhodococcus	beta proteobacterium CB	0	0
+0	NA	Chloroflexi	Coriobacteriia	Pseudomonadales	Shewanellaceae	Nocardioides	Actinomyces oris	0	0
+0	NA	Actinobacteria	Bacilli	Burkholderiales	Caldilineaceae	Pseudonocardia	Dietzia lutea	0	0
+0	NA	Tenericutes	Chlorobia	Micrococcales	Orbaceae	Geodermatophilus	Francisella halioticida	0	0
+0	NA	Proteobacteria	Fusobacteriia	Corynebacteriales	Peptoniphilaceae	Actinoplanes	Vibrio breoganii	0	0
+0	NA	Firmicutes	Spirochaetia	Enterobacterales	Atopobiaceae	Micromonospora	Streptomyces gilvosporeus	0	0
+0	NA	Chloroflexi	Gloeobacteria	Methanosarcinales	Eggerthellaceae	Streptomyces	Acidovorax carolinensis	0	0
+0	NA	Actinobacteria	Gammaproteobacteria	Deinococcales	Microbulbiferaceae	Nocardiopsis	Brachybacterium saurashtrense	0	0
+0	NA	Tenericutes	Actinobacteria	Chromatiales	Rhodanobacteraceae	Aeromicrobium	Neomicrococcus aestuarii	0	0
+0	NA	Proteobacteria	Alphaproteobacteria	Xanthomonadales	Morganellaceae	Gordonia	Chryseobacterium piperi	0	0
+0	NA	Firmicutes	Betaproteobacteria	Oceanospirillales	Hungateiclostridiaceae	Tsukamurella	Bacillus safensis	0	0
+0	NA	Chloroflexi	Mollicutes	Alteromonadales	Spirochaetaceae	Kitasatospora	Geoglobus acetivorans	0	0
+0	NA	Actinobacteria	Coriobacteriia	Pasteurellales	Moraxellaceae	Mycoplasma	Streptomyces sp. SM17	0	0
+0	NA	Tenericutes	Bacilli	Bacteroidales	Neisseriaceae	Acholeplasma	Ochrobactrum pituitosum	0	0
+0	NA	Proteobacteria	Chlorobia	Clostridiales	Alcaligenaceae	Magnetospirillum	Luteipulveratus mongoliensis	0	0
+0	NA	Firmicutes	Fusobacteriia	Lactobacillales	Enterobacteriaceae	Sphingomonas	Corynebacterium mustelae	0	0
+0	NA	Chloroflexi	Spirochaetia	Flavobacteriales	Vibrionaceae	Acidothermus	Thermoanaerobacter sp. X513	0	0
+0	NA	Actinobacteria	Gloeobacteria	Rhodospirillales	Pasteurellaceae	Arcanobacterium	Francisella sp. TX077310	0	0
+0	NA	Tenericutes	Gammaproteobacteria	Rhodobacterales	Chromatiaceae	Janthinobacterium	Pandoraea oxalativorans	0	0
+0	NA	Proteobacteria	Actinobacteria	Sphingomonadales	Micrococcaceae	Burkholderia	Polynucleobacter necessarius	0	0
+0	NA	Firmicutes	Alphaproteobacteria	Neisseriales	Streptococcaceae	Rothia	Bacillus cytotoxicus	0	0
+0	NA	Chloroflexi	Betaproteobacteria	Rhodocyclales	Corynebacteriaceae	Blastococcus	Geobacillus sp. Y4.1MC1	0	0
+0	NA	Actinobacteria	Mollicutes	Campylobacterales	Mycobacteriaceae	Stenotrophomonas	Thermococcus paralvinellae	0	0
+0	NA	Tenericutes	Coriobacteriia	Gemmatimonadales	Thermomonosporaceae	Actinosynnema	Tenacibaculum jejuense	0	0
+0	NA	Proteobacteria	Bacilli	Erysipelotrichales	Actinomycetaceae	Brachybacterium	Terribacillus aidingensis	0	0
+0	NA	Firmicutes	Chlorobia	Cytophagales	Streptomycetaceae	Cyanothece	Pseudomonas chlororaphis	0	0
+0	NA	Chloroflexi	Fusobacteriia	Selenomonadales	Pseudonocardiaceae	Salinicoccus	Brevundimonas naejangsanensis	0	0
+0	NA	Actinobacteria	Spirochaetia	Tissierellales	Micromonosporaceae	Pantoea	Pantoea sp. At-9b	0	0
+0	NA	Tenericutes	Gloeobacteria	Veillonellales	Bifidobacteriaceae	Nakamurella	Allofrancisella guangzhouensis	0	0
+0	NA	Proteobacteria	Gammaproteobacteria	Myxococcales	Propionibacteriaceae	Dermacoccus	Pseudoalteromonas donghaensis	0	0
+0	NA	Firmicutes	Actinobacteria	Rhizobiales	Veillonellaceae	Alcanivorax	Vagococcus penaei	0	0
+0	NA	Chloroflexi	Alphaproteobacteria	Bacillales	Rhodobacteraceae	Borreliella	Olleya aquimaris	0	0
+0	NA	Actinobacteria	Betaproteobacteria	Nitrosomonadales	Lactobacillaceae	Actinoalloteichus	Burkholderia sp. CCGE1002	0	0
+0	NA	Tenericutes	Mollicutes	Desulfuromonadales	Bradyrhizobiaceae	Orientia	Burkholderia sp. CCGE1003	0	0
+0	NA	Proteobacteria	Coriobacteriia	Pseudomonadales	Rhodospirillaceae	Cryobacterium	Staphylococcus stepanovicii	0	0
+0	NA	Firmicutes	Bacilli	Burkholderiales	Flavobacteriaceae	Tessaracoccus	Altererythrobacter namhicola	0	0
+0	NA	Chloroflexi	Chlorobia	Micrococcales	Phyllobacteriaceae	Pseudoxanthomonas	Micromonospora sp. L5	0	0
+0	NA	Actinobacteria	Fusobacteriia	Corynebacteriales	Caulobacteraceae	Modestobacter	Anaerostipes hadrus	0	0
+0	NA	Tenericutes	Spirochaetia	Enterobacterales	Comamonadaceae	Collinsella	Actinoplanes sp. N902-109	0	0
+0	NA	Proteobacteria	Gloeobacteria	Methanosarcinales	Nocardiopsaceae	Micropruina	Cardinium endosymbiont of Sogatella furcifera	0	0
+0	NA	Firmicutes	Gammaproteobacteria	Deinococcales	Nocardioidaceae	Ornithinimicrobium	Prevotella sp. oral taxon 299	0	0
+0	NA	Chloroflexi	Actinobacteria	Chromatiales	Dermabacteraceae	Olsenella	Methylocystis bryophila	0	0
+0	NA	Actinobacteria	Alphaproteobacteria	Xanthomonadales	Microbacteriaceae	Jeotgalibacillus	Neisseria sp. KEM232	0	0
+0	NA	Tenericutes	Betaproteobacteria	Oceanospirillales	Nocardiaceae	Anaerococcus	Frankia symbiont of Datisca glomerata	0	0
+0	NA	Proteobacteria	Mollicutes	Alteromonadales	Gordoniaceae	Tistrella	Arthrobacter alpinus	0	0
+0	NA	Firmicutes	Coriobacteriia	Pasteurellales	Geodermatophilaceae	Parvularcula	Halanaerobium hydrogeniformans	0	0
+0	NA	Chloroflexi	Bacilli	Bacteroidales	Burkholderiaceae	Micavibrio	Francisella noatunensis	0	0
+0	NA	Actinobacteria	Chlorobia	Clostridiales	Erysipelotrichaceae	Kangiella	Haloarcobacter bivalviorum	0	0
+0	NA	Tenericutes	Fusobacteriia	Lactobacillales	Pseudomonadaceae	Arsenicicoccus	Pantoea calida	0	0
+0	NA	Proteobacteria	Spirochaetia	Flavobacteriales	Peptostreptococcaceae	Lysinibacillus	Pantoea gaviniae	0	0
+0	NA	Firmicutes	Gloeobacteria	Rhodospirillales	Bacillaceae	Phytobacter	Rhodanobacter denitrificans	0	0
+0	NA	Chloroflexi	Gammaproteobacteria	Rhodobacterales	Aerococcaceae	Oscillibacter	Bacillus sp. 1NLA3E	0	0
+0	NA	Actinobacteria	Actinobacteria	Sphingomonadales	Fusobacteriaceae	Sinomonas	Candidatus Profftella armatura	0	0
+0	NA	Tenericutes	Alphaproteobacteria	Neisseriales	Nitrosomonadaceae	Candidatus Planktophila	Cryobacterium arcticum	0	0
+0	NA	Proteobacteria	Betaproteobacteria	Rhodocyclales	Hahellaceae	Gordonibacter	Propionibacterium sp. oral taxon 193	0	0
+0	NA	Firmicutes	Mollicutes	Campylobacterales	Shewanellaceae	Mycobacteroides	Vibrio casei	0	0
+0	NA	Chloroflexi	Coriobacteriia	Gemmatimonadales	Caldilineaceae	Plantactinospora	Aciduliprofundum sp. MAR08-339	0	0
+0	NA	Actinobacteria	Bacilli	Erysipelotrichales	Orbaceae	Sphingorhabdus	Rhodoplanes sp. Z2-YC6860	0	0
+0	NA	Tenericutes	Chlorobia	Cytophagales	Peptoniphilaceae	Ezakiella	Rhodococcus sp. WMMA185	0	0
+0	NA	Proteobacteria	Fusobacteriia	Selenomonadales	Atopobiaceae	Aurantimicrobium	Martelella sp. AD-3	0	0
+0	NA	Firmicutes	Spirochaetia	Tissierellales	Eggerthellaceae	Mycolicibacterium	Enterobacteriaceae bacterium strain FGI 57	0	0
+0	NA	Chloroflexi	Gloeobacteria	Veillonellales	Microbulbiferaceae	Clostridioides	Vibrio owensii	0	0
+0	NA	Actinobacteria	Gammaproteobacteria	Myxococcales	Rhodanobacteraceae	Acidipropionibacterium	Mycobacterium marseillense	0	0
+0	NA	Tenericutes	Actinobacteria	Rhizobiales	Morganellaceae	Cutibacterium	Methylomonas koyamae	0	0
+0	NA	Proteobacteria	Alphaproteobacteria	Bacillales	Hungateiclostridiaceae	Methylorubrum	Corynebacterium sp. NML98-0116	0	0
+0	NA	Firmicutes	Betaproteobacteria	Nitrosomonadales	Spirochaetaceae	Methylophilus	Jeotgalibaca dankookensis	0	0
+0	NA	Chloroflexi	Mollicutes	Desulfuromonadales	Moraxellaceae	Stigmatella	Aurantimicrobium minutum	0	0
+0	NA	Actinobacteria	Coriobacteriia	Pseudomonadales	Neisseriaceae	Treponema	Actinomyces sp. oral taxon 414	0	0
+0	NA	Tenericutes	Bacilli	Burkholderiales	Alcaligenaceae	Achromobacter	Dietzia sp. oral taxon 368	0	0
+0	NA	Proteobacteria	Chlorobia	Micrococcales	Enterobacteriaceae	Alteromonas	Haemophilus sp. oral taxon 036	0	0
+0	NA	Firmicutes	Fusobacteriia	Corynebacteriales	Vibrionaceae	Brucella	Leptotrichia sp. oral taxon 212	0	0
+0	NA	Chloroflexi	Spirochaetia	Enterobacterales	Pasteurellaceae	Flavobacterium	Leptotrichia sp. oral taxon 498	0	0
+0	NA	Actinobacteria	Gloeobacteria	Methanosarcinales	Chromatiaceae	Francisella	Olsenella sp. oral taxon 807	0	0
+0	NA	Tenericutes	Gammaproteobacteria	Deinococcales	Micrococcaceae	Pseudomonas	Selenomonas sp. oral taxon 478	0	0
+0	NA	Proteobacteria	Actinobacteria	Chromatiales	Streptococcaceae	Xanthomonas	Streptococcus sp. oral taxon 431	0	0
+0	NA	Firmicutes	Alphaproteobacteria	Xanthomonadales	Corynebacteriaceae	Rhizobium	Tannerella sp. oral taxon HOT-286	0	0
+0	NA	Chloroflexi	Betaproteobacteria	Oceanospirillales	Mycobacteriaceae	Methylobacterium	Lachnospiraceae bacterium oral taxon 500	0	0
+0	NA	Actinobacteria	Mollicutes	Alteromonadales	Thermomonosporaceae	Gluconobacter	Selenomonas sp. oral taxon 136	0	0
+0	NA	Tenericutes	Coriobacteriia	Pasteurellales	Actinomycetaceae	Acinetobacter	Alteromonas naphthalenivorans	0	0
+0	NA	Proteobacteria	Bacilli	Bacteroidales	Streptomycetaceae	Neisseria	Campylobacter virus CP220	0	0
+0	NA	Firmicutes	Chlorobia	Clostridiales	Pseudonocardiaceae	Psychrobacter	Cycloclasticus sp. PY97N	0	0
+0	NA	Chloroflexi	Fusobacteriia	Lactobacillales	Micromonosporaceae	Bordetella	Rahnella sp. Y9602	0	0
+0	NA	Actinobacteria	Spirochaetia	Flavobacteriales	Bifidobacteriaceae	Chromobacterium	Delftia sp. Cs1-4	0	0
+0	NA	Tenericutes	Gloeobacteria	Rhodospirillales	Propionibacteriaceae	Citrobacter	Sphingobacterium sp. 21	0	0
+0	NA	Proteobacteria	Gammaproteobacteria	Rhodobacterales	Veillonellaceae	Enterobacter	alpha proteobacterium HIMB59	0	0
+0	NA	Firmicutes	Actinobacteria	Sphingomonadales	Rhodobacteraceae	Erwinia	Sphingomonas sp. MM-1	0	0
+0	NA	Chloroflexi	Alphaproteobacteria	Neisseriales	Lactobacillaceae	Escherichia	Halobacterium sp. DL1	0	0
+0	NA	Actinobacteria	Betaproteobacteria	Rhodocyclales	Bradyrhizobiaceae	Klebsiella	Winogradskyella sp. PG-2	0	0
+0	NA	Tenericutes	Mollicutes	Campylobacterales	Rhodospirillaceae	Morganella	Methylophaga frappieri	0	0
+0	NA	Proteobacteria	Coriobacteriia	Gemmatimonadales	Flavobacteriaceae	Proteus	Salinigranum rubrum	0	0
+0	NA	Firmicutes	Bacilli	Erysipelotrichales	Phyllobacteriaceae	Salmonella	Clostridium sp. BNL1100	0	0
+0	NA	Chloroflexi	Chlorobia	Cytophagales	Caulobacteraceae	Serratia	Bacillus sp. WP8	0	0
+0	NA	Actinobacteria	Fusobacteriia	Selenomonadales	Comamonadaceae	Yersinia	Acinetobacter indicus	0	0
+0	NA	Tenericutes	Spirochaetia	Tissierellales	Nocardiopsaceae	Aeromonas	Burkholderia sp. RPE67	0	0
+0	NA	Proteobacteria	Gloeobacteria	Veillonellales	Nocardioidaceae	Haemophilus	Mycolicibacterium litorale	0	0
+0	NA	Firmicutes	Gammaproteobacteria	Myxococcales	Dermabacteraceae	Rickettsia	Serratia sp. AS12	0	0
+0	NA	Chloroflexi	Actinobacteria	Rhizobiales	Microbacteriaceae	Bacteroides	Serratia sp. AS13	0	0
+0	NA	Actinobacteria	Alphaproteobacteria	Bacillales	Nocardiaceae	Prevotella	Opitutaceae bacterium TAV5	0	0
+0	NA	Tenericutes	Betaproteobacteria	Nitrosomonadales	Gordoniaceae	Selenomonas	Janibacter indicus	0	0
+0	NA	Proteobacteria	Mollicutes	Desulfuromonadales	Geodermatophilaceae	Capnocytophaga	Bacillus kochii	0	0
+0	NA	Firmicutes	Coriobacteriia	Pseudomonadales	Burkholderiaceae	Staphylococcus	alpha proteobacterium HIMB5	0	0
+0	NA	Chloroflexi	Bacilli	Burkholderiales	Erysipelotrichaceae	Streptococcus	Kibdelosporangium phytohabitans	0	0
+0	NA	Actinobacteria	Chlorobia	Micrococcales	Pseudomonadaceae	Planococcus	Streptomyces sp. SirexAA-E	0	0
+0	NA	Tenericutes	Fusobacteriia	Corynebacteriales	Peptostreptococcaceae	Aerococcus	Methanothermobacter sp. CaT2	0	0
+0	NA	Proteobacteria	Spirochaetia	Enterobacterales	Bacillaceae	Gemella	Methanobacterium paludis	0	0
+0	NA	Firmicutes	Gloeobacteria	Methanosarcinales	Aerococcaceae	Bacillus	Mycolicibacter sinensis	0	0
+0	NA	Chloroflexi	Gammaproteobacteria	Deinococcales	Fusobacteriaceae	Clostridium	Cupriavidus sp. USMAA2-4	0	0
+0	NA	Actinobacteria	Actinobacteria	Chromatiales	Nitrosomonadaceae	Actinomyces	Methanobacterium lacus	0	0
+0	NA	Tenericutes	Alphaproteobacteria	Xanthomonadales	Hahellaceae	Arthrobacter	Shinella sp. HZN7	0	0
+0	NA	Proteobacteria	Betaproteobacteria	Oceanospirillales	Shewanellaceae	Bifidobacterium	Methylovorus sp. MP688	0	0
+0	NA	Firmicutes	Mollicutes	Alteromonadales	Caldilineaceae	Corynebacterium	Alkalitalea saponilacus	0	0
+0	NA	Chloroflexi	Coriobacteriia	Pasteurellales	Orbaceae	Mycobacterium	Kangiella geojedonensis	0	0
+0	NA	Actinobacteria	Bacilli	Bacteroidales	Peptoniphilaceae	Amycolatopsis	Sandaracinus amylolyticus	0	0
+0	NA	Tenericutes	Chlorobia	Clostridiales	Atopobiaceae	Nocardia	Gibbsiella quercinecans	0	0
+0	NA	Proteobacteria	Fusobacteriia	Lactobacillales	Eggerthellaceae	Rhodococcus	Salmonella phage RE-2010	0	0
+0	NA	Firmicutes	Spirochaetia	Flavobacteriales	Microbulbiferaceae	Nocardioides	Pseudomonas brassicacearum	0	0
+0	NA	Chloroflexi	Gloeobacteria	Rhodospirillales	Rhodanobacteraceae	Pseudonocardia	Bradyrhizobium ottawaense	0	0
+0	NA	Actinobacteria	Gammaproteobacteria	Rhodobacterales	Morganellaceae	Geodermatophilus	Rhodococcus sp. p52	0	0
+0	NA	Tenericutes	Actinobacteria	Sphingomonadales	Hungateiclostridiaceae	Actinoplanes	Arcobacter sp. L	0	0
+0	NA	Proteobacteria	Alphaproteobacteria	Neisseriales	Spirochaetaceae	Micromonospora	Aeromonas rivipollensis	0	0
+0	NA	Firmicutes	Betaproteobacteria	Rhodocyclales	Moraxellaceae	Streptomyces	Leuconostoc sp. C2	0	0
+0	NA	Chloroflexi	Mollicutes	Campylobacterales	Neisseriaceae	Nocardiopsis	Deinococcus wulumuqiensis	0	0
+0	NA	Actinobacteria	Coriobacteriia	Gemmatimonadales	Alcaligenaceae	Aeromicrobium	Lacinutrix sp. 5H-3-7-4	0	0
+0	NA	Tenericutes	Bacilli	Erysipelotrichales	Enterobacteriaceae	Gordonia	Glaciecola sp. 4H-3-7+YE-5	0	0
+0	NA	Proteobacteria	Chlorobia	Cytophagales	Vibrionaceae	Tsukamurella	Dokdonia sp. 4H-3-7-5	0	0
+0	NA	Firmicutes	Fusobacteriia	Selenomonadales	Pasteurellaceae	Kitasatospora	Staphylococcus argenteus	0	0
+0	NA	Chloroflexi	Spirochaetia	Tissierellales	Chromatiaceae	Mycoplasma	Staphylococcus agnetis	0	0
+0	NA	Actinobacteria	Gloeobacteria	Veillonellales	Micrococcaceae	Acholeplasma	Sweet potato vein clearing virus	0	0
+0	NA	Tenericutes	Gammaproteobacteria	Myxococcales	Streptococcaceae	Magnetospirillum	Polaribacter reichenbachii	0	0
+0	NA	Proteobacteria	Actinobacteria	Rhizobiales	Corynebacteriaceae	Sphingomonas	Candidatus Pelagibacter sp. IMCC9063	0	0
+0	NA	Firmicutes	Alphaproteobacteria	Bacillales	Mycobacteriaceae	Acidothermus	Verrucosispora maris	0	0
+0	NA	Chloroflexi	Betaproteobacteria	Nitrosomonadales	Thermomonosporaceae	Arcanobacterium	Gordonia iterans	0	0
+0	NA	Actinobacteria	Mollicutes	Desulfuromonadales	Actinomycetaceae	Janthinobacterium	Lactobacillus ginsenosidimutans	0	0
+0	NA	Tenericutes	Coriobacteriia	Pseudomonadales	Streptomycetaceae	Burkholderia	Novosphingobium sp. THN1	0	0
+0	NA	Proteobacteria	Bacilli	Burkholderiales	Pseudonocardiaceae	Rothia	Pseudomonas sp. StFLB209	0	0
+0	NA	Firmicutes	Chlorobia	Micrococcales	Micromonosporaceae	Blastococcus	Rhodococcus sp. WB1	0	0
+0	NA	Chloroflexi	Fusobacteriia	Corynebacteriales	Bifidobacteriaceae	Stenotrophomonas	Planococcus plakortidis	0	0
+0	NA	Actinobacteria	Spirochaetia	Enterobacterales	Propionibacteriaceae	Actinosynnema	Candidatus Arthromitus sp. SFB-rat-Yit	0	0
+0	NA	Tenericutes	Gloeobacteria	Methanosarcinales	Veillonellaceae	Brachybacterium	Clostridium sp. SY8519	0	0
+0	NA	Proteobacteria	Gammaproteobacteria	Deinococcales	Rhodobacteraceae	Cyanothece	Rhodococcus sp. YL-1	0	0
+0	NA	Firmicutes	Actinobacteria	Chromatiales	Lactobacillaceae	Salinicoccus	Bacillus cellulasensis	0	0
+0	NA	Chloroflexi	Alphaproteobacteria	Xanthomonadales	Bradyrhizobiaceae	Pantoea	Corynebacterium epidermidicanis	0	0
+0	NA	Actinobacteria	Betaproteobacteria	Oceanospirillales	Rhodospirillaceae	Nakamurella	Candidatus Gullanella endobia	0	0
+0	NA	Tenericutes	Mollicutes	Alteromonadales	Flavobacteriaceae	Dermacoccus	Corynebacterium uterequi	0	0
+0	NA	Proteobacteria	Coriobacteriia	Pasteurellales	Phyllobacteriaceae	Alcanivorax	Pantoea rwandensis	0	0
+0	NA	Firmicutes	Bacilli	Bacteroidales	Caulobacteraceae	Borreliella	Paracoccus zhejiangensis	0	0
+0	NA	Chloroflexi	Chlorobia	Clostridiales	Comamonadaceae	Actinoalloteichus	Comamonas serinivorans	0	0
+0	NA	Actinobacteria	Fusobacteriia	Lactobacillales	Nocardiopsaceae	Orientia	Persicobacter sp. JZB09	0	0
+0	NA	Tenericutes	Spirochaetia	Flavobacteriales	Nocardioidaceae	Cryobacterium	Dickeya solani	0	0
+0	NA	Proteobacteria	Gloeobacteria	Rhodospirillales	Dermabacteraceae	Tessaracoccus	Megavirus chiliensis	0	0
+0	NA	Firmicutes	Gammaproteobacteria	Rhodobacterales	Microbacteriaceae	Pseudoxanthomonas	Pseudonocardia sp. EC080619-01	0	0
+0	NA	Chloroflexi	Actinobacteria	Sphingomonadales	Nocardiaceae	Modestobacter	Pseudonocardia sp. EC080625-04	0	0
+0	NA	Actinobacteria	Alphaproteobacteria	Neisseriales	Gordoniaceae	Collinsella	Burkholderia sp. YI23	0	0
+0	NA	Tenericutes	Betaproteobacteria	Rhodocyclales	Geodermatophilaceae	Micropruina	Chromobacterium vaccinii	0	0
+0	NA	Proteobacteria	Mollicutes	Campylobacterales	Burkholderiaceae	Ornithinimicrobium	Streptomyces sp. SCSIO 03032	0	0
+0	NA	Firmicutes	Coriobacteriia	Gemmatimonadales	Erysipelotrichaceae	Olsenella	Thermus sp. CCB_US3_UF1	0	0
+0	NA	Chloroflexi	Bacilli	Erysipelotrichales	Pseudomonadaceae	Jeotgalibacillus	Alcanivorax sp. NBRC 101098	0	0
+0	NA	Actinobacteria	Chlorobia	Cytophagales	Peptostreptococcaceae	Anaerococcus	Spiroplasma atrichopogonis	0	0
+0	NA	Tenericutes	Fusobacteriia	Selenomonadales	Bacillaceae	Tistrella	Elizabethkingia anophelis	0	0
+0	NA	Proteobacteria	Spirochaetia	Tissierellales	Aerococcaceae	Parvularcula	Halomonas sp. GFAJ-1	0	0
+0	NA	Firmicutes	Gloeobacteria	Veillonellales	Fusobacteriaceae	Micavibrio	Arthrobacter sp. Rue61a	0	0
+0	NA	Chloroflexi	Gammaproteobacteria	Myxococcales	Nitrosomonadaceae	Kangiella	Rhizobium sp. NT-26	0	0
+0	NA	Actinobacteria	Actinobacteria	Rhizobiales	Hahellaceae	Arsenicicoccus	Mimivirus terra2	0	0
+0	NA	Tenericutes	Alphaproteobacteria	Bacillales	Shewanellaceae	Lysinibacillus	Dehalobacter sp. CF	0	0
+0	NA	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Caldilineaceae	Phytobacter	Thauera humireducens	0	0
+0	NA	Firmicutes	Mollicutes	Desulfuromonadales	Orbaceae	Oscillibacter	Klebsiella michiganensis	0	0
+0	NA	Chloroflexi	Coriobacteriia	Pseudomonadales	Peptoniphilaceae	Sinomonas	Gordonia phthalatica	0	0
+0	NA	Actinobacteria	Bacilli	Burkholderiales	Atopobiaceae	Candidatus Planktophila	Mycobacterium paraintracellulare	0	0
+0	NA	Tenericutes	Chlorobia	Micrococcales	Eggerthellaceae	Gordonibacter	Massilia putida	0	0
+0	NA	Proteobacteria	Fusobacteriia	Corynebacteriales	Microbulbiferaceae	Mycobacteroides	Lysinibacillus varians	0	0
+0	NA	Firmicutes	Spirochaetia	Enterobacterales	Rhodanobacteraceae	Plantactinospora	Dehalobacter sp. DCA	0	0
+0	NA	Chloroflexi	Gloeobacteria	Methanosarcinales	Morganellaceae	Sphingorhabdus	Salmonella phage SPN3UB	0	0
+0	NA	Actinobacteria	Gammaproteobacteria	Deinococcales	Hungateiclostridiaceae	Ezakiella	Pseudomonas furukawaii	0	0
+0	NA	Tenericutes	Actinobacteria	Chromatiales	Spirochaetaceae	Aurantimicrobium	Flavobacteriaceae bacterium UJ101	0	0
+0	NA	Proteobacteria	Alphaproteobacteria	Xanthomonadales	Moraxellaceae	Mycolicibacterium	Streptococcus sp. I-G2	0	0
+0	NA	Firmicutes	Betaproteobacteria	Oceanospirillales	Neisseriaceae	Clostridioides	Streptococcus sp. I-P16	0	0
+0	NA	Chloroflexi	Mollicutes	Alteromonadales	Alcaligenaceae	Acidipropionibacterium	Thermotoga sp. Cell2	0	0
+0	NA	Actinobacteria	Coriobacteriia	Pasteurellales	Enterobacteriaceae	Cutibacterium	Kosakonia sacchari	0	0
+0	NA	Tenericutes	Bacilli	Bacteroidales	Vibrionaceae	Methylorubrum	Pontimonas salivibrio	0	0
+0	NA	Proteobacteria	Chlorobia	Clostridiales	Pasteurellaceae	Methylophilus	Ruminococcus bicirculans	0	0
+0	NA	Firmicutes	Fusobacteriia	Lactobacillales	Chromatiaceae	Stigmatella	Candidatus Thiodictyon syntrophicum	0	0
+0	NA	Chloroflexi	Spirochaetia	Flavobacteriales	Micrococcaceae	Treponema	Draconibacterium orientale	0	0
+0	NA	Actinobacteria	Gloeobacteria	Rhodospirillales	Streptococcaceae	Achromobacter	Mycobacterium sp. MOTT36Y	0	0
+0	NA	Tenericutes	Gammaproteobacteria	Rhodobacterales	Corynebacteriaceae	Alteromonas	Geitlerinema sp. PCC 7407	0	0
+0	NA	Proteobacteria	Actinobacteria	Sphingomonadales	Mycobacteriaceae	Brucella	Gloeocapsa sp. PCC 7428	0	0
+0	NA	Firmicutes	Alphaproteobacteria	Neisseriales	Thermomonosporaceae	Flavobacterium	Synechococcus sp. PCC 7502	0	0
+0	NA	Chloroflexi	Betaproteobacteria	Rhodocyclales	Actinomycetaceae	Francisella	Halocynthia phage JM-2012	0	0
+0	NA	Actinobacteria	Mollicutes	Campylobacterales	Streptomycetaceae	Pseudomonas	Salmonella phage FSL SP-058	0	0
+0	NA	Tenericutes	Coriobacteriia	Gemmatimonadales	Pseudonocardiaceae	Xanthomonas	Prevotella jejuni	0	0
+0	NA	Proteobacteria	Bacilli	Erysipelotrichales	Micromonosporaceae	Rhizobium	Salmonella phage SSU5	0	0
+0	NA	Firmicutes	Chlorobia	Cytophagales	Bifidobacteriaceae	Methylobacterium	Spirosoma montaniterrae	0	0
+0	NA	Chloroflexi	Fusobacteriia	Selenomonadales	Propionibacteriaceae	Gluconobacter	Bacillus xiamenensis	0	0
+0	NA	Actinobacteria	Spirochaetia	Tissierellales	Veillonellaceae	Acinetobacter	Clostridium phage PhiS63	0	0
+0	NA	Tenericutes	Gloeobacteria	Veillonellales	Rhodobacteraceae	Neisseria	Ferriphaselus amnicola	0	0
+0	NA	Proteobacteria	Gammaproteobacteria	Myxococcales	Lactobacillaceae	Psychrobacter	Flammeovirga sp. MY04	0	0
+0	NA	Firmicutes	Actinobacteria	Rhizobiales	Bradyrhizobiaceae	Bordetella	Snodgrassella alvi	0	0
+0	NA	Chloroflexi	Alphaproteobacteria	Bacillales	Rhodospirillaceae	Chromobacterium	Gilliamella apicola	0	0
+0	NA	Actinobacteria	Betaproteobacteria	Nitrosomonadales	Flavobacteriaceae	Citrobacter	Cloacibacillus porcorum	0	0
+0	NA	Tenericutes	Mollicutes	Desulfuromonadales	Phyllobacteriaceae	Enterobacter	secondary endosymbiont of Ctenarytaina eucalypti	0	0
+0	NA	Proteobacteria	Coriobacteriia	Pseudomonadales	Caulobacteraceae	Erwinia	Pseudomonas sp. UW4	0	0
+0	NA	Firmicutes	Bacilli	Burkholderiales	Comamonadaceae	Escherichia	Celeribacter indicus	0	0
+0	NA	Chloroflexi	Chlorobia	Micrococcales	Nocardiopsaceae	Klebsiella	Planococcus halocryophilus	0	0
+0	NA	Actinobacteria	Fusobacteriia	Corynebacteriales	Nocardioidaceae	Morganella	Clostridium bornimense	0	0
+0	NA	Tenericutes	Spirochaetia	Enterobacterales	Dermabacteraceae	Proteus	Lactobacillus kullabergensis	0	0
+0	NA	Proteobacteria	Gloeobacteria	Methanosarcinales	Microbacteriaceae	Salmonella	Fictibacillus phosphorivorans	0	0
+0	NA	Firmicutes	Gammaproteobacteria	Deinococcales	Nocardiaceae	Serratia	Exiguobacterium sp. ZWU0009	0	0
+0	NA	Chloroflexi	Actinobacteria	Chromatiales	Gordoniaceae	Yersinia	Candidatus Nitrosopumilus sediminis	0	0
+0	NA	Actinobacteria	Alphaproteobacteria	Xanthomonadales	Geodermatophilaceae	Aeromonas	Mucilaginibacter sp. BJC16-A31	0	0
+0	NA	Tenericutes	Betaproteobacteria	Oceanospirillales	Burkholderiaceae	Haemophilus	Pseudorhodoplanes sinuspersici	0	0
+0	NA	Proteobacteria	Mollicutes	Alteromonadales	Erysipelotrichaceae	Rickettsia	Sodalis praecaptivus	0	0
+0	NA	Firmicutes	Coriobacteriia	Pasteurellales	Pseudomonadaceae	Bacteroides	endosymbiont of unidentified scaly snail isolate Monju	0	0
+0	NA	Chloroflexi	Bacilli	Bacteroidales	Peptostreptococcaceae	Prevotella	Pelagibaca abyssi	0	0
+0	NA	Actinobacteria	Chlorobia	Clostridiales	Bacillaceae	Selenomonas	Pseudomonas sp. FGI182	0	0
+0	NA	Tenericutes	Fusobacteriia	Lactobacillales	Aerococcaceae	Capnocytophaga	Streptomyces sp. 769	0	0
+0	NA	Proteobacteria	Spirochaetia	Flavobacteriales	Fusobacteriaceae	Staphylococcus	Edwardsiella piscicida	0	0
+0	NA	Firmicutes	Gloeobacteria	Rhodospirillales	Nitrosomonadaceae	Streptococcus	Chryseobacterium camelliae	0	0
+0	NA	Chloroflexi	Gammaproteobacteria	Rhodobacterales	Hahellaceae	Planococcus	Streptomyces sp. PAMC 26508	0	0
+0	NA	Actinobacteria	Actinobacteria	Sphingomonadales	Shewanellaceae	Aerococcus	Frischella perrara	0	0
+0	NA	Tenericutes	Alphaproteobacteria	Neisseriales	Caldilineaceae	Gemella	Altererythrobacter atlanticus	0	0
+0	NA	Proteobacteria	Betaproteobacteria	Rhodocyclales	Orbaceae	Bacillus	Mycobacterium sp. VKM Ac-1817D	0	0
+0	NA	Firmicutes	Mollicutes	Campylobacterales	Peptoniphilaceae	Clostridium	Bradyrhizobium icense	0	0
+0	NA	Chloroflexi	Coriobacteriia	Gemmatimonadales	Atopobiaceae	Actinomyces	Pseudomonas sp. URMO17WK12:I11	0	0
+0	NA	Actinobacteria	Bacilli	Erysipelotrichales	Eggerthellaceae	Arthrobacter	Nitrosospira lacus	0	0
+0	NA	Tenericutes	Chlorobia	Cytophagales	Microbulbiferaceae	Bifidobacterium	Magnetospira sp. QH-2	0	0
+0	NA	Proteobacteria	Fusobacteriia	Selenomonadales	Rhodanobacteraceae	Corynebacterium	Pseudomonas sp. ATCC 13867	0	0
+0	NA	Firmicutes	Spirochaetia	Tissierellales	Morganellaceae	Mycobacterium	Aquabacterium olei	0	0
+0	NA	Chloroflexi	Gloeobacteria	Veillonellales	Hungateiclostridiaceae	Amycolatopsis	Intestinimonas butyriciproducens	0	0
+0	NA	Actinobacteria	Gammaproteobacteria	Myxococcales	Spirochaetaceae	Nocardia	Methanocaldococcus bathoardescens	0	0
+0	NA	Tenericutes	Actinobacteria	Rhizobiales	Moraxellaceae	Rhodococcus	Planococcus versutus	0	0
+0	NA	Proteobacteria	Alphaproteobacteria	Bacillales	Neisseriaceae	Nocardioides	Flavobacterium commune	0	0
+0	NA	Firmicutes	Betaproteobacteria	Nitrosomonadales	Alcaligenaceae	Pseudonocardia	Salinivirga cyanobacteriivorans	0	0
+0	NA	Chloroflexi	Mollicutes	Desulfuromonadales	Enterobacteriaceae	Geodermatophilus	Blattabacterium sp. (Nauphoeta cinerea)	0	0
+0	NA	Actinobacteria	Coriobacteriia	Pseudomonadales	Vibrionaceae	Actinoplanes	Capnocytophaga sp. oral taxon 864	0	0
+0	NA	Tenericutes	Bacilli	Burkholderiales	Pasteurellaceae	Micromonospora	Capnocytophaga sp. oral taxon 878	0	0
+0	NA	Proteobacteria	Chlorobia	Micrococcales	Chromatiaceae	Streptomyces	Bartonella ancashensis	0	0
+0	NA	Firmicutes	Fusobacteriia	Corynebacteriales	Micrococcaceae	Nocardiopsis	Acinetobacter equi	0	0
+0	NA	Chloroflexi	Spirochaetia	Enterobacterales	Streptococcaceae	Aeromicrobium	Chryseobacterium gallinarum	0	0
+0	NA	Actinobacteria	Gloeobacteria	Methanosarcinales	Corynebacteriaceae	Gordonia	Nitrospira japonica	0	0
+0	NA	Tenericutes	Gammaproteobacteria	Deinococcales	Mycobacteriaceae	Tsukamurella	Sphingomonas sp. Cra20	0	0
+0	NA	Proteobacteria	Actinobacteria	Chromatiales	Thermomonosporaceae	Kitasatospora	Mycobacterium phage Chy4	0	0
+0	NA	Firmicutes	Alphaproteobacteria	Xanthomonadales	Actinomycetaceae	Mycoplasma	Mycobacterium phage Chy5	0	0
+0	NA	Chloroflexi	Betaproteobacteria	Oceanospirillales	Streptomycetaceae	Acholeplasma	Serratia sp. FS14	0	0
+0	NA	Actinobacteria	Mollicutes	Alteromonadales	Pseudonocardiaceae	Magnetospirillum	Brachybacterium ginsengisoli	0	0
+0	NA	Tenericutes	Coriobacteriia	Pasteurellales	Micromonosporaceae	Sphingomonas	Sphingobium baderi	0	0
+0	NA	Proteobacteria	Bacilli	Bacteroidales	Bifidobacteriaceae	Acidothermus	Tessaracoccus aquimaris	0	0
+0	NA	Firmicutes	Chlorobia	Clostridiales	Propionibacteriaceae	Arcanobacterium	Gordonibacter urolithinfaciens	0	0
+0	NA	Chloroflexi	Fusobacteriia	Lactobacillales	Veillonellaceae	Janthinobacterium	Formosa sp. Hel1_33_131	0	0
+0	NA	Actinobacteria	Spirochaetia	Flavobacteriales	Rhodobacteraceae	Burkholderia	Formosa sp. Hel3_A1_48	0	0
+0	NA	Tenericutes	Gloeobacteria	Rhodospirillales	Lactobacillaceae	Rothia	Croceicoccus naphthovorans	0	0
+0	NA	Proteobacteria	Gammaproteobacteria	Rhodobacterales	Bradyrhizobiaceae	Blastococcus	Pandoravirus salinus	0	0
+0	NA	Firmicutes	Actinobacteria	Sphingomonadales	Rhodospirillaceae	Stenotrophomonas	Aureimonas sp. AU20	0	0
+0	NA	Chloroflexi	Alphaproteobacteria	Neisseriales	Flavobacteriaceae	Actinosynnema	Streptomyces pluripotens	0	0
+0	NA	Actinobacteria	Betaproteobacteria	Rhodocyclales	Phyllobacteriaceae	Brachybacterium	Flavobacterium faecale	0	0
+0	NA	Tenericutes	Mollicutes	Campylobacterales	Caulobacteraceae	Cyanothece	Bradyrhizobium diazoefficiens	0	0
+0	NA	Proteobacteria	Coriobacteriia	Gemmatimonadales	Comamonadaceae	Salinicoccus	Arthrobacter sp. QXT-31	0	0
+0	NA	Firmicutes	Bacilli	Erysipelotrichales	Nocardiopsaceae	Pantoea	Dyella jiangningensis	0	0
+0	NA	Chloroflexi	Chlorobia	Cytophagales	Nocardioidaceae	Nakamurella	Gemmatimonas phototrophica	0	0
+0	NA	Actinobacteria	Fusobacteriia	Selenomonadales	Dermabacteraceae	Dermacoccus	Methanobacterium sp. MB1	0	0
+0	NA	Tenericutes	Spirochaetia	Tissierellales	Microbacteriaceae	Alcanivorax	Spirosoma radiotolerans	0	0
+0	NA	Proteobacteria	Gloeobacteria	Veillonellales	Nocardiaceae	Borreliella	Rufibacter sp. DG15C	0	0
+0	NA	Firmicutes	Gammaproteobacteria	Myxococcales	Gordoniaceae	Actinoalloteichus	Rufibacter sp. DG31D	0	0
+0	NA	Chloroflexi	Actinobacteria	Rhizobiales	Geodermatophilaceae	Orientia	Flagellimonas sp. HME9304	0	0
+0	NA	Actinobacteria	Alphaproteobacteria	Bacillales	Burkholderiaceae	Cryobacterium	Methyloceanibacter caenitepidi	0	0
+0	NA	Tenericutes	Betaproteobacteria	Nitrosomonadales	Erysipelotrichaceae	Tessaracoccus	Hymenobacter sp. DG25A	0	0
+0	NA	Proteobacteria	Mollicutes	Desulfuromonadales	Pseudomonadaceae	Pseudoxanthomonas	Hymenobacter sp. DG25B	0	0
+0	NA	Firmicutes	Coriobacteriia	Pseudomonadales	Peptostreptococcaceae	Modestobacter	Paludisphaera borealis	0	0
+0	NA	Chloroflexi	Bacilli	Burkholderiales	Bacillaceae	Collinsella	Sulfitobacter sp. SK011	0	0
+0	NA	Actinobacteria	Chlorobia	Micrococcales	Aerococcaceae	Micropruina	Sulfitobacter sp. SK025	0	0
+0	NA	Tenericutes	Fusobacteriia	Corynebacteriales	Fusobacteriaceae	Ornithinimicrobium	Cupriavidus sp. USMAHM13	0	0
+0	NA	Proteobacteria	Spirochaetia	Enterobacterales	Nitrosomonadaceae	Olsenella	Celeribacter marinus	0	0
+0	NA	Firmicutes	Gloeobacteria	Methanosarcinales	Hahellaceae	Jeotgalibacillus	Exiguobacterium sp. MH3	0	0
+0	NA	Chloroflexi	Gammaproteobacteria	Deinococcales	Shewanellaceae	Anaerococcus	Bacteroidales bacterium CF	0	0
+0	NA	Actinobacteria	Actinobacteria	Chromatiales	Caldilineaceae	Tistrella	Bacillus filamentosus	0	0
+0	NA	Tenericutes	Alphaproteobacteria	Xanthomonadales	Orbaceae	Parvularcula	Bradyrhizobium sp. 2 39S1MB	0	0
+0	NA	Proteobacteria	Betaproteobacteria	Oceanospirillales	Peptoniphilaceae	Micavibrio	Acinetobacter sp. TGL-Y2	0	0
+0	NA	Firmicutes	Mollicutes	Alteromonadales	Atopobiaceae	Kangiella	Halobacterium hubeiense	0	0
+0	NA	Chloroflexi	Coriobacteriia	Pasteurellales	Eggerthellaceae	Arsenicicoccus	Endomicrobium proavitum	0	0
+0	NA	Actinobacteria	Bacilli	Bacteroidales	Microbulbiferaceae	Lysinibacillus	Celeribacter manganoxidans	0	0
+0	NA	Tenericutes	Chlorobia	Clostridiales	Rhodanobacteraceae	Phytobacter	Oceanisphaera profunda	0	0
+0	NA	Proteobacteria	Fusobacteriia	Lactobacillales	Morganellaceae	Oscillibacter	Marinobacter similis	0	0
+0	NA	Firmicutes	Spirochaetia	Flavobacteriales	Hungateiclostridiaceae	Sinomonas	Marinobacter salarius	0	0
+0	NA	Chloroflexi	Gloeobacteria	Rhodospirillales	Spirochaetaceae	Candidatus Planktophila	Geosporobacter ferrireducens	0	0
+0	NA	Actinobacteria	Gammaproteobacteria	Rhodobacterales	Moraxellaceae	Gordonibacter	Mannheimia sp. USDA-ARS-USMARC-1261	0	0
+0	NA	Tenericutes	Actinobacteria	Sphingomonadales	Neisseriaceae	Mycobacteroides	Methylocaldum marinum	0	0
+0	NA	Proteobacteria	Alphaproteobacteria	Neisseriales	Alcaligenaceae	Plantactinospora	Mucinivorans hirudinis	0	0
+0	NA	Firmicutes	Betaproteobacteria	Rhodocyclales	Enterobacteriaceae	Sphingorhabdus	Methanosarcina sp. Kolksee	0	0
+0	NA	Chloroflexi	Mollicutes	Campylobacterales	Vibrionaceae	Ezakiella	Methanosarcina sp. WH1	0	0
+0	NA	Actinobacteria	Coriobacteriia	Gemmatimonadales	Pasteurellaceae	Aurantimicrobium	Thermosipho sp. 1070	0	0
+0	NA	Tenericutes	Bacilli	Erysipelotrichales	Chromatiaceae	Mycolicibacterium	Streptomyces leeuwenhoekii	0	0
+0	NA	Proteobacteria	Chlorobia	Cytophagales	Micrococcaceae	Clostridioides	Aneurinibacillus sp. XH2	0	0
+0	NA	Firmicutes	Fusobacteriia	Selenomonadales	Streptococcaceae	Acidipropionibacterium	Sediminicola sp. YIK13	0	0
+0	NA	Chloroflexi	Spirochaetia	Tissierellales	Corynebacteriaceae	Cutibacterium	Chlamydia gallinacea	0	0
+0	NA	Actinobacteria	Gloeobacteria	Veillonellales	Mycobacteriaceae	Methylorubrum	Bacteroidetes bacterium Omega	0	0
+0	NA	Tenericutes	Gammaproteobacteria	Myxococcales	Thermomonosporaceae	Methylophilus	Myroides sp. ZB35	0	0
+0	NA	Proteobacteria	Actinobacteria	Rhizobiales	Actinomycetaceae	Stigmatella	Thermosipho sp. 1063	0	0
+0	NA	Firmicutes	Alphaproteobacteria	Bacillales	Streptomycetaceae	Treponema	Paenibacillus yonginensis	0	0
+0	NA	Chloroflexi	Betaproteobacteria	Nitrosomonadales	Pseudonocardiaceae	Achromobacter	Klebsiella quasipneumoniae	0	0
+0	NA	Actinobacteria	Mollicutes	Desulfuromonadales	Micromonosporaceae	Alteromonas	Actinoalloteichus hoggarensis	0	0
+0	NA	Tenericutes	Coriobacteriia	Pseudomonadales	Bifidobacteriaceae	Brucella	Zhongshania aliphaticivorans	0	0
+0	NA	Proteobacteria	Bacilli	Burkholderiales	Propionibacteriaceae	Flavobacterium	Novibacillus thermophilus	0	0
+0	NA	Firmicutes	Chlorobia	Micrococcales	Veillonellaceae	Francisella	Lentibacillus amyloliquefaciens	0	0
+0	NA	Chloroflexi	Fusobacteriia	Corynebacteriales	Rhodobacteraceae	Pseudomonas	Nonlabens sp. MIC269	0	0
+0	NA	Actinobacteria	Spirochaetia	Enterobacterales	Lactobacillaceae	Xanthomonas	Methylobacterium sp. C1	0	0
+0	NA	Tenericutes	Gloeobacteria	Methanosarcinales	Bradyrhizobiaceae	Rhizobium	Hartmannibacter diazotrophicus	0	0
+0	NA	Proteobacteria	Gammaproteobacteria	Deinococcales	Rhodospirillaceae	Methylobacterium	Hymenobacter sp. PAMC 26554	0	0
+0	NA	Firmicutes	Actinobacteria	Chromatiales	Flavobacteriaceae	Gluconobacter	Hymenobacter sp. PAMC 26628	0	0
+0	NA	Chloroflexi	Alphaproteobacteria	Xanthomonadales	Phyllobacteriaceae	Acinetobacter	Rhodoferax saidenbachensis	0	0
+0	NA	Actinobacteria	Betaproteobacteria	Oceanospirillales	Caulobacteraceae	Neisseria	Lacinutrix venerupis	0	0
+0	NA	Tenericutes	Mollicutes	Alteromonadales	Comamonadaceae	Psychrobacter	Corynebacterium sp. ATCC 6931	0	0
+0	NA	Proteobacteria	Coriobacteriia	Pasteurellales	Nocardiopsaceae	Bordetella	Anoxybacillus sp. B7M1	0	0
+0	NA	Firmicutes	Bacilli	Bacteroidales	Nocardioidaceae	Chromobacterium	Flavobacterium gilvum	0	0
+0	NA	Chloroflexi	Chlorobia	Clostridiales	Dermabacteraceae	Citrobacter	Arthrobacter sp. PAMC 25486	0	0
+0	NA	Actinobacteria	Fusobacteriia	Lactobacillales	Microbacteriaceae	Enterobacter	Rhodococcus biphenylivorans	0	0
+0	NA	Tenericutes	Spirochaetia	Flavobacteriales	Nocardiaceae	Erwinia	Prochlorococcus sp. MIT 0604	0	0
+0	NA	Proteobacteria	Gloeobacteria	Rhodospirillales	Gordoniaceae	Escherichia	Halomonas sp. KO116	0	0
+0	NA	Firmicutes	Gammaproteobacteria	Rhodobacterales	Geodermatophilaceae	Klebsiella	Candidatus Arthromitus sp. SFB-mouse-NL	0	0
+0	NA	Chloroflexi	Actinobacteria	Sphingomonadales	Burkholderiaceae	Morganella	Pseudoalteromonas sp. NC201	0	0
+0	NA	Actinobacteria	Alphaproteobacteria	Neisseriales	Erysipelotrichaceae	Proteus	[Mycobacterium] stephanolepidis	0	0
+0	NA	Tenericutes	Betaproteobacteria	Rhodocyclales	Pseudomonadaceae	Salmonella	Lacimicrobium alkaliphilum	0	0
+0	NA	Proteobacteria	Mollicutes	Campylobacterales	Peptostreptococcaceae	Serratia	Bosea vaviloviae	0	0
+0	NA	Firmicutes	Coriobacteriia	Gemmatimonadales	Bacillaceae	Yersinia	Planococcus sp. PAMC 21323	0	0
+0	NA	Chloroflexi	Bacilli	Erysipelotrichales	Aerococcaceae	Aeromonas	Rickettsiales bacterium Ac37b	0	0
+0	NA	Actinobacteria	Chlorobia	Cytophagales	Fusobacteriaceae	Haemophilus	Lawsonella clevelandensis	0	0
+0	NA	Tenericutes	Fusobacteriia	Selenomonadales	Nitrosomonadaceae	Rickettsia	Paracoccus sp. BM15	0	0
+0	NA	Proteobacteria	Spirochaetia	Tissierellales	Hahellaceae	Bacteroides	Brevundimonas sp. DS20	0	0
+0	NA	Firmicutes	Gloeobacteria	Veillonellales	Shewanellaceae	Prevotella	Streptomyces lunaelactis	0	0
+0	NA	Chloroflexi	Gammaproteobacteria	Myxococcales	Caldilineaceae	Selenomonas	Paenibacillus sp. FSL R5-0345	0	0
+0	NA	Actinobacteria	Actinobacteria	Rhizobiales	Orbaceae	Capnocytophaga	Paenibacillus sp. FSL R5-0912	0	0
+0	NA	Tenericutes	Alphaproteobacteria	Bacillales	Peptoniphilaceae	Staphylococcus	Paenibacillus sp. FSL R7-0273	0	0
+0	NA	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Atopobiaceae	Streptococcus	Paenibacillus sp. FSL R7-0331	0	0
+0	NA	Firmicutes	Mollicutes	Desulfuromonadales	Eggerthellaceae	Planococcus	Paenibacillus sp. FSL H7-0737	0	0
+0	NA	Chloroflexi	Coriobacteriia	Pseudomonadales	Microbulbiferaceae	Aerococcus	Methylomonas denitrificans	0	0
+0	NA	Actinobacteria	Bacilli	Burkholderiales	Rhodanobacteraceae	Gemella	Sphingobacterium sp. ML3W	0	0
+0	NA	Tenericutes	Chlorobia	Micrococcales	Morganellaceae	Bacillus	Treponema sp. OMZ 838	0	0
+0	NA	Proteobacteria	Fusobacteriia	Corynebacteriales	Hungateiclostridiaceae	Clostridium	Francisella sp. CA97-1460	0	0
+0	NA	Firmicutes	Spirochaetia	Enterobacterales	Spirochaetaceae	Actinomyces	Lactobacillus sp. wkB8	0	0
+0	NA	Chloroflexi	Gloeobacteria	Methanosarcinales	Moraxellaceae	Arthrobacter	Mycobacterium sp. EPa45	0	0
+0	NA	Actinobacteria	Gammaproteobacteria	Deinococcales	Neisseriaceae	Bifidobacterium	Marinitoga sp. 1137	0	0
+0	NA	Tenericutes	Actinobacteria	Chromatiales	Alcaligenaceae	Corynebacterium	Bacillus weihaiensis	0	0
+0	NA	Proteobacteria	Alphaproteobacteria	Xanthomonadales	Enterobacteriaceae	Mycobacterium	Haloplanus sp. CBA1112	0	0
+0	NA	Firmicutes	Betaproteobacteria	Oceanospirillales	Vibrionaceae	Amycolatopsis	Haloplanus sp. CBA1113	0	0
+0	NA	Chloroflexi	Mollicutes	Alteromonadales	Pasteurellaceae	Nocardia	Bradymonas sediminis	0	0
+0	NA	Actinobacteria	Coriobacteriia	Pasteurellales	Chromatiaceae	Rhodococcus	Haematospirillum jordaniae	0	0
+0	NA	Tenericutes	Bacilli	Bacteroidales	Micrococcaceae	Nocardioides	Mucilaginibacter gotjawali	0	0
+0	NA	Proteobacteria	Chlorobia	Clostridiales	Streptococcaceae	Pseudonocardia	Blastomonas fulva	0	0
+0	NA	Firmicutes	Fusobacteriia	Lactobacillales	Corynebacteriaceae	Geodermatophilus	Limnochorda pilosa	0	0
+0	NA	Chloroflexi	Spirochaetia	Flavobacteriales	Mycobacteriaceae	Actinoplanes	Enterobacter sp. E20	0	0
+0	NA	Actinobacteria	Gloeobacteria	Rhodospirillales	Thermomonosporaceae	Micromonospora	Sphingomonas panacis	0	0
+0	NA	Tenericutes	Gammaproteobacteria	Rhodobacterales	Actinomycetaceae	Streptomyces	Streptomyces sp. CCM_MD2014	0	0
+0	NA	Proteobacteria	Actinobacteria	Sphingomonadales	Streptomycetaceae	Nocardiopsis	Curtobacterium sp. MR_MD2014	0	0
+0	NA	Firmicutes	Alphaproteobacteria	Neisseriales	Pseudonocardiaceae	Aeromicrobium	Mycobacterium sp. QIA-37	0	0
+0	NA	Chloroflexi	Betaproteobacteria	Rhodocyclales	Micromonosporaceae	Gordonia	Fermentimonas caenicola	0	0
+0	NA	Actinobacteria	Mollicutes	Campylobacterales	Bifidobacteriaceae	Tsukamurella	Rhodococcus sp. B7740	0	0
+0	NA	Tenericutes	Coriobacteriia	Gemmatimonadales	Propionibacteriaceae	Kitasatospora	Rhodovulum sp. P5	0	0
+0	NA	Proteobacteria	Bacilli	Erysipelotrichales	Veillonellaceae	Mycoplasma	Bacillus sp. X1(2014)	0	0
+0	NA	Firmicutes	Chlorobia	Cytophagales	Rhodobacteraceae	Acholeplasma	Paenibacillus sp. IHBB 10380	0	0
+0	NA	Chloroflexi	Fusobacteriia	Selenomonadales	Lactobacillaceae	Magnetospirillum	Bacillus phage BalMu-1	0	0
+0	NA	Actinobacteria	Spirochaetia	Tissierellales	Bradyrhizobiaceae	Sphingomonas	Mycobacterium sp. NRRL B-3805	0	0
+0	NA	Tenericutes	Gloeobacteria	Veillonellales	Rhodospirillaceae	Acidothermus	Rhodococcus sp. 2G	0	0
+0	NA	Proteobacteria	Gammaproteobacteria	Myxococcales	Flavobacteriaceae	Arcanobacterium	Ruminococcaceae bacterium CPB6	0	0
+0	NA	Firmicutes	Actinobacteria	Rhizobiales	Phyllobacteriaceae	Janthinobacterium	Geobacillus virus E3	0	0
+0	NA	Chloroflexi	Alphaproteobacteria	Bacillales	Caulobacteraceae	Burkholderia	Candidatus Kinetoplastibacterium sorsogonicusi	0	0
+0	NA	Actinobacteria	Betaproteobacteria	Nitrosomonadales	Comamonadaceae	Rothia	Mycobacteroides saopaulense	0	0
+0	NA	Tenericutes	Mollicutes	Desulfuromonadales	Nocardiopsaceae	Blastococcus	Edwardsiella sp. EA181011	0	0
+0	NA	Proteobacteria	Coriobacteriia	Pseudomonadales	Nocardioidaceae	Stenotrophomonas	Halocynthiibacter arcticus	0	0
+0	NA	Firmicutes	Bacilli	Burkholderiales	Dermabacteraceae	Actinosynnema	Phaeobacter piscinae	0	0
+0	NA	Chloroflexi	Chlorobia	Micrococcales	Microbacteriaceae	Brachybacterium	Sulfurospirillum sp. UCH001	0	0
+0	NA	Actinobacteria	Fusobacteriia	Corynebacteriales	Nocardiaceae	Cyanothece	Candidatus Methylopumilus turicensis	0	0
+0	NA	Tenericutes	Spirochaetia	Enterobacterales	Gordoniaceae	Salinicoccus	Myroides sp. A21	0	0
+0	NA	Proteobacteria	Gloeobacteria	Methanosarcinales	Geodermatophilaceae	Pantoea	Pseudomonas cerasi	0	0
+0	NA	Firmicutes	Gammaproteobacteria	Deinococcales	Burkholderiaceae	Nakamurella	Lentzea guizhouensis	0	0
+0	NA	Chloroflexi	Actinobacteria	Chromatiales	Erysipelotrichaceae	Dermacoccus	Helicobacter himalayensis	0	0
+0	NA	Actinobacteria	Alphaproteobacteria	Xanthomonadales	Pseudomonadaceae	Alcanivorax	Haloarcula sp. CBA1115	0	0
+0	NA	Tenericutes	Betaproteobacteria	Oceanospirillales	Peptostreptococcaceae	Borreliella	Planococcus faecalis	0	0
+0	NA	Proteobacteria	Mollicutes	Alteromonadales	Bacillaceae	Actinoalloteichus	Lysobacter maris	0	0
+0	NA	Firmicutes	Coriobacteriia	Pasteurellales	Aerococcaceae	Orientia	Acinetobacter sp. NCu2D-2	0	0
+0	NA	Chloroflexi	Bacilli	Bacteroidales	Fusobacteriaceae	Cryobacterium	Euzebya sp. DY32-46	0	0
+0	NA	Actinobacteria	Chlorobia	Clostridiales	Nitrosomonadaceae	Tessaracoccus	Methanobrevibacter sp. YE315	0	0
+0	NA	Tenericutes	Fusobacteriia	Lactobacillales	Hahellaceae	Pseudoxanthomonas	Tessaracoccus flavus	0	0
+0	NA	Proteobacteria	Spirochaetia	Flavobacteriales	Shewanellaceae	Modestobacter	Halomonas sp. R57-5	0	0
+0	NA	Firmicutes	Gloeobacteria	Rhodospirillales	Caldilineaceae	Collinsella	Niveispirillum cyanobacteriorum	0	0
+0	NA	Chloroflexi	Gammaproteobacteria	Rhodobacterales	Orbaceae	Micropruina	Actinoalloteichus sp. GBA129-24	0	0
+0	NA	Actinobacteria	Actinobacteria	Sphingomonadales	Peptoniphilaceae	Ornithinimicrobium	Actinoalloteichus sp. ADI127-7	0	0
+0	NA	Tenericutes	Alphaproteobacteria	Neisseriales	Atopobiaceae	Olsenella	Geminocystis sp. NIES-3708	0	0
+0	NA	Proteobacteria	Betaproteobacteria	Rhodocyclales	Eggerthellaceae	Jeotgalibacillus	Geminocystis sp. NIES-3709	0	0
+0	NA	Firmicutes	Mollicutes	Campylobacterales	Microbulbiferaceae	Anaerococcus	Nostoc sp. 'Lobaria pulmonaria (5183) cyanobiont'	0	0
+0	NA	Chloroflexi	Coriobacteriia	Gemmatimonadales	Rhodanobacteraceae	Tistrella	Psychromicrobium lacuslunae	0	0
+0	NA	Actinobacteria	Bacilli	Erysipelotrichales	Morganellaceae	Parvularcula	Cnuibacter physcomitrellae	0	0
+0	NA	Tenericutes	Chlorobia	Cytophagales	Hungateiclostridiaceae	Micavibrio	Sulfuricaulis limicola	0	0
+0	NA	Proteobacteria	Fusobacteriia	Selenomonadales	Spirochaetaceae	Kangiella	Spongiibacter sp. IMCC21906	0	0
+0	NA	Firmicutes	Spirochaetia	Tissierellales	Moraxellaceae	Arsenicicoccus	Lutibacter profundi	0	0
+0	NA	Chloroflexi	Gloeobacteria	Veillonellales	Neisseriaceae	Lysinibacillus	Dermabacter vaginalis	0	0
+0	NA	Actinobacteria	Gammaproteobacteria	Myxococcales	Alcaligenaceae	Phytobacter	Candidatus Nitrosoglobus terrae	0	0
+0	NA	Tenericutes	Actinobacteria	Rhizobiales	Enterobacteriaceae	Oscillibacter	Gemmata sp. SH-PL17	0	0
+0	NA	Proteobacteria	Alphaproteobacteria	Bacillales	Vibrionaceae	Sinomonas	Weissella jogaejeotgali	0	0
+0	NA	Firmicutes	Betaproteobacteria	Nitrosomonadales	Pasteurellaceae	Candidatus Planktophila	Planctomyces sp. SH-PL14	0	0
+0	NA	Chloroflexi	Mollicutes	Desulfuromonadales	Chromatiaceae	Gordonibacter	Acinetobacter sp. ACNIH1	0	0
+0	NA	Actinobacteria	Coriobacteriia	Pseudomonadales	Micrococcaceae	Mycobacteroides	Aeromonas sp. ASNIH1	0	0
+0	NA	Tenericutes	Bacilli	Burkholderiales	Streptococcaceae	Plantactinospora	Aeromonas sp. ASNIH2	0	0
+0	NA	Proteobacteria	Chlorobia	Micrococcales	Corynebacteriaceae	Sphingorhabdus	Aeromonas sp. ASNIH3	0	0
+0	NA	Firmicutes	Fusobacteriia	Corynebacteriales	Mycobacteriaceae	Ezakiella	Pseudomonas sp. PONIH3	0	0
+0	NA	Chloroflexi	Spirochaetia	Enterobacterales	Thermomonosporaceae	Aurantimicrobium	Burkholderia sp. MSMB617WGS	0	0
+0	NA	Actinobacteria	Gloeobacteria	Methanosarcinales	Actinomycetaceae	Mycolicibacterium	Burkholderia sp. MSMB0266	0	0
+0	NA	Tenericutes	Gammaproteobacteria	Deinococcales	Streptomycetaceae	Clostridioides	Burkholderia sp. MSMB0852	0	0
+0	NA	Proteobacteria	Actinobacteria	Chromatiales	Pseudonocardiaceae	Acidipropionibacterium	Burkholderia sp. NRF60-BP8	0	0
+0	NA	Firmicutes	Alphaproteobacteria	Xanthomonadales	Micromonosporaceae	Cutibacterium	Verrucomicrobia bacterium IMCC26134	0	0
+0	NA	Chloroflexi	Betaproteobacteria	Oceanospirillales	Bifidobacteriaceae	Methylorubrum	Magnetospirillum sp. ME-1	0	0
+0	NA	Actinobacteria	Mollicutes	Alteromonadales	Propionibacteriaceae	Methylophilus	Pseudonocardia sp. HH130629-09	0	0
+0	NA	Tenericutes	Coriobacteriia	Pasteurellales	Veillonellaceae	Stigmatella	Petrimonas mucosa	0	0
+0	NA	Proteobacteria	Bacilli	Bacteroidales	Rhodobacteraceae	Treponema	Devosia sp. H5989	0	0
+0	NA	Firmicutes	Chlorobia	Clostridiales	Lactobacillaceae	Achromobacter	Maribacter sp. 1_2014MBL_MicDiv	0	0
+0	NA	Chloroflexi	Fusobacteriia	Lactobacillales	Bradyrhizobiaceae	Alteromonas	Janthinobacterium sp. 1_2014MBL_MicDiv	0	0
+0	NA	Actinobacteria	Spirochaetia	Flavobacteriales	Rhodospirillaceae	Brucella	Gordonia phage GMA3	0	0
+0	NA	Tenericutes	Gloeobacteria	Rhodospirillales	Flavobacteriaceae	Flavobacterium	Anabaena sp. WA102	0	0
+0	NA	Proteobacteria	Gammaproteobacteria	Rhodobacterales	Phyllobacteriaceae	Francisella	Salmonella phage SEN34	0	0
+0	NA	Firmicutes	Actinobacteria	Sphingomonadales	Caulobacteraceae	Pseudomonas	Bacillus paralicheniformis	0	0
+0	NA	Chloroflexi	Alphaproteobacteria	Neisseriales	Comamonadaceae	Xanthomonas	Streptomyces sp. CFMR 7	0	0
+0	NA	Actinobacteria	Betaproteobacteria	Rhodocyclales	Nocardiopsaceae	Rhizobium	Pseudomonas sp. CCOS 191	0	0
+0	NA	Tenericutes	Mollicutes	Campylobacterales	Nocardioidaceae	Methylobacterium	Edwardsiella sp. LADL05-105	0	0
+0	NA	Proteobacteria	Coriobacteriia	Gemmatimonadales	Dermabacteraceae	Gluconobacter	Corynebacterium crudilactis	0	0
+0	NA	Firmicutes	Bacilli	Erysipelotrichales	Microbacteriaceae	Acinetobacter	Arthrobacter sp. YC-RL1	0	0
+0	NA	Chloroflexi	Chlorobia	Cytophagales	Nocardiaceae	Neisseria	Rhodococcus sp. PBTS 1	0	0
+0	NA	Actinobacteria	Fusobacteriia	Selenomonadales	Gordoniaceae	Psychrobacter	Rhodococcus sp. PBTS 2	0	0
+0	NA	Tenericutes	Spirochaetia	Tissierellales	Geodermatophilaceae	Bordetella	Alloactinosynnema sp. L-07	0	0
+0	NA	Proteobacteria	Gloeobacteria	Veillonellales	Burkholderiaceae	Chromobacterium	Mitsuaria sp. 7	0	0
+0	NA	Firmicutes	Gammaproteobacteria	Myxococcales	Erysipelotrichaceae	Citrobacter	Arsenicicoccus sp. oral taxon 190	0	0
+0	NA	Chloroflexi	Actinobacteria	Rhizobiales	Pseudomonadaceae	Enterobacter	Ottowia sp. oral taxon 894	0	0
+0	NA	Actinobacteria	Alphaproteobacteria	Bacillales	Peptostreptococcaceae	Erwinia	Campylobacter sp. RM6137	0	0
+0	NA	Tenericutes	Betaproteobacteria	Nitrosomonadales	Bacillaceae	Escherichia	Campylobacter sp. RM8964	0	0
+0	NA	Proteobacteria	Mollicutes	Desulfuromonadales	Aerococcaceae	Klebsiella	Campylobacter sp. RM12175	0	0
+0	NA	Firmicutes	Coriobacteriia	Pseudomonadales	Fusobacteriaceae	Morganella	Leptospirillum sp. Group II 'CF-1'	0	0
+0	NA	Chloroflexi	Bacilli	Burkholderiales	Nitrosomonadaceae	Proteus	Streptomyces sp. Tue 6075	0	0
+0	NA	Actinobacteria	Chlorobia	Micrococcales	Hahellaceae	Salmonella	Magnetospirillum sp. XM-1	0	0
+0	NA	Tenericutes	Fusobacteriia	Corynebacteriales	Shewanellaceae	Serratia	Bacillus glycinifermentans	0	0
+0	NA	Proteobacteria	Spirochaetia	Enterobacterales	Caldilineaceae	Yersinia	Sphingobium hydrophobicum	0	0
+0	NA	Firmicutes	Gloeobacteria	Methanosarcinales	Orbaceae	Aeromonas	Cuniculiplasma divulgatum	0	0
+0	NA	Chloroflexi	Gammaproteobacteria	Deinococcales	Peptoniphilaceae	Haemophilus	Hungateiclostridium saccincola	0	0
+0	NA	Actinobacteria	Actinobacteria	Chromatiales	Atopobiaceae	Rickettsia	Massilia sp. NR 4-1	0	0
+0	NA	Tenericutes	Alphaproteobacteria	Xanthomonadales	Eggerthellaceae	Bacteroides	Limnohabitans sp. 63ED37-2	0	0
+0	NA	Proteobacteria	Betaproteobacteria	Oceanospirillales	Microbulbiferaceae	Prevotella	Akkermansia glycaniphila	0	0
+0	NA	Firmicutes	Mollicutes	Alteromonadales	Rhodanobacteraceae	Selenomonas	Herbinix luporum	0	0
+0	NA	Chloroflexi	Coriobacteriia	Pasteurellales	Morganellaceae	Capnocytophaga	Mycobacterium sp. YC-RL4	0	0
+0	NA	Actinobacteria	Bacilli	Bacteroidales	Hungateiclostridiaceae	Staphylococcus	Chryseobacterium glaciei	0	0
+0	NA	Tenericutes	Chlorobia	Clostridiales	Spirochaetaceae	Streptococcus	Bartonella apis	0	0
+0	NA	Proteobacteria	Fusobacteriia	Lactobacillales	Moraxellaceae	Planococcus	Pseudonocardia sp. EC080610-09	0	0
+0	NA	Firmicutes	Spirochaetia	Flavobacteriales	Neisseriaceae	Aerococcus	Streptomyces spongiicola	0	0
+0	NA	Chloroflexi	Gloeobacteria	Rhodospirillales	Alcaligenaceae	Gemella	Arthrobacter sp. LS16	0	0
+0	NA	Actinobacteria	Gammaproteobacteria	Rhodobacterales	Enterobacteriaceae	Bacillus	Microbacterium sp. CGR1	0	0
+0	NA	Tenericutes	Actinobacteria	Sphingomonadales	Vibrionaceae	Clostridium	Oblitimonas alkaliphila	0	0
+0	NA	Proteobacteria	Alphaproteobacteria	Neisseriales	Pasteurellaceae	Actinomyces	Kocuria sp. BT304	0	0
+0	NA	Firmicutes	Betaproteobacteria	Rhodocyclales	Chromatiaceae	Arthrobacter	Citrobacter sp. FDAARGOS_156	0	0
+0	NA	Chloroflexi	Mollicutes	Campylobacterales	Micrococcaceae	Bifidobacterium	Negativicoccus massiliensis	0	0
+0	NA	Actinobacteria	Coriobacteriia	Gemmatimonadales	Streptococcaceae	Corynebacterium	Chelatococcus sp. CO-6	0	0
+0	NA	Tenericutes	Bacilli	Erysipelotrichales	Corynebacteriaceae	Mycobacterium	Citrobacter sp. CRE-46	0	0
+0	NA	Proteobacteria	Chlorobia	Cytophagales	Mycobacteriaceae	Amycolatopsis	Rhizobium sp. N324	0	0
+0	NA	Firmicutes	Fusobacteriia	Selenomonadales	Thermomonosporaceae	Nocardia	Arthrobacter sp. ERGS1:01	0	0
+0	NA	Chloroflexi	Spirochaetia	Tissierellales	Actinomycetaceae	Rhodococcus	Methylovulum psychrotolerans	0	0
+0	NA	Actinobacteria	Gloeobacteria	Veillonellales	Streptomycetaceae	Nocardioides	Capnocytophaga sp. oral taxon 323	0	0
+0	NA	Tenericutes	Gammaproteobacteria	Myxococcales	Pseudonocardiaceae	Pseudonocardia	Massilia sp. WG5	0	0
+0	NA	Proteobacteria	Actinobacteria	Rhizobiales	Micromonosporaceae	Geodermatophilus	Turicibacter sp. H121	0	0
+0	NA	Firmicutes	Alphaproteobacteria	Bacillales	Bifidobacteriaceae	Actinoplanes	Microbacterium sp. No. 7	0	0
+0	NA	Chloroflexi	Betaproteobacteria	Nitrosomonadales	Propionibacteriaceae	Micromonospora	Aquimarina sp. AD10	0	0
+0	NA	Actinobacteria	Mollicutes	Desulfuromonadales	Veillonellaceae	Streptomyces	Aquimarina sp. BL5	0	0
+0	NA	Tenericutes	Coriobacteriia	Pseudomonadales	Rhodobacteraceae	Nocardiopsis	Staphylococcus sp. AntiMn-1	0	0
+0	NA	Proteobacteria	Bacilli	Burkholderiales	Lactobacillaceae	Aeromicrobium	Candidatus Nitrospira inopinata	0	0
+0	NA	Firmicutes	Chlorobia	Micrococcales	Bradyrhizobiaceae	Gordonia	Marinifilaceae bacterium SPP2	0	0
+0	NA	Chloroflexi	Fusobacteriia	Corynebacteriales	Rhodospirillaceae	Tsukamurella	Pseudoalteromonas sp. 1_2015MBL_MicDiv	0	0
+0	NA	Actinobacteria	Spirochaetia	Enterobacterales	Flavobacteriaceae	Kitasatospora	Chryseobacterium sp. IHB B 17019	0	0
+0	NA	Tenericutes	Gloeobacteria	Methanosarcinales	Phyllobacteriaceae	Mycoplasma	Rhodococcus sp. 008	0	0
+0	NA	Proteobacteria	Gammaproteobacteria	Deinococcales	Caulobacteraceae	Acholeplasma	Candidatus Desulfovibrio trichonymphae	0	0
+0	NA	Firmicutes	Actinobacteria	Chromatiales	Comamonadaceae	Magnetospirillum	Streptomyces sp. CdTB01	0	0
+0	NA	Chloroflexi	Alphaproteobacteria	Xanthomonadales	Nocardiopsaceae	Sphingomonas	Pedobacter sp. PACM 27299	0	0
+0	NA	Actinobacteria	Betaproteobacteria	Oceanospirillales	Nocardioidaceae	Acidothermus	Rhodococcus sp. H-CA8f	0	0
+0	NA	Tenericutes	Mollicutes	Alteromonadales	Dermabacteraceae	Arcanobacterium	Staphylococcus phage SPbeta-like	0	0
+0	NA	Proteobacteria	Coriobacteriia	Pasteurellales	Microbacteriaceae	Janthinobacterium	Algibacter alginicilyticus	0	0
+0	NA	Firmicutes	Bacilli	Bacteroidales	Nocardiaceae	Burkholderia	Devosia sp. A16	0	0
+0	NA	Chloroflexi	Chlorobia	Clostridiales	Gordoniaceae	Rothia	Corynebacterium provencense	0	0
+0	NA	Actinobacteria	Fusobacteriia	Lactobacillales	Geodermatophilaceae	Blastococcus	Kurthia sp. 11kri321	0	0
+0	NA	Tenericutes	Spirochaetia	Flavobacteriales	Burkholderiaceae	Stenotrophomonas	Streptomyces sp. 4F	0	0
+0	NA	Proteobacteria	Gloeobacteria	Rhodospirillales	Erysipelotrichaceae	Actinosynnema	Fischerella sp. NIES-3754	0	0
+0	NA	Firmicutes	Gammaproteobacteria	Rhodobacterales	Pseudomonadaceae	Brachybacterium	Leptolyngbya sp. NIES-3755	0	0
+0	NA	Chloroflexi	Actinobacteria	Sphingomonadales	Peptostreptococcaceae	Cyanothece	Paraphotobacterium marinum	0	0
+0	NA	Actinobacteria	Alphaproteobacteria	Neisseriales	Bacillaceae	Salinicoccus	Elizabethkingia bruuniana	0	0
+0	NA	Tenericutes	Betaproteobacteria	Rhodocyclales	Aerococcaceae	Pantoea	Elizabethkingia ursingii	0	0
+0	NA	Proteobacteria	Mollicutes	Campylobacterales	Fusobacteriaceae	Nakamurella	Nitratireductor sp. OM-1	0	0
+0	NA	Firmicutes	Coriobacteriia	Gemmatimonadales	Nitrosomonadaceae	Dermacoccus	Phytobacter sp. SCO41	0	0
+0	NA	Chloroflexi	Bacilli	Erysipelotrichales	Hahellaceae	Alcanivorax	Acinetobacter sp. ACNIH2	0	0
+0	NA	Actinobacteria	Chlorobia	Cytophagales	Shewanellaceae	Borreliella	Serinicoccus sp. JLT9	0	0
+0	NA	Tenericutes	Fusobacteriia	Selenomonadales	Caldilineaceae	Actinoalloteichus	Caulobacteraceae bacterium OTSz_A_272	0	0
+0	NA	Proteobacteria	Spirochaetia	Tissierellales	Orbaceae	Orientia	Streptococcus sp. A12	0	0
+0	NA	Firmicutes	Gloeobacteria	Veillonellales	Peptoniphilaceae	Cryobacterium	Serratia sp. YD25	0	0
+0	NA	Chloroflexi	Gammaproteobacteria	Myxococcales	Atopobiaceae	Tessaracoccus	cyanobacterium endosymbiont of Rhopalodia gibberula	0	0
+0	NA	Actinobacteria	Actinobacteria	Rhizobiales	Eggerthellaceae	Pseudoxanthomonas	Flavobacterium crassostreae	0	0
+0	NA	Tenericutes	Alphaproteobacteria	Bacillales	Microbulbiferaceae	Modestobacter	Thalassotalea crassostreae	0	0
+0	NA	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Rhodanobacteraceae	Collinsella	Paenibacillus crassostreae	0	0
+0	NA	Firmicutes	Mollicutes	Desulfuromonadales	Morganellaceae	Micropruina	Deinococcus actinosclerus	0	0
+0	NA	Chloroflexi	Coriobacteriia	Pseudomonadales	Hungateiclostridiaceae	Ornithinimicrobium	Paucibacter sp. KCTC 42545	0	0
+0	NA	Actinobacteria	Bacilli	Burkholderiales	Spirochaetaceae	Olsenella	Microbulbifer aggregans	0	0
+0	NA	Tenericutes	Chlorobia	Micrococcales	Moraxellaceae	Jeotgalibacillus	Salinicola tamaricis	0	0
+0	NA	Proteobacteria	Fusobacteriia	Corynebacteriales	Neisseriaceae	Anaerococcus	Arthrobacter sp. ATCC 21022	0	0
+0	NA	Firmicutes	Spirochaetia	Enterobacterales	Alcaligenaceae	Tistrella	Polaribacter vadi	0	0
+0	NA	Chloroflexi	Gloeobacteria	Methanosarcinales	Enterobacteriaceae	Parvularcula	Alteromonas sp. Mac1	0	0
+0	NA	Actinobacteria	Gammaproteobacteria	Deinococcales	Vibrionaceae	Micavibrio	Dickeya fangzhongdai	0	0
+0	NA	Tenericutes	Actinobacteria	Chromatiales	Pasteurellaceae	Kangiella	Chromobacterium rhizoryzae	0	0
+0	NA	Proteobacteria	Alphaproteobacteria	Xanthomonadales	Chromatiaceae	Arsenicicoccus	Rhodothermaceae bacterium RA	0	0
+0	NA	Firmicutes	Betaproteobacteria	Oceanospirillales	Micrococcaceae	Lysinibacillus	Flavobacterium arcticum	0	0
+0	NA	Chloroflexi	Mollicutes	Alteromonadales	Streptococcaceae	Phytobacter	Arcticibacterium luteifluviistationis	0	0
+0	NA	Actinobacteria	Coriobacteriia	Pasteurellales	Corynebacteriaceae	Oscillibacter	Acinetobacter lactucae	0	0
+0	NA	Tenericutes	Bacilli	Bacteroidales	Mycobacteriaceae	Sinomonas	Gemella sp. oral taxon 928	0	0
+0	NA	Proteobacteria	Chlorobia	Clostridiales	Thermomonosporaceae	Candidatus Planktophila	Leptotrichia sp. oral taxon 847	0	0
+0	NA	Firmicutes	Fusobacteriia	Lactobacillales	Actinomycetaceae	Gordonibacter	Pseudomonas versuta	0	0
+0	NA	Chloroflexi	Spirochaetia	Flavobacteriales	Streptomycetaceae	Mycobacteroides	Acinetobacter larvae	0	0
+0	NA	Actinobacteria	Gloeobacteria	Rhodospirillales	Pseudonocardiaceae	Plantactinospora	Wenyingzhuangia fucanilytica	0	0
+0	NA	Tenericutes	Gammaproteobacteria	Rhodobacterales	Micromonosporaceae	Sphingorhabdus	Bosea sp. PAMC 26642	0	0
+0	NA	Proteobacteria	Actinobacteria	Sphingomonadales	Bifidobacteriaceae	Ezakiella	Yangia sp. CCB-MM3	0	0
+0	NA	Firmicutes	Alphaproteobacteria	Neisseriales	Propionibacteriaceae	Aurantimicrobium	Thermodesulfobium acidiphilum	0	0
+0	NA	Chloroflexi	Betaproteobacteria	Rhodocyclales	Veillonellaceae	Mycolicibacterium	Burkholderia sp. PAMC 26561	0	0
+0	NA	Actinobacteria	Mollicutes	Campylobacterales	Rhodobacteraceae	Clostridioides	Echinicola strongylocentroti	0	0
+0	NA	Tenericutes	Coriobacteriia	Gemmatimonadales	Lactobacillaceae	Acidipropionibacterium	Frondihabitans sp. PAMC 28766	0	0
+0	NA	Proteobacteria	Bacilli	Erysipelotrichales	Bradyrhizobiaceae	Cutibacterium	Variovorax sp. PAMC 28711	0	0
+0	NA	Firmicutes	Chlorobia	Cytophagales	Rhodospirillaceae	Methylorubrum	Burkholderia sp. PAMC 28687	0	0
+0	NA	Chloroflexi	Fusobacteriia	Selenomonadales	Flavobacteriaceae	Methylophilus	Bacteroides caecimuris	0	0
+0	NA	Actinobacteria	Spirochaetia	Tissierellales	Phyllobacteriaceae	Stigmatella	Blautia sp. YL58	0	0
+0	NA	Tenericutes	Gloeobacteria	Veillonellales	Caulobacteraceae	Treponema	Muribaculum intestinale	0	0
+0	NA	Proteobacteria	Gammaproteobacteria	Myxococcales	Comamonadaceae	Achromobacter	Flavivirga eckloniae	0	0
+0	NA	Firmicutes	Actinobacteria	Rhizobiales	Nocardiopsaceae	Alteromonas	Burkholderia sp. OLGA172	0	0
+0	NA	Chloroflexi	Alphaproteobacteria	Bacillales	Nocardioidaceae	Brucella	Rhodococcus sp. MTM3W5.2	0	0
+0	NA	Actinobacteria	Betaproteobacteria	Nitrosomonadales	Dermabacteraceae	Flavobacterium	Rouxiella sp. ERMR1:05	0	0
+0	NA	Tenericutes	Mollicutes	Desulfuromonadales	Microbacteriaceae	Francisella	Candidatus Promineofilum breve	0	0
+0	NA	Proteobacteria	Coriobacteriia	Pseudomonadales	Nocardiaceae	Pseudomonas	Sphingorhabdus sp. M41	0	0
+0	NA	Firmicutes	Bacilli	Burkholderiales	Gordoniaceae	Xanthomonas	Arthrobacter sp. ZXY-2	0	0
+0	NA	Chloroflexi	Chlorobia	Micrococcales	Geodermatophilaceae	Rhizobium	Stanieria sp. NIES-3757	0	0
+0	NA	Actinobacteria	Fusobacteriia	Corynebacteriales	Burkholderiaceae	Methylobacterium	Rhodococcus sp. BH4	0	0
+0	NA	Tenericutes	Spirochaetia	Enterobacterales	Erysipelotrichaceae	Gluconobacter	Enterobacter roggenkampii	0	0
+0	NA	Proteobacteria	Gloeobacteria	Methanosarcinales	Pseudomonadaceae	Acinetobacter	Streptococcus halotolerans	0	0
+0	NA	Firmicutes	Gammaproteobacteria	Deinococcales	Peptostreptococcaceae	Neisseria	Colwellia sp. PAMC 20917	0	0
+0	NA	Chloroflexi	Actinobacteria	Chromatiales	Bacillaceae	Psychrobacter	Marinobacterium aestuarii	0	0
+0	NA	Actinobacteria	Alphaproteobacteria	Xanthomonadales	Aerococcaceae	Bordetella	Streptococcus marmotae	0	0
+0	NA	Tenericutes	Betaproteobacteria	Oceanospirillales	Fusobacteriaceae	Chromobacterium	Methylobacterium sp. XJLM	0	0
+0	NA	Proteobacteria	Mollicutes	Alteromonadales	Nitrosomonadaceae	Citrobacter	Synechococcus sp. NIES-970	0	0
+0	NA	Firmicutes	Coriobacteriia	Pasteurellales	Hahellaceae	Enterobacter	Bacillus sp. IHB B 7164	0	0
+0	NA	Chloroflexi	Bacilli	Bacteroidales	Shewanellaceae	Erwinia	Pseudomonas sp. MYb193	0	0
+0	NA	Actinobacteria	Chlorobia	Clostridiales	Caldilineaceae	Escherichia	Brevundimonas sp. GW460-12-10-14-LB2	0	0
+0	NA	Tenericutes	Fusobacteriia	Lactobacillales	Orbaceae	Klebsiella	Enterobacter sp. ODB01	0	0
+0	NA	Proteobacteria	Spirochaetia	Flavobacteriales	Peptoniphilaceae	Morganella	Streptomyces nigra	0	0
+0	NA	Firmicutes	Gloeobacteria	Rhodospirillales	Atopobiaceae	Proteus	Lachnoclostridium sp. YL32	0	0
+0	NA	Chloroflexi	Gammaproteobacteria	Rhodobacterales	Eggerthellaceae	Salmonella	Hungateiclostridiaceae bacterium KB18	0	0
+0	NA	Actinobacteria	Actinobacteria	Sphingomonadales	Microbulbiferaceae	Serratia	Burkholderiales bacterium YL45	0	0
+0	NA	Tenericutes	Alphaproteobacteria	Neisseriales	Rhodanobacteraceae	Yersinia	Erysipelotrichaceae bacterium I46	0	0
+0	NA	Proteobacteria	Betaproteobacteria	Rhodocyclales	Morganellaceae	Aeromonas	Fibrella sp. ES10-3-2-2	0	0
+0	NA	Firmicutes	Mollicutes	Campylobacterales	Hungateiclostridiaceae	Haemophilus	Bacillus sp. FJAT-14266	0	0
+0	NA	Chloroflexi	Coriobacteriia	Gemmatimonadales	Spirochaetaceae	Rickettsia	Streptomyces sp. S8	0	0
+0	NA	Actinobacteria	Bacilli	Erysipelotrichales	Moraxellaceae	Bacteroides	Escherichia phage MX01	0	0
+0	NA	Tenericutes	Chlorobia	Cytophagales	Neisseriaceae	Prevotella	Escherichia phage WG01	0	0
+0	NA	Proteobacteria	Fusobacteriia	Selenomonadales	Alcaligenaceae	Selenomonas	Bacillus sp. FDAARGOS_235	0	0
+0	NA	Firmicutes	Spirochaetia	Tissierellales	Enterobacteriaceae	Capnocytophaga	Streptococcus sp. FDAARGOS_192	0	0
+0	NA	Chloroflexi	Gloeobacteria	Veillonellales	Vibrionaceae	Staphylococcus	Dehalogenimonas formicexedens	0	0
+0	NA	Actinobacteria	Gammaproteobacteria	Myxococcales	Pasteurellaceae	Streptococcus	Streptomyces sp. RTd22	0	0
+0	NA	Tenericutes	Actinobacteria	Rhizobiales	Chromatiaceae	Planococcus	Gordonibacter massiliensis	0	0
+0	NA	Proteobacteria	Alphaproteobacteria	Bacillales	Micrococcaceae	Aerococcus	Pelobacter sp. SFB93	0	0
+0	NA	Firmicutes	Betaproteobacteria	Nitrosomonadales	Streptococcaceae	Gemella	Acidovorax sp. RAC01	0	0
+0	NA	Chloroflexi	Mollicutes	Desulfuromonadales	Corynebacteriaceae	Bacillus	Blastomonas sp. RAC04	0	0
+0	NA	Actinobacteria	Coriobacteriia	Pseudomonadales	Mycobacteriaceae	Clostridium	Hydrogenophaga sp. RAC07	0	0
+0	NA	Tenericutes	Bacilli	Burkholderiales	Thermomonosporaceae	Actinomyces	Bosea sp. RAC05	0	0
+0	NA	Proteobacteria	Chlorobia	Micrococcales	Actinomycetaceae	Arthrobacter	Methyloversatilis sp. RAC08	0	0
+0	NA	Firmicutes	Fusobacteriia	Corynebacteriales	Streptomycetaceae	Bifidobacterium	Rhodoferax koreense	0	0
+0	NA	Chloroflexi	Spirochaetia	Enterobacterales	Pseudonocardiaceae	Corynebacterium	Lactobacillus allii	0	0
+0	NA	Actinobacteria	Gloeobacteria	Methanosarcinales	Micromonosporaceae	Mycobacterium	Hafnia sp. CBA7124	0	0
+0	NA	Tenericutes	Gammaproteobacteria	Deinococcales	Bifidobacteriaceae	Amycolatopsis	Actinobacteria bacterium IMCC19121	0	0
+0	NA	Proteobacteria	Actinobacteria	Chromatiales	Propionibacteriaceae	Nocardia	Actinobacteria bacterium IMCC26077	0	0
+0	NA	Firmicutes	Alphaproteobacteria	Xanthomonadales	Veillonellaceae	Rhodococcus	Actinobacteria bacterium IMCC26103	0	0
+0	NA	Chloroflexi	Betaproteobacteria	Oceanospirillales	Rhodobacteraceae	Nocardioides	Capnocytophaga stomatis	0	0
+0	NA	Actinobacteria	Mollicutes	Alteromonadales	Lactobacillaceae	Pseudonocardia	Exiguobacterium sp. U13-1	0	0
+0	NA	Tenericutes	Coriobacteriia	Pasteurellales	Bradyrhizobiaceae	Geodermatophilus	Arthrobacter sp. U41	0	0
+0	NA	Proteobacteria	Bacilli	Bacteroidales	Rhodospirillaceae	Actinoplanes	Auricoccus indicus	0	0
+0	NA	Firmicutes	Chlorobia	Clostridiales	Flavobacteriaceae	Micromonospora	Streptomyces sp. SAT1	0	0
+0	NA	Chloroflexi	Fusobacteriia	Lactobacillales	Phyllobacteriaceae	Streptomyces	Rhizorhabdus dicambivorans	0	0
+0	NA	Actinobacteria	Spirochaetia	Flavobacteriales	Caulobacteraceae	Nocardiopsis	Lutibacter sp. LPB0138	0	0
+0	NA	Tenericutes	Gloeobacteria	Rhodospirillales	Comamonadaceae	Aeromicrobium	Rhodobacter sp. LPB0142	0	0
+0	NA	Proteobacteria	Gammaproteobacteria	Rhodobacterales	Nocardiopsaceae	Gordonia	Tenacibaculum todarodis	0	0
+0	NA	Firmicutes	Actinobacteria	Sphingomonadales	Nocardioidaceae	Tsukamurella	Arcobacter sp. LPB0137	0	0
+0	NA	Chloroflexi	Alphaproteobacteria	Neisseriales	Dermabacteraceae	Kitasatospora	Actinomyces sp. Chiba101	0	0
+0	NA	Actinobacteria	Betaproteobacteria	Rhodocyclales	Microbacteriaceae	Mycoplasma	Murdochiella vaginalis	0	0
+0	NA	Tenericutes	Mollicutes	Campylobacterales	Nocardiaceae	Acholeplasma	Ezakiella massiliensis	0	0
+0	NA	Proteobacteria	Coriobacteriia	Gemmatimonadales	Gordoniaceae	Magnetospirillum	Actinomyces pacaensis	0	0
+0	NA	Firmicutes	Bacilli	Erysipelotrichales	Geodermatophilaceae	Sphingomonas	Neisseria sp. 10022	0	0
+0	NA	Chloroflexi	Chlorobia	Cytophagales	Burkholderiaceae	Acidothermus	Neisseria sp. 10023	0	0
+0	NA	Actinobacteria	Fusobacteriia	Selenomonadales	Erysipelotrichaceae	Arcanobacterium	Luteitalea pratensis	0	0
+0	NA	Tenericutes	Spirochaetia	Tissierellales	Pseudomonadaceae	Janthinobacterium	Bacillus sp. H15-1	0	0
+0	NA	Proteobacteria	Gloeobacteria	Veillonellales	Peptostreptococcaceae	Burkholderia	Pseudomonas sp. TCU-HL1	0	0
+0	NA	Firmicutes	Gammaproteobacteria	Myxococcales	Bacillaceae	Rothia	Acidovorax sp. T1	0	0
+0	NA	Chloroflexi	Actinobacteria	Rhizobiales	Aerococcaceae	Blastococcus	Sphingopyxis sp. MG	0	0
+0	NA	Actinobacteria	Alphaproteobacteria	Bacillales	Fusobacteriaceae	Stenotrophomonas	Enterobacter sp. HK169	0	0
+0	NA	Tenericutes	Betaproteobacteria	Nitrosomonadales	Nitrosomonadaceae	Actinosynnema	Prosthecochloris sp. CIB 2401	0	0
+0	NA	Proteobacteria	Mollicutes	Desulfuromonadales	Hahellaceae	Brachybacterium	Phreatobacter cathodiphilus	0	0
+0	NA	Firmicutes	Coriobacteriia	Pseudomonadales	Shewanellaceae	Cyanothece	Rhizobium sp. S41	0	0
+0	NA	Chloroflexi	Bacilli	Burkholderiales	Caldilineaceae	Salinicoccus	Nostoc sp. CENA543	0	0
+0	NA	Actinobacteria	Chlorobia	Micrococcales	Orbaceae	Pantoea	Paenibacillus ihbetae	0	0
+0	NA	Tenericutes	Fusobacteriia	Corynebacteriales	Peptoniphilaceae	Nakamurella	Anaerococcus mediterraneensis	0	0
+0	NA	Proteobacteria	Spirochaetia	Enterobacterales	Atopobiaceae	Dermacoccus	Lachnoclostridium phocaeense	0	0
+0	NA	Firmicutes	Gloeobacteria	Methanosarcinales	Eggerthellaceae	Alcanivorax	Ndongobacter massiliensis	0	0
+0	NA	Chloroflexi	Gammaproteobacteria	Deinococcales	Microbulbiferaceae	Borreliella	Propionimicrobium sp. Marseille-P3275	0	0
+0	NA	Actinobacteria	Actinobacteria	Chromatiales	Rhodanobacteraceae	Actinoalloteichus	Flavobacteriaceae bacterium	0	0
+0	NA	Tenericutes	Alphaproteobacteria	Xanthomonadales	Morganellaceae	Orientia	Acinetobacter defluvii	0	0
+0	NA	Proteobacteria	Betaproteobacteria	Oceanospirillales	Hungateiclostridiaceae	Cryobacterium	Mycobacterium sp. djl-10	0	0
+0	NA	Firmicutes	Mollicutes	Alteromonadales	Spirochaetaceae	Tessaracoccus	Synechococcus phage S-CAM3	0	0
+0	NA	Chloroflexi	Coriobacteriia	Pasteurellales	Moraxellaceae	Pseudoxanthomonas	Selenomonas sp. oral taxon 920	0	0
+0	NA	Actinobacteria	Bacilli	Bacteroidales	Neisseriaceae	Modestobacter	Candidatus Nanopelagicus limnes	0	0
+0	NA	Tenericutes	Chlorobia	Clostridiales	Alcaligenaceae	Collinsella	Candidatus Planktophila versatilis	0	0
+0	NA	Proteobacteria	Fusobacteriia	Lactobacillales	Enterobacteriaceae	Micropruina	Candidatus Planktophila vernalis	0	0
+0	NA	Firmicutes	Spirochaetia	Flavobacteriales	Vibrionaceae	Ornithinimicrobium	Candidatus Nanopelagicus hibericus	0	0
+0	NA	Chloroflexi	Gloeobacteria	Rhodospirillales	Pasteurellaceae	Olsenella	Streptococcus himalayensis	0	0
+0	NA	Actinobacteria	Gammaproteobacteria	Rhodobacterales	Chromatiaceae	Jeotgalibacillus	Anaerolineaceae bacterium oral taxon 439	0	0
+0	NA	Tenericutes	Actinobacteria	Sphingomonadales	Micrococcaceae	Anaerococcus	Sulfolobus sp. A20	0	0
+0	NA	Proteobacteria	Alphaproteobacteria	Neisseriales	Streptococcaceae	Tistrella	Fuerstia marisgermanicae	0	0
+0	NA	Firmicutes	Betaproteobacteria	Rhodocyclales	Corynebacteriaceae	Parvularcula	Bacillus sp. ABP14	0	0
+0	NA	Chloroflexi	Mollicutes	Campylobacterales	Mycobacteriaceae	Micavibrio	Amycolatopsis sp. AA4	0	0
+0	NA	Actinobacteria	Coriobacteriia	Gemmatimonadales	Thermomonosporaceae	Kangiella	Macrococcus sp. IME1552	0	0
+0	NA	Tenericutes	Bacilli	Erysipelotrichales	Actinomycetaceae	Arsenicicoccus	Pseudomonas sp. LPH1	0	0
+0	NA	Proteobacteria	Chlorobia	Cytophagales	Streptomycetaceae	Lysinibacillus	Streptococcus sp. NPS 308	0	0
+0	NA	Firmicutes	Fusobacteriia	Selenomonadales	Pseudonocardiaceae	Phytobacter	Brachybacterium sp. P6-10-X1	0	0
+0	NA	Chloroflexi	Spirochaetia	Tissierellales	Micromonosporaceae	Oscillibacter	Tumebacillus avium	0	0
+0	NA	Actinobacteria	Gloeobacteria	Veillonellales	Bifidobacteriaceae	Sinomonas	Betaproteobacteria bacterium GR16-43	0	0
+0	NA	Tenericutes	Gammaproteobacteria	Myxococcales	Propionibacteriaceae	Candidatus Planktophila	Stenotrophomonas sp. LM091	0	0
+0	NA	Proteobacteria	Actinobacteria	Rhizobiales	Veillonellaceae	Gordonibacter	Klebsiella sp. LTGPAF-6F	0	0
+0	NA	Firmicutes	Alphaproteobacteria	Bacillales	Rhodobacteraceae	Mycobacteroides	Pectobacterium parmentieri	0	0
+0	NA	Chloroflexi	Betaproteobacteria	Nitrosomonadales	Lactobacillaceae	Plantactinospora	Curtobacterium sp. BH-2-1-1	0	0
+0	NA	Actinobacteria	Mollicutes	Desulfuromonadales	Bradyrhizobiaceae	Sphingorhabdus	Jeongeupia sp. USM3	0	0
+0	NA	Tenericutes	Coriobacteriia	Pseudomonadales	Rhodospirillaceae	Ezakiella	Microbacterium sp. BH-3-3-3	0	0
+0	NA	Proteobacteria	Bacilli	Burkholderiales	Flavobacteriaceae	Aurantimicrobium	Nonomuraea sp. ATCC 55076	0	0
+0	NA	Firmicutes	Chlorobia	Micrococcales	Phyllobacteriaceae	Mycolicibacterium	Tessaracoccus sp. T2.5-30	0	0
+0	NA	Chloroflexi	Fusobacteriia	Corynebacteriales	Caulobacteraceae	Clostridioides	Amycolatopsis sp. BJA-103	0	0
+0	NA	Actinobacteria	Spirochaetia	Enterobacterales	Comamonadaceae	Acidipropionibacterium	Marinilactibacillus sp. 15R	0	0
+0	NA	Tenericutes	Gloeobacteria	Methanosarcinales	Nocardiopsaceae	Cutibacterium	Virgibacillus sp. 6R	0	0
+0	NA	Proteobacteria	Gammaproteobacteria	Deinococcales	Nocardioidaceae	Methylorubrum	Tenericutes bacterium MZ-XQ	0	0
+0	NA	Firmicutes	Actinobacteria	Chromatiales	Dermabacteraceae	Methylophilus	Tenericutes bacterium MO-XQ	0	0
+0	NA	Chloroflexi	Alphaproteobacteria	Xanthomonadales	Microbacteriaceae	Stigmatella	Methanobacterium sp. MZ-A1	0	0
+0	NA	Actinobacteria	Betaproteobacteria	Oceanospirillales	Nocardiaceae	Treponema	Actinomyces sp. VUL4_3	0	0
+0	NA	Tenericutes	Mollicutes	Alteromonadales	Gordoniaceae	Achromobacter	Peptoniphilus sp. ING2-D1G	0	0
+0	NA	Proteobacteria	Coriobacteriia	Pasteurellales	Geodermatophilaceae	Alteromonas	Blautia sp. N6H1-15	0	0
+0	NA	Firmicutes	Bacilli	Bacteroidales	Burkholderiaceae	Brucella	Gramella salexigens	0	0
+0	NA	Chloroflexi	Chlorobia	Clostridiales	Erysipelotrichaceae	Flavobacterium	Rhizobium sp. Y9	0	0
+0	NA	Actinobacteria	Fusobacteriia	Lactobacillales	Pseudomonadaceae	Francisella	Enterobacter cloacae complex sp. ECNIH7	0	0
+0	NA	Tenericutes	Spirochaetia	Flavobacteriales	Peptostreptococcaceae	Pseudomonas	Microbacterium sp. 1.5R	0	0
+0	NA	Proteobacteria	Gloeobacteria	Rhodospirillales	Bacillaceae	Xanthomonas	Synechococcus sp. SynAce01	0	0
+0	NA	Firmicutes	Gammaproteobacteria	Rhodobacterales	Aerococcaceae	Rhizobium	Ketobacter alkanivorans	0	0
+0	NA	Chloroflexi	Actinobacteria	Sphingomonadales	Fusobacteriaceae	Methylobacterium	Aeromonas sp. ASNIH7	0	0
+0	NA	Actinobacteria	Alphaproteobacteria	Neisseriales	Nitrosomonadaceae	Gluconobacter	Enterobacteriaceae bacterium ENNIH2	0	0
+0	NA	Tenericutes	Betaproteobacteria	Rhodocyclales	Hahellaceae	Acinetobacter	Leclercia sp. LSNIH1	0	0
+0	NA	Proteobacteria	Mollicutes	Campylobacterales	Shewanellaceae	Neisseria	Enterobacteriaceae bacterium ENNIH3	0	0
+0	NA	Firmicutes	Coriobacteriia	Gemmatimonadales	Caldilineaceae	Psychrobacter	Delftia sp. HK171	0	0
+0	NA	Chloroflexi	Bacilli	Erysipelotrichales	Orbaceae	Bordetella	Marivivens sp. JLT3646	0	0
+0	NA	Actinobacteria	Chlorobia	Cytophagales	Peptoniphilaceae	Chromobacterium	Mariprofundus ferrinatatus	0	0
+0	NA	Tenericutes	Fusobacteriia	Selenomonadales	Atopobiaceae	Citrobacter	Candidatus Erwinia sp. ErCipseudotaxifoliae	0	0
+0	NA	Proteobacteria	Spirochaetia	Tissierellales	Eggerthellaceae	Enterobacter	Sphingorhabdus sp. Alg231-15	0	0
+0	NA	Firmicutes	Gloeobacteria	Veillonellales	Microbulbiferaceae	Erwinia	Anderseniella sp. Alg231-50	0	0
+0	NA	Chloroflexi	Gammaproteobacteria	Myxococcales	Rhodanobacteraceae	Escherichia	Sporosarcina sp. P37	0	0
+0	NA	Actinobacteria	Actinobacteria	Rhizobiales	Morganellaceae	Klebsiella	Sporosarcina sp. P33	0	0
+0	NA	Tenericutes	Alphaproteobacteria	Bacillales	Hungateiclostridiaceae	Morganella	Halorientalis sp. IM1011	0	0
+0	NA	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Spirochaetaceae	Proteus	Sphingobacterium sp. B29	0	0
+0	NA	Firmicutes	Mollicutes	Desulfuromonadales	Moraxellaceae	Salmonella	Bartonella sp. A1379B	0	0
+0	NA	Chloroflexi	Coriobacteriia	Pseudomonadales	Neisseriaceae	Serratia	Bartonella sp. Raccoon60	0	0
+0	NA	Actinobacteria	Bacilli	Burkholderiales	Alcaligenaceae	Yersinia	Winogradskyella sp. J14-2	0	0
+0	NA	Tenericutes	Chlorobia	Micrococcales	Enterobacteriaceae	Aeromonas	Seonamhaeicola sp. S2-3	0	0
+0	NA	Proteobacteria	Fusobacteriia	Corynebacteriales	Vibrionaceae	Haemophilus	Microbacterium sp. TPU 3598	0	0
+0	NA	Firmicutes	Spirochaetia	Enterobacterales	Pasteurellaceae	Rickettsia	Brevundimonas sp. LM2	0	0
+0	NA	Chloroflexi	Gloeobacteria	Methanosarcinales	Chromatiaceae	Bacteroides	Janthinobacterium sp. LM6	0	0
+0	NA	Actinobacteria	Gammaproteobacteria	Deinococcales	Micrococcaceae	Prevotella	Sphingomonas sp. LM7	0	0
+0	NA	Tenericutes	Actinobacteria	Chromatiales	Streptococcaceae	Selenomonas	Nostocales cyanobacterium HT-58-2	0	0
+0	NA	Proteobacteria	Alphaproteobacteria	Xanthomonadales	Corynebacteriaceae	Capnocytophaga	Phoenicibacter massiliensis	0	0
+0	NA	Firmicutes	Betaproteobacteria	Oceanospirillales	Mycobacteriaceae	Staphylococcus	Cellvibrio sp. PSBB023	0	0
+0	NA	Chloroflexi	Mollicutes	Alteromonadales	Thermomonosporaceae	Streptococcus	Capnocytophaga sp. H2931	0	0
+0	NA	Actinobacteria	Coriobacteriia	Pasteurellales	Actinomycetaceae	Planococcus	Capnocytophaga sp. H4358	0	0
+0	NA	Tenericutes	Bacilli	Bacteroidales	Streptomycetaceae	Aerococcus	Paracoccus contaminans	0	0
+0	NA	Proteobacteria	Chlorobia	Clostridiales	Pseudonocardiaceae	Gemella	Calothrix sp. NIES-2098	0	0
+0	NA	Firmicutes	Fusobacteriia	Lactobacillales	Micromonosporaceae	Bacillus	Noumeavirus	0	0
+0	NA	Chloroflexi	Spirochaetia	Flavobacteriales	Bifidobacteriaceae	Clostridium	Actinomyces gaoshouyii	0	0
+0	NA	Actinobacteria	Gloeobacteria	Rhodospirillales	Propionibacteriaceae	Actinomyces	Sphingomonas sp. NIC1	0	0
+0	NA	Tenericutes	Gammaproteobacteria	Rhodobacterales	Veillonellaceae	Arthrobacter	Streptomyces sp. MOE7	0	0
+0	NA	Proteobacteria	Actinobacteria	Sphingomonadales	Rhodobacteraceae	Bifidobacterium	Streptomyces sp. 3211	0	0
+0	NA	Firmicutes	Alphaproteobacteria	Neisseriales	Lactobacillaceae	Corynebacterium	Colwellia beringensis	0	0
+0	NA	Chloroflexi	Betaproteobacteria	Rhodocyclales	Bradyrhizobiaceae	Mycobacterium	Chlamydia sp. S15-834C	0	0
+0	NA	Actinobacteria	Mollicutes	Campylobacterales	Rhodospirillaceae	Amycolatopsis	Streptomyces sp. Sge12	0	0
+0	NA	Tenericutes	Coriobacteriia	Gemmatimonadales	Flavobacteriaceae	Nocardia	Enterobacter sp. Crenshaw	0	0
+0	NA	Proteobacteria	Bacilli	Erysipelotrichales	Phyllobacteriaceae	Rhodococcus	Chromatiaceae bacterium 2141T.STBD.0c.01a	0	0
+0	NA	Firmicutes	Chlorobia	Cytophagales	Caulobacteraceae	Nocardioides	Cryobacterium sp. LW097	0	0
+0	NA	Chloroflexi	Fusobacteriia	Selenomonadales	Comamonadaceae	Pseudonocardia	Cellulosimicrobium sp. TH-20	0	0
+0	NA	Actinobacteria	Spirochaetia	Tissierellales	Nocardiopsaceae	Geodermatophilus	Pseudomonas sp. M30-35	0	0
+0	NA	Tenericutes	Gloeobacteria	Veillonellales	Nocardioidaceae	Actinoplanes	Flavobacterium sp. AJ004	0	0
+0	NA	Proteobacteria	Gammaproteobacteria	Myxococcales	Dermabacteraceae	Micromonospora	Altererythrobacter mangrovi	0	0
+0	NA	Firmicutes	Actinobacteria	Rhizobiales	Microbacteriaceae	Streptomyces	Streptomyces sp. CLI2509	0	0
+0	NA	Chloroflexi	Alphaproteobacteria	Bacillales	Nocardiaceae	Nocardiopsis	Sulfuriferula sp. AH1	0	0
+0	NA	Actinobacteria	Betaproteobacteria	Nitrosomonadales	Gordoniaceae	Aeromicrobium	Desulfobulbus sp. ORNL	0	0
+0	NA	Tenericutes	Mollicutes	Desulfuromonadales	Geodermatophilaceae	Gordonia	Sphingobacteriaceae bacterium GW460-11-11-14-LB5	0	0
+0	NA	Proteobacteria	Coriobacteriia	Pseudomonadales	Burkholderiaceae	Tsukamurella	Aurantimicrobium sp. MWH-Mo1	0	0
+0	NA	Firmicutes	Bacilli	Burkholderiales	Erysipelotrichaceae	Kitasatospora	Cellvibrio sp. PSBB006	0	0
+0	NA	Chloroflexi	Chlorobia	Micrococcales	Pseudomonadaceae	Mycoplasma	Rhodococcus sp. S2-17	0	0
+0	NA	Actinobacteria	Fusobacteriia	Corynebacteriales	Peptostreptococcaceae	Acholeplasma	Lactobacillales bacterium	0	0
+0	NA	Tenericutes	Spirochaetia	Enterobacterales	Bacillaceae	Magnetospirillum	Sphingobacterium sp. G1-14	0	0
+0	NA	Proteobacteria	Gloeobacteria	Methanosarcinales	Aerococcaceae	Sphingomonas	Cellulomonas sp. PSBB021	0	0
+0	NA	Firmicutes	Gammaproteobacteria	Deinococcales	Fusobacteriaceae	Acidothermus	Acinetobacter sp. WCHA45	0	0
+0	NA	Chloroflexi	Actinobacteria	Chromatiales	Nitrosomonadaceae	Arcanobacterium	Acinetobacter sp. WCHA55	0	0
+0	NA	Actinobacteria	Alphaproteobacteria	Xanthomonadales	Hahellaceae	Janthinobacterium	Acinetobacter sp. WCHAc010052	0	0
+0	NA	Tenericutes	Betaproteobacteria	Oceanospirillales	Shewanellaceae	Burkholderia	Acinetobacter sp. WCHAc010005	0	0
+0	NA	Proteobacteria	Mollicutes	Alteromonadales	Caldilineaceae	Rothia	Stenotrophomonas sp. WZN-1	0	0
+0	NA	Firmicutes	Coriobacteriia	Pasteurellales	Orbaceae	Blastococcus	Legionella endosymbiont of Polyplax serrata	0	0
+0	NA	Chloroflexi	Bacilli	Bacteroidales	Peptoniphilaceae	Stenotrophomonas	Calothrix sp. NIES-3974	0	0
+0	NA	Actinobacteria	Chlorobia	Clostridiales	Atopobiaceae	Actinosynnema	Calothrix sp. NIES-4071	0	0
+0	NA	Tenericutes	Fusobacteriia	Lactobacillales	Eggerthellaceae	Brachybacterium	Enterococcus wangshanyuanii	0	0
+0	NA	Proteobacteria	Spirochaetia	Flavobacteriales	Microbulbiferaceae	Cyanothece	Sagittula sp. P11	0	0
+0	NA	Firmicutes	Gloeobacteria	Rhodospirillales	Rhodanobacteraceae	Salinicoccus	Erythrobacter sp. KY5	0	0
+0	NA	Chloroflexi	Gammaproteobacteria	Rhodobacterales	Morganellaceae	Pantoea	Citrobacter sp. 86	0	0
+0	NA	Actinobacteria	Actinobacteria	Sphingomonadales	Hungateiclostridiaceae	Nakamurella	Chryseobacterium sp. T16E-39	0	0
+0	NA	Tenericutes	Alphaproteobacteria	Neisseriales	Spirochaetaceae	Dermacoccus	Bosea sp. AS-1	0	0
+0	NA	Proteobacteria	Betaproteobacteria	Rhodocyclales	Moraxellaceae	Alcanivorax	Brachybacterium sp. VM2412	0	0
+0	NA	Firmicutes	Mollicutes	Campylobacterales	Neisseriaceae	Borreliella	Brachybacterium sp. VR2415	0	0
+0	NA	Chloroflexi	Coriobacteriia	Gemmatimonadales	Alcaligenaceae	Actinoalloteichus	Kitasatospora sp. MMS16-BH015	0	0
+0	NA	Actinobacteria	Bacilli	Erysipelotrichales	Enterobacteriaceae	Orientia	Roseomonas sp. FDAARGOS_362	0	0
+0	NA	Tenericutes	Chlorobia	Cytophagales	Vibrionaceae	Cryobacterium	Citrobacter sp. 92	0	0
+0	NA	Proteobacteria	Fusobacteriia	Selenomonadales	Pasteurellaceae	Tessaracoccus	Rhizobium sp. CIAT894	0	0
+0	NA	Firmicutes	Spirochaetia	Tissierellales	Chromatiaceae	Pseudoxanthomonas	Arthrobacter sp. YN	0	0
+0	NA	Chloroflexi	Gloeobacteria	Veillonellales	Micrococcaceae	Modestobacter	Ahniella affigens	0	0
+0	NA	Actinobacteria	Gammaproteobacteria	Myxococcales	Streptococcaceae	Collinsella	Labrenzia sp. VG12	0	0
+0	NA	Tenericutes	Actinobacteria	Rhizobiales	Corynebacteriaceae	Micropruina	Plantactinospora sp. KBS50	0	0
+0	NA	Proteobacteria	Alphaproteobacteria	Bacillales	Mycobacteriaceae	Ornithinimicrobium	Staphylococcus sp. M0911	0	0
+0	NA	Firmicutes	Betaproteobacteria	Nitrosomonadales	Thermomonosporaceae	Olsenella	Vibrio qinghaiensis	0	0
+0	NA	Chloroflexi	Mollicutes	Desulfuromonadales	Actinomycetaceae	Jeotgalibacillus	Parabacteroides sp. CT06	0	0
+0	NA	Actinobacteria	Coriobacteriia	Pseudomonadales	Streptomycetaceae	Anaerococcus	Herbaspirillum sp. meg3	0	0
+0	NA	Tenericutes	Bacilli	Burkholderiales	Pseudonocardiaceae	Tistrella	Paraburkholderia aromaticivorans	0	0
+0	NA	Proteobacteria	Chlorobia	Micrococcales	Micromonosporaceae	Parvularcula	Klebsiella quasivariicola	0	0
+0	NA	Firmicutes	Fusobacteriia	Corynebacteriales	Bifidobacteriaceae	Micavibrio	Bacillus sp. 1s-1	0	0
+0	NA	Chloroflexi	Spirochaetia	Enterobacterales	Propionibacteriaceae	Kangiella	Rhodothermaceae bacterium	0	0
+0	NA	Actinobacteria	Gloeobacteria	Methanosarcinales	Veillonellaceae	Arsenicicoccus	Verrucomicrobia bacterium	0	0
+0	NA	Tenericutes	Gammaproteobacteria	Deinococcales	Rhodobacteraceae	Lysinibacillus	Providencia sp. WCHPr000369	0	0
+0	NA	Proteobacteria	Actinobacteria	Chromatiales	Lactobacillaceae	Phytobacter	Mariniflexile sp. TRM1-10	0	0
+0	NA	Firmicutes	Alphaproteobacteria	Xanthomonadales	Bradyrhizobiaceae	Oscillibacter	Enterobacter cloacae complex sp.	0	0
+0	NA	Chloroflexi	Betaproteobacteria	Oceanospirillales	Rhodospirillaceae	Sinomonas	Chitinophaga caeni	0	0
+0	NA	Actinobacteria	Mollicutes	Alteromonadales	Flavobacteriaceae	Candidatus Planktophila	Aeromonas sp. CU5	0	0
+0	NA	Tenericutes	Coriobacteriia	Pasteurellales	Phyllobacteriaceae	Gordonibacter	Rhodobacteraceae bacterium QY30	0	0
+0	NA	Proteobacteria	Bacilli	Bacteroidales	Caulobacteraceae	Mycobacteroides	Serratia sp. MYb239	0	0
+0	NA	Firmicutes	Chlorobia	Clostridiales	Comamonadaceae	Plantactinospora	Actinoplanes sp. SE50	0	0
+0	NA	Chloroflexi	Fusobacteriia	Lactobacillales	Nocardiopsaceae	Sphingorhabdus	Rhodobacter sp. CZR27	0	0
+0	NA	Actinobacteria	Spirochaetia	Flavobacteriales	Nocardioidaceae	Ezakiella	Aerococcaceae bacterium ZY16052	0	0
+0	NA	Tenericutes	Gloeobacteria	Rhodospirillales	Dermabacteraceae	Aurantimicrobium	Cupriavidus sp. NH9	0	0
+0	NA	Proteobacteria	Gammaproteobacteria	Rhodobacterales	Microbacteriaceae	Mycolicibacterium	Dickeya sp. Secpp 1600	0	0
+0	NA	Firmicutes	Actinobacteria	Sphingomonadales	Nocardiaceae	Clostridioides	Gemella sp. ND 6198	0	0
+0	NA	Chloroflexi	Alphaproteobacteria	Neisseriales	Gordoniaceae	Acidipropionibacterium	Pectobacterium polaris	0	0
+0	NA	Actinobacteria	Betaproteobacteria	Rhodocyclales	Geodermatophilaceae	Cutibacterium	Nocardioides sp. 78	0	0
+0	NA	Tenericutes	Mollicutes	Campylobacterales	Burkholderiaceae	Methylorubrum	Solibacillus sp. R5-41	0	0
+0	NA	Proteobacteria	Coriobacteriia	Gemmatimonadales	Erysipelotrichaceae	Methylophilus	Rhizobium sp. NXC24	0	0
+0	NA	Firmicutes	Bacilli	Erysipelotrichales	Pseudomonadaceae	Stigmatella	Streptomyces dengpaensis	0	0
+0	NA	Chloroflexi	Chlorobia	Cytophagales	Peptostreptococcaceae	Treponema	Mycobacterium sp. PYR15	0	0
+0	NA	Actinobacteria	Fusobacteriia	Selenomonadales	Bacillaceae	Achromobacter	Dietzia sp. JS16-p6b	0	0
+0	NA	Tenericutes	Spirochaetia	Tissierellales	Aerococcaceae	Alteromonas	Bacillus sp. Y-01	0	0
+0	NA	Proteobacteria	Gloeobacteria	Veillonellales	Fusobacteriaceae	Brucella	Enterobacteriaceae bacterium S05	0	0
+0	NA	Firmicutes	Gammaproteobacteria	Myxococcales	Nitrosomonadaceae	Flavobacterium	Bacillus sp. HBCD-sjtu	0	0
+0	NA	Chloroflexi	Actinobacteria	Rhizobiales	Hahellaceae	Francisella	Kyrpidia spormannii	0	0
+0	NA	Actinobacteria	Alphaproteobacteria	Bacillales	Shewanellaceae	Pseudomonas	Spirosoma pollinicola	0	0
+0	NA	Tenericutes	Betaproteobacteria	Nitrosomonadales	Caldilineaceae	Xanthomonas	Acidipropionibacterium virtanenii	0	0
+0	NA	Proteobacteria	Mollicutes	Desulfuromonadales	Orbaceae	Rhizobium	Bradyrhizobium sp. SK17	0	0
+0	NA	Firmicutes	Coriobacteriia	Pseudomonadales	Peptoniphilaceae	Methylobacterium	Enterococcus sp. CR-Ec1	0	0
+0	NA	Chloroflexi	Bacilli	Burkholderiales	Atopobiaceae	Gluconobacter	Lacinutrix sp. Bg11-31	0	0
+0	NA	Actinobacteria	Chlorobia	Micrococcales	Eggerthellaceae	Acinetobacter	Nonlabens sp. MB-3u-79	0	0
+0	NA	Tenericutes	Fusobacteriia	Corynebacteriales	Microbulbiferaceae	Neisseria	Olleya sp. Bg11-27	0	0
+0	NA	Proteobacteria	Spirochaetia	Enterobacterales	Rhodanobacteraceae	Psychrobacter	Planococcus sp. MB-3u-03	0	0
+0	NA	Firmicutes	Gloeobacteria	Methanosarcinales	Morganellaceae	Bordetella	Polaribacter sp. ALD11	0	0
+0	NA	Chloroflexi	Gammaproteobacteria	Deinococcales	Hungateiclostridiaceae	Chromobacterium	Chromobacterium sp. ATCC 53434	0	0
+0	NA	Actinobacteria	Actinobacteria	Chromatiales	Spirochaetaceae	Citrobacter	Gordonia sp. YC-JH1	0	0
+0	NA	Tenericutes	Alphaproteobacteria	Xanthomonadales	Moraxellaceae	Enterobacter	Streptomyces sp. CMB-StM0423	0	0
+0	NA	Proteobacteria	Betaproteobacteria	Oceanospirillales	Neisseriaceae	Erwinia	Enterococcus sp. FDAARGOS_163	0	0
+0	NA	Firmicutes	Mollicutes	Alteromonadales	Alcaligenaceae	Escherichia	Enterococcus sp. FDAARGOS_375	0	0
+0	NA	Chloroflexi	Coriobacteriia	Pasteurellales	Enterobacteriaceae	Klebsiella	Altererythrobacter sp. B11	0	0
+0	NA	Actinobacteria	Bacilli	Bacteroidales	Vibrionaceae	Morganella	Neorhizobium sp. SOG26	0	0
+0	NA	Tenericutes	Chlorobia	Clostridiales	Pasteurellaceae	Proteus	Citrobacter freundii complex sp. CFNIH2	0	0
+0	NA	Proteobacteria	Fusobacteriia	Lactobacillales	Chromatiaceae	Salmonella	Enterobacteriaceae bacterium ENNIH1	0	0
+0	NA	Firmicutes	Spirochaetia	Flavobacteriales	Micrococcaceae	Serratia	Pseudomonas sp. NC02	0	0
+0	NA	Chloroflexi	Gloeobacteria	Rhodospirillales	Streptococcaceae	Yersinia	Pseudomonas sp. XWY-1	0	0
+0	NA	Actinobacteria	Gammaproteobacteria	Rhodobacterales	Corynebacteriaceae	Aeromonas	Tamlana sp. UJ94	0	0
+0	NA	Tenericutes	Actinobacteria	Sphingomonadales	Mycobacteriaceae	Haemophilus	Sulfitobacter sp. JL08	0	0
+0	NA	Proteobacteria	Alphaproteobacteria	Neisseriales	Thermomonosporaceae	Rickettsia	Gammaproteobacteria bacterium ESL0073	0	0
+0	NA	Firmicutes	Betaproteobacteria	Rhodocyclales	Actinomycetaceae	Bacteroides	Plantactinospora sp. BB1	0	0
+0	NA	Chloroflexi	Mollicutes	Campylobacterales	Streptomycetaceae	Prevotella	Lysinibacillus sp. YS11	0	0
+0	NA	Actinobacteria	Coriobacteriia	Gemmatimonadales	Pseudonocardiaceae	Selenomonas	Actinoalloteichus sp. AHMU CJ021	0	0
+0	NA	Tenericutes	Bacilli	Erysipelotrichales	Micromonosporaceae	Capnocytophaga	Streptomyces sp. Go-475	0	0
+0	NA	Proteobacteria	Chlorobia	Cytophagales	Bifidobacteriaceae	Staphylococcus	Enterobacter cloacae complex sp. FDA-CDC-AR_0164	0	0
+0	NA	Firmicutes	Fusobacteriia	Selenomonadales	Propionibacteriaceae	Streptococcus	Citrobacter freundii complex sp. CFNIH3	0	0
+0	NA	Chloroflexi	Spirochaetia	Tissierellales	Veillonellaceae	Planococcus	Citrobacter freundii complex sp. CFNIH4	0	0
+0	NA	Actinobacteria	Gloeobacteria	Veillonellales	Rhodobacteraceae	Aerococcus	Citrobacter freundii complex sp. CFNIH9	0	0
+0	NA	Tenericutes	Gammaproteobacteria	Myxococcales	Lactobacillaceae	Gemella	Arthrobacter sp. PGP41	0	0
+0	NA	Proteobacteria	Actinobacteria	Rhizobiales	Bradyrhizobiaceae	Bacillus	Corynebacterium sp. 2184	0	0
+0	NA	Firmicutes	Alphaproteobacteria	Bacillales	Rhodospirillaceae	Clostridium	Actinomyces sp. Z16	0	0
+0	NA	Chloroflexi	Betaproteobacteria	Nitrosomonadales	Flavobacteriaceae	Actinomyces	Aurantimicrobium sp. MWH-Uga1	0	0
+0	NA	Actinobacteria	Mollicutes	Desulfuromonadales	Phyllobacteriaceae	Arthrobacter	Salinibacterium sp. CGMCC 1.16371	0	0
+0	NA	Tenericutes	Coriobacteriia	Pseudomonadales	Caulobacteraceae	Bifidobacterium	Mycetocola sp. CGMCC 1.16372	0	0
+0	NA	Proteobacteria	Bacilli	Burkholderiales	Comamonadaceae	Corynebacterium	Aeromicrobium sp. 592	0	0
+0	NA	Firmicutes	Chlorobia	Micrococcales	Nocardiopsaceae	Mycobacterium	Zoogloeaceae bacteirum Par-f-2	0	0
+0	NA	Chloroflexi	Fusobacteriia	Corynebacteriales	Nocardioidaceae	Amycolatopsis	Corynebacterium sp. 2183	0	0
+0	NA	Actinobacteria	Spirochaetia	Enterobacterales	Dermabacteraceae	Nocardia	Agromyces sp. 30A	0	0
+0	NA	Tenericutes	Gloeobacteria	Methanosarcinales	Microbacteriaceae	Rhodococcus	Actinomyces sp. oral taxon 897	0	0
+0	NA	Proteobacteria	Gammaproteobacteria	Deinococcales	Nocardiaceae	Nocardioides	Peptostreptococcaceae bacterium oral taxon 929	0	0
+0	NA	Firmicutes	Actinobacteria	Chromatiales	Gordoniaceae	Pseudonocardia	Clostridiaceae bacterium 14S0207	0	0
+0	NA	Chloroflexi	Alphaproteobacteria	Xanthomonadales	Geodermatophilaceae	Geodermatophilus	Microvirga sp. 17 mud 1-3	0	0
+0	NA	Actinobacteria	Betaproteobacteria	Oceanospirillales	Burkholderiaceae	Actinoplanes	Streptomyces sp. CB09001	0	0
+0	NA	Tenericutes	Mollicutes	Alteromonadales	Erysipelotrichaceae	Micromonospora	Devosia sp. I507	0	0
+0	NA	Proteobacteria	Coriobacteriia	Pasteurellales	Pseudomonadaceae	Streptomyces	Mordavella sp. Marseille-P3756	0	0
+0	NA	Firmicutes	Bacilli	Bacteroidales	Peptostreptococcaceae	Nocardiopsis	Streptomyces sp. WAC00288	0	0
+0	NA	Chloroflexi	Chlorobia	Clostridiales	Bacillaceae	Aeromicrobium	Ruegeria sp. NKC1-1	0	0
+0	NA	Actinobacteria	Fusobacteriia	Lactobacillales	Aerococcaceae	Gordonia	Lactobacillus sp. CBA3605	0	0
+0	NA	Tenericutes	Spirochaetia	Flavobacteriales	Fusobacteriaceae	Tsukamurella	Microbacterium sp. str. 'China'	0	0
+0	NA	Proteobacteria	Gloeobacteria	Rhodospirillales	Nitrosomonadaceae	Kitasatospora	Aeromicrobium sp. A1-2	0	0
+0	NA	Firmicutes	Gammaproteobacteria	Rhodobacterales	Hahellaceae	Mycoplasma	Plantactinospora sp. BC1	0	0
+0	NA	Chloroflexi	Actinobacteria	Sphingomonadales	Shewanellaceae	Acholeplasma	Oscillibacter sp. PEA192	0	0
+0	NA	Actinobacteria	Alphaproteobacteria	Neisseriales	Caldilineaceae	Magnetospirillum	Clostridiales bacterium CCNA10	0	0
+0	NA	Tenericutes	Betaproteobacteria	Rhodocyclales	Orbaceae	Sphingomonas	Lachnospiraceae bacterium Choco86	0	0
+0	NA	Proteobacteria	Mollicutes	Campylobacterales	Peptoniphilaceae	Acidothermus	Lachnospiraceae bacterium GAM79	0	0
+0	NA	Firmicutes	Coriobacteriia	Gemmatimonadales	Atopobiaceae	Arcanobacterium	Erysipelotrichaceae bacterium GAM147	0	0
+0	NA	Chloroflexi	Bacilli	Erysipelotrichales	Eggerthellaceae	Janthinobacterium	Ottowia oryzae	0	0
+0	NA	Actinobacteria	Chlorobia	Cytophagales	Microbulbiferaceae	Burkholderia	Variovorax sp. PMC12	0	0
+0	NA	Tenericutes	Fusobacteriia	Selenomonadales	Rhodanobacteraceae	Rothia	Streptacidiphilus sp. DSM 106435	0	0
+0	NA	Proteobacteria	Spirochaetia	Tissierellales	Morganellaceae	Blastococcus	Gramella sp. SH35	0	0
+0	NA	Firmicutes	Gloeobacteria	Veillonellales	Hungateiclostridiaceae	Stenotrophomonas	Streptomyces sp. P3	0	0
+0	NA	Chloroflexi	Gammaproteobacteria	Myxococcales	Spirochaetaceae	Actinosynnema	Megasphaera stantonii	0	0
+0	NA	Actinobacteria	Actinobacteria	Rhizobiales	Moraxellaceae	Brachybacterium	Saccharospirillum mangrovi	0	0
+0	NA	Tenericutes	Alphaproteobacteria	Bacillales	Neisseriaceae	Cyanothece	Tessaracoccus sp. Marseille-P5995	0	0
+0	NA	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Alcaligenaceae	Salinicoccus	Colwellia sp. Arc7-D	0	0
+0	NA	Firmicutes	Mollicutes	Desulfuromonadales	Enterobacteriaceae	Pantoea	Gammaproteobacteria bacterium DM2	0	0
+0	NA	Chloroflexi	Coriobacteriia	Pseudomonadales	Vibrionaceae	Nakamurella	Lysinibacillus sp. 2017	0	0
+0	NA	Actinobacteria	Bacilli	Burkholderiales	Pasteurellaceae	Dermacoccus	Methyloceanibacter sp. wino2	0	0
+0	NA	Tenericutes	Chlorobia	Micrococcales	Chromatiaceae	Alcanivorax	Auritidibacter sp. NML130574	0	0
+0	NA	Proteobacteria	Fusobacteriia	Corynebacteriales	Micrococcaceae	Borreliella	Miniimonas sp. S16	0	0
+0	NA	Firmicutes	Spirochaetia	Enterobacterales	Streptococcaceae	Actinoalloteichus	Actinotignum sp. 313	0	0
+0	NA	Chloroflexi	Gloeobacteria	Methanosarcinales	Corynebacteriaceae	Orientia	Flavobacterium sp. HYN0049	0	0
+0	NA	Actinobacteria	Gammaproteobacteria	Deinococcales	Mycobacteriaceae	Cryobacterium	Catenovulum sp. CCB-QB4	0	0
+0	NA	Tenericutes	Actinobacteria	Chromatiales	Thermomonosporaceae	Tessaracoccus	Dokdonia sp. Dokd-P16	0	0
+0	NA	Proteobacteria	Alphaproteobacteria	Xanthomonadales	Actinomycetaceae	Pseudoxanthomonas	Streptococcus sp. Z15	0	0
+0	NA	Firmicutes	Betaproteobacteria	Oceanospirillales	Streptomycetaceae	Modestobacter	Streptomyces sp. HNM0039	0	0
+0	NA	Chloroflexi	Mollicutes	Alteromonadales	Pseudonocardiaceae	Collinsella	Flavobacterium sp. HYN0059	0	0
+0	NA	Actinobacteria	Coriobacteriia	Pasteurellales	Micromonosporaceae	Micropruina	Pseudarcicella sp. HME7025	0	0
+0	NA	Tenericutes	Bacilli	Bacteroidales	Bifidobacteriaceae	Ornithinimicrobium	Salinisphaera sp. LB1	0	0
+0	NA	Proteobacteria	Chlorobia	Clostridiales	Propionibacteriaceae	Olsenella	Streptomyces sp. ZFG47	0	0
+0	NA	Firmicutes	Fusobacteriia	Lactobacillales	Veillonellaceae	Jeotgalibacillus	Flavobacterium sp. MEBiC07310	0	0
+0	NA	Chloroflexi	Spirochaetia	Flavobacteriales	Rhodobacteraceae	Anaerococcus	Micromonospora sp. B006	0	0
+0	NA	Actinobacteria	Gloeobacteria	Rhodospirillales	Lactobacillaceae	Tistrella	Streptomyces sp. NEAU-S7GS2	0	0
+0	NA	Tenericutes	Gammaproteobacteria	Rhodobacterales	Bradyrhizobiaceae	Parvularcula	Chromobacterium sp. IIBBL 112-1	0	0
+0	NA	Proteobacteria	Actinobacteria	Sphingomonadales	Rhodospirillaceae	Micavibrio	Chromobacterium sp. IIBBL 274-1	0	0
+0	NA	Firmicutes	Alphaproteobacteria	Neisseriales	Flavobacteriaceae	Kangiella	Methylobacterium sp. 17SD2-17	0	0
+0	NA	Chloroflexi	Betaproteobacteria	Rhodocyclales	Phyllobacteriaceae	Arsenicicoccus	Methylobacterium sp. 17Sr1-1	0	0
+0	NA	Actinobacteria	Mollicutes	Campylobacterales	Caulobacteraceae	Lysinibacillus	Methylobacterium sp. 17Sr1-28	0	0
+0	NA	Tenericutes	Coriobacteriia	Gemmatimonadales	Comamonadaceae	Phytobacter	Methylobacterium sp. 17Sr1-43	0	0
+0	NA	Proteobacteria	Bacilli	Erysipelotrichales	Nocardiopsaceae	Oscillibacter	Acidobacteriaceae bacterium SBC82	0	0
+0	NA	Firmicutes	Chlorobia	Cytophagales	Nocardioidaceae	Sinomonas	Arthrobacter sp. DCT5	0	0
+0	NA	Chloroflexi	Fusobacteriia	Selenomonadales	Dermabacteraceae	Candidatus Planktophila	Pseudomonas sp. R2A2	0	0
+0	NA	Actinobacteria	Spirochaetia	Tissierellales	Microbacteriaceae	Gordonibacter	Paraliobacillus sp. X-1125	0	0
+0	NA	Tenericutes	Gloeobacteria	Veillonellales	Nocardiaceae	Mycobacteroides	Flavobacterium sp. HYN0086	0	0
+0	NA	Proteobacteria	Gammaproteobacteria	Myxococcales	Gordoniaceae	Plantactinospora	Paracoccus sp. SC2-6	0	0
+0	NA	Firmicutes	Actinobacteria	Rhizobiales	Geodermatophilaceae	Sphingorhabdus	Kordia sp. SMS9	0	0
+0	NA	Chloroflexi	Alphaproteobacteria	Bacillales	Burkholderiaceae	Ezakiella	Humibacter sp. BT305	0	0
+0	NA	Actinobacteria	Betaproteobacteria	Nitrosomonadales	Erysipelotrichaceae	Aurantimicrobium	Sporosarcina sp. PTS2304	0	0
+0	NA	Tenericutes	Mollicutes	Desulfuromonadales	Pseudomonadaceae	Mycolicibacterium	Ornithinimicrobium sp. AMA3305	0	0
+0	NA	Proteobacteria	Coriobacteriia	Pseudomonadales	Peptostreptococcaceae	Clostridioides	Lysobacter sp. TY2-98	0	0
+0	NA	Firmicutes	Bacilli	Burkholderiales	Bacillaceae	Acidipropionibacterium	Ruegeria sp. AD91A	0	0
+0	NA	Chloroflexi	Chlorobia	Micrococcales	Aerococcaceae	Cutibacterium	Solimonas sp. K1W22B-7	0	0
+0	NA	Actinobacteria	Fusobacteriia	Corynebacteriales	Fusobacteriaceae	Methylorubrum	Stenotrophomonas sp. G4	0	0
+0	NA	Tenericutes	Spirochaetia	Enterobacterales	Nitrosomonadaceae	Methylophilus	Marinobacter sp. Arc7-DN-1	0	0
+0	NA	Proteobacteria	Gloeobacteria	Methanosarcinales	Hahellaceae	Stigmatella	Streptomyces sp. CC0208	0	0
+0	NA	Firmicutes	Gammaproteobacteria	Deinococcales	Shewanellaceae	Treponema	Hymenobacter sp. sh-6	0	0

@@ -1,0 +1,1452 @@
+NCBI-TaxID	Kingdom	Phylum	Class	Order	Family	Genus	Species	Number_of_Reads	Relative_Abundance
+1001240	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Cryobacterium	Cryobacterium roopkundense	1	0
+100225	NA	Actinobacteria	Actinobacteria	Micrococcales	Dermatophilaceae	Austwickia	Austwickia chelonae	1	0
+1002	NA	Bacteroidetes	Cytophagia	Cytophagales	Bernardetiaceae	Hugenholtzia	Hugenholtzia roseola	1	0
+1003237	NA	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Nitrospirillum	Nitrospirillum amazonense	5	0
+1008	NA	Bacteroidetes	Saprospiria	Saprospirales	Saprospiraceae	Saprospira	Saprospira grandis	1	0
+1016	NA	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	NA	1	0
+102234	NA	Cyanobacteria	NA	Chroococcales	Cyanobacteriaceae	Cyanobacterium	NA	1	0
+1027273	NA	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Endozoicomonaceae	Endozoicomonas	Endozoicomonas montiporae	1	0
+1028806	NA	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	Haemophilus haemolyticus	4	0
+1030841	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria wadsworthii	4	0
+1032488	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria shayeganii	13	0
+1032851	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium nuruki	1	0
+1033736	NA	Actinobacteria	Actinobacteria	Micrococcales	Brevibacteriaceae	Brevibacterium	Brevibacterium senegalense	2	0
+103618	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces coleocanis	13	0
+103621	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces urogenitalis	4	0
+10370	NA	NA	NA	Herpesvirales	Herpesviridae	Roseolovirus	Human betaherpesvirus 6A	1	0
+1038928	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces xinghaiensis	1	0
+1042322	NA	Actinobacteria	Actinobacteria	Micrococcales	Demequinaceae	NA	NA	31	0
+1045009	NA	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Citricoccus	Citricoccus sp. CH26A	2	0
+1045774	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Nocardioidaceae	Nocardioides	Nocardioides lianchengensis	1	0
+1050174	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium epidermidicanis	1	0
+1050370	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	NA	Thiomonas	Thiomonas sp. X19	11	0
+1056807	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Morococcus	Morococcus cerebrosus	14	0
+1057002	NA	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Ensifer	Ensifer sp. BR816	1	0
+106590	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Cupriavidus	Cupriavidus necator	12	0
+1068625	NA	NA	NA	Kinetoplastida	Trypanosomatidae	Trypanosoma	Trypanosoma congolense	1	0
+1068978	NA	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Amycolatopsis	Amycolatopsis methanolica	2	0
+1069494	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Trueperella	NA	11	0
+1071080	NA	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. SB49	6	0
+1071378	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Naumovozyma	Naumovozyma dairenensis	1	0
+1072256	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium uterequi	3	0
+1073330	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces zinciresistens	1	0
+1075402	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces oceani	1	0
+1077348	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Polyporaceae	Ganoderma	Ganoderma sinense	1	0
+1079994	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Leucobacter	Leucobacter chromiiresistens	1	0
+1081644	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Candidatus Aquiluna	Candidatus Aquiluna sp. IMCC13023	1	0
+108892	Fungi	Basidiomycota	Agaricomycetes	Hymenochaetales	Hymenochaetaceae	Sanghuangporus	Sanghuangporus baumii	1	0
+1090375	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Candidatus Burkholderia pumila	1	0
+1091495	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Taylorella	Taylorella asinigenitalis	26	0
+109262	NA	Proteobacteria	Gammaproteobacteria	Chromatiales	Halothiobacillaceae	Halothiobacillus	NA	1	0
+1095025	NA	Actinobacteria	Actinobacteria	Micrococcales	Demequinaceae	Demequina	Demequina flava	3	0
+1095630	Fungi	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae	Meliniomyces	Meliniomyces bicolor	1	0
+1095685	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria meningitidis	3	0
+1095729	NA	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus anginosus	1	0
+1095746	NA	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	Haemophilus parainfluenzae	1	0
+1095748	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria sicca	3	0
+1095749	NA	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Pasteurella	Pasteurella bettyae	1	0
+110365	NA	Apicomplexa	Gregarinasina	Eugregarinorida	Gregarinidae	Gregarina	Gregarina niphandrodes	1	0
+1105030	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces sp. ICM58	1	0
+110932	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Leifsonia	NA	1	0
+111015	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces radicidentis	1	0
+1110697	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Nocardia	Nocardia asteroides	12	0
+1111106	NA	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Ancylobacter	Ancylobacter sp. FA202	1	0
+111527	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	NA	3	0
+1117707	NA	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio	Vibrio quintilis	2	0
+1117	NA	Cyanobacteria	NA	NA	NA	NA	NA	2	0
+1118	NA	Cyanobacteria	NA	Chroococcales	NA	NA	NA	1	0
+112090	NA	NA	Oomycetes	Saprolegniales	Saprolegniaceae	Aphanomyces	Aphanomyces astaci	1	0
+1120981	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Alysiella	Alysiella filiformis	8	0
+1121324	NA	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Peptoclostridium	Peptoclostridium litorale	2	0
+1121358	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium doosanense	1	0
+1122600	NA	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Nereida	Nereida ignava	1	0
+1123067	NA	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rubellimicrobium	Rubellimicrobium mesophilum	1	0
+1127134	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Nocardia	Nocardia cyriacigeorgica	3	0
+1127356	NA	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli	8	0
+1127690	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces sp. oral taxon 181	2	0
+1127694	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria sp. oral taxon 020	30	0
+1128911	NA	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae	Paraglaciecola	Paraglaciecola arctica	1	0
+1129896	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Rhodococcus	Rhodococcus opacus	2	0
+1129897	NA	Chloroflexi	Thermomicrobia	Sphaerobacterales	Sphaerobacteraceae	Nitrolancea	Nitrolancea hollandica	8	0
+1134510	NA	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bartonellaceae	Bartonella	Bartonella koehlerae	2	0
+1134687	NA	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella michiganensis	1	0
+1137130	NA	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus	1	0
+1138585	NA	Actinobacteria	Actinobacteria	Micrococcales	Cellulomonadaceae	Sediminihabitans	Sediminihabitans luteus	1	0
+1144309	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia sp. BT03	7	0
+1145127	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria meningitidis	1	0
+1145146	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria meningitidis	1	0
+1150368	NA	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Sinomicrobium	Sinomicrobium oceani	1	0
+1150	NA	Cyanobacteria	NA	Oscillatoriales	NA	NA	NA	1	0
+1151372	NA	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile	2	0
+115335	NA	Actinobacteria	Actinobacteria	Streptosporangiales	Thermomonosporaceae	Actinomadura	Actinomadura rubrobrunea	1	0
+115433	NA	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Amycolatopsis	Amycolatopsis sacchari	1	0
+1160705	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces viridochromogenes	53	0
+1160718	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces auratus	7	0
+1164882	NA	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnoanaerobaculum	NA	1	0
+1165852	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Melaminivora	Melaminivora alkalimesophila	2	0
+1166015	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium diphtheriae	3	0
+1166340	NA	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	Sphingomonas sp. S6-262	1	0
+1169152	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Nocardia	Nocardia sp. CNY236	5	0
+1169153	NA	Actinobacteria	Actinobacteria	Streptosporangiales	Nocardiopsaceae	Nocardiopsis	Nocardiopsis sp. CNS-639	1	0
+1169540	NA	Chromerida	NA	NA	NA	Vitrella	Vitrella brassicaformis	1	0
+117156	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Nocardioidaceae	Actinopolymorpha	NA	1	0
+1177928	NA	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Thalassospira	Thalassospira profundimaris	8	0
+1182545	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Exophiala	Exophiala aquamarina	1	0
+118323	NA	Cyanobacteria	NA	Oscillatoriales	Oscillatoriaceae	Oscillatoria	Oscillatoria acuminata	1	0
+1185415	NA	Actinobacteria	Actinobacteria	Micromonosporales	Micromonosporaceae	Micromonospora	Micromonospora wenchangensis	1	0
+1185650	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium abscessus	349	0
+1188319	NA	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Gallionellaceae	Ferriphaselus	Ferriphaselus amnicola	1	0
+118884	NA	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA	1	0
+118968	NA	Proteobacteria	Gammaproteobacteria	Legionellales	Coxiellaceae	NA	NA	1	0
+1190579	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria meningitidis	1	0
+1190581	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria meningitidis	1	0
+119060	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	NA	NA	11	0
+1193515	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Snodgrassella	NA	3	0
+1193518	NA	Actinobacteria	Actinobacteria	Micrococcales	Intrasporangiaceae	Tetrasphaera	Tetrasphaera jenkinsii	35	0
+1193682	NA	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Actinokineospora	Actinokineospora bangkokensis	1	0
+1194083	NA	Actinobacteria	Actinobacteria	Micrococcales	Intrasporangiaceae	Tetrasphaera	Tetrasphaera japonica	123	0
+1196083	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Snodgrassella	Snodgrassella alvi	7	0
+1196353	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces wuyuanensis	6	0
+1200984	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces lividans	1	0
+1202772	NA	NA	Oomycetes	Saprolegniales	Saprolegniaceae	Achlya	Achlya hypogyna	1	0
+1203559	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium sp. KPL1818	3	0
+1203560	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium sp. KPL1821	1	0
+1203561	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium sp. KPL1824	6	0
+1203564	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium sp. KPL1857	1	0
+1204385	NA	Chloroflexi	Caldilineae	Caldilineales	Caldilineaceae	Litorilinea	Litorilinea aerophila	1	0
+1204738	NA	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Halomonadaceae	Halomonas	Halomonas titanicae	2	0
+1206085	NA	Actinobacteria	Actinobacteria	Frankiales	Frankiaceae	Jatrophihabitans	Jatrophihabitans endophyticus	1	0
+1208923	NA	Proteobacteria	Betaproteobacteria	NA	NA	Kinetoplastibacterium	Kinetoplastibacterium blastocrithidii	1	0
+121163	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces suimastitidis	9	0
+1216932	NA	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium bornimense	1	0
+1219585	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Arcanobacterium	Arcanobacterium sp. S3PF19	63	0
+1224162	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium marinum	2	0
+1224	NA	Proteobacteria	NA	NA	NA	NA	NA	3702	0
+122586	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria meningitidis	1	0
+122706	NA	Proteobacteria	Deltaproteobacteria	NA	NA	NA	NA	2	0
+1227261	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinobaculum	Actinobaculum sp. oral taxon 183	9	0
+1229484	NA	Proteobacteria	Alphaproteobacteria	NA	NA	NA	alpha proteobacterium LLX12A	1	0
+1229781	NA	Actinobacteria	Actinobacteria	Micrococcales	Brevibacteriaceae	Brevibacterium	Brevibacterium casei	3	0
+1230075	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Cryptococcaceae	Cryptococcus	Cryptococcus neoformans	1	0
+1230998	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium frankenforstense	3	0
+1231000	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium lactis	1	0
+1231063	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium	Microbacterium gorillae	1	0
+1231343	NA	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Acetobacter	Acetobacter syzygii	6	0
+1234382	NA	Proteobacteria	Betaproteobacteria	Rhodocyclales	Zoogloeaceae	Thauera	Thauera phenylacetica	2	0
+1235800	NA	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	NA	Lachnospiraceae bacterium 10-1	1	0
+1236481	NA	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus stratosphericus	1	0
+1236	NA	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA	87	0
+1239	NA	Firmicutes	NA	NA	NA	NA	NA	42	0
+1245528	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	Candida maltosa	1	0
+1245935	NA	Cyanobacteria	NA	Nostocales	Tolypothrichaceae	Tolypothrix	Tolypothrix campylonemoides	3	0
+1246458	NA	Actinobacteria	Actinobacteria	Streptosporangiales	Nocardiopsaceae	Nocardiopsis	Nocardiopsis potens	1	0
+1246459	NA	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium	Rhizobium sp. 2MFCol3.1	1	0
+1247936	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Paraburkholderia	Paraburkholderia ribeironis	1	0
+1255658	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Luteococcus	Luteococcus japonicus	1	0
+1256570	NA	NA	NA	NA	NA	NA	uncultured bacterium A1Q1_fos_291	1	0
+1256908	NA	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Eubacterium	Eubacterium ramulus	1	0
+1257021	NA	Bacteroidetes	Cytophagia	Cytophagales	Flammeovirgaceae	NA	Flammeovirgaceae bacterium 311	1	0
+1261556	NA	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Xanthomonas	Xanthomonas translucens	2	0
+1262550	NA	Actinobacteria	Actinobacteria	Micrococcales	Brevibacteriaceae	Brevibacterium	Brevibacterium jeotgali	1	0
+1262703	NA	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Anaerotruncus	Anaerotruncus sp. CAG:390	1	0
+1262753	NA	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. CAG:927	1	0
+1262770	NA	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium sp. CAG:1024	4	0
+1262819	NA	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium sp. CAG:557	1	0
+1262855	NA	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Coprobacillus	Coprobacillus sp. CAG:605	1	0
+1262876	NA	Actinobacteria	Coriobacteriia	Eggerthellales	Eggerthellaceae	Eggerthella	Eggerthella sp. CAG:298	1	0
+1262896	NA	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Faecalibacterium	Faecalibacterium sp. CAG:1138	1	0
+1262915	NA	Firmicutes	Negativicutes	Acidaminococcales	Acidaminococcaceae	Phascolarctobacterium	Phascolarctobacterium sp. CAG:266	1	0
+1262920	NA	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella sp. CAG:1124	1	0
+1262934	NA	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella sp. CAG:732	10	0
+1262965	NA	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus	Ruminococcus sp. CAG:624	1	0
+1262977	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Sutterellaceae	Sutterella	Sutterella sp. CAG:521	1	0
+1262989	NA	Firmicutes	NA	NA	NA	NA	Firmicutes bacterium CAG:94	21	0
+1263057	NA	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium adolescentis CAG:119	1	0
+1263547	NA	Firmicutes	Clostridia	Clostridiales	Oscillospiraceae	Oscillibacter	Oscillibacter ruminantium	1	0
+1265734	NA	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Rhodopirellula	Rhodopirellula maiorica	2	0
+1265	NA	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus	Ruminococcus flavefaciens	4	0
+1266765	NA	Proteobacteria	Deltaproteobacteria	Desulfuromonadales	Geobacteraceae	Geobacter	Geobacter sp. OR-1	1	0
+1267754	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium urealyticum	7	0
+1268303	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Rhodococcus	Rhodococcus sp. AW25M09	1	0
+1268	NA	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	NA	NA	28	0
+1269	NA	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Micrococcus	NA	2	0
+1270	NA	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Micrococcus	Micrococcus luteus	2	0
+1272	NA	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Kocuria	Kocuria varians	1	0
+1273132	NA	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Liberibacter	Liberibacter crescens	1	0
+1273133	NA	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus salivarius	4	0
+1279027	NA	Proteobacteria	Deltaproteobacteria	Desulfurellales	Desulfurellaceae	Hippea	Hippea alviniae	1	0
+1279	NA	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	NA	3	0
+1280680	NA	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Butyrivibrio	Butyrivibrio sp. LC3010	17	0
+1280	NA	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus	4	0
+128104	NA	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Lentzea	Lentzea violacea	20	0
+1283	NA	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus haemolyticus	1	0
+1284680	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces sp. S6-Spd3	1	0
+1288083	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces sp. TAA040	1	0
+1288391	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces timonensis	1	0
+1288971	NA	Firmicutes	Tissierellia	Tissierellales	Tissierellaceae	NA	[Clostridium] ultunense	15	0
+1291522	Viridiplantae	Chlorophyta	Trebouxiophyceae	Chlorellales	Chlorellaceae	Helicosporidium	Helicosporidium sp. ATCC 50920	1	0
+12916	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Acidovorax	NA	1	0
+1292020	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Dietziaceae	Dietzia	Dietzia sp. UCD-THP	1	0
+1295609	NA	Thermodesulfobacteria	Thermodesulfobacteria	Thermodesulfobacteriales	Thermodesulfobacteriaceae	Thermodesulfobacterium	Thermodesulfobacterium geofontis	1	0
+12960	NA	Proteobacteria	Betaproteobacteria	Rhodocyclales	Zoogloeaceae	Azoarcus	NA	1	0
+1299328	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium kansasii	1	0
+1299332	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium ulcerans	1	0
+1299333	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium xenopi	20	0
+1301088	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Rhodococcus	Rhodococcus sp. EsD8	1	0
+1301279	NA	NA	NA	NA	Iridoviridae	Iridovirus	Invertebrate iridovirus 22	1	0
+1301	NA	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	NA	252	0
+1302243	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium	Cutibacterium acnes	9	0
+1304865	NA	Actinobacteria	Actinobacteria	Micrococcales	Cellulomonadaceae	Cellulomonas	Cellulomonas sp. KRMCY2	1	0
+1306162	NA	Proteobacteria	Gammaproteobacteria	Enterobacterales	Morganellaceae	Xenorhabdus	Xenorhabdus nematophila	4	0
+13075	NA	Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Globicatella	NA	1	0
+131111	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces turicensis	1	0
+131112	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Arcanobacterium	Arcanobacterium phocae	8	0
+1312954	NA	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Arthrobacter	Arthrobacter sp. Br18	1	0
+1312959	NA	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Arthrobacter	Arthrobacter sp. H14	2	0
+1313	NA	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus pneumoniae	43	0
+1314674	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Physalacriaceae	Cylindrobasidium	Cylindrobasidium torrendii	1	0
+131567	NA	NA	NA	NA	NA	NA	NA	426	0
+131568	NA	Actinobacteria	Actinobacteria	Kineosporiales	Kineosporiaceae	Kineococcus	Kineococcus radiotolerans	1	0
+1321772	NA	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Aggregatibacter	Aggregatibacter sp. oral taxon 458	14	0
+1324932	NA	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas syringae	3	0
+1325934	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces polynesiensis	2	0
+1328	NA	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus anginosus	108	0
+1331043	NA	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	Salmonella enterica	6	0
+1331258	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Bordetella	Bordetella pseudohinzii	1	0
+134034	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium freneyi	9	0
+1342794	NA	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Photobacterium	Photobacterium sanctipauli	1	0
+1343158	NA	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Saccharibacter	Saccharibacter sp. AM169	2	0
+1344414	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Hypocreaceae	Trichoderma	Trichoderma reesei	1	0
+1344956	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium	Microbacterium sp. TS-1	1	0
+1346710	NA	Actinobacteria	Actinobacteria	Micrococcales	Cellulomonadaceae	Cellulomonas	Cellulomonas sp. FA1	1	0
+134959	NA	Actinobacteria	Actinobacteria	Streptosporangiales	Thermomonosporaceae	Actinomadura	Actinomadura mexicana	1	0
+1351754	NA	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Avibacterium	Avibacterium paragallinarum	2	0
+1351809	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria gonorrhoeae	1	0
+1351	NA	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus faecalis	1	0
+1352348	NA	Actinobacteria	Actinobacteria	Streptosporangiales	Nocardiopsaceae	Allosalinactinospora	Allosalinactinospora lopnorensis	1	0
+1352	NA	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus faecium	1	0
+1355477	NA	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Bradyrhizobium	Bradyrhizobium diazoefficiens	49	0
+135614	NA	Proteobacteria	Gammaproteobacteria	Xanthomonadales	NA	NA	NA	1	0
+135623	NA	Proteobacteria	Gammaproteobacteria	Vibrionales	NA	NA	NA	1	0
+135735	NA	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus endophyticus	4	0
+136849	NA	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	NA	2	0
+13687	NA	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	NA	1	0
+137265	NA	Actinobacteria	Actinobacteria	Micromonosporales	Micromonosporaceae	Asanoa	Asanoa ishikariensis	1	0
+1375	NA	Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Aerococcus	NA	6	0
+1377993	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces hyaluromycini	2	0
+1380376	NA	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. URHB0015	1	0
+1380386	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium sp. URHB0044	1	0
+1381597	NA	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	Sphingomonas sp. ERG5	7	0
+138336	NA	Actinobacteria	Actinobacteria	Geodermatophilales	Geodermatophilaceae	Blastococcus	Blastococcus saxobsidens	14	0
+1385	NA	Firmicutes	Bacilli	Bacillales	NA	NA	NA	4	0
+1386092	NA	Actinobacteria	Actinobacteria	Micrococcales	Cellulomonadaceae	Cellulomonas	Cellulomonas carbonis	2	0
+1387353	NA	Planctomycetes	Planctomycetia	Planctomycetales	Isosphaeraceae	Paludisphaera	Paludisphaera borealis	1	0
+1391996	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium avium	1	0
+1394175	NA	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium sp. 7101	1	0
+1396	NA	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus cereus	1	0
+1397278	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Leucobacter	Leucobacter sp. PH1c	1	0
+1399860	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Ophiocordycipitaceae	Ophiocordyceps	Ophiocordyceps australis	1	0
+1400862	NA	Proteobacteria	Gammaproteobacteria	NA	Competibacteraceae	Candidatus Competibacter	Candidatus Competibacter denitrificans	1	0
+140314	NA	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Trichococcus	Trichococcus palustris	1	0
+1403540	NA	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Halomonadaceae	Halomonas	Halomonas sp. BC04	1	0
+1403935	NA	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus sp. DORA_6_22	49	0
+1403939	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces urogenitalis	185	0
+1403948	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Varibaculum	Varibaculum cambriense	174	0
+1404244	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium glyciniphilum	1	0
+140626	NA	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnobacterium	Lachnobacterium bovis	1	0
+1407059	NA	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas aeruginosa	4	0
+1408191	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium deserti	1	0
+1410634	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	NA	Propionibacteriaceae bacterium P6A17	1	0
+1414719	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium jeddahense	1	0
+1415542	NA	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Saccharothrix	Saccharothrix sp. NRRL B-16348	1	0
+1415549	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces sp. NRRL B-1140	5	0
+1432552	NA	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella pneumoniae	1	0
+1434822	NA	Actinobacteria	Actinobacteria	Actinomycetales	NA	NA	Actinomycetales bacterium JB111	5	0
+1434828	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium sp. JB4	2	0
+1434829	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Frigoribacterium	Frigoribacterium sp. JB110	1	0
+1437444	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Hydrogenophaga	Hydrogenophaga sp. T4	3	0
+1437824	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Castellaniella	Castellaniella defragrans	1	0
+1439940	NA	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. BAY1663	1	0
+1443103	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Snodgrassella	Snodgrassella alvi	2	0
+1444768	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Kitasatospora	Kitasatospora sp. MBT63	7	0
+1445514	NA	Proteobacteria	Gammaproteobacteria	Orbales	Orbaceae	Gilliamella	Gilliamella apicola	3	0
+1449044	NA	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Arthrobacter	Arthrobacter sp. UNC362MFTsu5.1	1	0
+1454002	NA	Proteobacteria	Betaproteobacteria	NA	NA	Candidatus Accumulibacter	Candidatus Accumulibacter sp. BA-91	1	0
+1454010	NA	Actinobacteria	Actinobacteria	Micrococcales	Cellulomonadaceae	Cellulomonas	Cellulomonas sp. HZM	2	0
+1455272	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium tuberculosis	1	0
+1458355	NA	Proteobacteria	Gammaproteobacteria	Enterobacterales	Erwiniaceae	Pantoea	Pantoea theicola	1	0
+1458	NA	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus fastidiosus	1	0
+146020	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium brisbanense	1	0
+1463821	NA	Actinobacteria	Actinobacteria	Glycomycetales	Glycomycetaceae	Glycomyces	Glycomyces sp. NRRL B-16210	1	0
+1463910	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces sp. NRRL S-475	1	0
+1463926	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces sp. NRRL WC-3626	1	0
+1465825	NA	Actinobacteria	Actinobacteria	Micrococcales	NA	Timonella	Timonella senegalensis	3	0
+146827	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium simulans	3	0
+1468418	NA	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bartonellaceae	Bartonella	Bartonella senegalensis	1	0
+1469245	NA	Proteobacteria	Gammaproteobacteria	Chromatiales	Ectothiorhodospiraceae	Thioalkalivibrio	Thioalkalivibrio sp. HK1	1	0
+146938	NA	Proteobacteria	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae	Azovibrio	Azovibrio restrictus	1	0
+1469502	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	NA	NA	Burkholderiales bacterium GJ-E10	6	0
+1470200	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria arctica	4	0
+1472345	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Basilea	Basilea psittacipulmonis	1	0
+1472418	NA	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Falsirhodobacter	Falsirhodobacter sp. alg1	1	0
+1484693	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Rhodoferax	Rhodoferax saidenbachensis	1	0
+1485	NA	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	NA	35	0
+1497974	NA	Actinobacteria	Actinobacteria	Micrococcales	Bogoriellaceae	Georgenia	Georgenia sp. SUBG003	14	0
+1499966	NA	NA	NA	NA	NA	Candidatus Moduliflexus	Candidatus Moduliflexus flocculans	1	0
+1502762	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Janthinobacterium	Janthinobacterium sp. RA13	1	0
+1504316	NA	Actinobacteria	Actinobacteria	NA	NA	NA	actinobacterium acMicro-1	16	0
+1504317	NA	Actinobacteria	Actinobacteria	NA	NA	NA	actinobacterium acMicro-4	8	0
+1504318	NA	Actinobacteria	Actinobacteria	NA	NA	NA	actinobacterium acAMD-2	47	0
+1504672	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Polaromonas	Polaromonas sp. CG9_12	1	0
+1505727	NA	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium commune	1	0
+1506510	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Chromobacteriaceae	Iodobacter	Iodobacter sp. BJB302	1	0
+1510206	NA	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Salinivibrio	Salinivibrio socompensis	1	0
+1513892	NA	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Rhodopseudomonas	Rhodopseudomonas pseudopalustris	1	0
+1517939	NA	Actinobacteria	Actinobacteria	Micrococcales	Intrasporangiaceae	Serinicoccus	Serinicoccus sp. CUA-874	11	0
+1519479	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces sp. XY413	1	0
+1522309	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Flaviflexus	Flaviflexus massiliensis	18	0
+1522310	NA	Actinobacteria	Actinobacteria	Micrococcales	Dermatophilaceae	Mobilicoccus	Mobilicoccus massiliensis	1	0
+1522312	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Kingella	Kingella negevensis	50	0
+1524249	NA	Proteobacteria	Gammaproteobacteria	NA	NA	Pseudohongiella	NA	1	0
+152794	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium efficiens	1	0
+1528099	NA	Actinobacteria	Actinobacteria	Corynebacteriales	NA	Lawsonella	Lawsonella clevelandensis	3	0
+1528744	NA	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Rhodanobacteraceae	Dyella	Dyella sp. AD56	1	0
+1531429	NA	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	NA	Coriobacteriaceae bacterium 68-1-3	1	0
+1531962	NA	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	NA	Peptococcaceae bacterium BICA1-8	1	0
+1531	NA	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnoclostridium	[Clostridium] clostridioforme	3	0
+153491	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Alysiella	Alysiella crassa	7	0
+153493	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Conchiformibius	Conchiformibius steedae	10	0
+1535326	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	NA	1	0
+1535750	NA	Firmicutes	Bacilli	Bacillales	Thermoactinomycetaceae	Thermoactinomyces	Thermoactinomyces sp. Gus2-1	1	0
+153721	NA	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	Sporocytophaga	Sporocytophaga myxococcoides	4	0
+153730	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Agrococcus	Agrococcus baldri	1	0
+1538159	NA	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium	Rhizobium hidalgonense	1	0
+1538294	NA	Actinobacteria	Actinobacteria	Micromonosporales	Micromonosporaceae	Micromonospora	Micromonospora sp. HK10	1	0
+1538463	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Nocardia	Nocardia donostiensis	1	0
+1542965	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia sp. MSHR3999	3	0
+1544416	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium oculi	1	0
+1545044	NA	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus	Paracoccus sanguinis	1	0
+1546107	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces sp. NBRC 110027	130	0
+1555112	NA	Firmicutes	Limnochordia	Limnochordales	Limnochordaceae	Limnochorda	Limnochorda pilosa	1	0
+155619	Fungi	Basidiomycota	Agaricomycetes	NA	NA	NA	NA	1	0
+1559339	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Chitinimonas	Chitinimonas sp. BJB300	1	0
+1560201	NA	Proteobacteria	Gammaproteobacteria	Enterobacterales	Erwiniaceae	Erwinia	Erwinia iniecta	1	0
+1566295	NA	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Sinorhizobium	Sinorhizobium sp. NFACC03	1	0
+156892	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces marimammalium	5	0
+1570339	NA	Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	NA	NA	1	0
+1570340	NA	Actinobacteria	Actinobacteria	Micrococcales	Demequinaceae	Demequina	Demequina sp. NBRC 110051	1	0
+1570342	NA	Actinobacteria	Actinobacteria	Micrococcales	Demequinaceae	Demequina	Demequina sp. NBRC 110053	1	0
+1570343	NA	Actinobacteria	Actinobacteria	Micrococcales	Demequinaceae	Demequina	Demequina sp. NBRC 110054	1	0
+1574409	NA	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Mesorhizobium	Mesorhizobium sp. F7	2	0
+1577474	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Raineyella	Raineyella antarctica	1	0
+1578	NA	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	NA	5	0
+157	NA	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	NA	2	0
+1580539	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces sp. SBT349	1	0
+1581050	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium sp. HMSC04H06	1	0
+1581069	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium sp. HMSC29G08	1	0
+1581075	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria sp. HMSC31F04	1	0
+1581107	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria sp. HMSC15G01	1	0
+1581115	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium sp. HMSC05D03	4	0
+1581124	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria sp. HMSC06F02	3	0
+1581134	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium sp. HMSC08A12	1	0
+1581680	NA	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Methylophilaceae	Candidatus Methylopumilus	Candidatus Methylopumilus turicensis	1	0
+1588021	NA	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Arthrobacter	Arthrobacter sp. Hiyo4	11	0
+1592327	NA	Actinobacteria	Actinobacteria	NA	NA	NA	Actinobacteria bacterium OK074	15	0
+1592328	NA	Actinobacteria	Actinobacteria	NA	NA	NA	Actinobacteria bacterium OV450	10	0
+159290	NA	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfonatronaceae	Desulfonatronum	Desulfonatronum thiodismutans	1	0
+159733	NA	Cyanobacteria	NA	Synechococcales	Prochloraceae	Prochlorococcus	uncultured Prochlorococcus sp.	1	0
+159749	NA	Bacillariophyta	Coscinodiscophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira oceanica	1	0
+159896	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium	Microbacterium gubbeenense	1	0
+1598	NA	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus reuteri	1	0
+1599	NA	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus sakei	43	0
+1601833	NA	Firmicutes	Bacilli	Bacillales	Bacillaceae	Salipaludibacillus	Salipaludibacillus aurantiacus	1	0
+160386	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium casei	1	0
+1603887	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium sp. CMW7794	3	0
+160798	NA	Thermotogae	Thermotogae	Petrotogales	NA	Marinitoga	NA	1	0
+1608996	NA	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas helleri	1	0
+1609098	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces sp. NRRL F-5122	1	0
+1610489	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium pollutisoli	1	0
+161544	NA	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. SG-1	48	0
+1617416	NA	Chloroflexi	NA	NA	NA	NA	Chloroflexi bacterium OLB15	1	0
+1617433	NA	Candidatus Omnitrophica	NA	NA	NA	NA	Omnitrophica bacterium OLB16	1	0
+1618669	NA	Candidatus Kaiserbacteria	NA	NA	NA	NA	Candidatus Kaiserbacteria bacterium GW2011_GWA2_49_19	1	0
+161879	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium kroppenstedtii	45	0
+1618911	NA	NA	NA	NA	NA	NA	Parcubacteria group bacterium GW2011_GWC1_43_61	1	0
+161896	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium camporealensis	2	0
+161899	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium singulare	5	0
+1619060	NA	Candidatus Peregrinibacteria	Candidatus Peribacteria	NA	NA	NA	Candidatus Peribacteria bacterium GW2011_GWB1_54_5	1	0
+1619313	NA	Proteobacteria	Gammaproteobacteria	Enterobacterales	Erwiniaceae	Erwinia	Erwinia gerundensis	1	0
+1629718	NA	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	NA	Rhodospirillaceae bacterium BRH_c57	1	0
+1630141	NA	Proteobacteria	Gammaproteobacteria	Chromatiales	Chromatiaceae	Candidatus Nitrosoglobus	Candidatus Nitrosoglobus terrae	1	0
+1630166	NA	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium myosotis	1	0
+1630172	NA	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium hapali	25	0
+1631743	NA	Actinobacteria	Actinobacteria	Micrococcales	Brevibacteriaceae	Brevibacterium	Brevibacterium ihuae	1	0
+163359	NA	Proteobacteria	Gammaproteobacteria	Acidiferrobacterales	Acidiferrobacteraceae	Acidiferrobacter	Acidiferrobacter thiooxydans	1	0
+1635258	NA	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfohalobiaceae	Desulfonauticus	Desulfonauticus sp. 38_4375	3	0
+1635289	NA	Actinobacteria	Actinobacteria	NA	NA	NA	Actinobacteria bacterium 66_15	1	0
+1638984	NA	Actinobacteria	Actinobacteria	Micrococcales	Demequinaceae	Lysinimicrobium	Lysinimicrobium pelophilum	1	0
+1638985	NA	Actinobacteria	Actinobacteria	Micrococcales	Demequinaceae	Lysinimicrobium	Lysinimicrobium rhizosphaerae	1	0
+1641401	NA	Actinobacteria	Actinobacteria	Micrococcales	Dermacoccaceae	Dermacoccus	Dermacoccus sp. PE3	2	0
+1645665	NA	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Lysobacter	Lysobacter sp. AM20-91	1	0
+165185	NA	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Eubacterium	uncultured Eubacterium sp.	19	0
+1652495	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium crudilactis	2	0
+1653174	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinotignum	NA	612990	0
+1653207	NA	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium aquikefiri	1	0
+1653476	NA	Thermodesulfobacteria	Thermodesulfobacteria	Thermodesulfobacteriales	Thermodesulfobacteriaceae	Caldimicrobium	Caldimicrobium thiodismutans	1	0
+1653	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	NA	NA	1606	0
+1654	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	NA	60	0
+1655	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces naeslundii	2	0
+165779	NA	Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	Anaerococcus	NA	8	0
+1657	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinobaculum	Actinobaculum suis	133	0
+1659	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces israelii	4	0
+1660141	NA	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	Sphingomonas sp. SCN 67-18	1	0
+1660251	NA	Acidobacteria	NA	NA	NA	NA	Acidobacteria bacterium Mor1	1	0
+1661388	NA	Actinobacteria	Actinobacteria	Streptosporangiales	Nocardiopsaceae	Nocardiopsis	Nocardiopsis sp. RV163	2	0
+1661	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Trueperella	Trueperella pyogenes	13	0
+1663	NA	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Arthrobacter	NA	20	0
+1678	NA	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	NA	30	0
+1679444	NA	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	Akkermansiaceae	Akkermansia	Akkermansia glycaniphila	2	0
+1680	NA	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium adolescentis	8	0
+1681	NA	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium bifidum	11	0
+168471	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Chromobacteriaceae	Laribacter	Laribacter hongkongensis	1	0
+1686382	NA	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Citrobacter	Citrobacter sp. MGH109	1	0
+1689268	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces urinae	1	0
+1689272	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Vitreoscilla	Vitreoscilla sp. SN6	1	0
+168934	NA	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Thalassospira	NA	1	0
+169009	NA	NA	NA	NA	NA	NA	uncultured forest soil bacterium	1	0
+1692264	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria sp. 83E34	1	0
+169292	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium aurimucosum	50	0
+1696094	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria sp. 74A18	1	0
+1696	NA	Actinobacteria	Actinobacteria	Micrococcales	Brevibacteriaceae	Brevibacterium	NA	10	0
+1697053	NA	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Oblitimonas	Oblitimonas alkaliphila	1	0
+1697	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium ammoniagenes	39	0
+1701325	NA	NA	NA	NA	NA	NA	uncultured bacterium 5G12	2	0
+1703409	NA	Planctomycetes	Phycisphaerae	NA	NA	NA	Phycisphaerae bacterium SG8_4	9	0
+1703942	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces sp. TSRI0107	1	0
+1705	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium stationis	3	0
+1706369	NA	Proteobacteria	Gammaproteobacteria	Cellvibrionales	NA	NA	NA	1	0
+1707	NA	Actinobacteria	Actinobacteria	Micrococcales	Cellulomonadaceae	Cellulomonas	NA	4	0
+1708	NA	Actinobacteria	Actinobacteria	Micrococcales	Cellulomonadaceae	Cellulomonas	Cellulomonas fimi	1	0
+1710	NA	Actinobacteria	Actinobacteria	Micrococcales	Promicromonosporaceae	Cellulosimicrobium	Cellulosimicrobium cellulans	1	0
+1714264	NA	Firmicutes	Bacilli	Bacillales	Bacillaceae	Domibacillus	Domibacillus antri	8	0
+1714373	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium	Microbacterium sp. No. 7	1	0
+1715006	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium sp. HMSC070E08	1	0
+1715021	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Eikenella	Eikenella sp. HMSC061C02	1	0
+1715031	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria sp. HMSC066H01	1	0
+1715140	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria sp. HMSC061B04	1	0
+171549	NA	Bacteroidetes	Bacteroidia	Bacteroidales	NA	NA	NA	1	0
+171693	NA	Firmicutes	Bacilli	Bacillales	Bacillaceae	Oceanobacillus	Oceanobacillus picturae	1	0
+1716	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	NA	24676	0
+1717	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium diphtheriae	53	0
+1718	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium glutamicum	4	0
+1719126	NA	NA	NA	NA	NA	NA	bacterium endosymbiont of Pedicinus badii	1	0
+1719	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium pseudotuberculosis	3	0
+1720198	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces provencensis	1	0
+1720200	NA	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Anaerotruncus	Anaerotruncus rubiinfantis	1	0
+1720315	NA	Actinobacteria	Coriobacteriia	Eggerthellales	Eggerthellaceae	NA	Eggerthellaceae bacterium AT8	4	0
+172042	NA	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	Rothia aeria	6	0
+1721	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium callunae	1	0
+1725	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium xerosis	5	0
+1727	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium variabile	1	0
+173480	NA	Gemmatimonadetes	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	Gemmatimonas	Gemmatimonas aurantiaca	1	0
+1735694	NA	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	Sphingomonas sp. Leaf230	1	0
+1736413	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Nocardioidaceae	Nocardioides	Nocardioides sp. Soil797	1	0
+1736426	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Leifsonia	Leifsonia sp. Root112D2	1	0
+1736483	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium	Microbacterium sp. Root180	1	0
+1736510	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium	Microbacterium sp. Root280D1	1	0
+1736524	NA	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Bosea	Bosea sp. Root381	1	0
+1736539	NA	Actinobacteria	Actinobacteria	Kineosporiales	Kineosporiaceae	Angustibacter	Angustibacter sp. Root456	2	0
+1736550	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Nocardioidaceae	Aeromicrobium	Aeromicrobium sp. Root495	1	0
+1736553	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium	Microbacterium sp. Root53	1	0
+1736607	NA	Actinobacteria	Actinobacteria	Micrococcales	Cellulomonadaceae	Oerskovia	Oerskovia sp. Root918	1	0
+1737425	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium provencense	47	0
+1737569	NA	Deinococcus-Thermus	Deinococci	Deinococcales	Deinococcaceae	Deinococcus	Deinococcus planocerae	1	0
+1739262	NA	Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Facklamia	Facklamia sp. HMSC062C11	32	0
+1739296	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Turicella	Turicella sp. HMSC068H04	3	0
+1739358	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces sp. HMSC075B09	1	0
+1739376	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria sp. HMSC069H12	2	0
+1739379	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium sp. HMSC078H07	1	0
+1739482	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium sp. HMSC074C01	4	0
+1739527	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria sp. HMSC070E12	11	0
+1739537	NA	Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	Anaerococcus	Anaerococcus sp. HMSC075B03	7	0
+1739544	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria sp. HMSC056A03	1	0
+1742989	NA	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Glutamicibacter	NA	1	0
+1743	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Propionibacterium	NA	1	0
+1744	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Propionibacterium	Propionibacterium freudenreichii	191	0
+1747	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium	Cutibacterium acnes	33	0
+1750	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Pseudopropionibacterium	Pseudopropionibacterium propionicum	2	0
+1752718	NA	Candidatus Daviesbacteria	NA	NA	NA	NA	NA	1	0
+1752720	NA	Candidatus Gottesmanbacteria	NA	NA	NA	NA	NA	1	0
+1752727	NA	Candidatus Campbellbacteria	NA	NA	NA	NA	NA	6	0
+1752728	NA	Candidatus Falkowbacteria	NA	NA	NA	NA	NA	1	0
+1752732	NA	Candidatus Uhrbacteria	NA	NA	NA	NA	NA	1	0
+1754191	Fungi	Chytridiomycota	Neocallimastigomycetes	Neocallimastigales	Neocallimastigaceae	Piromyces	Piromyces finnis	3	0
+1758689	NA	Actinobacteria	Actinobacteria	Micrococcales	Intrasporangiaceae	Serinicoccus	Serinicoccus sp. JLT9	23	0
+1760	NA	Actinobacteria	Actinobacteria	NA	NA	NA	NA	10818	0
+1761746	NA	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Arthrobacter	Arthrobacter sp. ok909	1	0
+1761903	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces sp. cf124	1	0
+1763	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	NA	84	0
+1764	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium avium	1	0
+1768242	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	NA	Paucibacter	Paucibacter sp. KCTC 42545	3	0
+1769	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium leprae	3	0
+1770053	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia sp. JS23	3	0
+1771	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium phlei	1	0
+1773	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium tuberculosis	111	0
+1775559	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Snodgrassella	Snodgrassella sp. CFCC 13594	3	0
+1776383	NA	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium sp. SN20	1	0
+1778	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium gordonae	1	0
+178214	NA	Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Facklamia	Facklamia hominis	18	0
+1782	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium nonchromogenicum	1	0
+1783234	NA	NA	NA	NA	NA	NA	NA	1	0
+1783257	NA	NA	NA	NA	NA	NA	NA	2	0
+1783272	NA	NA	NA	NA	NA	NA	NA	1962	0
+178606	NA	Nitrospirae	Nitrospira	Nitrospirales	Nitrospiraceae	Leptospirillum	Leptospirillum ferriphilum	1	0
+1789224	NA	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter larvae	2	0
+1790	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium asiaticum	1	0
+1794811	NA	NA	NA	NA	NA	NA	NA	2	0
+1794912	NA	Firmicutes	Negativicutes	Selenomonadales	Sporomusaceae	Anaerosporomusa	Anaerosporomusa subterranea	1	0
+1795630	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Frondihabitans	Frondihabitans sp. PAMC 28766	1	0
+1795827	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Eikenella	Eikenella sp. NML02-A-017	2	0
+1795832	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Eikenella	Eikenella sp. NML130454	5	0
+1797181	NA	Acidobacteria	NA	NA	NA	NA	Acidobacteria bacterium RIFCSPLOWO2_02_FULL_64_15	3	0
+1797183	NA	Acidobacteria	NA	NA	NA	NA	Acidobacteria bacterium RIFCSPLOWO2_02_FULL_67_21	9	0
+1797206	NA	Actinobacteria	NA	NA	NA	NA	Actinobacteria bacterium RBG_19FT_COMBO_36_27	1	0
+1797557	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	NA	NA	Burkholderiales bacterium RIFCSPHIGHO2_12_FULL_61_11	3	0
+1797569	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	NA	NA	Burkholderiales bacterium RIFCSPLOWO2_12_FULL_65_40	1	0
+1797838	NA	Proteobacteria	Deltaproteobacteria	NA	NA	NA	Deltaproteobacteria bacterium RBG_16_47_11	1	0
+1797919	NA	Elusimicrobia	NA	NA	NA	NA	NA	1	0
+1797	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium thermoresistibile	1	0
+1798183	NA	Proteobacteria	Gammaproteobacteria	Orbales	Orbaceae	Gilliamella	Gilliamella intestini	1	0
+1798246	NA	Proteobacteria	Betaproteobacteria	Nitrosomonadales	NA	NA	Gallionellales bacterium GWA2_60_142	1	0
+1798249	NA	Proteobacteria	Betaproteobacteria	Nitrosomonadales	NA	NA	Gallionellales bacterium RBG_16_56_9	1	0
+1798281	NA	Proteobacteria	Gammaproteobacteria	NA	NA	NA	Gammaproteobacteria bacterium RIFCSPHIGHO2_12_FULL_40_19	2	0
+1798413	NA	Proteobacteria	Hydrogenophilalia	Hydrogenophilales	NA	NA	NA	1	0
+1798567	NA	Proteobacteria	Gammaproteobacteria	Legionellales	NA	NA	Legionellales bacterium RIFCSPHIGHO2_12_FULL_35_11	1	0
+1798571	NA	Lentisphaerae	NA	NA	NA	NA	Lentisphaerae bacterium GWF2_44_16	1	0
+1801639	NA	Candidatus Moranbacteria	NA	NA	NA	NA	Candidatus Moranbacteria bacterium RIFCSPHIGHO2_02_FULL_40_12b	53	0
+180163	NA	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Cetobacterium	Cetobacterium ceti	1	0
+1801839	NA	Candidatus Omnitrophica	NA	NA	NA	NA	Omnitrophica WOR_2 bacterium GWA2_45_18	1	0
+1801925	NA	Candidatus Peregrinibacteria	Candidatus Peribacteria	NA	NA	NA	Candidatus Peribacteria bacterium RIFCSPLOWO2_01_FULL_51_18	1	0
+1801	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium diernhoferi	6	0
+1802154	NA	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Gallionellaceae	Sideroxydans	Sideroxydans sp. GWF2_59_14	1	0
+1802174	NA	Spirochaetes	NA	NA	NA	NA	Spirochaetes bacterium GWB1_36_13	1	0
+1802196	NA	Spirochaetes	NA	NA	NA	NA	Spirochaetes bacterium RBG_16_67_19	1	0
+1802296	NA	Candidatus Tagabacteria	NA	NA	NA	NA	Candidatus Tagabacteria bacterium RIFCSPLOWO2_01_FULL_42_9	1	0
+1802671	NA	Candidatus Yanofskybacteria	NA	NA	NA	NA	Candidatus Yanofskybacteria bacterium RIFCSPHIGHO2_01_FULL_45_42	1	0
+1802787	NA	candidate division Zixibacteria	NA	NA	NA	NA	candidate division Zixibacteria bacterium RBG_16_53_22	1	0
+1803453	NA	Acidobacteria	NA	NA	NA	NA	Acidobacteria bacterium 13_1_40CM_4_58_4	1	0
+1803477	NA	Actinobacteria	NA	NA	NA	NA	Actinobacteria bacterium 13_1_20CM_3_71_11	1	0
+1803491	NA	Actinobacteria	NA	NA	NA	NA	Actinobacteria bacterium 13_1_40CM_66_12	1	0
+1805040	NA	Proteobacteria	Betaproteobacteria	NA	NA	NA	Betaproteobacteria bacterium 13_1_20CM_3_63_8	1	0
+1805205	NA	Gemmatimonadetes	NA	NA	NA	NA	Gemmatimonadetes bacterium 13_2_20CM_69_27	2	0
+1810504	NA	Proteobacteria	Gammaproteobacteria	Immundisolibacterales	Immundisolibacteraceae	Immundisolibacter	Immundisolibacter cernigliae	1	0
+181487	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces cardiffensis	9	0
+1816684	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium sp. Marseille-P2417	1	0
+1817751	NA	NA	NA	NA	NA	NA	Microgenomates group bacterium RIFCSPLOWO2_01_FULL_47_10	1	0
+1817822	NA	Candidatus Doudnabacteria	NA	NA	NA	NA	Candidatus Doudnabacteria bacterium RIFCSPHIGHO2_01_FULL_43_23	1	0
+1817864	NA	Candidatus Fraserbacteria	NA	NA	NA	NA	Candidatus Fraserbacteria bacterium RBG_16_55_9	1	0
+1817868	NA	Candidatus Handelsmanbacteria	NA	NA	NA	NA	Candidatus Handelsmanbacteria bacterium RIFCSPLOWO2_12_FULL_64_10	1	0
+1817898	NA	Candidatus Blackburnbacteria	NA	NA	NA	NA	NA	1	0
+1817908	NA	Candidatus Komeilibacteria	NA	NA	NA	NA	NA	1	0
+1817923	NA	Candidatus Wildermuthbacteria	NA	NA	NA	NA	NA	1	0
+1817	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Nocardia	NA	4	0
+1820336	NA	Proteobacteria	Gammaproteobacteria	Alteromonadales	Colwelliaceae	Colwellia	Colwellia sediminilitoris	1	0
+1822263	NA	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Oceanospirillaceae	Thalassolituus	Thalassolituus sp. HI0120	1	0
+1827381	NA	Proteobacteria	NA	NA	NA	NA	Proteobacteria bacterium SG_bin4	1	0
+1827	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Rhodococcus	NA	9	0
+1828	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Rhodococcus	Rhodococcus fascians	1	0
+1830	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Rhodococcus	Rhodococcus ruber	123	0
+1834094	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium sp. 852002-51057_SCH5723018	1	0
+1834117	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium sp. ACS1612	1	0
+1834140	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium sp. E2989	1	0
+1834172	NA	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus sp. 2F9_DIV0599	3	0
+183670	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Macromonas	Macromonas bipunctata	1	0
+1836972	NA	Actinobacteria	Actinobacteria	Frankiales	Frankiaceae	Frankia	Frankia sp. ARgP5	1	0
+1837282	NA	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Enteractinococcus	Enteractinococcus helveticum	1	0
+183763	NA	Actinobacteria	Actinobacteria	Streptosporangiales	Nocardiopsaceae	Streptomonospora	Streptomonospora alba	1	0
+1838282	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces sp. BvitLS-983	2	0
+1839754	NA	Actinobacteria	Actinobacteria	Frankiales	Frankiaceae	Frankia	Candidatus Frankia californiensis	1	0
+1839	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Nocardioidaceae	Nocardioides	NA	8	0
+1841860	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium sp. AB57	1	0
+1844093	NA	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. 22 E 5	5	0
+1847	NA	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Pseudonocardia	NA	3	0
+184869	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Varibaculum	NA	3	0
+184870	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Varibaculum	Varibaculum cambriense	43	0
+1848755	NA	Actinobacteria	NA	NA	NA	NA	Actinobacteria bacterium IMCC26077	2	0
+184882	NA	Actinobacteria	Actinobacteria	Micrococcales	Intrasporangiaceae	Knoellia	Knoellia subterranea	1	0
+1852361	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces sp. Marseille-P2825	1	0
+185243	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Nocardioidaceae	Propionicimonas	Propionicimonas paludicola	1	0
+1853226	NA	Rhodothermaeota	Rhodothermia	Rhodothermales	Salinibacteraceae	Salinivenus	NA	1	0
+1853276	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria sp. 10022	1	0
+1853278	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria sp. 10023	3	0
+185431	NA	NA	NA	Kinetoplastida	Trypanosomatidae	Trypanosoma	Trypanosoma brucei	3	0
+1854	NA	Actinobacteria	Actinobacteria	Frankiales	Frankiaceae	Frankia	NA	5	0
+1855377	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Candidatus Aquiluna	Candidatus Aquiluna sp. UB-MaderosW2red	2	0
+1855728	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Variovorax	Variovorax sp. KK3	1	0
+1856298	NA	NA	NA	NA	NA	NA	'Osedax' symbiont bacterium Rs2_46_30_T18	1	0
+1856861	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium sp. 1164966.3	1	0
+185761	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium spheniscorum	1	0
+1857645	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces vulturis	2	0
+1860101	NA	Proteobacteria	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae	Propionivibrio	Candidatus Propionivibrio aalborgensis	8	0
+1860102	NA	Proteobacteria	Betaproteobacteria	NA	NA	Candidatus Accumulibacter	Candidatus Accumulibacter aalborgensis	17	0
+1863	NA	Actinobacteria	Actinobacteria	Micrococcales	Dermatophilaceae	Dermatophilus	Dermatophilus congolensis	4	0
+186802	NA	Firmicutes	Clostridia	Clostridiales	NA	NA	NA	110	0
+186803	NA	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	NA	NA	15	0
+186817	NA	Firmicutes	Bacilli	Bacillales	Bacillaceae	NA	NA	3	0
+186820	NA	Firmicutes	Bacilli	Bacillales	Listeriaceae	NA	NA	1	0
+186826	NA	Firmicutes	Bacilli	Lactobacillales	NA	NA	NA	1	0
+186928	NA	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	NA	NA	1	0
+186931	NA	Proteobacteria	Gammaproteobacteria	Chromatiales	Ectothiorhodospiraceae	Thioalkalivibrio	Thioalkalivibrio nitratireducens	1	0
+1870995	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinotignum	Actinotignum timonense	8537	0
+1871014	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Arcanobacterium	Arcanobacterium urinimassiliense	6	0
+1871028	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces sp. Marseille-P3257	1	0
+1871034	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Propionimicrobium	Propionimicrobium sp. Marseille-P3275	5	0
+1873	NA	Actinobacteria	Actinobacteria	Micromonosporales	Micromonosporaceae	Micromonospora	NA	1	0
+1874361	NA	Proteobacteria	Gammaproteobacteria	Alteromonadales	Idiomarinaceae	Idiomarina	Idiomarina sp.	6	0
+187491	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium glaucum	1	0
+1881028	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Nocardioidaceae	Nocardioides	Nocardioides sp. YR527	1	0
+1881057	NA	Actinobacteria	Actinobacteria	Kineosporiales	Kineosporiaceae	Quadrisphaera	Quadrisphaera sp. DSM 44207	1	0
+1881	NA	Actinobacteria	Actinobacteria	Micromonosporales	Micromonosporaceae	Micromonospora	Micromonospora viridifaciens	1	0
+1882761	NA	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. OK048	1	0
+1882827	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Variovorax	Variovorax sp. PDC80	1	0
+1883427	NA	Actinobacteria	Actinobacteria	NA	NA	NA	Actinobacteria bacterium	5	0
+1883	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	NA	667	0
+188787	NA	Deinococcus-Thermus	Deinococci	NA	NA	NA	NA	2	0
+1891191	NA	Proteobacteria	Alphaproteobacteria	Pelagibacterales	Pelagibacteraceae	NA	Pelagibacteraceae bacterium ETNP-OMZ-SAG-E2	1	0
+1892903	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Herbaspirillum	Herbaspirillum sp. WT00C	1	0
+189385	NA	Proteobacteria	Betaproteobacteria	NA	NA	Candidatus Tremblaya	Candidatus Tremblaya princeps	2	0
+1895689	NA	Proteobacteria	Betaproteobacteria	NA	NA	Candidatus Accumulibacter	Candidatus Accumulibacter sp. 66-26	1	0
+1895696	NA	Actinobacteria	Actinobacteria	NA	NA	NA	Actinobacteria bacterium 69-20	1	0
+1895740	NA	Actinobacteria	Actinobacteria	Micrococcales	Cellulomonadaceae	Cellulomonas	Cellulomonas sp. 73-92	4	0
+1895771	NA	NA	NA	NA	NA	Candidatus Kapabacteria	Candidatus Kapabacteria sp. 59-99	1	0
+1895786	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium	Microbacterium sp. 70-38	1	0
+1895791	NA	Actinobacteria	Actinobacteria	Micrococcales	NA	NA	Micrococcales bacterium 73-13	2	0
+1895792	NA	Actinobacteria	Actinobacteria	Micrococcales	NA	NA	Micrococcales bacterium 73-15	1	0
+1895827	NA	Candidatus Saccharibacteria	NA	NA	NA	NA	NA	1	0
+1895861	NA	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Thiobacillaceae	Thiobacillus	Thiobacillus sp. 65-1402	1	0
+1895862	NA	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Thiobacillaceae	Thiobacillus	Thiobacillus sp. 65-29	1	0
+1895901	NA	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Nitrosomonadaceae	Nitrosospira	Nitrosospira sp. 56-18	1	0
+189622	NA	Apicomplexa	Aconoidasida	NA	Babesiidae	Babesia	Babesia ovata	1	0
+1898103	NA	Proteobacteria	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae	NA	Rhodocyclaceae bacterium	1	0
+1899563	NA	Proteobacteria	Gammaproteobacteria	Thiotrichales	NA	NA	Thiotrichales bacterium HS_08	1	0
+190146	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinotignum	Actinotignum urinale	84	0
+190323	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Plantibacter	NA	3	0
+1904961	NA	Actinobacteria	Actinobacteria	Streptosporangiales	Thermomonosporaceae	Actinomadura	Actinomadura sp. CNU-125	15	0
+1904962	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium sp. CNJ-954	1	0
+1904966	NA	Actinobacteria	Actinobacteria	Micrococcales	Intrasporangiaceae	Ornithinimicrobium	Ornithinimicrobium sp. CNJ-824	1	0
+1905730	NA	Proteobacteria	Gammaproteobacteria	Enterobacterales	Pectobacteriaceae	Pectobacterium	Pectobacterium parmentieri	1	0
+1906333	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium sp. NML130628	9	0
+1906741	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Chromobacteriaceae	Jeongeupia	Jeongeupia sp. USM3	1	0
+1908235	NA	Bacteroidetes	Cytophagia	Cytophagales	Hymenobacteraceae	Hymenobacter	Hymenobacter coccineus	1	0
+1909455	NA	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Salinivibrio	Salinivibrio sp. MA427	1	0
+1911520	NA	Actinobacteria	Actinobacteria	Actinomycetales	NA	NA	Actinomycetales bacterium	1	0
+1911	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces griseus	1	0
+1912215	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Acidipropionibacterium	NA	1	0
+1912795	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces sp. VUL4_3	3	0
+1914540	NA	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus obstructivus	1	0
+191493	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium sphenisci	2	0
+191495	NA	Actinobacteria	Thermoleophilia	Solirubrobacterales	Conexibacteraceae	Conexibacter	Conexibacter woesei	2	0
+1915388	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Achromobacter	Achromobacter sp. KAs 3-5	11	0
+1916320	NA	Candidatus Melainabacteria	NA	NA	NA	NA	Candidatus Gastranaerophilales bacterium HUM_9	1	0
+1921764	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces liubingyangii	3	0
+192	NA	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Azospirillum	Azospirillum brasilense	1	0
+1931275	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria dumasiana	9	0
+1932694	NA	NA	NA	NA	NA	NA	bacterium F16	1	0
+1933779	NA	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Actinosynnema	Actinosynnema sp. ALI-1.44	1	0
+1933	NA	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Streptoalloteichus	Streptoalloteichus tenebrarius	1	0
+1934248	NA	Proteobacteria	Deltaproteobacteria	Desulfobacterales	Desulfobacteraceae	NA	Desulfobacteraceae bacterium IS3	1	0
+193462	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces niveus	1	0
+1937003	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces sp. CtC 72	3	0
+1938835	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces sp. 1331.2	1	0
+1940567	Fungi	Ascomycota	Sordariomycetes	Diaporthales	Juglanconidaceae	Juglanconis	Juglanconis juglandina	4	0
+194195	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Alysiella	NA	5	0
+194196	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Alysiella	Alysiella filiformis	9	0
+194197	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria dentiae	5	0
+1945885	NA	Actinobacteria	Actinobacteria	Micrococcales	NA	NA	Micrococcales bacterium KH10	1	0
+1945888	NA	Actinobacteria	Actinobacteria	Micrococcales	Ruaniaceae	NA	Ruaniaceae bacterium KH17	2	0
+1953765	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Herbaspirillum	Herbaspirillum sp. VT-16-41	1	0
+1955714	NA	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Cohnella	Cohnella sp. CIP 111063	1	0
+1957	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces sclerotialus	1	0
+1960084	NA	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Rodentibacter	NA	1	0
+196013	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Caldimonas	NA	1	0
+1960968	NA	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium italicum	1	0
+196164	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium efficiens	123	0
+1962118	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium abscessus	30	0
+1964395	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium sp. AFP003	9	0
+1968433	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Noviherbaspirillum	Noviherbaspirillum denitrificans	1	0
+196914	NA	Actinobacteria	Actinobacteria	Micromonosporales	Micromonosporaceae	Actinoplanes	Actinoplanes friuliensis	1	0
+1970333	NA	Actinobacteria	Actinobacteria	Micrococcales	Cellulomonadaceae	Cellulomonas	Cellulomonas sp. 14-74-6	1	0
+1970513	NA	Proteobacteria	Gammaproteobacteria	NA	NA	NA	Gammaproteobacteria bacterium 28-57-27	1	0
+1970608	NA	Verrucomicrobia	NA	NA	NA	NA	Verrucomicrobia bacterium 12-59-8	1	0
+1973972	NA	Proteobacteria	Deltaproteobacteria	NA	NA	NA	Deltaproteobacteria bacterium CG07_land_8_20_14_0_80_60_11	1	0
+1974645	NA	Candidatus Magasanikbacteria	NA	NA	NA	NA	Candidatus Magasanikbacteria bacterium CG10_big_fil_rev_8_21_14_0_10_36_16	1	0
+197479	NA	Proteobacteria	Gammaproteobacteria	Oceanospirillales	NA	Terasakiispira	Terasakiispira papahanaumokuakeensis	1	0
+1975115	NA	Candidatus Zambryskibacteria	NA	NA	NA	NA	Candidatus Zambryskibacteria bacterium CG10_big_fil_rev_8_21_14_0_10_42_12	1	0
+1975524	NA	Candidatus Marinimicrobia	NA	NA	NA	NA	Candidatus Marinimicrobia bacterium CG08_land_8_20_14_0_20_45_22	1	0
+1977874	NA	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter sp. ANC 3832	1	0
+1978566	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Cryobacterium	Cryobacterium sp. LW097	2	0
+1979527	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium kefirresidentii	11	0
+1982764	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces sp. CS057	33	0
+1985873	NA	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Gallionellaceae	Sulfuriferula	Sulfuriferula sp. AH1	7	0
+1986204	NA	Chloroflexi	Anaerolineae	Anaerolineales	Anaerolineaceae	Brevefilum	Brevefilum fermentans	1	0
+1986264	NA	Bacteroidetes	NA	NA	NA	NA	Bacteroidetes bacterium MED-G13	1	0
+1986716	NA	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	NA	Flavobacteriaceae bacterium TMED42	1	0
+1986720	NA	Bacteroidetes	Flavobacteriia	Flavobacteriales	Crocinitomicaceae	NA	Crocinitomicaceae bacterium TMED114	1	0
+1986758	NA	Proteobacteria	Gammaproteobacteria	Methylococcales	Methylococcaceae	NA	Methylococcaceae bacterium TMED282	1	0
+1986794	NA	Verrucomicrobia	Opitutae	Opitutales	NA	NA	Opitutales bacterium TMED158	1	0
+198822	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Paraburkholderia	Candidatus Paraburkholderia kirkii	2	0
+1988	NA	Actinobacteria	Actinobacteria	Streptosporangiales	Thermomonosporaceae	Actinomadura	NA	1	0
+199591	NA	Actinobacteria	Actinobacteria	Micrococcales	Brevibacteriaceae	Brevibacterium	Brevibacterium luteolum	1	0
+1997	NA	Actinobacteria	Actinobacteria	Streptosporangiales	Streptosporangiaceae	Microtetraspora	Microtetraspora fusca	1	0
+199	NA	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter concisus	1	0
+1	NA	NA	NA	NA	NA	NA	NA	17	0
+200120	NA	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Nitrosomonadaceae	Nitrosospira	Nitrosospira sp. Nl5	1	0
+2002838	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	NA	Actinomycetaceae bacterium Marseille-P3850	4	0
+2002	NA	Actinobacteria	Actinobacteria	Streptosporangiales	Streptosporangiaceae	Streptosporangium	Streptosporangium amethystogenes	1	0
+2003551	NA	Actinobacteria	Actinobacteria	Micrococcales	Cellulomonadaceae	Cellulomonas	Cellulomonas sp. PSBB021	1	0
+2004	NA	Actinobacteria	Actinobacteria	Streptosporangiales	Streptosporangiaceae	NA	NA	1	0
+201089	NA	Proteobacteria	Deltaproteobacteria	Desulfobacterales	Desulfobacteraceae	Desulfobacterium	uncultured Desulfobacterium sp.	64	0
+201174	NA	Actinobacteria	NA	NA	NA	NA	NA	660	0
+2012510	NA	Candidatus Bathyarchaeota	NA	NA	NA	NA	Candidatus Bathyarchaeota archaeon ex4484_205	1	0
+2013648	NA	Actinobacteria	NA	NA	NA	NA	Actinobacteria bacterium HGW-Actinobacteria-3	1	0
+2013649	NA	Actinobacteria	NA	NA	NA	NA	Actinobacteria bacterium HGW-Actinobacteria-4	1	0
+2013653	NA	Actinobacteria	NA	NA	NA	NA	Actinobacteria bacterium HGW-Actinobacteria-8	2	0
+2013669	NA	Proteobacteria	Alphaproteobacteria	NA	NA	NA	Alphaproteobacteria bacterium HGW-Alphaproteobacteria-6	1	0
+2013685	NA	Bacteroidetes	NA	NA	NA	NA	Bacteroidetes bacterium HGW-Bacteroidetes-17	1	0
+2013702	NA	Proteobacteria	Betaproteobacteria	NA	NA	NA	Betaproteobacteria bacterium HGW-Betaproteobacteria-11	1	0
+2013716	NA	Proteobacteria	Betaproteobacteria	NA	NA	NA	Betaproteobacteria bacterium HGW-Betaproteobacteria-4	1	0
+2013750	NA	Proteobacteria	Deltaproteobacteria	NA	NA	NA	Deltaproteobacteria bacterium HGW-Deltaproteobacteria-22	1	0
+2013811	NA	Ignavibacteriae	NA	NA	NA	NA	Ignavibacteriae bacterium HGW-Ignavibacteriae-4	1	0
+2013832	NA	Spirochaetes	NA	NA	NA	NA	Spirochaetae bacterium HGW-Spirochaetae-1	1	0
+2013	NA	Actinobacteria	Actinobacteria	Streptosporangiales	Nocardiopsaceae	Nocardiopsis	NA	5	0
+2014528	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium sp. Marseille-P4122	1	0
+2015515	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces sp. FBKL.4005	1	0
+2016198	NA	Proteobacteria	Gammaproteobacteria	Legionellales	Coxiellaceae	NA	Coxiellaceae bacterium RA15029	1	0
+2016506	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	NA	Propionibacteriaceae bacterium NML 160184	1	0
+2017975	NA	Firmicutes	Clostridia	Halanaerobiales	Halobacteroidaceae	Candidatus Frackibacter	NA	1	0
+2017	NA	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Streptoalloteichus	Streptoalloteichus hindustanus	1	0
+2020130	NA	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Arthrobacter	Arthrobacter sp. 7749	1	0
+2023996	NA	NA	NA	Caudovirales	Myoviridae	NA	Synechococcus phage Bellamy	1	0
+2024404	NA	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Glutamicibacter	Glutamicibacter sp. BW80	1	0
+2026724	NA	Chloroflexi	NA	NA	NA	NA	Chloroflexi bacterium	1	0
+2026725	NA	Proteobacteria	Gammaproteobacteria	Chromatiales	NA	NA	Chromatiales bacterium	1	0
+2026762	NA	Actinobacteria	Actinobacteria	Micrococcales	NA	NA	Micrococcales bacterium	1	0
+2026780	NA	Planctomycetes	NA	NA	NA	NA	Planctomycetes bacterium	1	0
+202789	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinobaculum	Actinobaculum massiliense	128	0
+2029401	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium sp. NML 120412	1	0
+2030823	NA	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Hyphomonadaceae	Robiginitomaculum	Robiginitomaculum sp.	1	0
+2030882	NA	Proteobacteria	Gammaproteobacteria	Thiotrichales	Thiotrichaceae	NA	Thiotrichaceae bacterium	1	0
+203133	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Propionimicrobium	NA	3	0
+203263	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium aquilae	1	0
+2033	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium	Microbacterium testaceum	1	0
+2034	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Curtobacterium	NA	2	0
+2035407	NA	NA	NA	NA	NA	NA	bacterium HR12	1	0
+2035432	NA	NA	NA	NA	NA	NA	bacterium HR37	1	0
+2037	NA	Actinobacteria	Actinobacteria	Actinomycetales	NA	NA	NA	178	0
+203907	NA	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Candidatus Blochmannia	Candidatus Blochmannia floridanus	1	0
+2039467	NA	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae	Marinobacter	Marinobacter sp. ANT_B65	1	0
+2039	NA	Actinobacteria	Actinobacteria	Micrococcales	NA	Tropheryma	Tropheryma whipplei	1	0
+2044307	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces sp. Ru87	1	0
+204458	NA	Proteobacteria	Alphaproteobacteria	Caulobacterales	NA	NA	NA	2	0
+2045	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Nocardioidaceae	Pimelobacter	Pimelobacter simplex	2	0
+2048283	NA	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Thalassospira	Thalassospira sp. CSC3H3	1	0
+2048284	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Cryobacterium	Cryobacterium sp. Y62	1	0
+2048288	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Cryobacterium	Cryobacterium sp. N19	1	0
+2049	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	NA	NA	14450	0
+2051	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Mobiluncus	Mobiluncus curtisii	6	0
+2052837	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	NA	Neisseriaceae bacterium DSM 100970	1	0
+2052	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Mobiluncus	Mobiluncus mulieris	42	0
+2053309	NA	Candidatus Parcubacteria	NA	NA	NA	NA	Candidatus Parcubacteria bacterium	2	0
+2053	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Gordoniaceae	Gordonia	NA	7	0
+2054928	NA	Cyanobacteria	NA	NA	NA	NA	Cyanobacteria bacterium M5B4	1	0
+2057	NA	Chloroflexi	Thermomicrobia	Sphaerobacterales	Sphaerobacteraceae	Sphaerobacter	Sphaerobacter thermophilus	2	0
+2058894	NA	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Arthrobacter	Arthrobacter sp. GMC3	1	0
+2059672	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Chromobacteriaceae	Chromobacterium	Chromobacterium sp. ATCC 53434	1	0
+2062	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	NA	NA	7	0
+206351	NA	Proteobacteria	Betaproteobacteria	Neisseriales	NA	NA	NA	186	0
+2067452	NA	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Tabrizicola	Tabrizicola sp. TH137	1	0
+2067667	NA	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Spongiibacteraceae	Zhongshania	Zhongshania sp. ZX-21	1	0
+2067673	NA	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter sp. AAUH-44UCsig-a	2	0
+2070	NA	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	NA	NA	9	0
+2071713	NA	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. MWU12-2115	3	0
+2072014	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces sp. 553	2	0
+2074	NA	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Pseudonocardia	Pseudonocardia autotrophica	3	0
+208480	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces nasicola	5	0
+210	NA	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	Helicobacter pylori	1	0
+211502	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Conchiformibius	Conchiformibius kuhniae	4	0
+212663	NA	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio	Vibrio tasmaniensis	1	0
+213119	NA	Proteobacteria	Deltaproteobacteria	Desulfobacterales	Desulfobacteraceae	NA	NA	1	0
+2132	NA	Tenericutes	Mollicutes	Entomoplasmatales	Spiroplasmataceae	Spiroplasma	NA	1	0
+214482	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria elongata	1	0
+2147	NA	Tenericutes	Mollicutes	Acholeplasmatales	Acholeplasmataceae	Acholeplasma	NA	1	0
+216942	NA	Tenericutes	Mollicutes	Entomoplasmatales	Spiroplasmataceae	Spiroplasma	Spiroplasma litorale	1	0
+219182	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Ottowia	Ottowia thiooxydans	1	0
+220688	NA	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus soli	1	0
+222523	NA	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus cereus	1	0
+222	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Achromobacter	NA	7	0
+223967	NA	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Methylobacterium	Methylobacterium populi	1	0
+2248	NA	Euryarchaeota	Halobacteria	Haloferacales	Halorubraceae	Halorubrum	Halorubrum saccharovorum	1	0
+225326	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium halotolerans	1	0
+227290	NA	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	NA	NA	1	0
+22	NA	Proteobacteria	Gammaproteobacteria	Alteromonadales	Shewanellaceae	Shewanella	NA	2	0
+234828	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium caspium	25	0
+237682	NA	Firmicutes	Bacilli	Bacillales	Bacillaceae	Salinibacillus	Salinibacillus kushneri	1	0
+242163	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Candidatus Burkholderia verschuerenii	1	0
+242600	NA	Bacteroidetes	Flavobacteriia	Flavobacteriales	Ichthyobacteriaceae	Ichthyobacterium	Ichthyobacterium seriolicida	1	0
+243230	NA	Deinococcus-Thermus	Deinococci	Deinococcales	Deinococcaceae	Deinococcus	Deinococcus radiodurans	43	0
+243233	NA	Proteobacteria	Gammaproteobacteria	Methylococcales	Methylococcaceae	Methylococcus	Methylococcus capsulatus	3	0
+245836	NA	Actinobacteria	Actinobacteria	Streptosporangiales	Nocardiopsaceae	Nocardiopsis	Nocardiopsis salina	1	0
+247633	NA	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Spongiibacteraceae	NA	marine gamma proteobacterium HTCC2143	1	0
+252966	NA	Firmicutes	Clostridia	Thermoanaerobacterales	Thermoanaerobacterales Family IV. Incertae Sedis	Mahella	Mahella australiensis	4	0
+253839	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces sp. C	6	0
+255205	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Pseudoclavibacter	Pseudoclavibacter helvolus	1	0
+256035	NA	Actinobacteria	Actinobacteria	Glycomycetales	Glycomycetaceae	Glycomyces	Glycomyces arizonensis	1	0
+260936	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Rhodococcus	Rhodococcus sp. RD6.2	363	0
+262209	NA	Actinobacteria	Actinobacteria	Micrococcales	Intrasporangiaceae	Janibacter	Janibacter melonis	1	0
+262489	NA	Proteobacteria	Deltaproteobacteria	NA	NA	NA	delta proteobacterium MLMS-1	1	0
+262806	NA	Actinobacteria	Actinobacteria	Micrococcales	Jonesiaceae	Jonesia	Jonesia quinghaiensis	3	0
+263849	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Rhodococcus	Rhodococcus phenolicus	1	0
+265470	NA	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Desulfurispora	Desulfurispora thermophila	1	0
+265975	NA	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Oribacterium	NA	1	0
+265976	NA	Actinobacteria	Actinobacteria	Micrococcales	Intrasporangiaceae	Serinicoccus	NA	1	0
+267135	NA	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Erythrobacteraceae	Porphyrobacter	Porphyrobacter donghaensis	6	0
+267212	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria bacilliformis	79	0
+267872	NA	Cyanobacteria	NA	Chroococcales	Microcystaceae	Microcystis	Microcystis aeruginosa	3	0
+2702	NA	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Gardnerella	Gardnerella vaginalis	99	0
+271420	NA	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas xanthomarina	3	0
+2718	NA	Proteobacteria	Gammaproteobacteria	Cardiobacteriales	Cardiobacteriaceae	Cardiobacterium	Cardiobacterium hominis	3	0
+272129	NA	Cyanobacteria	NA	Oscillatoriales	Microcoleaceae	Kamptonema	[Oscillatoria] sp. PCC 6506	1	0
+272548	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces dentalis	2	0
+272556	NA	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Aggregatibacter	Aggregatibacter actinomycetemcomitans	1	0
+272629	NA	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Mannheimia	Mannheimia haemolytica	3	0
+273384	NA	Actinobacteria	Actinobacteria	Micrococcales	Brevibacteriaceae	Brevibacterium	Brevibacterium aurantiacum	1	0
+27350	Fungi	Basidiomycota	Pucciniomycetes	Pucciniales	Pucciniaceae	Puccinia	Puccinia striiformis	1	0
+273677	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium	Microbacterium oleivorans	1	0
+2742	NA	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae	Marinobacter	NA	1	0
+2745	NA	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Halomonadaceae	Halomonas	NA	1	0
+2747	NA	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Carnobacterium	NA	1	0
+2754	NA	Synergistetes	Synergistia	Synergistales	Synergistaceae	Synergistes	Synergistes jonesii	1	0
+2759	NA	NA	NA	NA	NA	NA	NA	3	0
+2786	NA	NA	Bangiophyceae	Bangiales	Bangiaceae	Porphyra	Porphyra umbilicalis	2	0
+278992	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces ambofaciens	25	0
+28025	NA	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium animalis	1	0
+28028	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium flavescens	1	0
+28056	NA	Actinobacteria	Actinobacteria	Micromonosporales	Micromonosporaceae	NA	NA	23	0
+28091	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria weaveri	1	0
+28100	NA	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Phyllobacterium	NA	6	0
+281093	NA	Chlorobi	Chlorobia	Chlorobiales	Chlorobiaceae	Prosthecochloris	Prosthecochloris sp. GSB1	1	0
+281472	NA	Actinobacteria	Actinobacteria	Jiangellales	Jiangellaceae	Jiangella	NA	2	0
+281473	NA	Actinobacteria	Actinobacteria	Jiangellales	Jiangellaceae	Jiangella	Jiangella gansuensis	1	0
+28211	NA	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA	15	0
+28216	NA	Proteobacteria	Betaproteobacteria	NA	NA	NA	NA	645	0
+282199	NA	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Nereida	Nereida ignava	1	0
+28228	NA	Proteobacteria	Gammaproteobacteria	Alteromonadales	Colwelliaceae	Colwellia	NA	1	0
+28256	NA	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Halomonadaceae	NA	NA	3	0
+28263	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Arcanobacterium	NA	1	0
+28264	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Arcanobacterium	Arcanobacterium haemolyticum	5	0
+28443	NA	Actinobacteria	Actinobacteria	Streptosporangiales	Streptosporangiaceae	Herbidospora	NA	1	0
+28450	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia pseudomallei	6	0
+2850	NA	Bacillariophyta	Bacillariophyceae	Naviculales	Phaeodactylaceae	Phaeodactylum	Phaeodactylum tricornutum	3	0
+285351	NA	Actinobacteria	Actinobacteria	Micrococcales	Sanguibacteraceae	Sanguibacter	Sanguibacter marinus	1	0
+286801	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Segniliparaceae	Segniliparus	NA	1	0
+286	NA	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	NA	2	0
+287	NA	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas aeruginosa	3	0
+28901	NA	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	Salmonella enterica	3	0
+290399	NA	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Arthrobacter	Arthrobacter sp. FB24	1	0
+292800	NA	Firmicutes	Clostridia	Clostridiales	NA	Flavonifractor	Flavonifractor plautii	1	0
+29321	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Turicella	Turicella otitidis	1	0
+29322	NA	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Eubacterium	[Eubacterium] cellulosolvens	1	0
+29510	NA	Spirochaetes	Spirochaetia	NA	Leptospiraceae	Turneriella	Turneriella parva	1	0
+2951	NA	NA	Dinophyceae	Suessiales	Symbiodiniaceae	Symbiodinium	Symbiodinium microadriaticum	32	0
+29544	NA	Proteobacteria	Betaproteobacteria	Rhodocyclales	Zoogloeaceae	Azoarcus	Azoarcus sp.	1	0
+296	NA	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fragi	1	0
+298653	NA	Actinobacteria	Actinobacteria	Frankiales	Frankiaceae	Frankia	Frankia sp. EAN1pec	4	0
+298654	NA	Actinobacteria	Actinobacteria	Frankiales	Frankiaceae	Frankia	Frankia inefficax	8	0
+29882	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Tricholomataceae	Laccaria	NA	1	0
+2	NA	NA	NA	NA	NA	NA	NA	6057	0
+300028	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Rhodococcus	Rhodococcus triatomae	1	0
+301388	NA	Actinobacteria	Actinobacteria	Micrococcales	Cellulomonadaceae	Cellulomonas	Cellulomonas bogoriensis	1	0
+302449	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium tuscaniense	3	0
+303	NA	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas putida	6	0
+304895	NA	Actinobacteria	Actinobacteria	Catenulisporales	Catenulisporaceae	Catenulispora	Catenulispora acidiphila	1	0
+305072	NA	Acidobacteria	NA	NA	NA	NA	NA	1	0
+3055	Viridiplantae	Chlorophyta	Chlorophyceae	Chlamydomonadales	Chlamydomonadaceae	Chlamydomonas	Chlamydomonas reinhardtii	1	0
+3068	Viridiplantae	Chlorophyta	Chlorophyceae	Chlamydomonadales	Volvocaceae	Volvox	Volvox carteri	1	0
+312284	NA	Actinobacteria	Actinobacteria	NA	NA	NA	marine actinobacterium PHSC20C1	3	0
+31271	NA	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium chabaudi	1	0
+313589	NA	Actinobacteria	Actinobacteria	Micrococcales	Intrasporangiaceae	Janibacter	Janibacter sp. HTCC2649	1	0
+314281	NA	Proteobacteria	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	Pseudoalteromonas tunicata	1	0
+314282	NA	Proteobacteria	Gammaproteobacteria	Alteromonadales	Psychromonadaceae	Psychromonas	Psychromonas sp. CNPT3	1	0
+316612	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	NA	Methylibium	NA	1	0
+316	NA	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas stutzeri	2	0
+31953	NA	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	NA	NA	25	0
+31957	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	NA	NA	28	0
+31959	NA	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Amycolatopsis	Amycolatopsis lurida	32	0
+31962	NA	Actinobacteria	Actinobacteria	Streptosporangiales	Thermomonosporaceae	Actinomadura	Actinomadura rifamycini	1	0
+319705	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium abscessus	1	0
+31989	NA	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	NA	NA	2	0
+32003	NA	Proteobacteria	Betaproteobacteria	Nitrosomonadales	NA	NA	NA	1	0
+32008	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	NA	5	0
+32012	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	NA	Thiomonas	NA	5	0
+320371	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia pseudomallei	2	0
+320372	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia pseudomallei	2	0
+320799	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Gordoniaceae	Gordonia	Gordonia soli	1	0
+321318	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Dietziaceae	Dietzia	Dietzia cinnamea	2	0
+32207	NA	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	NA	8	0
+32257	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Kingella	NA	2572	0
+326522	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria animaloris	3	0
+326523	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria zoodegmatis	5	0
+327095	NA	Actinobacteria	Actinobacteria	Micrococcales	Demequinaceae	Demequina	Demequina aestuarii	1	0
+329046	Fungi	Chytridiomycota	Chytridiomycetes	Chytridiales	Chytriomycetaceae	Rhizoclosmatium	Rhizoclosmatium globosum	7	0
+33012	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Propionimicrobium	Propionimicrobium lymphophilum	2	0
+33013	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Clavibacter	Clavibacter michiganensis	5	0
+33075	NA	Acidobacteria	Acidobacteriia	Acidobacteriales	Acidobacteriaceae	Acidobacterium	Acidobacterium capsulatum	17	0
+331526	NA	Actinobacteria	Actinobacteria	Micrococcales	Intrasporangiaceae	Kribbia	Kribbia dieselivorans	1	0
+331679	NA	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Pediococcus	Pediococcus stilesii	1	0
+331869	NA	Proteobacteria	Alphaproteobacteria	NA	NA	NA	alpha proteobacterium BAL199	1	0
+33203	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Ophiocordycipitaceae	Purpureocillium	Purpureocillium lilacinum	1	0
+332102	NA	Bacteroidetes	Flavobacteriia	Flavobacteriales	Crocinitomicaceae	Fluviicola	NA	1	0
+332524	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces ruminicola	2	0
+334107	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Conchiformibius	NA	4	0
+335058	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Pelomonas	NA	1	0
+33811	NA	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA	1	0
+33882	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium	NA	7	0
+33889	NA	Actinobacteria	Actinobacteria	Micrococcales	Brevibacteriaceae	Brevibacterium	Brevibacterium casei	1	0
+33905	NA	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium thermophilum	1	0
+33958	NA	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	NA	NA	1	0
+34027	NA	Proteobacteria	Betaproteobacteria	Rhodocyclales	Zoogloeaceae	Azoarcus	Azoarcus tolulyticus	2	0
+340322	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium glutamicum	1	0
+34072	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Variovorax	NA	2	0
+341189	Fungi	Basidiomycota	Agaricomycetes	Boletales	Serpulaceae	Serpula	Serpula lacrymans	1	0
+345341	NA	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Kutzneria	Kutzneria sp. 744	1	0
+346674	NA	NA	NA	NA	Phycodnaviridae	Chlorovirus	NA	24	0
+346	NA	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Xanthomonas	Xanthomonas citri	5	0
+349102	NA	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rhodobacter	Rhodobacter sphaeroides	43	0
+349751	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium marinum	21	0
+352472	NA	NA	NA	Dictyosteliales	Dictyosteliaceae	Dictyostelium	Dictyostelium discoideum	1	0
+354276	NA	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	NA	1	0
+354349	NA	Proteobacteria	Alphaproteobacteria	Rhizobiales	Brucellaceae	Pseudochrobactrum	NA	1	0
+355249	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces sp. Tu6071	58	0
+355929	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Yonghaparkia	NA	1	0
+35621	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces mobaraensis	1	0
+356662	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Chromobacteriaceae	Leeia	Leeia oryzae	1	0
+356829	NA	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium tsurumiense	2	0
+356	NA	Proteobacteria	Alphaproteobacteria	Rhizobiales	NA	NA	NA	5	0
+35722	Fungi	Mucoromycota	NA	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	1	0
+35756	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium pilosum	1	0
+35762	NA	Actinobacteria	Actinobacteria	Streptosporangiales	Streptosporangiaceae	Planobispora	Planobispora rosea	3	0
+35801	NA	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	Nitrospina gracilis	1	0
+358100	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium	Microbacterium indicum	2	0
+359359	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Smaragdicoccus	Smaragdicoccus niigatensis	1	0
+360316	NA	Proteobacteria	Gammaproteobacteria	Methylococcales	Crenotrichaceae	Crenothrix	Crenothrix polyspora	37	0
+360412	NA	Chloroflexi	Anaerolineae	Anaerolineales	Anaerolineaceae	Longilinea	Longilinea arvoryzae	1	0
+365044	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Polaromonas	Polaromonas naphthalenivorans	1	0
+366584	NA	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Pseudonocardia	Pseudonocardia oroxyli	1	0
+366586	NA	Actinobacteria	Actinobacteria	Micrococcales	Ruaniaceae	Ruania	Ruania albidiflava	5	0
+36808	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium bovis	1	0
+36809	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium abscessus	146	0
+36811	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium agri	1	0
+368603	NA	Proteobacteria	Gammaproteobacteria	Enterobacterales	Morganellaceae	Morganella	Morganella psychrotolerans	1	0
+370438	NA	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Pelotomaculum	Pelotomaculum thermopropionicum	1	0
+370736	NA	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Zhihengliuella	Zhihengliuella halotolerans	4	0
+370764	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium	Microbacterium pygmaeum	1	0
+372484	NA	Actinobacteria	Actinobacteria	Micrococcales	Sanguibacteraceae	Sanguibacter	Sanguibacter antarcticus	1	0
+372663	NA	Actinobacteria	Actinobacteria	Micrococcales	Promicromonosporaceae	Isoptericola	Isoptericola dokdonensis	2	0
+37332	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Nocardia	Nocardia seriolae	4	0
+37452	NA	Bacteroidetes	NA	NA	NA	NA	NA	2	0
+374	NA	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Bradyrhizobium	NA	1	0
+37659	NA	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium algidicarnis	1	0
+37914	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Dietziaceae	Dietzia	NA	2	0
+379	NA	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium	NA	1	0
+380244	NA	Actinobacteria	Actinobacteria	Glycomycetales	Glycomycetaceae	Glycomyces	Glycomyces sambucus	25	0
+381306	NA	Proteobacteria	Gammaproteobacteria	NA	NA	Thiohalorhabdus	Thiohalorhabdus denitrificans	1	0
+38284	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium accolens	6	0
+38289	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium jeikeium	3	0
+38301	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium minutissimum	7	0
+38303	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium pseudogenitalium	32	0
+38304	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium tuberculostearicum	7472	0
+38305	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium vitaeruminis	1	0
+384638	NA	Firmicutes	Clostridia	Clostridiales	NA	NA	[Bacteroides] pectinophilus	2	0
+384677	NA	Actinobacteria	Actinobacteria	Micrococcales	Intrasporangiaceae	Ornithinimicrobium	Ornithinimicrobium pekingense	1	0
+39060	NA	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Desulfotomaculum	Desulfotomaculum geothermicum	9	0
+390989	NA	Actinobacteria	Actinobacteria	Micromonosporales	Micromonosporaceae	Actinocatenispora	Actinocatenispora sera	1	0
+391296	NA	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus suis	1	0
+391597	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Limnobacter	Limnobacter sp. MED105	1	0
+392613	Fungi	Ascomycota	Eurotiomycetes	Onygenales	Ascosphaeraceae	Ascosphaera	Ascosphaera apis	1	0
+393480	NA	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	Fusobacterium nucleatum	36	0
+394104	NA	Proteobacteria	Gammaproteobacteria	NA	NA	Candidatus Endoriftia	Candidatus Endoriftia persephone	2	0
+39487	NA	Actinobacteria	Coriobacteriia	Coriobacteriales	Atopobiaceae	Atopobium	Atopobium fossor	1	0
+396389	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Aestuariimicrobium	Aestuariimicrobium kwangyangense	2	0
+39688	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium duvalii	1	0
+396	NA	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium	Rhizobium phaseoli	1	0
+397278	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Nocardioidaceae	Marmoricola	Marmoricola aequoreus	1	0
+39765	NA	Proteobacteria	Gammaproteobacteria	Thiotrichales	Piscirickettsiaceae	Hydrogenovibrio	Hydrogenovibrio crunogenus	1	0
+39791	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium glucuronolyticum	5	0
+402650	NA	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Actinomycetospora	Actinomycetospora chiangmaiensis	1	0
+40296	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium italicum	1	0
+40324	NA	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas	Stenotrophomonas maltophilia	1	0
+403935	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces radiopugnans	1	0
+407	NA	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Methylobacterium	NA	1	0
+411459	NA	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	Blautia obeum	2	0
+411460	NA	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	[Ruminococcus] torques	68	0
+411466	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces odontolyticus	266	0
+411467	NA	Firmicutes	Clostridia	Clostridiales	NA	Pseudoflavonifractor	Pseudoflavonifractor capillosus	4	0
+411470	NA	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	[Ruminococcus] gnavus	2	0
+411481	NA	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium adolescentis	51	0
+411903	NA	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	Collinsella aerofaciens	3	0
+41294	NA	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	NA	NA	1	0
+413882	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	NA	NA	[Polyangium] brachysporum	1	0
+417948	NA	Actinobacteria	Actinobacteria	Micrococcales	Brevibacteriaceae	Brevibacterium	Brevibacterium album	1	0
+419014	NA	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Alloscardovia	NA	1	0
+422282	NA	candidate division WWE3	NA	NA	NA	NA	NA	2	0
+42234	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces acidiscabies	1	0
+427754	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Humibacter	Humibacter albus	1	0
+428125	NA	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium	[Clostridium] leptum	76	0
+42817	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium argentoratense	1	0
+431895	NA	NA	NA	Choanoflagellida	Salpingoecidae	Monosiga	Monosiga brevicollis	1	0
+431944	NA	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Magnetospirillum	Magnetospirillum gryphiswaldense	4	0
+435830	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces graevenitzii	151	0
+435832	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria mucosa	3	0
+43655	NA	Proteobacteria	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	Pseudoalteromonas citrea	1	0
+43668	NA	Actinobacteria	Actinobacteria	Micrococcales	Dermabacteraceae	Brachybacterium	NA	6	0
+43675	NA	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	Rothia mucilaginosa	33	0
+43770	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium striatum	38	0
+43772	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Rhodococcus	Rhodococcus zopfii	1	0
+44012	NA	Proteobacteria	Gammaproteobacteria	Alteromonadales	Ferrimonadaceae	Ferrimonas	Ferrimonas balearica	1	0
+441500	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium timonense	1	0
+442121	NA	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylocystaceae	Pleomorphomonas	uncultured Pleomorphomonas sp.	4	0
+44249	NA	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	NA	1	0
+44577	NA	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Nitrosomonadaceae	Nitrosomonas	Nitrosomonas ureae	1	0
+445	NA	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	NA	7	0
+446660	NA	Actinobacteria	Coriobacteriia	Eggerthellales	Eggerthellaceae	Adlercreutzia	Adlercreutzia equolifaciens	1	0
+446860	NA	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Kocuria	Kocuria flava	3	0
+446	NA	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	Legionella pneumophila	2	0
+447471	NA	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Cellvibrionaceae	Simiduia	Simiduia agarivorans	1	0
+448	NA	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	Legionella erythra	2	0
+450380	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium	Microbacterium profundi	1	0
+45067	NA	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	Legionella lansingensis	8	0
+452623	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Pseudoclavibacter	Pseudoclavibacter soli	1	0
+454162	NA	Proteobacteria	Alphaproteobacteria	Kiloniellales	Kiloniellaceae	Kiloniella	Kiloniella laminariae	1	0
+454	NA	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	Legionella israelensis	1	0
+456298	NA	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Glaesserella	Glaesserella parasuis	1	0
+456482	NA	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	Haemophilus influenzae	5	0
+457416	NA	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Veillonella	Veillonella sp. 3_1_44	1	0
+457428	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces lividans	8	0
+457431	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces filamentosus	5	0
+458	NA	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	Legionella rubrilucens	2	0
+459858	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium noviomagense	1	0
+461393	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces massiliensis	1	0
+46161	NA	Actinobacteria	Actinobacteria	Streptosporangiales	Thermomonosporaceae	Actinomadura	Actinomadura kijaniata	1	0
+463191	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces sviceus	3	0
+46352	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Agrococcus	NA	1	0
+46433	NA	NA	NA	NA	Reticulomyxidae	Reticulomyxa	Reticulomyxa filosa	4	0
+465541	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces sp. Mg1	79	0
+465543	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces sp. SPB074	1	0
+466	NA	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Tatlockia	Legionella maceachernii	1	0
+468	NA	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	NA	NA	4	0
+46914	NA	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Devosia	Devosia riboflavina	1	0
+469371	NA	Actinobacteria	Actinobacteria	NA	NA	Thermobispora	Thermobispora bispora	2	0
+469	NA	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA	45	0
+470	NA	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter baumannii	10	0
+472569	NA	Actinobacteria	Actinobacteria	Micrococcales	Dermabacteraceae	Devriesea	Devriesea agamarum	2	0
+4764	NA	NA	Oomycetes	Saprolegniales	Saprolegniaceae	NA	NA	1	0
+476652	NA	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Desulfosporosinus	Desulfosporosinus acididurans	1	0
+47763	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces lydicus	1	0
+477641	NA	Actinobacteria	Actinobacteria	Geodermatophilales	Geodermatophilaceae	Modestobacter	Modestobacter marinus	10	0
+47790	Viridiplantae	Chlorophyta	Chlorophyceae	Chlamydomonadales	Tetrabaenaceae	Tetrabaena	Tetrabaena socialis	18	0
+47845	NA	Actinobacteria	Actinobacteria	Micrococcales	Dermabacteraceae	Brachybacterium	Brachybacterium alimentarium	1	0
+47865	NA	Actinobacteria	Actinobacteria	Micromonosporales	Micromonosporaceae	Micromonospora	Micromonospora inositola	2	0
+47866	NA	Actinobacteria	Actinobacteria	Micromonosporales	Micromonosporaceae	Micromonospora	Micromonospora inyonensis	1	0
+47877	NA	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas amygdali	1	0
+480391	NA	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Pediococcus	Pediococcus argentinicus	1	0
+481	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	NA	NA	10513	0
+482	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	NA	320	0
+483139	NA	Apicomplexa	Coccidia	Eucoccidiorida	Sarcocystidae	Cystoisospora	Cystoisospora suis	2	0
+483908	NA	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	Paenibacillus sp. P22	20	0
+483937	NA	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	Paenibacillus riograndensis	1	0
+483	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria cinerea	5	0
+484	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria flavescens	12	0
+485602	NA	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Actinophytocola	Actinophytocola xinjiangensis	1	0
+485	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria gonorrhoeae	45	0
+486	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria lactamica	5	0
+487822	NA	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Xanthomonas	Xanthomonas arboricola	3	0
+48782	NA	Spirochaetes	Spirochaetia	NA	Leptospiraceae	Leptospira	Leptospira fainei	1	0
+487	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria meningitidis	131	0
+488	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria mucosa	7	0
+489653	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria lactamica	1	0
+489915	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium sputi	2	0
+489	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria polysaccharea	4	0
+490	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria sicca	8	0
+49184	NA	Actinobacteria	Actinobacteria	Kineosporiales	Kineosporiaceae	Kineosporia	NA	1	0
+491	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria meningitidis	22	0
+493915	NA	Proteobacteria	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	Pseudoalteromonas sp. NJ631	1	0
+493	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria canis	1	0
+494023	NA	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Paeniglutamicibacter	Paeniglutamicibacter antarcticus	2	0
+494	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Bergeriella	Bergeriella denitrificans	3	0
+49546	NA	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	NA	NA	1	0
+495	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria elongata	13	0
+497	NA	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	NA	1	0
+498761	NA	Firmicutes	Clostridia	Clostridiales	Heliobacteriaceae	Heliobacterium	Heliobacterium modesticaldum	1	0
+49928	NA	NA	NA	NA	NA	NA	NA	2	0
+499555	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Dietziaceae	Dietzia	Dietzia timorensis	1	0
+501023	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Glaciibacter	Glaciibacter superstes	1	0
+502	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Kingella	Kingella denitrificans	42	0
+504474	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium urealyticum	2	0
+504483	NA	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Spirochaeta	Spirochaeta cellobiosiphila	1	0
+504	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Kingella	Kingella kingae	32	0
+5052	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	NA	1	0
+505345	NA	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Gallibacterium	Gallibacterium genomosp. 3	2	0
+505	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Kingella	Kingella oralis	149920	0
+506	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	NA	NA	9	0
+5073	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	NA	1	0
+508770	NA	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Sciscionella	Sciscionella marina	26	0
+509192	NA	Firmicutes	Clostridia	Thermoanaerobacterales	Thermoanaerobacteraceae	Thermoanaerobacter	Thermoanaerobacter ethanolicus	1	0
+51047	NA	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Actinobacillus	Actinobacillus minor	1	0
+51315	NA	Apicomplexa	Coccidia	Eucoccidiorida	Eimeriidae	Eimeria	Eimeria necatrix	2	0
+517	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Bordetella	NA	1	0
+518642	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces nanshensis	1	0
+52018	NA	Actinobacteria	Actinobacteria	NA	NA	NA	NA	2	0
+520463	NA	Proteobacteria	Alphaproteobacteria	Rhizobiales	Brucellaceae	Brucella	Brucella pinnipedialis	11	0
+520	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Bordetella	Bordetella pertussis	39	0
+525245	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces coleocanis	7	0
+525260	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium accolens	1	0
+525263	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium lipophiloflavum	4	0
+525264	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium pseudogenitalium	321	0
+525268	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium striatum	3	0
+525918	NA	Proteobacteria	Gammaproteobacteria	Thiotrichales	Thiotrichaceae	Thiothrix	Thiothrix caldifontis	1	0
+526067	NA	Actinobacteria	Actinobacteria	Glycomycetales	Glycomycetaceae	Haloglycomyces	Haloglycomyces albus	2	0
+526729	NA	Actinobacteria	Actinobacteria	Micrococcales	Promicromonosporaceae	Krasilnikoviella	Krasilnikoviella flava	1	0
+52767	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces denticolens	2	0
+52769	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces gerencseriae	10	0
+52770	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces hordeovulneris	27	0
+528358	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria gonorrhoeae	2	0
+529883	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Rhodoluna	NA	1	0
+529884	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Rhodoluna	Rhodoluna lacicola	1	0
+530584	NA	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Prauserella	Prauserella marina	1	0
+533267	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Nocardioidaceae	Actinopolymorpha	Actinopolymorpha alba	1	0
+53363	NA	Actinobacteria	Actinobacteria	Micrococcales	Brevibacteriaceae	Brevibacterium	Brevibacterium mcbrellneri	1	0
+53374	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium coyleae	1	0
+53376	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium heidelbergense	1	0
+53419	NA	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	Treponema socranskii	1	0
+53446	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces cinnamoneus	50	0
+53457	NA	Actinobacteria	Actinobacteria	Micrococcales	Intrasporangiaceae	Janibacter	NA	4	0
+535712	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Rhodoluna	Candidatus Rhodoluna planktonica	1	0
+535	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Chromobacteriaceae	Chromobacterium	NA	1	0
+537971	NA	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	Helicobacter cinaedi	1	0
+538	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Eikenella	NA	22	0
+539	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Eikenella	Eikenella corrodens	26	0
+541095	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium lubricantis	1	0
+543311	NA	Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	Parvimonas	NA	1	0
+543	NA	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	NA	NA	5	0
+544580	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces oris	105	0
+545619	NA	Actinobacteria	Actinobacteria	Micrococcales	Cellulomonadaceae	Paraoerskovia	Paraoerskovia marina	1	0
+546262	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria cinerea	1	0
+546263	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria elongata	14	0
+546264	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria flavescens	10	0
+546265	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria lactamica	15	0
+546266	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria mucosa	10	0
+546267	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria polysaccharea	13	0
+546268	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria subflava	3	0
+546274	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Eikenella	Eikenella corrodens	26	0
+546871	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Nocardioidaceae	Friedmanniella	Friedmanniella luteola	1	0
+546874	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Nocardioidaceae	Friedmanniella	Friedmanniella sagamiharensis	1	0
+547045	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria sicca	11	0
+548476	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium aurimucosum	9	0
+548478	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium glucuronolyticum	1	0
+550	NA	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter cloacae	2	0
+551208	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Chromobacteriaceae	Chitinilyticum	NA	1	0
+553206	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium tuberculostearicum	524	0
+553	NA	Proteobacteria	Gammaproteobacteria	Enterobacterales	Erwiniaceae	Pantoea	Pantoea ananatis	29	0
+554083	NA	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Tersicoccus	Tersicoccus phoenicis	1	0
+554131	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	NA	Thiomonas	Thiomonas sp. CB2	8	0
+55565	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces graevenitzii	62	0
+556287	NA	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Liberibacter	Candidatus Liberibacter solanacearum	1	0
+556325	NA	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Neomicrococcus	Neomicrococcus aestuarii	1	0
+556499	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Propionibacterium	Propionibacterium acidifaciens	3	0
+556530	NA	Actinobacteria	Actinobacteria	Micrococcales	Beutenbergiaceae	Serinibacter	Serinibacter salmoneus	1	0
+55968	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Leucobacter	NA	4	0
+561177	NA	Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	Anaerococcus	Anaerococcus hydrogenalis	1	0
+561	NA	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	NA	1	0
+562973	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces viscosus	36	0
+562	NA	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli	24	0
+563032	NA	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	Rothia dentocariosa	104	0
+5661	NA	NA	NA	Kinetoplastida	Trypanosomatidae	Leishmania	Leishmania donovani	1	0
+566461	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces viridosporus	65	0
+568386	NA	Proteobacteria	Gammaproteobacteria	Nevskiales	Sinobacteraceae	NA	NA	1	0
+569862	NA	Actinobacteria	Actinobacteria	Streptosporangiales	Streptosporangiaceae	Streptosporangium	Streptosporangium sp. M26	1	0
+56	NA	Proteobacteria	Deltaproteobacteria	Myxococcales	Polyangiaceae	Sorangium	Sorangium cellulosum	4	0
+570161	NA	Bacteroidetes	Bacteroidia	Marinilabiliales	Marinifilaceae	Marinifilum	Marinifilum fragile	1	0
+570	NA	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	NA	1	0
+571913	NA	Actinobacteria	Actinobacteria	Micrococcales	Dermacoccaceae	Luteipulveratus	Luteipulveratus mongoliensis	13	0
+573060	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Acidovorax	Acidovorax delafieldii	9	0
+573496	NA	Actinobacteria	Actinobacteria	Frankiales	Frankiaceae	Frankia	Frankia sp. AvcI1	6	0
+573600	NA	Actinobacteria	Actinobacteria	Candidatus Nanopelagicales	NA	Candidatus Planktophila	Candidatus Planktophila limnetica	1	0
+573	NA	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella pneumoniae	5	0
+574650	NA	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Micrococcus	Micrococcus terreus	1	0
+574651	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Nocardioidaceae	Nocardioides	Nocardioides terrae	2	0
+57480	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Chromobacteriaceae	Microvirgula	Microvirgula aerodenitrificans	1	0
+57493	NA	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Kocuria	NA	1	0
+57494	NA	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Nesterenkonia	NA	1	0
+57495	NA	Actinobacteria	Actinobacteria	Micrococcales	Dermacoccaceae	Dermacoccus	NA	1	0
+57499	NA	Actinobacteria	Actinobacteria	Micrococcales	Dermacoccaceae	Kytococcus	NA	2	0
+57732	NA	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus asini	1	0
+577469	NA	Actinobacteria	Actinobacteria	Micrococcales	Demequinaceae	Demequina	NA	2	0
+578462	Fungi	Blastocladiomycota	Blastocladiomycetes	Blastocladiales	Blastocladiaceae	Allomyces	Allomyces macrogynus	2	0
+57975	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia thailandensis	2	0
+58050	NA	Proteobacteria	Gammaproteobacteria	Alteromonadales	Moritellaceae	Moritella	NA	1	0
+58097	NA	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	Salmonella enterica	2	0
+5821	NA	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium berghei	2	0
+582680	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium	Microbacterium azadirachtae	3	0
+584	NA	Proteobacteria	Gammaproteobacteria	Enterobacterales	Morganellaceae	Proteus	Proteus mirabilis	1	0
+5851	NA	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium knowlesi	2	0
+585529	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium genitalium	1	0
+585531	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Nocardioidaceae	Aeromicrobium	Aeromicrobium marinum	2	0
+5855	NA	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium vivax	6	0
+591157	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces sp. SPB78	65	0
+59288	NA	Proteobacteria	Gammaproteobacteria	Legionellales	Coxiellaceae	Coxiella	Coxiella sp. (in: Bacteria)	1	0
+59505	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinotignum	Actinotignum schaalii	437596	0
+595468	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces hominis	2	0
+59620	NA	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	uncultured Clostridium sp.	1	0
+596309	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Rhodococcus	Rhodococcus erythropolis	18	0
+596320	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria flavescens	5	0
+59750	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium wolinskyi	1	0
+598660	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium pyruviciproducens	3	0
+59	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Vitreoscilla	NA	1	0
+607711	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria wadsworthii	1	0
+607712	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria shayeganii	4	0
+60920	NA	Actinobacteria	Actinobacteria	Micrococcales	Sanguibacteraceae	Sanguibacter	Sanguibacter keddieii	1	0
+611301	NA	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Xanthomonas	Xanthomonas citri	3	0
+61432	NA	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	NA	NA	1	0
+61646	NA	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Lelliottia	Lelliottia amnigena	1	0
+61	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Vitreoscilla	Vitreoscilla stercoraria	1	0
+620910	NA	Actinobacteria	Actinobacteria	Micrococcales	NA	Luteimicrobium	Luteimicrobium subarcticum	2	0
+621109	NA	Firmicutes	Bacilli	Bacillales	Bacillaceae	Virgibacillus	Virgibacillus subterraneus	1	0
+621372	NA	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	Paenibacillus sp. oral taxon 786	1	0
+628	NA	Proteobacteria	Gammaproteobacteria	Enterobacterales	Morganellaceae	Xenorhabdus	Xenorhabdus nematophila	3	0
+629680	NA	Actinobacteria	Actinobacteria	Micrococcales	Brevibacteriaceae	Brevibacterium	Brevibacterium sandarakinum	2	0
+629741	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Kingella	Kingella oralis	17551	0
+630515	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Microlunatus	Microlunatus soli	4	0
+630749	NA	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Spongiibacteraceae	Spongiibacter	NA	2	0
+634994	NA	Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	Leptotrichia hofstadii	1	0
+638953	NA	Actinobacteria	Actinobacteria	Micrococcales	Bogoriellaceae	Georgenia	Georgenia soli	11	0
+63	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Vitreoscilla	Vitreoscilla filiformis	4	0
+641147	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Simonsiella	Simonsiella muelleri	4	0
+641148	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria sp. oral taxon 014	1	0
+641149	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria sp. oral taxon 014	3	0
+641	NA	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	NA	NA	2	0
+644107	NA	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Ruegeria	Ruegeria lacuscaerulensis	22	0
+644352	Fungi	Ascomycota	Sordariomycetes	Magnaporthales	Magnaporthaceae	Gaeumannomyces	Gaeumannomyces tritici	1	0
+644	NA	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	Aeromonas hydrophila	1	0
+645465	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces sp. e14	7	0
+648782	NA	Actinobacteria	Actinobacteria	Micrococcales	Ruaniaceae	Haloactinobacterium	Haloactinobacterium album	1	0
+649507	NA	Bacteroidetes	Cytophagia	Cytophagales	Flammeovirgaceae	Cesiribacter	Cesiribacter andamanensis	1	0
+64969	NA	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Oceanospirillaceae	Oceanospirillum	Oceanospirillum multiglobuliferum	4	0
+649739	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces sp. oral taxon 848	1	0
+649743	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces sp. oral taxon 848	16	0
+649754	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium ammoniagenes	2	0
+64977	NA	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Oceanospirillaceae	Oceanospirillum	Oceanospirillum maris	1	0
+650054	NA	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter lari	2	0
+65058	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium ulcerans	26	0
+653386	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces sp. oral taxon 849	168	0
+655307	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria sp. KEM232	1	0
+65700	NA	Proteobacteria	Gammaproteobacteria	Enterobacterales	Erwiniaceae	Erwinia	Erwinia tracheiphila	1	0
+657014	NA	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Litorimicrobium	Litorimicrobium taeanense	1	0
+659693	NA	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Oceanibaculum	NA	1	0
+661979	NA	Actinobacteria	Actinobacteria	Micrococcales	Dermabacteraceae	Brachybacterium	Brachybacterium squillarum	1	0
+66228	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces europaeus	1	0
+662	NA	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio	NA	1	0
+66378	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces yerevanensis	1	0
+66423	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces eurocidicus	1	0
+664638	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Leucobacter	Leucobacter salsicius	2	0
+665550	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Dietziaceae	Dietzia	Dietzia alimentaria	1	0
+665946	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria sp. GT4A_CT1	1	0
+666	NA	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio	Vibrio cholerae	20	0
+667019	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Curvibacter	Curvibacter putative symbiont of Hydra magnipapillata	27	0
+670905	NA	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli	20	0
+670	NA	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio	Vibrio parahaemolyticus	18	0
+671222	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Propionibacterium	Propionibacterium sp. oral taxon 192	1	0
+67344	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces prasinopilosus	1	0
+67572	NA	Proteobacteria	Gammaproteobacteria	Alteromonadales	Psychromonadaceae	Psychromonas	NA	12	0
+675824	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Lipomycetaceae	Lipomyces	Lipomyces starkeyi	82	0
+675864	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Auraticoccus	Auraticoccus monumenti	1	0
+676202	NA	Actinobacteria	Actinobacteria	Micrococcales	Demequinaceae	Demequina	Demequina globuliformis	3	0
+679196	NA	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus gasseri	1	0
+679716	NA	NA	NA	Kinetoplastida	Trypanosomatidae	Trypanosoma	Trypanosoma brucei	3	0
+680646	NA	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	Rothia mucilaginosa	20	0
+68173	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Kitasatospora	Kitasatospora albolonga	1	0
+68194	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces durhamensis	1	0
+68219	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces iakyrus	1	0
+68239	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces mirabilis	1	0
+68264	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces rishiriensis	1	0
+683228	NA	Actinobacteria	Actinobacteria	Micromonosporales	Micromonosporaceae	Micromonospora	Micromonospora yangpuensis	15	0
+683313	NA	Actinobacteria	Actinobacteria	Frankiales	Frankiaceae	Frankia	Frankia sp. Cg70.9	1	0
+683316	NA	Actinobacteria	Actinobacteria	Frankiales	Frankiaceae	Frankia	Frankia sp. EI5c	5	0
+68895	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Cupriavidus	Cupriavidus basilensis	1	0
+692275	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Mycosphaerellaceae	Sphaerulina	Sphaerulina musiva	2	0
+69499	NA	Thermotogae	Thermotogae	Petrotogales	NA	Petrotoga	Petrotoga mobilis	9	0
+69578	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Cryobacterium	NA	1	0
+695850	NA	NA	Oomycetes	Saprolegniales	Saprolegniaceae	Saprolegnia	Saprolegnia parasitica	2	0
+697331	NA	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Basfia	NA	2	0
+698492	Fungi	Ascomycota	NA	NA	NA	Saitoella	Saitoella complicata	1	0
+69894	NA	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Tindallia	NA	1	0
+698956	NA	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Gardnerella	Gardnerella vaginalis	8	0
+698964	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium diphtheriae	2	0
+698968	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium diphtheriae	1	0
+69929	NA	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Xanthomonas	Xanthomonas arboricola	1	0
+69974	NA	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Mesorhizobium	Mesorhizobium plurifarium	15	0
+710238	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces sp. oral taxon 178	1	0
+710731	NA	Acidobacteria	NA	NA	NA	NA	uncultured Acidobacteria bacterium HF4000_26D02	71	0
+710736	NA	Chloroflexi	NA	NA	NA	NA	uncultured Chloroflexi bacterium HF0200_09I09	9	0
+710785	NA	Proteobacteria	Alphaproteobacteria	Rhodobacterales	NA	NA	uncultured Rhodobacterales bacterium HF4000_03E16	44	0
+710973	NA	Proteobacteria	Gammaproteobacteria	NA	NA	NA	uncultured gamma proteobacterium EB080_L93H08	6	0
+710974	NA	Proteobacteria	Gammaproteobacteria	NA	NA	NA	uncultured gamma proteobacterium EB750_07C09	8	0
+710994	NA	Spirochaetes	Spirochaetia	Spirochaetales	NA	NA	uncultured Spirochaetales bacterium HF0500_06B09	1	0
+712117	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces sp. oral taxon 170	1	0
+712121	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces sp. oral taxon 181	1	0
+712124	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces sp. oral taxon 448	2	0
+712888	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinobaculum	Actinobaculum sp. oral taxon 183	39	0
+712	NA	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	NA	NA	3	0
+713604	NA	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Amycolatopsis	Amycolatopsis mediterranei	1	0
+713	NA	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Actinobacillus	NA	1	0
+715	NA	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Actinobacillus	Actinobacillus pleuropneumoniae	2	0
+716816	NA	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Spongiibacteraceae	Oceanicoccus	Oceanicoccus sagamiensis	1	0
+717982	Fungi	Basidiomycota	Agaricomycetes	Auriculariales	Auriculariaceae	Auricularia	Auricularia subglabra	1	0
+71999	NA	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Kocuria	Kocuria palustris	8	0
+724	NA	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	NA	1	0
+72520	NA	Eustigmatophyceae	NA	Eustigmatales	Monodopsidaceae	Nannochloropsis	Nannochloropsis gaditana	11	0
+726	NA	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	Haemophilus haemolyticus	2	0
+72763	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Tessaracoccus	NA	4	0
+72764	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Tessaracoccus	Tessaracoccus bendigoensis	1	0
+72	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Simonsiella	Simonsiella muelleri	16	0
+730	NA	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	[Haemophilus] ducreyi	9	0
+74243	NA	NA	NA	NA	NA	NA	NA	1	0
+745408	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Rhodococcus	Rhodococcus sp. JVH1	8	0
+745714	NA	Proteobacteria	Alphaproteobacteria	Sneathiellales	Sneathiellaceae	Oceanibacterium	Oceanibacterium hippocampi	1	0
+74722	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Stachybotryaceae	Stachybotrys	Stachybotrys chartarum	1	0
+749414	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces bingchenggensis	1	0
+754436	NA	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Photobacterium	Photobacterium aphoticum	4	0
+755272	NA	NA	NA	NA	NA	NA	Micromonas pusilla virus 12T	1	0
+75682	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	NA	NA	6	0
+75	NA	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Caulobacter	NA	1	0
+76113	NA	Proteobacteria	Betaproteobacteria	Rhodocyclales	Zoogloeaceae	Thauera	Thauera terpenica	1	0
+762966	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Sutterellaceae	Parasutterella	Parasutterella excrementihominis	6	0
+763407	Fungi	Mucoromycota	NA	Mucorales	Phycomycetaceae	Phycomyces	Phycomyces blakesleeanus	1	0
+765067	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium	Cutibacterium acnes	42	0
+765076	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium	Cutibacterium acnes	1	0
+765953	NA	Chlamydiae	Chlamydiia	Parachlamydiales	Waddliaceae	Waddlia	Waddlia chondrophila	5	0
+76636	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Mycetocola	Mycetocola saprophilus	1	0
+76728	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces vitaminophilus	1	0
+76731	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	NA	Roseateles	Roseateles depolymerans	2	0
+76833	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinobaculum	NA	9	0
+76860	NA	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus constellatus	62	0
+77020	Fungi	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	Malassezia pachydermatis	6	0
+77133	NA	NA	NA	NA	NA	NA	uncultured bacterium	81	0
+773	NA	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bartonellaceae	Bartonella	NA	2	0
+77643	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	NA	1	0
+780	NA	Proteobacteria	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	Rickettsia	NA	3	0
+78156	Fungi	Ascomycota	Leotiomycetes	NA	Pseudeurotiaceae	Pseudogymnoascus	NA	5	0
+78259	NA	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Scardovia	Scardovia inopinata	1	0
+78448	NA	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium pullorum	1	0
+78537	NA	Actinobacteria	Actinobacteria	NA	NA	NA	NA	1	0
+795666	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Ralstonia	Ralstonia sp. PBA	1	0
+797473	NA	Proteobacteria	Gammaproteobacteria	Cardiobacteriales	Cardiobacteriaceae	Cardiobacterium	Cardiobacterium valvarum	18	0
+80679	NA	Proteobacteria	Gammaproteobacteria	Chromatiales	Chromatiaceae	Thioflavicoccus	Thioflavicoccus mobilis	1	0
+80840	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	NA	NA	NA	20	0
+80864	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	NA	NA	1	0
+80868	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Acidovorax	Acidovorax cattleyae	26	0
+80876	NA	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Insolitispirillum	Insolitispirillum peregrinum	1	0
+813	NA	Chlamydiae	Chlamydiia	Chlamydiales	Chlamydiaceae	Chlamydia	Chlamydia trachomatis	97	0
+81409	NA	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Eubacterium	Eubacterium aggregans	1	0
+817	NA	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides fragilis	4	0
+82115	NA	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	NA	NA	1	0
+82135	NA	Actinobacteria	Coriobacteriia	Coriobacteriales	Atopobiaceae	Atopobium	Atopobium vaginae	1	0
+82977	NA	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Buttiauxella	Buttiauxella agrestis	1	0
+82981	NA	Proteobacteria	Gammaproteobacteria	Enterobacterales	Budviciaceae	Leminorella	Leminorella grimontii	1	0
+830	NA	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Butyrivibrio	NA	9	0
+83676	NA	Actinobacteria	Actinobacteria	Streptosporangiales	Nocardiopsaceae	NA	NA	2	0
+84107	NA	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	NA	NA	3	0
+84292	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium	Microbacterium chocolatum	18	0
+84642	NA	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	NA	NA	2	0
+84757	NA	Actinobacteria	Actinobacteria	Micrococcales	Beutenbergiaceae	Beutenbergia	Beutenbergia cavernae	1	0
+847	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Oxalobacter	Oxalobacter formigenes	1	0
+84998	NA	Actinobacteria	Coriobacteriia	NA	NA	NA	NA	3	0
+84999	NA	Actinobacteria	Coriobacteriia	Coriobacteriales	NA	NA	NA	1	0
+85004	NA	Actinobacteria	Actinobacteria	Bifidobacteriales	NA	NA	NA	3	0
+85006	NA	Actinobacteria	Actinobacteria	Micrococcales	NA	NA	NA	87	0
+85007	NA	Actinobacteria	Actinobacteria	Corynebacteriales	NA	NA	NA	246	0
+85009	NA	Actinobacteria	Actinobacteria	Propionibacteriales	NA	NA	NA	1	0
+85015	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Nocardioidaceae	NA	NA	6	0
+85017	NA	Actinobacteria	Actinobacteria	Micrococcales	Promicromonosporaceae	NA	NA	1	0
+85020	NA	Actinobacteria	Actinobacteria	Micrococcales	Dermabacteraceae	NA	NA	1	0
+85023	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	NA	NA	52	0
+85025	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	NA	NA	63	0
+85056	NA	NA	NA	Kinetoplastida	Trypanosomatidae	Trypanosoma	Trypanosoma cruzi	1	0
+85072	NA	Proteobacteria	Gammaproteobacteria	Chromatiales	Chromatiaceae	Allochromatium	NA	1	0
+851	NA	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	Fusobacterium nucleatum	1	0
+85336	NA	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	Rothia nasimurium	1	0
+859144	NA	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus gottheilii	1	0
+861266	NA	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Pseudarthrobacter	Pseudarthrobacter siccitolerans	23	0
+86192	NA	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas chlororaphis	1	0
+862422	NA	Actinobacteria	Actinobacteria	Micrococcales	Cellulomonadaceae	Actinotalea	Actinotalea fermentans	1	0
+862512	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium accolens	74	0
+864141	NA	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium ovale	1	0
+864142	NA	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium ovale	1	0
+869214	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria lactamica	28	0
+883066	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinobaculum	Actinobaculum massiliense	352	0
+883067	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinotignum	Actinotignum schaalii	3317	0
+883077	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces turicensis	99	0
+883161	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Propionimicrobium	Propionimicrobium lymphophilum	1	0
+887326	NA	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Mobiluncus	Mobiluncus curtisii	23	0
+887327	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Kingella	Kingella kingae	19	0
+888741	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Kingella	Kingella denitrificans	25	0
+888742	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria bacilliformis	68	0
+888845	NA	Proteobacteria	Deltaproteobacteria	Myxococcales	NA	Minicystis	Minicystis rosea	1	0
+89154	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium terpenotabidum	1	0
+892	NA	Proteobacteria	Deltaproteobacteria	Desulfuromonadales	Desulfuromonadaceae	Desulfuromonas	Desulfuromonas sp.	1	0
+90244	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Oligella	Oligella ureolytica	1	0
+90370	NA	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	Salmonella enterica	6	0
+904	NA	Firmicutes	Negativicutes	Acidaminococcales	Acidaminococcaceae	Acidaminococcus	NA	4	0
+909420	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria meningitidis	9	0
+909952	NA	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium	Cutibacterium acnes	6	0
+91061	NA	Firmicutes	Bacilli	NA	NA	NA	NA	15	0
+911092	NA	Firmicutes	Clostridia	Thermoanaerobacterales	Thermoanaerobacteraceae	Caldanaerobacter	Caldanaerobacter subterraneus	4	0
+91347	NA	Proteobacteria	Gammaproteobacteria	Enterobacterales	NA	NA	NA	14	0
+913865	NA	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Desulfosporosinus	Desulfosporosinus sp. OT	2	0
+919	NA	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Thiobacillaceae	Thiobacillus	NA	1	0
+927661	NA	Actinobacteria	Actinobacteria	Frankiales	Cryptosporangiaceae	Cryptosporangium	Cryptosporangium arvum	4	0
+927703	NA	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus reuteri	1	0
+92835	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium	Microbacterium ketosireducens	1	0
+929	NA	Proteobacteria	Acidithiobacillia	Acidithiobacillales	Thermithiobacillaceae	Thermithiobacillus	Thermithiobacillus tepidarius	1	0
+930091	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Bipolaris	Bipolaris victoriae	1	0
+930806	NA	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Halieaceae	Halioglobus	Halioglobus pacificus	2	0
+931089	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium deserti	3	0
+93217	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Pandoraea	NA	1	0
+932677	NA	Proteobacteria	Gammaproteobacteria	Enterobacterales	Erwiniaceae	Pantoea	Pantoea ananatis	3	0
+935588	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria meningitidis	6	0
+936155	NA	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	Helicobacter felis	6	0
+93944	NA	Actinobacteria	Actinobacteria	Streptosporangiales	Streptosporangiaceae	Nonomuraea	Nonomuraea gerenzanensis	11	0
+940615	NA	Acidobacteria	Acidobacteriia	Acidobacteriales	Acidobacteriaceae	Granulicella	Granulicella tundricola	1	0
+941280	NA	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli	109	0
+942866	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Cupriavidus	Cupriavidus alkaliphilus	1	0
+944288	Fungi	Basidiomycota	Agaricomycetes	Amylocorticiales	Amylocorticiaceae	Plicaturopsis	Plicaturopsis crispa	2	0
+946362	NA	NA	NA	Choanoflagellida	Salpingoecidae	Salpingoeca	Salpingoeca rosetta	2	0
+94643	NA	Apicomplexa	Coccidia	Eucoccidiorida	Sarcocystidae	Besnoitia	Besnoitia besnoiti	2	0
+953739	NA	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces venezuelae	2	0
+95485	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia stabilis	1	0
+96942	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Vitreoscilla	Vitreoscilla sp. C1	6	0
+971	NA	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Selenomonas	Selenomonas ruminantium	3	0
+976	NA	Bacteroidetes	NA	NA	NA	NA	NA	3	0
+98668	NA	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium septicum	1	0
+98671	NA	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Pseudoglutamicibacter	Pseudoglutamicibacter albus	60	0
+987063	NA	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Pseudoscardovia	Pseudoscardovia suis	1	0
+991	NA	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Flavobacterium hydatis	1	0
+993689	NA	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Rhodanobacteraceae	Metallibacterium	Metallibacterium scheffleri	1	0
+994086	Fungi	Basidiomycota	Agaricomycetes	Boletales	Paxillaceae	Hydnomerulius	Hydnomerulius pinastri	1	0
+99479	NA	Actinobacteria	Actinobacteria	Micrococcales	Intrasporangiaceae	Tetrasphaera	NA	4	0
+99481	NA	Actinobacteria	Actinobacteria	Micrococcales	Intrasporangiaceae	Tetrasphaera	Tetrasphaera japonica	1	0
+995019	NA	Proteobacteria	Betaproteobacteria	Burkholderiales	Sutterellaceae	NA	NA	1	0
+995034	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Mycetocola	Mycetocola miduiensis	1	0
+995038	NA	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Cryobacterium	Cryobacterium levicorallinum	1	0
+99656	NA	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnoclostridium	[Clostridium] fimetarium	1	0
+997348	NA	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria macacae	7	0

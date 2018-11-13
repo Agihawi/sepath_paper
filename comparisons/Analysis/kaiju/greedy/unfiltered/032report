@@ -1,0 +1,2140 @@
+Analysing File: 032_kaiju_greedy.compTrue COMP File: ../../true_comp/032.compKingdom	Fungi	in input, but not found - False Positive
+Kingdom	Viridiplantae	in input, but not found - False Positive
+Kingdom	Bacteria	in true list but not found - False Negative
+Phylum	Actinobacteria	found in both lists - True Positive
+Phylum	Bacteroidetes	in input, but not found - False Positive
+Phylum	Proteobacteria	found in both lists - True Positive
+Phylum	Cyanobacteria	in input, but not found - False Positive
+Phylum	Firmicutes	in input, but not found - False Positive
+Phylum	Ascomycota	in input, but not found - False Positive
+Phylum	Basidiomycota	in input, but not found - False Positive
+Phylum	Apicomplexa	in input, but not found - False Positive
+Phylum	Chloroflexi	in input, but not found - False Positive
+Phylum	Chromerida	in input, but not found - False Positive
+Phylum	Planctomycetes	in input, but not found - False Positive
+Phylum	Chlorophyta	in input, but not found - False Positive
+Phylum	Thermodesulfobacteria	in input, but not found - False Positive
+Phylum	Spirochaetes	in input, but not found - False Positive
+Phylum	Bacillariophyta	in input, but not found - False Positive
+Phylum	Thermotogae	in input, but not found - False Positive
+Phylum	Candidatus Omnitrophica	in input, but not found - False Positive
+Phylum	Candidatus Kaiserbacteria	in input, but not found - False Positive
+Phylum	Candidatus Peregrinibacteria	in input, but not found - False Positive
+Phylum	Acidobacteria	in input, but not found - False Positive
+Phylum	Verrucomicrobia	in input, but not found - False Positive
+Phylum	Gemmatimonadetes	in input, but not found - False Positive
+Phylum	Deinococcus-Thermus	in input, but not found - False Positive
+Phylum	Candidatus Daviesbacteria	in input, but not found - False Positive
+Phylum	Candidatus Gottesmanbacteria	in input, but not found - False Positive
+Phylum	Candidatus Campbellbacteria	in input, but not found - False Positive
+Phylum	Candidatus Falkowbacteria	in input, but not found - False Positive
+Phylum	Candidatus Uhrbacteria	in input, but not found - False Positive
+Phylum	Chytridiomycota	in input, but not found - False Positive
+Phylum	Nitrospirae	in input, but not found - False Positive
+Phylum	Elusimicrobia	in input, but not found - False Positive
+Phylum	Lentisphaerae	in input, but not found - False Positive
+Phylum	Candidatus Moranbacteria	in input, but not found - False Positive
+Phylum	Fusobacteria	in input, but not found - False Positive
+Phylum	Candidatus Tagabacteria	in input, but not found - False Positive
+Phylum	Candidatus Yanofskybacteria	in input, but not found - False Positive
+Phylum	candidate division Zixibacteria	in input, but not found - False Positive
+Phylum	Candidatus Doudnabacteria	in input, but not found - False Positive
+Phylum	Candidatus Fraserbacteria	in input, but not found - False Positive
+Phylum	Candidatus Handelsmanbacteria	in input, but not found - False Positive
+Phylum	Candidatus Blackburnbacteria	in input, but not found - False Positive
+Phylum	Candidatus Komeilibacteria	in input, but not found - False Positive
+Phylum	Candidatus Wildermuthbacteria	in input, but not found - False Positive
+Phylum	Rhodothermaeota	in input, but not found - False Positive
+Phylum	Candidatus Saccharibacteria	in input, but not found - False Positive
+Phylum	Candidatus Melainabacteria	in input, but not found - False Positive
+Phylum	Candidatus Magasanikbacteria	in input, but not found - False Positive
+Phylum	Candidatus Zambryskibacteria	in input, but not found - False Positive
+Phylum	Candidatus Marinimicrobia	in input, but not found - False Positive
+Phylum	Candidatus Bathyarchaeota	in input, but not found - False Positive
+Phylum	Ignavibacteriae	in input, but not found - False Positive
+Phylum	Candidatus Parcubacteria	in input, but not found - False Positive
+Phylum	Tenericutes	in input, but not found - False Positive
+Phylum	Euryarchaeota	in input, but not found - False Positive
+Phylum	Synergistetes	in input, but not found - False Positive
+Phylum	Chlorobi	in input, but not found - False Positive
+Phylum	Mucoromycota	in input, but not found - False Positive
+Phylum	Nitrospinae	in input, but not found - False Positive
+Phylum	candidate division WWE3	in input, but not found - False Positive
+Phylum	Blastocladiomycota	in input, but not found - False Positive
+Phylum	Eustigmatophyceae	in input, but not found - False Positive
+Phylum	Chlamydiae	in input, but not found - False Positive
+Class	Actinobacteria	found in both lists - True Positive
+Class	Cytophagia	in input, but not found - False Positive
+Class	Alphaproteobacteria	in input, but not found - False Positive
+Class	Saprospiria	in input, but not found - False Positive
+Class	Flavobacteriia	in input, but not found - False Positive
+Class	Gammaproteobacteria	in input, but not found - False Positive
+Class	Betaproteobacteria	found in both lists - True Positive
+Class	Bacilli	in input, but not found - False Positive
+Class	Saccharomycetes	in input, but not found - False Positive
+Class	Agaricomycetes	in input, but not found - False Positive
+Class	Leotiomycetes	in input, but not found - False Positive
+Class	Gregarinasina	in input, but not found - False Positive
+Class	Oomycetes	in input, but not found - False Positive
+Class	Clostridia	in input, but not found - False Positive
+Class	Thermomicrobia	in input, but not found - False Positive
+Class	Eurotiomycetes	in input, but not found - False Positive
+Class	Caldilineae	in input, but not found - False Positive
+Class	Deltaproteobacteria	in input, but not found - False Positive
+Class	Tremellomycetes	in input, but not found - False Positive
+Class	Bacteroidia	in input, but not found - False Positive
+Class	Erysipelotrichia	in input, but not found - False Positive
+Class	Coriobacteriia	in input, but not found - False Positive
+Class	Negativicutes	in input, but not found - False Positive
+Class	Planctomycetia	in input, but not found - False Positive
+Class	Tissierellia	in input, but not found - False Positive
+Class	Trebouxiophyceae	in input, but not found - False Positive
+Class	Thermodesulfobacteria	in input, but not found - False Positive
+Class	Sordariomycetes	in input, but not found - False Positive
+Class	Limnochordia	in input, but not found - False Positive
+Class	Spirochaetia	in input, but not found - False Positive
+Class	Coscinodiscophyceae	in input, but not found - False Positive
+Class	Thermotogae	in input, but not found - False Positive
+Class	Candidatus Peribacteria	in input, but not found - False Positive
+Class	Verrucomicrobiae	in input, but not found - False Positive
+Class	Phycisphaerae	in input, but not found - False Positive
+Class	Gemmatimonadetes	in input, but not found - False Positive
+Class	Deinococci	in input, but not found - False Positive
+Class	Neocallimastigomycetes	in input, but not found - False Positive
+Class	Nitrospira	in input, but not found - False Positive
+Class	Hydrogenophilalia	in input, but not found - False Positive
+Class	Fusobacteriia	in input, but not found - False Positive
+Class	Rhodothermia	in input, but not found - False Positive
+Class	Aconoidasida	in input, but not found - False Positive
+Class	Thermoleophilia	in input, but not found - False Positive
+Class	Anaerolineae	in input, but not found - False Positive
+Class	Opitutae	in input, but not found - False Positive
+Class	Epsilonproteobacteria	in input, but not found - False Positive
+Class	Mollicutes	in input, but not found - False Positive
+Class	Halobacteria	in input, but not found - False Positive
+Class	Pucciniomycetes	in input, but not found - False Positive
+Class	Synergistia	in input, but not found - False Positive
+Class	Bangiophyceae	in input, but not found - False Positive
+Class	Chlorobia	in input, but not found - False Positive
+Class	Bacillariophyceae	in input, but not found - False Positive
+Class	Dinophyceae	in input, but not found - False Positive
+Class	Chlorophyceae	in input, but not found - False Positive
+Class	Chytridiomycetes	in input, but not found - False Positive
+Class	Acidobacteriia	in input, but not found - False Positive
+Class	Nitrospinia	in input, but not found - False Positive
+Class	Coccidia	in input, but not found - False Positive
+Class	Blastocladiomycetes	in input, but not found - False Positive
+Class	Dothideomycetes	in input, but not found - False Positive
+Class	Chlamydiia	in input, but not found - False Positive
+Class	Malasseziomycetes	in input, but not found - False Positive
+Class	Acidithiobacillia	in input, but not found - False Positive
+Order	Micrococcales	in input, but not found - False Positive
+Order	Cytophagales	in input, but not found - False Positive
+Order	Rhodospirillales	in input, but not found - False Positive
+Order	Saprospirales	in input, but not found - False Positive
+Order	Flavobacteriales	in input, but not found - False Positive
+Order	Chroococcales	in input, but not found - False Positive
+Order	Oceanospirillales	in input, but not found - False Positive
+Order	Pasteurellales	in input, but not found - False Positive
+Order	Neisseriales	found in both lists - True Positive
+Order	Corynebacteriales	found in both lists - True Positive
+Order	Actinomycetales	found in both lists - True Positive
+Order	Herpesvirales	in input, but not found - False Positive
+Order	Streptomycetales	in input, but not found - False Positive
+Order	Propionibacteriales	in input, but not found - False Positive
+Order	Burkholderiales	in input, but not found - False Positive
+Order	Rhizobiales	in input, but not found - False Positive
+Order	Kinetoplastida	in input, but not found - False Positive
+Order	Pseudonocardiales	in input, but not found - False Positive
+Order	Bacillales	in input, but not found - False Positive
+Order	Saccharomycetales	in input, but not found - False Positive
+Order	Polyporales	in input, but not found - False Positive
+Order	Hymenochaetales	in input, but not found - False Positive
+Order	Chromatiales	in input, but not found - False Positive
+Order	Helotiales	in input, but not found - False Positive
+Order	Lactobacillales	in input, but not found - False Positive
+Order	Eugregarinorida	in input, but not found - False Positive
+Order	Vibrionales	in input, but not found - False Positive
+Order	Saprolegniales	in input, but not found - False Positive
+Order	Clostridiales	in input, but not found - False Positive
+Order	Rhodobacterales	in input, but not found - False Positive
+Order	Enterobacterales	in input, but not found - False Positive
+Order	Alteromonadales	in input, but not found - False Positive
+Order	Sphaerobacterales	in input, but not found - False Positive
+Order	Oscillatoriales	in input, but not found - False Positive
+Order	Streptosporangiales	in input, but not found - False Positive
+Order	Sphingomonadales	in input, but not found - False Positive
+Order	Chaetothyriales	in input, but not found - False Positive
+Order	Micromonosporales	in input, but not found - False Positive
+Order	Nitrosomonadales	in input, but not found - False Positive
+Order	Legionellales	in input, but not found - False Positive
+Order	Caldilineales	in input, but not found - False Positive
+Order	Frankiales	in input, but not found - False Positive
+Order	Tremellales	in input, but not found - False Positive
+Order	Rhodocyclales	in input, but not found - False Positive
+Order	Nostocales	in input, but not found - False Positive
+Order	Xanthomonadales	in input, but not found - False Positive
+Order	Bacteroidales	in input, but not found - False Positive
+Order	Erysipelotrichales	in input, but not found - False Positive
+Order	Eggerthellales	in input, but not found - False Positive
+Order	Acidaminococcales	in input, but not found - False Positive
+Order	Bifidobacteriales	in input, but not found - False Positive
+Order	Planctomycetales	in input, but not found - False Positive
+Order	Desulfuromonadales	in input, but not found - False Positive
+Order	Desulfurellales	in input, but not found - False Positive
+Order	Tissierellales	in input, but not found - False Positive
+Order	Chlorellales	in input, but not found - False Positive
+Order	Thermodesulfobacteriales	in input, but not found - False Positive
+Order	Agaricales	in input, but not found - False Positive
+Order	Kineosporiales	in input, but not found - False Positive
+Order	Pseudomonadales	in input, but not found - False Positive
+Order	Hypocreales	in input, but not found - False Positive
+Order	Geodermatophilales	in input, but not found - False Positive
+Order	Orbales	in input, but not found - False Positive
+Order	Glycomycetales	in input, but not found - False Positive
+Order	Coriobacteriales	in input, but not found - False Positive
+Order	Limnochordales	in input, but not found - False Positive
+Order	Spirochaetales	in input, but not found - False Positive
+Order	Desulfovibrionales	in input, but not found - False Positive
+Order	Synechococcales	in input, but not found - False Positive
+Order	Thalassiosirales	in input, but not found - False Positive
+Order	Petrotogales	in input, but not found - False Positive
+Order	Acidiferrobacterales	in input, but not found - False Positive
+Order	Verrucomicrobiales	in input, but not found - False Positive
+Order	Cellvibrionales	in input, but not found - False Positive
+Order	Gemmatimonadales	in input, but not found - False Positive
+Order	Deinococcales	in input, but not found - False Positive
+Order	Neocallimastigales	in input, but not found - False Positive
+Order	Nitrospirales	in input, but not found - False Positive
+Order	Selenomonadales	in input, but not found - False Positive
+Order	Hydrogenophilales	in input, but not found - False Positive
+Order	Fusobacteriales	in input, but not found - False Positive
+Order	Immundisolibacterales	in input, but not found - False Positive
+Order	Rhodothermales	in input, but not found - False Positive
+Order	Pelagibacterales	in input, but not found - False Positive
+Order	Thiotrichales	in input, but not found - False Positive
+Order	Solirubrobacterales	in input, but not found - False Positive
+Order	Desulfobacterales	in input, but not found - False Positive
+Order	Diaporthales	in input, but not found - False Positive
+Order	Anaerolineales	in input, but not found - False Positive
+Order	Methylococcales	in input, but not found - False Positive
+Order	Opitutales	in input, but not found - False Positive
+Order	Campylobacterales	in input, but not found - False Positive
+Order	Halanaerobiales	in input, but not found - False Positive
+Order	Caudovirales	in input, but not found - False Positive
+Order	Caulobacterales	in input, but not found - False Positive
+Order	Entomoplasmatales	in input, but not found - False Positive
+Order	Acholeplasmatales	in input, but not found - False Positive
+Order	Haloferacales	in input, but not found - False Positive
+Order	Thermoanaerobacterales	in input, but not found - False Positive
+Order	Cardiobacteriales	in input, but not found - False Positive
+Order	Pucciniales	in input, but not found - False Positive
+Order	Synergistales	in input, but not found - False Positive
+Order	Bangiales	in input, but not found - False Positive
+Order	Chlorobiales	in input, but not found - False Positive
+Order	Jiangellales	in input, but not found - False Positive
+Order	Naviculales	in input, but not found - False Positive
+Order	Suessiales	in input, but not found - False Positive
+Order	Catenulisporales	in input, but not found - False Positive
+Order	Chlamydomonadales	in input, but not found - False Positive
+Order	Haemosporida	in input, but not found - False Positive
+Order	Chytridiales	in input, but not found - False Positive
+Order	Acidobacteriales	in input, but not found - False Positive
+Order	Boletales	in input, but not found - False Positive
+Order	Dictyosteliales	in input, but not found - False Positive
+Order	Mucorales	in input, but not found - False Positive
+Order	Nitrospinales	in input, but not found - False Positive
+Order	Onygenales	in input, but not found - False Positive
+Order	Eurotiales	in input, but not found - False Positive
+Order	Choanoflagellida	in input, but not found - False Positive
+Order	Kiloniellales	in input, but not found - False Positive
+Order	Veillonellales	in input, but not found - False Positive
+Order	Eucoccidiorida	in input, but not found - False Positive
+Order	Nevskiales	in input, but not found - False Positive
+Order	Myxococcales	in input, but not found - False Positive
+Order	Marinilabiliales	in input, but not found - False Positive
+Order	Candidatus Nanopelagicales	in input, but not found - False Positive
+Order	Blastocladiales	in input, but not found - False Positive
+Order	Magnaporthales	in input, but not found - False Positive
+Order	Aeromonadales	in input, but not found - False Positive
+Order	Capnodiales	in input, but not found - False Positive
+Order	Auriculariales	in input, but not found - False Positive
+Order	Eustigmatales	in input, but not found - False Positive
+Order	Sneathiellales	in input, but not found - False Positive
+Order	Parachlamydiales	in input, but not found - False Positive
+Order	Malasseziales	in input, but not found - False Positive
+Order	Rickettsiales	in input, but not found - False Positive
+Order	Chlamydiales	in input, but not found - False Positive
+Order	Acidithiobacillales	in input, but not found - False Positive
+Order	Pleosporales	in input, but not found - False Positive
+Order	Amylocorticiales	in input, but not found - False Positive
+Family	Microbacteriaceae	in input, but not found - False Positive
+Family	Dermatophilaceae	in input, but not found - False Positive
+Family	Bernardetiaceae	in input, but not found - False Positive
+Family	Rhodospirillaceae	in input, but not found - False Positive
+Family	Saprospiraceae	in input, but not found - False Positive
+Family	Flavobacteriaceae	in input, but not found - False Positive
+Family	Cyanobacteriaceae	in input, but not found - False Positive
+Family	Endozoicomonaceae	in input, but not found - False Positive
+Family	Pasteurellaceae	in input, but not found - False Positive
+Family	Neisseriaceae	found in both lists - True Positive
+Family	Corynebacteriaceae	found in both lists - True Positive
+Family	Brevibacteriaceae	in input, but not found - False Positive
+Family	Actinomycetaceae	found in both lists - True Positive
+Family	Herpesviridae	in input, but not found - False Positive
+Family	Streptomycetaceae	in input, but not found - False Positive
+Family	Demequinaceae	in input, but not found - False Positive
+Family	Micrococcaceae	in input, but not found - False Positive
+Family	Nocardioidaceae	in input, but not found - False Positive
+Family	Rhizobiaceae	in input, but not found - False Positive
+Family	Burkholderiaceae	in input, but not found - False Positive
+Family	Trypanosomatidae	in input, but not found - False Positive
+Family	Pseudonocardiaceae	in input, but not found - False Positive
+Family	Bacillaceae	in input, but not found - False Positive
+Family	Saccharomycetaceae	in input, but not found - False Positive
+Family	Polyporaceae	in input, but not found - False Positive
+Family	Hymenochaetaceae	in input, but not found - False Positive
+Family	Alcaligenaceae	in input, but not found - False Positive
+Family	Halothiobacillaceae	in input, but not found - False Positive
+Family	Helotiaceae	in input, but not found - False Positive
+Family	Streptococcaceae	in input, but not found - False Positive
+Family	Gregarinidae	in input, but not found - False Positive
+Family	Nocardiaceae	in input, but not found - False Positive
+Family	Xanthobacteraceae	in input, but not found - False Positive
+Family	Vibrionaceae	in input, but not found - False Positive
+Family	Saprolegniaceae	in input, but not found - False Positive
+Family	Peptostreptococcaceae	in input, but not found - False Positive
+Family	Rhodobacteraceae	in input, but not found - False Positive
+Family	Enterobacteriaceae	in input, but not found - False Positive
+Family	Alteromonadaceae	in input, but not found - False Positive
+Family	Sphaerobacteraceae	in input, but not found - False Positive
+Family	Bartonellaceae	in input, but not found - False Positive
+Family	Staphylococcaceae	in input, but not found - False Positive
+Family	Cellulomonadaceae	in input, but not found - False Positive
+Family	Thermomonosporaceae	in input, but not found - False Positive
+Family	Lachnospiraceae	in input, but not found - False Positive
+Family	Comamonadaceae	in input, but not found - False Positive
+Family	Sphingomonadaceae	in input, but not found - False Positive
+Family	Nocardiopsaceae	in input, but not found - False Positive
+Family	Herpotrichiellaceae	in input, but not found - False Positive
+Family	Oscillatoriaceae	in input, but not found - False Positive
+Family	Micromonosporaceae	in input, but not found - False Positive
+Family	Mycobacteriaceae	in input, but not found - False Positive
+Family	Gallionellaceae	in input, but not found - False Positive
+Family	Coxiellaceae	in input, but not found - False Positive
+Family	Intrasporangiaceae	in input, but not found - False Positive
+Family	Caldilineaceae	in input, but not found - False Positive
+Family	Halomonadaceae	in input, but not found - False Positive
+Family	Frankiaceae	in input, but not found - False Positive
+Family	Clostridiaceae	in input, but not found - False Positive
+Family	Cryptococcaceae	in input, but not found - False Positive
+Family	Acetobacteraceae	in input, but not found - False Positive
+Family	Zoogloeaceae	in input, but not found - False Positive
+Family	Debaryomycetaceae	in input, but not found - False Positive
+Family	Tolypothrichaceae	in input, but not found - False Positive
+Family	Propionibacteriaceae	in input, but not found - False Positive
+Family	Eubacteriaceae	in input, but not found - False Positive
+Family	Flammeovirgaceae	in input, but not found - False Positive
+Family	Xanthomonadaceae	in input, but not found - False Positive
+Family	Ruminococcaceae	in input, but not found - False Positive
+Family	Bacteroidaceae	in input, but not found - False Positive
+Family	Erysipelotrichaceae	in input, but not found - False Positive
+Family	Eggerthellaceae	in input, but not found - False Positive
+Family	Acidaminococcaceae	in input, but not found - False Positive
+Family	Prevotellaceae	in input, but not found - False Positive
+Family	Sutterellaceae	in input, but not found - False Positive
+Family	Bifidobacteriaceae	in input, but not found - False Positive
+Family	Oscillospiraceae	in input, but not found - False Positive
+Family	Planctomycetaceae	in input, but not found - False Positive
+Family	Geobacteraceae	in input, but not found - False Positive
+Family	Lactobacillaceae	in input, but not found - False Positive
+Family	Desulfurellaceae	in input, but not found - False Positive
+Family	Tissierellaceae	in input, but not found - False Positive
+Family	Chlorellaceae	in input, but not found - False Positive
+Family	Dietziaceae	in input, but not found - False Positive
+Family	Thermodesulfobacteriaceae	in input, but not found - False Positive
+Family	Iridoviridae	in input, but not found - False Positive
+Family	Morganellaceae	in input, but not found - False Positive
+Family	Aerococcaceae	in input, but not found - False Positive
+Family	Physalacriaceae	in input, but not found - False Positive
+Family	Kineosporiaceae	in input, but not found - False Positive
+Family	Pseudomonadaceae	in input, but not found - False Positive
+Family	Hypocreaceae	in input, but not found - False Positive
+Family	Enterococcaceae	in input, but not found - False Positive
+Family	Bradyrhizobiaceae	in input, but not found - False Positive
+Family	Geodermatophilaceae	in input, but not found - False Positive
+Family	Isosphaeraceae	in input, but not found - False Positive
+Family	Ophiocordycipitaceae	in input, but not found - False Positive
+Family	Competibacteraceae	in input, but not found - False Positive
+Family	Carnobacteriaceae	in input, but not found - False Positive
+Family	Orbaceae	in input, but not found - False Positive
+Family	Erwiniaceae	in input, but not found - False Positive
+Family	Glycomycetaceae	in input, but not found - False Positive
+Family	Ectothiorhodospiraceae	in input, but not found - False Positive
+Family	Rhodocyclaceae	in input, but not found - False Positive
+Family	Bogoriellaceae	in input, but not found - False Positive
+Family	Oxalobacteraceae	in input, but not found - False Positive
+Family	Chromobacteriaceae	in input, but not found - False Positive
+Family	Rhodanobacteraceae	in input, but not found - False Positive
+Family	Coriobacteriaceae	in input, but not found - False Positive
+Family	Peptococcaceae	in input, but not found - False Positive
+Family	Thermoactinomycetaceae	in input, but not found - False Positive
+Family	Cytophagaceae	in input, but not found - False Positive
+Family	Limnochordaceae	in input, but not found - False Positive
+Family	Peptoniphilaceae	in input, but not found - False Positive
+Family	Phyllobacteriaceae	in input, but not found - False Positive
+Family	Spirochaetaceae	in input, but not found - False Positive
+Family	Methylophilaceae	in input, but not found - False Positive
+Family	Desulfonatronaceae	in input, but not found - False Positive
+Family	Prochloraceae	in input, but not found - False Positive
+Family	Thalassiosiraceae	in input, but not found - False Positive
+Family	Chromatiaceae	in input, but not found - False Positive
+Family	Acidiferrobacteraceae	in input, but not found - False Positive
+Family	Desulfohalobiaceae	in input, but not found - False Positive
+Family	Dermacoccaceae	in input, but not found - False Positive
+Family	Akkermansiaceae	in input, but not found - False Positive
+Family	Promicromonosporaceae	in input, but not found - False Positive
+Family	Gemmatimonadaceae	in input, but not found - False Positive
+Family	Deinococcaceae	in input, but not found - False Positive
+Family	Neocallimastigaceae	in input, but not found - False Positive
+Family	Nitrospiraceae	in input, but not found - False Positive
+Family	Moraxellaceae	in input, but not found - False Positive
+Family	Sporomusaceae	in input, but not found - False Positive
+Family	Fusobacteriaceae	in input, but not found - False Positive
+Family	Immundisolibacteraceae	in input, but not found - False Positive
+Family	Colwelliaceae	in input, but not found - False Positive
+Family	Oceanospirillaceae	in input, but not found - False Positive
+Family	Salinibacteraceae	in input, but not found - False Positive
+Family	Listeriaceae	in input, but not found - False Positive
+Family	Idiomarinaceae	in input, but not found - False Positive
+Family	Pelagibacteraceae	in input, but not found - False Positive
+Family	Thiobacillaceae	in input, but not found - False Positive
+Family	Nitrosomonadaceae	in input, but not found - False Positive
+Family	Babesiidae	in input, but not found - False Positive
+Family	Pectobacteriaceae	in input, but not found - False Positive
+Family	Hymenobacteraceae	in input, but not found - False Positive
+Family	Conexibacteraceae	in input, but not found - False Positive
+Family	Desulfobacteraceae	in input, but not found - False Positive
+Family	Juglanconidaceae	in input, but not found - False Positive
+Family	Ruaniaceae	in input, but not found - False Positive
+Family	Paenibacillaceae	in input, but not found - False Positive
+Family	Anaerolineaceae	in input, but not found - False Positive
+Family	Crocinitomicaceae	in input, but not found - False Positive
+Family	Methylococcaceae	in input, but not found - False Positive
+Family	Streptosporangiaceae	in input, but not found - False Positive
+Family	Campylobacteraceae	in input, but not found - False Positive
+Family	Halobacteroidaceae	in input, but not found - False Positive
+Family	Myoviridae	in input, but not found - False Positive
+Family	Hyphomonadaceae	in input, but not found - False Positive
+Family	Thiotrichaceae	in input, but not found - False Positive
+Family	Gordoniaceae	in input, but not found - False Positive
+Family	Spongiibacteraceae	in input, but not found - False Positive
+Family	Helicobacteraceae	in input, but not found - False Positive
+Family	Spiroplasmataceae	in input, but not found - False Positive
+Family	Acholeplasmataceae	in input, but not found - False Positive
+Family	Methylobacteriaceae	in input, but not found - False Positive
+Family	Halorubraceae	in input, but not found - False Positive
+Family	Shewanellaceae	in input, but not found - False Positive
+Family	Ichthyobacteriaceae	in input, but not found - False Positive
+Family	Thermoanaerobacterales Family IV. Incertae Sedis	in input, but not found - False Positive
+Family	Jonesiaceae	in input, but not found - False Positive
+Family	Erythrobacteraceae	in input, but not found - False Positive
+Family	Microcystaceae	in input, but not found - False Positive
+Family	Cardiobacteriaceae	in input, but not found - False Positive
+Family	Microcoleaceae	in input, but not found - False Positive
+Family	Pucciniaceae	in input, but not found - False Positive
+Family	Synergistaceae	in input, but not found - False Positive
+Family	Bangiaceae	in input, but not found - False Positive
+Family	Chlorobiaceae	in input, but not found - False Positive
+Family	Jiangellaceae	in input, but not found - False Positive
+Family	Phaeodactylaceae	in input, but not found - False Positive
+Family	Sanguibacteraceae	in input, but not found - False Positive
+Family	Segniliparaceae	in input, but not found - False Positive
+Family	Leptospiraceae	in input, but not found - False Positive
+Family	Symbiodiniaceae	in input, but not found - False Positive
+Family	Tricholomataceae	in input, but not found - False Positive
+Family	Catenulisporaceae	in input, but not found - False Positive
+Family	Chlamydomonadaceae	in input, but not found - False Positive
+Family	Volvocaceae	in input, but not found - False Positive
+Family	Plasmodiidae	in input, but not found - False Positive
+Family	Pseudoalteromonadaceae	in input, but not found - False Positive
+Family	Psychromonadaceae	in input, but not found - False Positive
+Family	Chytriomycetaceae	in input, but not found - False Positive
+Family	Acidobacteriaceae	in input, but not found - False Positive
+Family	Serpulaceae	in input, but not found - False Positive
+Family	Phycodnaviridae	in input, but not found - False Positive
+Family	Dictyosteliaceae	in input, but not found - False Positive
+Family	Brucellaceae	in input, but not found - False Positive
+Family	Mucoraceae	in input, but not found - False Positive
+Family	Nitrospinaceae	in input, but not found - False Positive
+Family	Crenotrichaceae	in input, but not found - False Positive
+Family	Ascosphaeraceae	in input, but not found - False Positive
+Family	Atopobiaceae	in input, but not found - False Positive
+Family	Piscirickettsiaceae	in input, but not found - False Positive
+Family	Aspergillaceae	in input, but not found - False Positive
+Family	Salpingoecidae	in input, but not found - False Positive
+Family	Dermabacteraceae	in input, but not found - False Positive
+Family	Ferrimonadaceae	in input, but not found - False Positive
+Family	Methylocystaceae	in input, but not found - False Positive
+Family	Legionellaceae	in input, but not found - False Positive
+Family	Cellvibrionaceae	in input, but not found - False Positive
+Family	Kiloniellaceae	in input, but not found - False Positive
+Family	Veillonellaceae	in input, but not found - False Positive
+Family	Reticulomyxidae	in input, but not found - False Positive
+Family	Hyphomicrobiaceae	in input, but not found - False Positive
+Family	Tetrabaenaceae	in input, but not found - False Positive
+Family	Sarcocystidae	in input, but not found - False Positive
+Family	Heliobacteriaceae	in input, but not found - False Positive
+Family	Thermoanaerobacteraceae	in input, but not found - False Positive
+Family	Eimeriidae	in input, but not found - False Positive
+Family	Beutenbergiaceae	in input, but not found - False Positive
+Family	Sinobacteraceae	in input, but not found - False Positive
+Family	Polyangiaceae	in input, but not found - False Positive
+Family	Marinifilaceae	in input, but not found - False Positive
+Family	Blastocladiaceae	in input, but not found - False Positive
+Family	Moritellaceae	in input, but not found - False Positive
+Family	Leptotrichiaceae	in input, but not found - False Positive
+Family	Magnaporthaceae	in input, but not found - False Positive
+Family	Aeromonadaceae	in input, but not found - False Positive
+Family	Lipomycetaceae	in input, but not found - False Positive
+Family	Mycosphaerellaceae	in input, but not found - False Positive
+Family	Auriculariaceae	in input, but not found - False Positive
+Family	Monodopsidaceae	in input, but not found - False Positive
+Family	Sneathiellaceae	in input, but not found - False Positive
+Family	Stachybotryaceae	in input, but not found - False Positive
+Family	Caulobacteraceae	in input, but not found - False Positive
+Family	Phycomycetaceae	in input, but not found - False Positive
+Family	Waddliaceae	in input, but not found - False Positive
+Family	Malasseziaceae	in input, but not found - False Positive
+Family	Rickettsiaceae	in input, but not found - False Positive
+Family	Pseudeurotiaceae	in input, but not found - False Positive
+Family	Chlamydiaceae	in input, but not found - False Positive
+Family	Budviciaceae	in input, but not found - False Positive
+Family	Desulfuromonadaceae	in input, but not found - False Positive
+Family	Cryptosporangiaceae	in input, but not found - False Positive
+Family	Thermithiobacillaceae	in input, but not found - False Positive
+Family	Pleosporaceae	in input, but not found - False Positive
+Family	Halieaceae	in input, but not found - False Positive
+Family	Amylocorticiaceae	in input, but not found - False Positive
+Family	Selenomonadaceae	in input, but not found - False Positive
+Family	Paxillaceae	in input, but not found - False Positive
+Genus	Cryobacterium	in input, but not found - False Positive
+Genus	Austwickia	in input, but not found - False Positive
+Genus	Hugenholtzia	in input, but not found - False Positive
+Genus	Nitrospirillum	in input, but not found - False Positive
+Genus	Saprospira	in input, but not found - False Positive
+Genus	Capnocytophaga	in input, but not found - False Positive
+Genus	Cyanobacterium	in input, but not found - False Positive
+Genus	Endozoicomonas	in input, but not found - False Positive
+Genus	Haemophilus	in input, but not found - False Positive
+Genus	Neisseria	in input, but not found - False Positive
+Genus	Corynebacterium	found in both lists - True Positive
+Genus	Brevibacterium	in input, but not found - False Positive
+Genus	Actinomyces	in input, but not found - False Positive
+Genus	Roseolovirus	in input, but not found - False Positive
+Genus	Streptomyces	in input, but not found - False Positive
+Genus	Citricoccus	in input, but not found - False Positive
+Genus	Nocardioides	in input, but not found - False Positive
+Genus	Thiomonas	in input, but not found - False Positive
+Genus	Morococcus	in input, but not found - False Positive
+Genus	Ensifer	in input, but not found - False Positive
+Genus	Cupriavidus	in input, but not found - False Positive
+Genus	Trypanosoma	in input, but not found - False Positive
+Genus	Amycolatopsis	in input, but not found - False Positive
+Genus	Trueperella	in input, but not found - False Positive
+Genus	Bacillus	in input, but not found - False Positive
+Genus	Naumovozyma	in input, but not found - False Positive
+Genus	Ganoderma	in input, but not found - False Positive
+Genus	Leucobacter	in input, but not found - False Positive
+Genus	Candidatus Aquiluna	in input, but not found - False Positive
+Genus	Sanghuangporus	in input, but not found - False Positive
+Genus	Burkholderia	in input, but not found - False Positive
+Genus	Taylorella	in input, but not found - False Positive
+Genus	Halothiobacillus	in input, but not found - False Positive
+Genus	Demequina	in input, but not found - False Positive
+Genus	Meliniomyces	in input, but not found - False Positive
+Genus	Streptococcus	in input, but not found - False Positive
+Genus	Pasteurella	in input, but not found - False Positive
+Genus	Gregarina	in input, but not found - False Positive
+Genus	Leifsonia	in input, but not found - False Positive
+Genus	Nocardia	in input, but not found - False Positive
+Genus	Ancylobacter	in input, but not found - False Positive
+Genus	Vibrio	in input, but not found - False Positive
+Genus	Aphanomyces	in input, but not found - False Positive
+Genus	Alysiella	in input, but not found - False Positive
+Genus	Peptoclostridium	in input, but not found - False Positive
+Genus	Nereida	in input, but not found - False Positive
+Genus	Rubellimicrobium	in input, but not found - False Positive
+Genus	Escherichia	in input, but not found - False Positive
+Genus	Paraglaciecola	in input, but not found - False Positive
+Genus	Rhodococcus	in input, but not found - False Positive
+Genus	Nitrolancea	in input, but not found - False Positive
+Genus	Bartonella	in input, but not found - False Positive
+Genus	Klebsiella	in input, but not found - False Positive
+Genus	Staphylococcus	in input, but not found - False Positive
+Genus	Sediminihabitans	in input, but not found - False Positive
+Genus	Sinomicrobium	in input, but not found - False Positive
+Genus	Clostridioides	in input, but not found - False Positive
+Genus	Actinomadura	in input, but not found - False Positive
+Genus	Lachnoanaerobaculum	in input, but not found - False Positive
+Genus	Melaminivora	in input, but not found - False Positive
+Genus	Sphingomonas	in input, but not found - False Positive
+Genus	Nocardiopsis	in input, but not found - False Positive
+Genus	Vitrella	in input, but not found - False Positive
+Genus	Actinopolymorpha	in input, but not found - False Positive
+Genus	Thalassospira	in input, but not found - False Positive
+Genus	Exophiala	in input, but not found - False Positive
+Genus	Oscillatoria	in input, but not found - False Positive
+Genus	Micromonospora	in input, but not found - False Positive
+Genus	Mycobacterium	in input, but not found - False Positive
+Genus	Ferriphaselus	in input, but not found - False Positive
+Genus	Snodgrassella	in input, but not found - False Positive
+Genus	Tetrasphaera	in input, but not found - False Positive
+Genus	Actinokineospora	in input, but not found - False Positive
+Genus	Achlya	in input, but not found - False Positive
+Genus	Litorilinea	in input, but not found - False Positive
+Genus	Halomonas	in input, but not found - False Positive
+Genus	Jatrophihabitans	in input, but not found - False Positive
+Genus	Kinetoplastibacterium	in input, but not found - False Positive
+Genus	Clostridium	in input, but not found - False Positive
+Genus	Arcanobacterium	in input, but not found - False Positive
+Genus	Actinobaculum	in input, but not found - False Positive
+Genus	Cryptococcus	in input, but not found - False Positive
+Genus	Microbacterium	in input, but not found - False Positive
+Genus	Acetobacter	in input, but not found - False Positive
+Genus	Thauera	in input, but not found - False Positive
+Genus	Candida	in input, but not found - False Positive
+Genus	Tolypothrix	in input, but not found - False Positive
+Genus	Rhizobium	in input, but not found - False Positive
+Genus	Paraburkholderia	in input, but not found - False Positive
+Genus	Luteococcus	in input, but not found - False Positive
+Genus	Eubacterium	in input, but not found - False Positive
+Genus	Xanthomonas	in input, but not found - False Positive
+Genus	Anaerotruncus	in input, but not found - False Positive
+Genus	Bacteroides	in input, but not found - False Positive
+Genus	Coprobacillus	in input, but not found - False Positive
+Genus	Eggerthella	in input, but not found - False Positive
+Genus	Faecalibacterium	in input, but not found - False Positive
+Genus	Phascolarctobacterium	in input, but not found - False Positive
+Genus	Prevotella	in input, but not found - False Positive
+Genus	Ruminococcus	in input, but not found - False Positive
+Genus	Sutterella	in input, but not found - False Positive
+Genus	Bifidobacterium	in input, but not found - False Positive
+Genus	Oscillibacter	in input, but not found - False Positive
+Genus	Rhodopirellula	in input, but not found - False Positive
+Genus	Geobacter	in input, but not found - False Positive
+Genus	Micrococcus	in input, but not found - False Positive
+Genus	Kocuria	in input, but not found - False Positive
+Genus	Liberibacter	in input, but not found - False Positive
+Genus	Lactobacillus	in input, but not found - False Positive
+Genus	Hippea	in input, but not found - False Positive
+Genus	Butyrivibrio	in input, but not found - False Positive
+Genus	Lentzea	in input, but not found - False Positive
+Genus	Helicosporidium	in input, but not found - False Positive
+Genus	Acidovorax	in input, but not found - False Positive
+Genus	Dietzia	in input, but not found - False Positive
+Genus	Thermodesulfobacterium	in input, but not found - False Positive
+Genus	Azoarcus	in input, but not found - False Positive
+Genus	Iridovirus	in input, but not found - False Positive
+Genus	Cutibacterium	in input, but not found - False Positive
+Genus	Cellulomonas	in input, but not found - False Positive
+Genus	Xenorhabdus	in input, but not found - False Positive
+Genus	Globicatella	in input, but not found - False Positive
+Genus	Arthrobacter	in input, but not found - False Positive
+Genus	Cylindrobasidium	in input, but not found - False Positive
+Genus	Kineococcus	in input, but not found - False Positive
+Genus	Aggregatibacter	in input, but not found - False Positive
+Genus	Pseudomonas	in input, but not found - False Positive
+Genus	Salmonella	in input, but not found - False Positive
+Genus	Bordetella	in input, but not found - False Positive
+Genus	Photobacterium	in input, but not found - False Positive
+Genus	Saccharibacter	in input, but not found - False Positive
+Genus	Trichoderma	in input, but not found - False Positive
+Genus	Avibacterium	in input, but not found - False Positive
+Genus	Enterococcus	in input, but not found - False Positive
+Genus	Allosalinactinospora	in input, but not found - False Positive
+Genus	Bradyrhizobium	in input, but not found - False Positive
+Genus	Asanoa	in input, but not found - False Positive
+Genus	Aerococcus	in input, but not found - False Positive
+Genus	Blastococcus	in input, but not found - False Positive
+Genus	Paludisphaera	in input, but not found - False Positive
+Genus	Ophiocordyceps	in input, but not found - False Positive
+Genus	Candidatus Competibacter	in input, but not found - False Positive
+Genus	Trichococcus	in input, but not found - False Positive
+Genus	Varibaculum	in input, but not found - False Positive
+Genus	Lachnobacterium	in input, but not found - False Positive
+Genus	Saccharothrix	in input, but not found - False Positive
+Genus	Frigoribacterium	in input, but not found - False Positive
+Genus	Hydrogenophaga	in input, but not found - False Positive
+Genus	Castellaniella	in input, but not found - False Positive
+Genus	Kitasatospora	in input, but not found - False Positive
+Genus	Gilliamella	in input, but not found - False Positive
+Genus	Candidatus Accumulibacter	in input, but not found - False Positive
+Genus	Pantoea	in input, but not found - False Positive
+Genus	Glycomyces	in input, but not found - False Positive
+Genus	Timonella	in input, but not found - False Positive
+Genus	Thioalkalivibrio	in input, but not found - False Positive
+Genus	Azovibrio	in input, but not found - False Positive
+Genus	Basilea	in input, but not found - False Positive
+Genus	Falsirhodobacter	in input, but not found - False Positive
+Genus	Rhodoferax	in input, but not found - False Positive
+Genus	Georgenia	in input, but not found - False Positive
+Genus	Candidatus Moduliflexus	in input, but not found - False Positive
+Genus	Janthinobacterium	in input, but not found - False Positive
+Genus	Polaromonas	in input, but not found - False Positive
+Genus	Iodobacter	in input, but not found - False Positive
+Genus	Salinivibrio	in input, but not found - False Positive
+Genus	Rhodopseudomonas	in input, but not found - False Positive
+Genus	Serinicoccus	in input, but not found - False Positive
+Genus	Flaviflexus	in input, but not found - False Positive
+Genus	Mobilicoccus	in input, but not found - False Positive
+Genus	Kingella	found in both lists - True Positive
+Genus	Pseudohongiella	in input, but not found - False Positive
+Genus	Lawsonella	in input, but not found - False Positive
+Genus	Dyella	in input, but not found - False Positive
+Genus	Lachnoclostridium	in input, but not found - False Positive
+Genus	Conchiformibius	in input, but not found - False Positive
+Genus	Thermoactinomyces	in input, but not found - False Positive
+Genus	Sporocytophaga	in input, but not found - False Positive
+Genus	Agrococcus	in input, but not found - False Positive
+Genus	Paracoccus	in input, but not found - False Positive
+Genus	Limnochorda	in input, but not found - False Positive
+Genus	Chitinimonas	in input, but not found - False Positive
+Genus	Erwinia	in input, but not found - False Positive
+Genus	Sinorhizobium	in input, but not found - False Positive
+Genus	Mesorhizobium	in input, but not found - False Positive
+Genus	Raineyella	in input, but not found - False Positive
+Genus	Treponema	in input, but not found - False Positive
+Genus	Candidatus Methylopumilus	in input, but not found - False Positive
+Genus	Desulfonatronum	in input, but not found - False Positive
+Genus	Prochlorococcus	in input, but not found - False Positive
+Genus	Thalassiosira	in input, but not found - False Positive
+Genus	Salipaludibacillus	in input, but not found - False Positive
+Genus	Marinitoga	in input, but not found - False Positive
+Genus	Candidatus Nitrosoglobus	in input, but not found - False Positive
+Genus	Acidiferrobacter	in input, but not found - False Positive
+Genus	Desulfonauticus	in input, but not found - False Positive
+Genus	Lysinimicrobium	in input, but not found - False Positive
+Genus	Dermacoccus	in input, but not found - False Positive
+Genus	Lysobacter	in input, but not found - False Positive
+Genus	Actinotignum	found in both lists - True Positive
+Genus	Caldimicrobium	in input, but not found - False Positive
+Genus	Anaerococcus	in input, but not found - False Positive
+Genus	Akkermansia	in input, but not found - False Positive
+Genus	Laribacter	in input, but not found - False Positive
+Genus	Citrobacter	in input, but not found - False Positive
+Genus	Vitreoscilla	in input, but not found - False Positive
+Genus	Oblitimonas	in input, but not found - False Positive
+Genus	Cellulosimicrobium	in input, but not found - False Positive
+Genus	Domibacillus	in input, but not found - False Positive
+Genus	Eikenella	in input, but not found - False Positive
+Genus	Oceanobacillus	in input, but not found - False Positive
+Genus	Rothia	in input, but not found - False Positive
+Genus	Gemmatimonas	in input, but not found - False Positive
+Genus	Bosea	in input, but not found - False Positive
+Genus	Angustibacter	in input, but not found - False Positive
+Genus	Aeromicrobium	in input, but not found - False Positive
+Genus	Oerskovia	in input, but not found - False Positive
+Genus	Deinococcus	in input, but not found - False Positive
+Genus	Facklamia	in input, but not found - False Positive
+Genus	Turicella	in input, but not found - False Positive
+Genus	Glutamicibacter	in input, but not found - False Positive
+Genus	Propionibacterium	in input, but not found - False Positive
+Genus	Pseudopropionibacterium	in input, but not found - False Positive
+Genus	Piromyces	in input, but not found - False Positive
+Genus	Paucibacter	in input, but not found - False Positive
+Genus	Leptospirillum	in input, but not found - False Positive
+Genus	Acinetobacter	in input, but not found - False Positive
+Genus	Anaerosporomusa	in input, but not found - False Positive
+Genus	Frondihabitans	in input, but not found - False Positive
+Genus	Cetobacterium	in input, but not found - False Positive
+Genus	Sideroxydans	in input, but not found - False Positive
+Genus	Immundisolibacter	in input, but not found - False Positive
+Genus	Colwellia	in input, but not found - False Positive
+Genus	Thalassolituus	in input, but not found - False Positive
+Genus	Macromonas	in input, but not found - False Positive
+Genus	Frankia	in input, but not found - False Positive
+Genus	Enteractinococcus	in input, but not found - False Positive
+Genus	Streptomonospora	in input, but not found - False Positive
+Genus	Pseudonocardia	in input, but not found - False Positive
+Genus	Knoellia	in input, but not found - False Positive
+Genus	Propionicimonas	in input, but not found - False Positive
+Genus	Salinivenus	in input, but not found - False Positive
+Genus	Variovorax	in input, but not found - False Positive
+Genus	Propionivibrio	in input, but not found - False Positive
+Genus	Dermatophilus	in input, but not found - False Positive
+Genus	Propionimicrobium	in input, but not found - False Positive
+Genus	Idiomarina	in input, but not found - False Positive
+Genus	Quadrisphaera	in input, but not found - False Positive
+Genus	Herbaspirillum	in input, but not found - False Positive
+Genus	Candidatus Tremblaya	in input, but not found - False Positive
+Genus	Candidatus Kapabacteria	in input, but not found - False Positive
+Genus	Thiobacillus	in input, but not found - False Positive
+Genus	Nitrosospira	in input, but not found - False Positive
+Genus	Babesia	in input, but not found - False Positive
+Genus	Plantibacter	in input, but not found - False Positive
+Genus	Ornithinimicrobium	in input, but not found - False Positive
+Genus	Pectobacterium	in input, but not found - False Positive
+Genus	Jeongeupia	in input, but not found - False Positive
+Genus	Hymenobacter	in input, but not found - False Positive
+Genus	Acidipropionibacterium	in input, but not found - False Positive
+Genus	Conexibacter	in input, but not found - False Positive
+Genus	Achromobacter	in input, but not found - False Positive
+Genus	Azospirillum	in input, but not found - False Positive
+Genus	Actinosynnema	in input, but not found - False Positive
+Genus	Streptoalloteichus	in input, but not found - False Positive
+Genus	Juglanconis	in input, but not found - False Positive
+Genus	Cohnella	in input, but not found - False Positive
+Genus	Rodentibacter	in input, but not found - False Positive
+Genus	Caldimonas	in input, but not found - False Positive
+Genus	Noviherbaspirillum	in input, but not found - False Positive
+Genus	Actinoplanes	in input, but not found - False Positive
+Genus	Terasakiispira	in input, but not found - False Positive
+Genus	Sulfuriferula	in input, but not found - False Positive
+Genus	Brevefilum	in input, but not found - False Positive
+Genus	Microtetraspora	in input, but not found - False Positive
+Genus	Campylobacter	in input, but not found - False Positive
+Genus	Streptosporangium	in input, but not found - False Positive
+Genus	Desulfobacterium	in input, but not found - False Positive
+Genus	Candidatus Frackibacter	in input, but not found - False Positive
+Genus	Robiginitomaculum	in input, but not found - False Positive
+Genus	Curtobacterium	in input, but not found - False Positive
+Genus	Candidatus Blochmannia	in input, but not found - False Positive
+Genus	Marinobacter	in input, but not found - False Positive
+Genus	Tropheryma	in input, but not found - False Positive
+Genus	Pimelobacter	in input, but not found - False Positive
+Genus	Mobiluncus	in input, but not found - False Positive
+Genus	Gordonia	in input, but not found - False Positive
+Genus	Sphaerobacter	in input, but not found - False Positive
+Genus	Chromobacterium	in input, but not found - False Positive
+Genus	Tabrizicola	in input, but not found - False Positive
+Genus	Zhongshania	in input, but not found - False Positive
+Genus	Helicobacter	in input, but not found - False Positive
+Genus	Spiroplasma	in input, but not found - False Positive
+Genus	Acholeplasma	in input, but not found - False Positive
+Genus	Ottowia	in input, but not found - False Positive
+Genus	Methylobacterium	in input, but not found - False Positive
+Genus	Halorubrum	in input, but not found - False Positive
+Genus	Shewanella	in input, but not found - False Positive
+Genus	Salinibacillus	in input, but not found - False Positive
+Genus	Ichthyobacterium	in input, but not found - False Positive
+Genus	Methylococcus	in input, but not found - False Positive
+Genus	Mahella	in input, but not found - False Positive
+Genus	Pseudoclavibacter	in input, but not found - False Positive
+Genus	Janibacter	in input, but not found - False Positive
+Genus	Jonesia	in input, but not found - False Positive
+Genus	Desulfurispora	in input, but not found - False Positive
+Genus	Oribacterium	in input, but not found - False Positive
+Genus	Porphyrobacter	in input, but not found - False Positive
+Genus	Microcystis	in input, but not found - False Positive
+Genus	Gardnerella	in input, but not found - False Positive
+Genus	Cardiobacterium	in input, but not found - False Positive
+Genus	Kamptonema	in input, but not found - False Positive
+Genus	Mannheimia	in input, but not found - False Positive
+Genus	Puccinia	in input, but not found - False Positive
+Genus	Carnobacterium	in input, but not found - False Positive
+Genus	Synergistes	in input, but not found - False Positive
+Genus	Porphyra	in input, but not found - False Positive
+Genus	Phyllobacterium	in input, but not found - False Positive
+Genus	Prosthecochloris	in input, but not found - False Positive
+Genus	Jiangella	in input, but not found - False Positive
+Genus	Herbidospora	in input, but not found - False Positive
+Genus	Phaeodactylum	in input, but not found - False Positive
+Genus	Sanguibacter	in input, but not found - False Positive
+Genus	Segniliparus	in input, but not found - False Positive
+Genus	Flavonifractor	in input, but not found - False Positive
+Genus	Turneriella	in input, but not found - False Positive
+Genus	Symbiodinium	in input, but not found - False Positive
+Genus	Laccaria	in input, but not found - False Positive
+Genus	Catenulispora	in input, but not found - False Positive
+Genus	Chlamydomonas	in input, but not found - False Positive
+Genus	Volvox	in input, but not found - False Positive
+Genus	Plasmodium	in input, but not found - False Positive
+Genus	Pseudoalteromonas	in input, but not found - False Positive
+Genus	Psychromonas	in input, but not found - False Positive
+Genus	Methylibium	in input, but not found - False Positive
+Genus	Rhizoclosmatium	in input, but not found - False Positive
+Genus	Clavibacter	in input, but not found - False Positive
+Genus	Acidobacterium	in input, but not found - False Positive
+Genus	Kribbia	in input, but not found - False Positive
+Genus	Pediococcus	in input, but not found - False Positive
+Genus	Purpureocillium	in input, but not found - False Positive
+Genus	Fluviicola	in input, but not found - False Positive
+Genus	Pelomonas	in input, but not found - False Positive
+Genus	Serpula	in input, but not found - False Positive
+Genus	Kutzneria	in input, but not found - False Positive
+Genus	Chlorovirus	in input, but not found - False Positive
+Genus	Rhodobacter	in input, but not found - False Positive
+Genus	Dictyostelium	in input, but not found - False Positive
+Genus	Enterobacter	in input, but not found - False Positive
+Genus	Pseudochrobactrum	in input, but not found - False Positive
+Genus	Yonghaparkia	in input, but not found - False Positive
+Genus	Leeia	in input, but not found - False Positive
+Genus	Parasitella	in input, but not found - False Positive
+Genus	Planobispora	in input, but not found - False Positive
+Genus	Nitrospina	in input, but not found - False Positive
+Genus	Smaragdicoccus	in input, but not found - False Positive
+Genus	Crenothrix	in input, but not found - False Positive
+Genus	Longilinea	in input, but not found - False Positive
+Genus	Ruania	in input, but not found - False Positive
+Genus	Morganella	in input, but not found - False Positive
+Genus	Pelotomaculum	in input, but not found - False Positive
+Genus	Zhihengliuella	in input, but not found - False Positive
+Genus	Isoptericola	in input, but not found - False Positive
+Genus	Thiohalorhabdus	in input, but not found - False Positive
+Genus	Desulfotomaculum	in input, but not found - False Positive
+Genus	Actinocatenispora	in input, but not found - False Positive
+Genus	Limnobacter	in input, but not found - False Positive
+Genus	Ascosphaera	in input, but not found - False Positive
+Genus	Fusobacterium	in input, but not found - False Positive
+Genus	Candidatus Endoriftia	in input, but not found - False Positive
+Genus	Atopobium	in input, but not found - False Positive
+Genus	Aestuariimicrobium	in input, but not found - False Positive
+Genus	Marmoricola	in input, but not found - False Positive
+Genus	Hydrogenovibrio	in input, but not found - False Positive
+Genus	Actinomycetospora	in input, but not found - False Positive
+Genus	Penicillium	in input, but not found - False Positive
+Genus	Stenotrophomonas	in input, but not found - False Positive
+Genus	Blautia	in input, but not found - False Positive
+Genus	Pseudoflavonifractor	in input, but not found - False Positive
+Genus	Collinsella	in input, but not found - False Positive
+Genus	Alloscardovia	in input, but not found - False Positive
+Genus	Humibacter	in input, but not found - False Positive
+Genus	Ruminiclostridium	in input, but not found - False Positive
+Genus	Monosiga	in input, but not found - False Positive
+Genus	Magnetospirillum	in input, but not found - False Positive
+Genus	Brachybacterium	in input, but not found - False Positive
+Genus	Ferrimonas	in input, but not found - False Positive
+Genus	Pleomorphomonas	in input, but not found - False Positive
+Genus	Paenibacillus	in input, but not found - False Positive
+Genus	Nitrosomonas	in input, but not found - False Positive
+Genus	Legionella	in input, but not found - False Positive
+Genus	Adlercreutzia	in input, but not found - False Positive
+Genus	Simiduia	in input, but not found - False Positive
+Genus	Kiloniella	in input, but not found - False Positive
+Genus	Glaesserella	in input, but not found - False Positive
+Genus	Veillonella	in input, but not found - False Positive
+Genus	Reticulomyxa	in input, but not found - False Positive
+Genus	Tatlockia	in input, but not found - False Positive
+Genus	Devosia	in input, but not found - False Positive
+Genus	Thermobispora	in input, but not found - False Positive
+Genus	Devriesea	in input, but not found - False Positive
+Genus	Desulfosporosinus	in input, but not found - False Positive
+Genus	Modestobacter	in input, but not found - False Positive
+Genus	Tetrabaena	in input, but not found - False Positive
+Genus	Cystoisospora	in input, but not found - False Positive
+Genus	Actinophytocola	in input, but not found - False Positive
+Genus	Leptospira	in input, but not found - False Positive
+Genus	Kineosporia	in input, but not found - False Positive
+Genus	Paeniglutamicibacter	in input, but not found - False Positive
+Genus	Bergeriella	in input, but not found - False Positive
+Genus	Psychrobacter	in input, but not found - False Positive
+Genus	Heliobacterium	in input, but not found - False Positive
+Genus	Glaciibacter	in input, but not found - False Positive
+Genus	Spirochaeta	in input, but not found - False Positive
+Genus	Aspergillus	in input, but not found - False Positive
+Genus	Gallibacterium	in input, but not found - False Positive
+Genus	Sciscionella	in input, but not found - False Positive
+Genus	Thermoanaerobacter	in input, but not found - False Positive
+Genus	Actinobacillus	in input, but not found - False Positive
+Genus	Eimeria	in input, but not found - False Positive
+Genus	Brucella	in input, but not found - False Positive
+Genus	Thiothrix	in input, but not found - False Positive
+Genus	Haloglycomyces	in input, but not found - False Positive
+Genus	Krasilnikoviella	in input, but not found - False Positive
+Genus	Rhodoluna	in input, but not found - False Positive
+Genus	Prauserella	in input, but not found - False Positive
+Genus	Parvimonas	in input, but not found - False Positive
+Genus	Paraoerskovia	in input, but not found - False Positive
+Genus	Friedmanniella	in input, but not found - False Positive
+Genus	Chitinilyticum	in input, but not found - False Positive
+Genus	Tersicoccus	in input, but not found - False Positive
+Genus	Neomicrococcus	in input, but not found - False Positive
+Genus	Serinibacter	in input, but not found - False Positive
+Genus	Leishmania	in input, but not found - False Positive
+Genus	Sorangium	in input, but not found - False Positive
+Genus	Marinifilum	in input, but not found - False Positive
+Genus	Luteipulveratus	in input, but not found - False Positive
+Genus	Candidatus Planktophila	in input, but not found - False Positive
+Genus	Microvirgula	in input, but not found - False Positive
+Genus	Nesterenkonia	in input, but not found - False Positive
+Genus	Kytococcus	in input, but not found - False Positive
+Genus	Allomyces	in input, but not found - False Positive
+Genus	Moritella	in input, but not found - False Positive
+Genus	Proteus	in input, but not found - False Positive
+Genus	Coxiella	in input, but not found - False Positive
+Genus	Lelliottia	in input, but not found - False Positive
+Genus	Luteimicrobium	in input, but not found - False Positive
+Genus	Virgibacillus	in input, but not found - False Positive
+Genus	Microlunatus	in input, but not found - False Positive
+Genus	Spongiibacter	in input, but not found - False Positive
+Genus	Leptotrichia	in input, but not found - False Positive
+Genus	Simonsiella	in input, but not found - False Positive
+Genus	Ruegeria	in input, but not found - False Positive
+Genus	Gaeumannomyces	in input, but not found - False Positive
+Genus	Aeromonas	in input, but not found - False Positive
+Genus	Haloactinobacterium	in input, but not found - False Positive
+Genus	Cesiribacter	in input, but not found - False Positive
+Genus	Oceanospirillum	in input, but not found - False Positive
+Genus	Litorimicrobium	in input, but not found - False Positive
+Genus	Oceanibaculum	in input, but not found - False Positive
+Genus	Curvibacter	in input, but not found - False Positive
+Genus	Lipomyces	in input, but not found - False Positive
+Genus	Auraticoccus	in input, but not found - False Positive
+Genus	Sphaerulina	in input, but not found - False Positive
+Genus	Petrotoga	in input, but not found - False Positive
+Genus	Saprolegnia	in input, but not found - False Positive
+Genus	Basfia	in input, but not found - False Positive
+Genus	Saitoella	in input, but not found - False Positive
+Genus	Tindallia	in input, but not found - False Positive
+Genus	Oceanicoccus	in input, but not found - False Positive
+Genus	Auricularia	in input, but not found - False Positive
+Genus	Nannochloropsis	in input, but not found - False Positive
+Genus	Tessaracoccus	in input, but not found - False Positive
+Genus	Oceanibacterium	in input, but not found - False Positive
+Genus	Stachybotrys	in input, but not found - False Positive
+Genus	Caulobacter	in input, but not found - False Positive
+Genus	Parasutterella	in input, but not found - False Positive
+Genus	Phycomyces	in input, but not found - False Positive
+Genus	Waddlia	in input, but not found - False Positive
+Genus	Mycetocola	in input, but not found - False Positive
+Genus	Roseateles	in input, but not found - False Positive
+Genus	Malassezia	in input, but not found - False Positive
+Genus	Rickettsia	in input, but not found - False Positive
+Genus	Pseudogymnoascus	in input, but not found - False Positive
+Genus	Scardovia	in input, but not found - False Positive
+Genus	Ralstonia	in input, but not found - False Positive
+Genus	Thioflavicoccus	in input, but not found - False Positive
+Genus	Insolitispirillum	in input, but not found - False Positive
+Genus	Chlamydia	in input, but not found - False Positive
+Genus	Buttiauxella	in input, but not found - False Positive
+Genus	Leminorella	in input, but not found - False Positive
+Genus	Beutenbergia	in input, but not found - False Positive
+Genus	Oxalobacter	in input, but not found - False Positive
+Genus	Allochromatium	in input, but not found - False Positive
+Genus	Pseudarthrobacter	in input, but not found - False Positive
+Genus	Actinotalea	in input, but not found - False Positive
+Genus	Minicystis	in input, but not found - False Positive
+Genus	Desulfuromonas	in input, but not found - False Positive
+Genus	Oligella	in input, but not found - False Positive
+Genus	Acidaminococcus	in input, but not found - False Positive
+Genus	Caldanaerobacter	in input, but not found - False Positive
+Genus	Cryptosporangium	in input, but not found - False Positive
+Genus	Thermithiobacillus	in input, but not found - False Positive
+Genus	Bipolaris	in input, but not found - False Positive
+Genus	Halioglobus	in input, but not found - False Positive
+Genus	Pandoraea	in input, but not found - False Positive
+Genus	Nonomuraea	in input, but not found - False Positive
+Genus	Granulicella	in input, but not found - False Positive
+Genus	Plicaturopsis	in input, but not found - False Positive
+Genus	Salpingoeca	in input, but not found - False Positive
+Genus	Besnoitia	in input, but not found - False Positive
+Genus	Selenomonas	in input, but not found - False Positive
+Genus	Pseudoglutamicibacter	in input, but not found - False Positive
+Genus	Pseudoscardovia	in input, but not found - False Positive
+Genus	Flavobacterium	in input, but not found - False Positive
+Genus	Metallibacterium	in input, but not found - False Positive
+Genus	Hydnomerulius	in input, but not found - False Positive
+Species	Corynebacterium tuberculostearicum	found in both lists - True Positive
+Species	Kingella oralis	found in both lists - True Positive
+Species	Cryobacterium roopkundense	in input, but not found from name or NCBI lookup - False Positive
+Species	Austwickia chelonae	in input, but not found from name or NCBI lookup - False Positive
+Species	Hugenholtzia roseola	in input, but not found from name or NCBI lookup - False Positive
+Species	Nitrospirillum amazonense	in input, but not found from name or NCBI lookup - False Positive
+Species	Saprospira grandis	in input, but not found from name or NCBI lookup - False Positive
+Species	Endozoicomonas montiporae	in input, but not found from name or NCBI lookup - False Positive
+Species	Haemophilus haemolyticus	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseria wadsworthii	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseria shayeganii	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium nuruki	in input, but not found from name or NCBI lookup - False Positive
+Species	Brevibacterium senegalense	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces coleocanis	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces urogenitalis	in input, but not found from name or NCBI lookup - False Positive
+Species	Human betaherpesvirus 6A	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces xinghaiensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Citricoccus sp. CH26A	in input, but not found from name or NCBI lookup - False Positive
+Species	Nocardioides lianchengensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium epidermidicanis	in input, but not found from name or NCBI lookup - False Positive
+Species	Thiomonas sp. X19	in input, but not found from name or NCBI lookup - False Positive
+Species	Morococcus cerebrosus	in input, but not found from name or NCBI lookup - False Positive
+Species	Ensifer sp. BR816	in input, but not found from name or NCBI lookup - False Positive
+Species	Cupriavidus necator	in input, but not found from name or NCBI lookup - False Positive
+Species	Trypanosoma congolense	in input, but not found from name or NCBI lookup - False Positive
+Species	Amycolatopsis methanolica	in input, but not found from name or NCBI lookup - False Positive
+Species	Bacillus sp. SB49	in input, but not found from name or NCBI lookup - False Positive
+Species	Naumovozyma dairenensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium uterequi	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces zinciresistens	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces oceani	in input, but not found from name or NCBI lookup - False Positive
+Species	Ganoderma sinense	in input, but not found from name or NCBI lookup - False Positive
+Species	Leucobacter chromiiresistens	in input, but not found from name or NCBI lookup - False Positive
+Species	Candidatus Aquiluna sp. IMCC13023	in input, but not found from name or NCBI lookup - False Positive
+Species	Sanghuangporus baumii	in input, but not found from name or NCBI lookup - False Positive
+Species	Candidatus Burkholderia pumila	in input, but not found from name or NCBI lookup - False Positive
+Species	Taylorella asinigenitalis	in input, but not found from name or NCBI lookup - False Positive
+Species	Demequina flava	in input, but not found from name or NCBI lookup - False Positive
+Species	Meliniomyces bicolor	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseria meningitidis	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptococcus anginosus	in input, but not found from name or NCBI lookup - False Positive
+Species	Haemophilus parainfluenzae	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseria sicca	in input, but not found from name or NCBI lookup - False Positive
+Species	Pasteurella bettyae	in input, but not found from name or NCBI lookup - False Positive
+Species	Gregarina niphandrodes	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces sp. ICM58	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces radicidentis	in input, but not found from name or NCBI lookup - False Positive
+Species	Nocardia asteroides	in input, but not found from name or NCBI lookup - False Positive
+Species	Ancylobacter sp. FA202	in input, but not found from name or NCBI lookup - False Positive
+Species	Vibrio quintilis	in input, but not found from name or NCBI lookup - False Positive
+Species	Aphanomyces astaci	in input, but not found from name or NCBI lookup - False Positive
+Species	Alysiella filiformis	in input, but not found from name or NCBI lookup - False Positive
+Species	Peptoclostridium litorale	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium doosanense	in input, but not found from name or NCBI lookup - False Positive
+Species	Nereida ignava	in input, but not found from name or NCBI lookup - False Positive
+Species	Rubellimicrobium mesophilum	in input, but not found from name or NCBI lookup - False Positive
+Species	Nocardia cyriacigeorgica	in input, but not found from name or NCBI lookup - False Positive
+Species	Escherichia coli	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces sp. oral taxon 181	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseria sp. oral taxon 020	in input, but not found from name or NCBI lookup - False Positive
+Species	Paraglaciecola arctica	in input, but not found from name or NCBI lookup - False Positive
+Species	Rhodococcus opacus	in input, but not found from name or NCBI lookup - False Positive
+Species	Nitrolancea hollandica	in input, but not found from name or NCBI lookup - False Positive
+Species	Bartonella koehlerae	in input, but not found from name or NCBI lookup - False Positive
+Species	Klebsiella michiganensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Staphylococcus aureus	in input, but not found from name or NCBI lookup - False Positive
+Species	Sediminihabitans luteus	in input, but not found from name or NCBI lookup - False Positive
+Species	Burkholderia sp. BT03	in input, but not found from name or NCBI lookup - False Positive
+Species	Sinomicrobium oceani	in input, but not found from name or NCBI lookup - False Positive
+Species	Clostridioides difficile	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomadura rubrobrunea	in input, but not found from name or NCBI lookup - False Positive
+Species	Amycolatopsis sacchari	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces viridochromogenes	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces auratus	in input, but not found from name or NCBI lookup - False Positive
+Species	Melaminivora alkalimesophila	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium diphtheriae	in input, but not found from name or NCBI lookup - False Positive
+Species	Sphingomonas sp. S6-262	in input, but not found from name or NCBI lookup - False Positive
+Species	Nocardia sp. CNY236	in input, but not found from name or NCBI lookup - False Positive
+Species	Nocardiopsis sp. CNS-639	in input, but not found from name or NCBI lookup - False Positive
+Species	Vitrella brassicaformis	in input, but not found from name or NCBI lookup - False Positive
+Species	Thalassospira profundimaris	in input, but not found from name or NCBI lookup - False Positive
+Species	Exophiala aquamarina	in input, but not found from name or NCBI lookup - False Positive
+Species	Oscillatoria acuminata	in input, but not found from name or NCBI lookup - False Positive
+Species	Micromonospora wenchangensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Mycobacterium abscessus	in input, but not found from name or NCBI lookup - False Positive
+Species	Ferriphaselus amnicola	in input, but not found from name or NCBI lookup - False Positive
+Species	Tetrasphaera jenkinsii	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinokineospora bangkokensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Tetrasphaera japonica	in input, but not found from name or NCBI lookup - False Positive
+Species	Snodgrassella alvi	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces wuyuanensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces lividans	in input, but not found from name or NCBI lookup - False Positive
+Species	Achlya hypogyna	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium sp. KPL1818	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium sp. KPL1821	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium sp. KPL1824	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium sp. KPL1857	in input, but not found from name or NCBI lookup - False Positive
+Species	Litorilinea aerophila	in input, but not found from name or NCBI lookup - False Positive
+Species	Halomonas titanicae	in input, but not found from name or NCBI lookup - False Positive
+Species	Jatrophihabitans endophyticus	in input, but not found from name or NCBI lookup - False Positive
+Species	Kinetoplastibacterium blastocrithidii	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces suimastitidis	in input, but not found from name or NCBI lookup - False Positive
+Species	Clostridium bornimense	in input, but not found from name or NCBI lookup - False Positive
+Species	Arcanobacterium sp. S3PF19	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium marinum	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinobaculum sp. oral taxon 183	in input, but not found from name or NCBI lookup - False Positive
+Species	alpha proteobacterium LLX12A	in input, but not found from name or NCBI lookup - False Positive
+Species	Brevibacterium casei	in input, but not found from name or NCBI lookup - False Positive
+Species	Cryptococcus neoformans	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium frankenforstense	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium lactis	in input, but not found from name or NCBI lookup - False Positive
+Species	Microbacterium gorillae	in input, but not found from name or NCBI lookup - False Positive
+Species	Acetobacter syzygii	in input, but not found from name or NCBI lookup - False Positive
+Species	Thauera phenylacetica	in input, but not found from name or NCBI lookup - False Positive
+Species	Lachnospiraceae bacterium 10-1	in input, but not found from name or NCBI lookup - False Positive
+Species	Bacillus stratosphericus	in input, but not found from name or NCBI lookup - False Positive
+Species	Candida maltosa	in input, but not found from name or NCBI lookup - False Positive
+Species	Tolypothrix campylonemoides	in input, but not found from name or NCBI lookup - False Positive
+Species	Nocardiopsis potens	in input, but not found from name or NCBI lookup - False Positive
+Species	Rhizobium sp. 2MFCol3.1	in input, but not found from name or NCBI lookup - False Positive
+Species	Paraburkholderia ribeironis	in input, but not found from name or NCBI lookup - False Positive
+Species	Luteococcus japonicus	in input, but not found from name or NCBI lookup - False Positive
+Species	uncultured bacterium A1Q1 fos 291	in input, but not found from name or NCBI lookup - False Positive
+Species	Eubacterium ramulus	in input, but not found from name or NCBI lookup - False Positive
+Species	Flammeovirgaceae bacterium 311	in input, but not found from name or NCBI lookup - False Positive
+Species	Xanthomonas translucens	in input, but not found from name or NCBI lookup - False Positive
+Species	Brevibacterium jeotgali	in input, but not found from name or NCBI lookup - False Positive
+Species	Anaerotruncus sp. CAG:390	in input, but not found from name or NCBI lookup - False Positive
+Species	Bacteroides sp. CAG:927	in input, but not found from name or NCBI lookup - False Positive
+Species	Clostridium sp. CAG:1024	in input, but not found from name or NCBI lookup - False Positive
+Species	Clostridium sp. CAG:557	in input, but not found from name or NCBI lookup - False Positive
+Species	Coprobacillus sp. CAG:605	in input, but not found from name or NCBI lookup - False Positive
+Species	Eggerthella sp. CAG:298	in input, but not found from name or NCBI lookup - False Positive
+Species	Faecalibacterium sp. CAG:1138	in input, but not found from name or NCBI lookup - False Positive
+Species	Phascolarctobacterium sp. CAG:266	in input, but not found from name or NCBI lookup - False Positive
+Species	Prevotella sp. CAG:1124	in input, but not found from name or NCBI lookup - False Positive
+Species	Prevotella sp. CAG:732	in input, but not found from name or NCBI lookup - False Positive
+Species	Ruminococcus sp. CAG:624	in input, but not found from name or NCBI lookup - False Positive
+Species	Sutterella sp. CAG:521	in input, but not found from name or NCBI lookup - False Positive
+Species	Firmicutes bacterium CAG:94	in input, but not found from name or NCBI lookup - False Positive
+Species	Bifidobacterium adolescentis CAG:119	in input, but not found from name or NCBI lookup - False Positive
+Species	Oscillibacter ruminantium	in input, but not found from name or NCBI lookup - False Positive
+Species	Rhodopirellula maiorica	in input, but not found from name or NCBI lookup - False Positive
+Species	Ruminococcus flavefaciens	in input, but not found from name or NCBI lookup - False Positive
+Species	Geobacter sp. OR-1	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium urealyticum	in input, but not found from name or NCBI lookup - False Positive
+Species	Rhodococcus sp. AW25M09	in input, but not found from name or NCBI lookup - False Positive
+Species	Micrococcus luteus	in input, but not found from name or NCBI lookup - False Positive
+Species	Kocuria varians	in input, but not found from name or NCBI lookup - False Positive
+Species	Liberibacter crescens	in input, but not found from name or NCBI lookup - False Positive
+Species	Lactobacillus salivarius	in input, but not found from name or NCBI lookup - False Positive
+Species	Hippea alviniae	in input, but not found from name or NCBI lookup - False Positive
+Species	Butyrivibrio sp. LC3010	in input, but not found from name or NCBI lookup - False Positive
+Species	Lentzea violacea	in input, but not found from name or NCBI lookup - False Positive
+Species	Staphylococcus haemolyticus	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces sp. S6-Spd3	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces sp. TAA040	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces timonensis	in input, but not found from name or NCBI lookup - False Positive
+Species	[Clostridium] ultunense	in input, but not found from name or NCBI lookup - False Positive
+Species	Helicosporidium sp. ATCC 50920	in input, but not found from name or NCBI lookup - False Positive
+Species	Dietzia sp. UCD-THP	in input, but not found from name or NCBI lookup - False Positive
+Species	Thermodesulfobacterium geofontis	in input, but not found from name or NCBI lookup - False Positive
+Species	Mycobacterium kansasii	in input, but not found from name or NCBI lookup - False Positive
+Species	Mycobacterium ulcerans	in input, but not found from name or NCBI lookup - False Positive
+Species	Mycobacterium xenopi	in input, but not found from name or NCBI lookup - False Positive
+Species	Rhodococcus sp. EsD8	in input, but not found from name or NCBI lookup - False Positive
+Species	Invertebrate iridovirus 22	in input, but not found from name or NCBI lookup - False Positive
+Species	Cutibacterium acnes	in input, but not found from name or NCBI lookup - False Positive
+Species	Cellulomonas sp. KRMCY2	in input, but not found from name or NCBI lookup - False Positive
+Species	Xenorhabdus nematophila	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces turicensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Arcanobacterium phocae	in input, but not found from name or NCBI lookup - False Positive
+Species	Arthrobacter sp. Br18	in input, but not found from name or NCBI lookup - False Positive
+Species	Arthrobacter sp. H14	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptococcus pneumoniae	in input, but not found from name or NCBI lookup - False Positive
+Species	Cylindrobasidium torrendii	in input, but not found from name or NCBI lookup - False Positive
+Species	Kineococcus radiotolerans	in input, but not found from name or NCBI lookup - False Positive
+Species	Aggregatibacter sp. oral taxon 458	in input, but not found from name or NCBI lookup - False Positive
+Species	Pseudomonas syringae	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces polynesiensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Salmonella enterica	in input, but not found from name or NCBI lookup - False Positive
+Species	Bordetella pseudohinzii	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium freneyi	in input, but not found from name or NCBI lookup - False Positive
+Species	Photobacterium sanctipauli	in input, but not found from name or NCBI lookup - False Positive
+Species	Saccharibacter sp. AM169	in input, but not found from name or NCBI lookup - False Positive
+Species	Trichoderma reesei	in input, but not found from name or NCBI lookup - False Positive
+Species	Microbacterium sp. TS-1	in input, but not found from name or NCBI lookup - False Positive
+Species	Cellulomonas sp. FA1	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomadura mexicana	in input, but not found from name or NCBI lookup - False Positive
+Species	Avibacterium paragallinarum	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseria gonorrhoeae	in input, but not found from name or NCBI lookup - False Positive
+Species	Enterococcus faecalis	in input, but not found from name or NCBI lookup - False Positive
+Species	Allosalinactinospora lopnorensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Enterococcus faecium	in input, but not found from name or NCBI lookup - False Positive
+Species	Bradyrhizobium diazoefficiens	in input, but not found from name or NCBI lookup - False Positive
+Species	Bacillus endophyticus	in input, but not found from name or NCBI lookup - False Positive
+Species	Asanoa ishikariensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces hyaluromycini	in input, but not found from name or NCBI lookup - False Positive
+Species	Pseudomonas sp. URHB0015	in input, but not found from name or NCBI lookup - False Positive
+Species	Mycobacterium sp. URHB0044	in input, but not found from name or NCBI lookup - False Positive
+Species	Sphingomonas sp. ERG5	in input, but not found from name or NCBI lookup - False Positive
+Species	Blastococcus saxobsidens	in input, but not found from name or NCBI lookup - False Positive
+Species	Cellulomonas carbonis	in input, but not found from name or NCBI lookup - False Positive
+Species	Paludisphaera borealis	in input, but not found from name or NCBI lookup - False Positive
+Species	Mycobacterium avium	in input, but not found from name or NCBI lookup - False Positive
+Species	Bifidobacterium sp. 7101	in input, but not found from name or NCBI lookup - False Positive
+Species	Bacillus cereus	in input, but not found from name or NCBI lookup - False Positive
+Species	Leucobacter sp. PH1c	in input, but not found from name or NCBI lookup - False Positive
+Species	Ophiocordyceps australis	in input, but not found from name or NCBI lookup - False Positive
+Species	Candidatus Competibacter denitrificans	in input, but not found from name or NCBI lookup - False Positive
+Species	Trichococcus palustris	in input, but not found from name or NCBI lookup - False Positive
+Species	Halomonas sp. BC04	in input, but not found from name or NCBI lookup - False Positive
+Species	Staphylococcus sp. DORA 6 22	in input, but not found from name or NCBI lookup - False Positive
+Species	Varibaculum cambriense	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium glyciniphilum	in input, but not found from name or NCBI lookup - False Positive
+Species	Lachnobacterium bovis	in input, but not found from name or NCBI lookup - False Positive
+Species	Pseudomonas aeruginosa	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium deserti	in input, but not found from name or NCBI lookup - False Positive
+Species	Propionibacteriaceae bacterium P6A17	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium jeddahense	in input, but not found from name or NCBI lookup - False Positive
+Species	Saccharothrix sp. NRRL B-16348	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces sp. NRRL B-1140	in input, but not found from name or NCBI lookup - False Positive
+Species	Klebsiella pneumoniae	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomycetales bacterium JB111	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium sp. JB4	in input, but not found from name or NCBI lookup - False Positive
+Species	Frigoribacterium sp. JB110	in input, but not found from name or NCBI lookup - False Positive
+Species	Hydrogenophaga sp. T4	in input, but not found from name or NCBI lookup - False Positive
+Species	Castellaniella defragrans	in input, but not found from name or NCBI lookup - False Positive
+Species	Pseudomonas sp. BAY1663	in input, but not found from name or NCBI lookup - False Positive
+Species	Kitasatospora sp. MBT63	in input, but not found from name or NCBI lookup - False Positive
+Species	Gilliamella apicola	in input, but not found from name or NCBI lookup - False Positive
+Species	Arthrobacter sp. UNC362MFTsu5.1	in input, but not found from name or NCBI lookup - False Positive
+Species	Candidatus Accumulibacter sp. BA-91	in input, but not found from name or NCBI lookup - False Positive
+Species	Cellulomonas sp. HZM	in input, but not found from name or NCBI lookup - False Positive
+Species	Mycobacterium tuberculosis	in input, but not found from name or NCBI lookup - False Positive
+Species	Pantoea theicola	in input, but not found from name or NCBI lookup - False Positive
+Species	Bacillus fastidiosus	in input, but not found from name or NCBI lookup - False Positive
+Species	Mycobacterium brisbanense	in input, but not found from name or NCBI lookup - False Positive
+Species	Glycomyces sp. NRRL B-16210	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces sp. NRRL S-475	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces sp. NRRL WC-3626	in input, but not found from name or NCBI lookup - False Positive
+Species	Timonella senegalensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium simulans	in input, but not found from name or NCBI lookup - False Positive
+Species	Bartonella senegalensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Thioalkalivibrio sp. HK1	in input, but not found from name or NCBI lookup - False Positive
+Species	Azovibrio restrictus	in input, but not found from name or NCBI lookup - False Positive
+Species	Burkholderiales bacterium GJ-E10	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseria arctica	in input, but not found from name or NCBI lookup - False Positive
+Species	Basilea psittacipulmonis	in input, but not found from name or NCBI lookup - False Positive
+Species	Falsirhodobacter sp. alg1	in input, but not found from name or NCBI lookup - False Positive
+Species	Rhodoferax saidenbachensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Georgenia sp. SUBG003	in input, but not found from name or NCBI lookup - False Positive
+Species	Candidatus Moduliflexus flocculans	in input, but not found from name or NCBI lookup - False Positive
+Species	Janthinobacterium sp. RA13	in input, but not found from name or NCBI lookup - False Positive
+Species	actinobacterium acMicro-1	in input, but not found from name or NCBI lookup - False Positive
+Species	actinobacterium acMicro-4	in input, but not found from name or NCBI lookup - False Positive
+Species	actinobacterium acAMD-2	in input, but not found from name or NCBI lookup - False Positive
+Species	Polaromonas sp. CG9 12	in input, but not found from name or NCBI lookup - False Positive
+Species	Bifidobacterium commune	in input, but not found from name or NCBI lookup - False Positive
+Species	Iodobacter sp. BJB302	in input, but not found from name or NCBI lookup - False Positive
+Species	Salinivibrio socompensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Rhodopseudomonas pseudopalustris	in input, but not found from name or NCBI lookup - False Positive
+Species	Serinicoccus sp. CUA-874	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces sp. XY413	in input, but not found from name or NCBI lookup - False Positive
+Species	Flaviflexus massiliensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Mobilicoccus massiliensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Kingella negevensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium efficiens	in input, but not found from name or NCBI lookup - False Positive
+Species	Lawsonella clevelandensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Dyella sp. AD56	in input, but not found from name or NCBI lookup - False Positive
+Species	Coriobacteriaceae bacterium 68-1-3	in input, but not found from name or NCBI lookup - False Positive
+Species	Peptococcaceae bacterium BICA1-8	in input, but not found from name or NCBI lookup - False Positive
+Species	[Clostridium] clostridioforme	in input, but not found from name or NCBI lookup - False Positive
+Species	Alysiella crassa	in input, but not found from name or NCBI lookup - False Positive
+Species	Conchiformibius steedae	in input, but not found from name or NCBI lookup - False Positive
+Species	Thermoactinomyces sp. Gus2-1	in input, but not found from name or NCBI lookup - False Positive
+Species	Sporocytophaga myxococcoides	in input, but not found from name or NCBI lookup - False Positive
+Species	Agrococcus baldri	in input, but not found from name or NCBI lookup - False Positive
+Species	Rhizobium hidalgonense	in input, but not found from name or NCBI lookup - False Positive
+Species	Micromonospora sp. HK10	in input, but not found from name or NCBI lookup - False Positive
+Species	Nocardia donostiensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Burkholderia sp. MSHR3999	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium oculi	in input, but not found from name or NCBI lookup - False Positive
+Species	Paracoccus sanguinis	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces sp. NBRC 110027	in input, but not found from name or NCBI lookup - False Positive
+Species	Limnochorda pilosa	in input, but not found from name or NCBI lookup - False Positive
+Species	Chitinimonas sp. BJB300	in input, but not found from name or NCBI lookup - False Positive
+Species	Erwinia iniecta	in input, but not found from name or NCBI lookup - False Positive
+Species	Sinorhizobium sp. NFACC03	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces marimammalium	in input, but not found from name or NCBI lookup - False Positive
+Species	Demequina sp. NBRC 110051	in input, but not found from name or NCBI lookup - False Positive
+Species	Demequina sp. NBRC 110053	in input, but not found from name or NCBI lookup - False Positive
+Species	Demequina sp. NBRC 110054	in input, but not found from name or NCBI lookup - False Positive
+Species	Mesorhizobium sp. F7	in input, but not found from name or NCBI lookup - False Positive
+Species	Raineyella antarctica	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces sp. SBT349	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium sp. HMSC04H06	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium sp. HMSC29G08	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseria sp. HMSC31F04	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseria sp. HMSC15G01	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium sp. HMSC05D03	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseria sp. HMSC06F02	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium sp. HMSC08A12	in input, but not found from name or NCBI lookup - False Positive
+Species	Candidatus Methylopumilus turicensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Arthrobacter sp. Hiyo4	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinobacteria bacterium OK074	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinobacteria bacterium OV450	in input, but not found from name or NCBI lookup - False Positive
+Species	Desulfonatronum thiodismutans	in input, but not found from name or NCBI lookup - False Positive
+Species	uncultured Prochlorococcus sp.	in input, but not found from name or NCBI lookup - False Positive
+Species	Thalassiosira oceanica	in input, but not found from name or NCBI lookup - False Positive
+Species	Microbacterium gubbeenense	in input, but not found from name or NCBI lookup - False Positive
+Species	Lactobacillus reuteri	in input, but not found from name or NCBI lookup - False Positive
+Species	Lactobacillus sakei	in input, but not found from name or NCBI lookup - False Positive
+Species	Salipaludibacillus aurantiacus	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium casei	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium sp. CMW7794	in input, but not found from name or NCBI lookup - False Positive
+Species	Pseudomonas helleri	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces sp. NRRL F-5122	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium pollutisoli	in input, but not found from name or NCBI lookup - False Positive
+Species	Bacillus sp. SG-1	in input, but not found from name or NCBI lookup - False Positive
+Species	Chloroflexi bacterium OLB15	in input, but not found from name or NCBI lookup - False Positive
+Species	Omnitrophica bacterium OLB16	in input, but not found from name or NCBI lookup - False Positive
+Species	Candidatus Kaiserbacteria bacterium GW2011 GWA2 49 19	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium kroppenstedtii	in input, but not found from name or NCBI lookup - False Positive
+Species	Parcubacteria group bacterium GW2011 GWC1 43 61	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium camporealensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium singulare	in input, but not found from name or NCBI lookup - False Positive
+Species	Candidatus Peribacteria bacterium GW2011 GWB1 54 5	in input, but not found from name or NCBI lookup - False Positive
+Species	Erwinia gerundensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Rhodospirillaceae bacterium BRH c57	in input, but not found from name or NCBI lookup - False Positive
+Species	Candidatus Nitrosoglobus terrae	in input, but not found from name or NCBI lookup - False Positive
+Species	Bifidobacterium myosotis	in input, but not found from name or NCBI lookup - False Positive
+Species	Bifidobacterium hapali	in input, but not found from name or NCBI lookup - False Positive
+Species	Brevibacterium ihuae	in input, but not found from name or NCBI lookup - False Positive
+Species	Acidiferrobacter thiooxydans	in input, but not found from name or NCBI lookup - False Positive
+Species	Desulfonauticus sp. 38 4375	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinobacteria bacterium 66 15	in input, but not found from name or NCBI lookup - False Positive
+Species	Lysinimicrobium pelophilum	in input, but not found from name or NCBI lookup - False Positive
+Species	Lysinimicrobium rhizosphaerae	in input, but not found from name or NCBI lookup - False Positive
+Species	Dermacoccus sp. PE3	in input, but not found from name or NCBI lookup - False Positive
+Species	Lysobacter sp. AM20-91	in input, but not found from name or NCBI lookup - False Positive
+Species	uncultured Eubacterium sp.	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium crudilactis	in input, but not found from name or NCBI lookup - False Positive
+Species	Bifidobacterium aquikefiri	in input, but not found from name or NCBI lookup - False Positive
+Species	Caldimicrobium thiodismutans	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces naeslundii	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinobaculum suis	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces israelii	in input, but not found from name or NCBI lookup - False Positive
+Species	Sphingomonas sp. SCN 67-18	in input, but not found from name or NCBI lookup - False Positive
+Species	Acidobacteria bacterium Mor1	in input, but not found from name or NCBI lookup - False Positive
+Species	Nocardiopsis sp. RV163	in input, but not found from name or NCBI lookup - False Positive
+Species	Trueperella pyogenes	in input, but not found from name or NCBI lookup - False Positive
+Species	Akkermansia glycaniphila	in input, but not found from name or NCBI lookup - False Positive
+Species	Bifidobacterium adolescentis	in input, but not found from name or NCBI lookup - False Positive
+Species	Bifidobacterium bifidum	in input, but not found from name or NCBI lookup - False Positive
+Species	Laribacter hongkongensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Citrobacter sp. MGH109	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces urinae	in input, but not found from name or NCBI lookup - False Positive
+Species	Vitreoscilla sp. SN6	in input, but not found from name or NCBI lookup - False Positive
+Species	uncultured forest soil bacterium	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseria sp. 83E34	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium aurimucosum	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseria sp. 74A18	in input, but not found from name or NCBI lookup - False Positive
+Species	Oblitimonas alkaliphila	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium ammoniagenes	in input, but not found from name or NCBI lookup - False Positive
+Species	uncultured bacterium 5G12	in input, but not found from name or NCBI lookup - False Positive
+Species	Phycisphaerae bacterium SG8 4	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces sp. TSRI0107	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium stationis	in input, but not found from name or NCBI lookup - False Positive
+Species	Cellulomonas fimi	in input, but not found from name or NCBI lookup - False Positive
+Species	Cellulosimicrobium cellulans	in input, but not found from name or NCBI lookup - False Positive
+Species	Domibacillus antri	in input, but not found from name or NCBI lookup - False Positive
+Species	Microbacterium sp. No. 7	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium sp. HMSC070E08	in input, but not found from name or NCBI lookup - False Positive
+Species	Eikenella sp. HMSC061C02	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseria sp. HMSC066H01	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseria sp. HMSC061B04	in input, but not found from name or NCBI lookup - False Positive
+Species	Oceanobacillus picturae	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium glutamicum	in input, but not found from name or NCBI lookup - False Positive
+Species	bacterium endosymbiont of Pedicinus badii	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium pseudotuberculosis	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces provencensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Anaerotruncus rubiinfantis	in input, but not found from name or NCBI lookup - False Positive
+Species	Eggerthellaceae bacterium AT8	in input, but not found from name or NCBI lookup - False Positive
+Species	Rothia aeria	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium callunae	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium xerosis	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium variabile	in input, but not found from name or NCBI lookup - False Positive
+Species	Gemmatimonas aurantiaca	in input, but not found from name or NCBI lookup - False Positive
+Species	Sphingomonas sp. Leaf230	in input, but not found from name or NCBI lookup - False Positive
+Species	Nocardioides sp. Soil797	in input, but not found from name or NCBI lookup - False Positive
+Species	Leifsonia sp. Root112D2	in input, but not found from name or NCBI lookup - False Positive
+Species	Microbacterium sp. Root180	in input, but not found from name or NCBI lookup - False Positive
+Species	Microbacterium sp. Root280D1	in input, but not found from name or NCBI lookup - False Positive
+Species	Bosea sp. Root381	in input, but not found from name or NCBI lookup - False Positive
+Species	Angustibacter sp. Root456	in input, but not found from name or NCBI lookup - False Positive
+Species	Aeromicrobium sp. Root495	in input, but not found from name or NCBI lookup - False Positive
+Species	Microbacterium sp. Root53	in input, but not found from name or NCBI lookup - False Positive
+Species	Oerskovia sp. Root918	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium provencense	in input, but not found from name or NCBI lookup - False Positive
+Species	Deinococcus planocerae	in input, but not found from name or NCBI lookup - False Positive
+Species	Facklamia sp. HMSC062C11	in input, but not found from name or NCBI lookup - False Positive
+Species	Turicella sp. HMSC068H04	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces sp. HMSC075B09	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseria sp. HMSC069H12	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium sp. HMSC078H07	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium sp. HMSC074C01	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseria sp. HMSC070E12	in input, but not found from name or NCBI lookup - False Positive
+Species	Anaerococcus sp. HMSC075B03	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseria sp. HMSC056A03	in input, but not found from name or NCBI lookup - False Positive
+Species	Propionibacterium freudenreichii	in input, but not found from name or NCBI lookup - False Positive
+Species	Pseudopropionibacterium propionicum	in input, but not found from name or NCBI lookup - False Positive
+Species	Piromyces finnis	in input, but not found from name or NCBI lookup - False Positive
+Species	Serinicoccus sp. JLT9	in input, but not found from name or NCBI lookup - False Positive
+Species	Arthrobacter sp. ok909	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces sp. cf124	in input, but not found from name or NCBI lookup - False Positive
+Species	Paucibacter sp. KCTC 42545	in input, but not found from name or NCBI lookup - False Positive
+Species	Mycobacterium leprae	in input, but not found from name or NCBI lookup - False Positive
+Species	Burkholderia sp. JS23	in input, but not found from name or NCBI lookup - False Positive
+Species	Mycobacterium phlei	in input, but not found from name or NCBI lookup - False Positive
+Species	Snodgrassella sp. CFCC 13594	in input, but not found from name or NCBI lookup - False Positive
+Species	Clostridium sp. SN20	in input, but not found from name or NCBI lookup - False Positive
+Species	Mycobacterium gordonae	in input, but not found from name or NCBI lookup - False Positive
+Species	Facklamia hominis	in input, but not found from name or NCBI lookup - False Positive
+Species	Mycobacterium nonchromogenicum	in input, but not found from name or NCBI lookup - False Positive
+Species	Leptospirillum ferriphilum	in input, but not found from name or NCBI lookup - False Positive
+Species	Acinetobacter larvae	in input, but not found from name or NCBI lookup - False Positive
+Species	Mycobacterium asiaticum	in input, but not found from name or NCBI lookup - False Positive
+Species	Anaerosporomusa subterranea	in input, but not found from name or NCBI lookup - False Positive
+Species	Frondihabitans sp. PAMC 28766	in input, but not found from name or NCBI lookup - False Positive
+Species	Eikenella sp. NML02-A-017	in input, but not found from name or NCBI lookup - False Positive
+Species	Eikenella sp. NML130454	in input, but not found from name or NCBI lookup - False Positive
+Species	Acidobacteria bacterium RIFCSPLOWO2 02 FULL 64 15	in input, but not found from name or NCBI lookup - False Positive
+Species	Acidobacteria bacterium RIFCSPLOWO2 02 FULL 67 21	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinobacteria bacterium RBG 19FT COMBO 36 27	in input, but not found from name or NCBI lookup - False Positive
+Species	Burkholderiales bacterium RIFCSPHIGHO2 12 FULL 61 11	in input, but not found from name or NCBI lookup - False Positive
+Species	Burkholderiales bacterium RIFCSPLOWO2 12 FULL 65 40	in input, but not found from name or NCBI lookup - False Positive
+Species	Deltaproteobacteria bacterium RBG 16 47 11	in input, but not found from name or NCBI lookup - False Positive
+Species	Mycobacterium thermoresistibile	in input, but not found from name or NCBI lookup - False Positive
+Species	Gilliamella intestini	in input, but not found from name or NCBI lookup - False Positive
+Species	Gallionellales bacterium GWA2 60 142	in input, but not found from name or NCBI lookup - False Positive
+Species	Gallionellales bacterium RBG 16 56 9	in input, but not found from name or NCBI lookup - False Positive
+Species	Gammaproteobacteria bacterium RIFCSPHIGHO2 12 FULL 40 19	in input, but not found from name or NCBI lookup - False Positive
+Species	Legionellales bacterium RIFCSPHIGHO2 12 FULL 35 11	in input, but not found from name or NCBI lookup - False Positive
+Species	Lentisphaerae bacterium GWF2 44 16	in input, but not found from name or NCBI lookup - False Positive
+Species	Candidatus Moranbacteria bacterium RIFCSPHIGHO2 02 FULL 40 12b	in input, but not found from name or NCBI lookup - False Positive
+Species	Cetobacterium ceti	in input, but not found from name or NCBI lookup - False Positive
+Species	Omnitrophica WOR 2 bacterium GWA2 45 18	in input, but not found from name or NCBI lookup - False Positive
+Species	Candidatus Peribacteria bacterium RIFCSPLOWO2 01 FULL 51 18	in input, but not found from name or NCBI lookup - False Positive
+Species	Mycobacterium diernhoferi	in input, but not found from name or NCBI lookup - False Positive
+Species	Sideroxydans sp. GWF2 59 14	in input, but not found from name or NCBI lookup - False Positive
+Species	Spirochaetes bacterium GWB1 36 13	in input, but not found from name or NCBI lookup - False Positive
+Species	Spirochaetes bacterium RBG 16 67 19	in input, but not found from name or NCBI lookup - False Positive
+Species	Candidatus Tagabacteria bacterium RIFCSPLOWO2 01 FULL 42 9	in input, but not found from name or NCBI lookup - False Positive
+Species	Candidatus Yanofskybacteria bacterium RIFCSPHIGHO2 01 FULL 45 42	in input, but not found from name or NCBI lookup - False Positive
+Species	candidate division Zixibacteria bacterium RBG 16 53 22	in input, but not found from name or NCBI lookup - False Positive
+Species	Acidobacteria bacterium 13 1 40CM 4 58 4	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinobacteria bacterium 13 1 20CM 3 71 11	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinobacteria bacterium 13 1 40CM 66 12	in input, but not found from name or NCBI lookup - False Positive
+Species	Betaproteobacteria bacterium 13 1 20CM 3 63 8	in input, but not found from name or NCBI lookup - False Positive
+Species	Gemmatimonadetes bacterium 13 2 20CM 69 27	in input, but not found from name or NCBI lookup - False Positive
+Species	Immundisolibacter cernigliae	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces cardiffensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium sp. Marseille-P2417	in input, but not found from name or NCBI lookup - False Positive
+Species	Microgenomates group bacterium RIFCSPLOWO2 01 FULL 47 10	in input, but not found from name or NCBI lookup - False Positive
+Species	Candidatus Doudnabacteria bacterium RIFCSPHIGHO2 01 FULL 43 23	in input, but not found from name or NCBI lookup - False Positive
+Species	Candidatus Fraserbacteria bacterium RBG 16 55 9	in input, but not found from name or NCBI lookup - False Positive
+Species	Candidatus Handelsmanbacteria bacterium RIFCSPLOWO2 12 FULL 64 10	in input, but not found from name or NCBI lookup - False Positive
+Species	Colwellia sediminilitoris	in input, but not found from name or NCBI lookup - False Positive
+Species	Thalassolituus sp. HI0120	in input, but not found from name or NCBI lookup - False Positive
+Species	Proteobacteria bacterium SG bin4	in input, but not found from name or NCBI lookup - False Positive
+Species	Rhodococcus fascians	in input, but not found from name or NCBI lookup - False Positive
+Species	Rhodococcus ruber	in input, but not found from name or NCBI lookup - False Positive
+Species	Mycobacterium sp. 852002-51057 SCH5723018	in input, but not found from name or NCBI lookup - False Positive
+Species	Mycobacterium sp. ACS1612	in input, but not found from name or NCBI lookup - False Positive
+Species	Mycobacterium sp. E2989	in input, but not found from name or NCBI lookup - False Positive
+Species	Enterococcus sp. 2F9 DIV0599	in input, but not found from name or NCBI lookup - False Positive
+Species	Macromonas bipunctata	in input, but not found from name or NCBI lookup - False Positive
+Species	Frankia sp. ARgP5	in input, but not found from name or NCBI lookup - False Positive
+Species	Enteractinococcus helveticum	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomonospora alba	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces sp. BvitLS-983	in input, but not found from name or NCBI lookup - False Positive
+Species	Candidatus Frankia californiensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Mycobacterium sp. AB57	in input, but not found from name or NCBI lookup - False Positive
+Species	Pseudomonas sp. 22 E 5	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinobacteria bacterium IMCC26077	in input, but not found from name or NCBI lookup - False Positive
+Species	Knoellia subterranea	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces sp. Marseille-P2825	in input, but not found from name or NCBI lookup - False Positive
+Species	Propionicimonas paludicola	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseria sp. 10022	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseria sp. 10023	in input, but not found from name or NCBI lookup - False Positive
+Species	Trypanosoma brucei	in input, but not found from name or NCBI lookup - False Positive
+Species	Candidatus Aquiluna sp. UB-MaderosW2red	in input, but not found from name or NCBI lookup - False Positive
+Species	Variovorax sp. KK3	in input, but not found from name or NCBI lookup - False Positive
+Species	'Osedax' symbiont bacterium Rs2 46 30 T18	in input, but not found from name or NCBI lookup - False Positive
+Species	Mycobacterium sp. 1164966.3	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium spheniscorum	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces vulturis	in input, but not found from name or NCBI lookup - False Positive
+Species	Candidatus Propionivibrio aalborgensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Candidatus Accumulibacter aalborgensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Dermatophilus congolensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Thioalkalivibrio nitratireducens	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinotignum timonense	in input, but not found from name or NCBI lookup - False Positive
+Species	Arcanobacterium urinimassiliense	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces sp. Marseille-P3257	in input, but not found from name or NCBI lookup - False Positive
+Species	Propionimicrobium sp. Marseille-P3275	in input, but not found from name or NCBI lookup - False Positive
+Species	Idiomarina sp.	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium glaucum	in input, but not found from name or NCBI lookup - False Positive
+Species	Nocardioides sp. YR527	in input, but not found from name or NCBI lookup - False Positive
+Species	Quadrisphaera sp. DSM 44207	in input, but not found from name or NCBI lookup - False Positive
+Species	Micromonospora viridifaciens	in input, but not found from name or NCBI lookup - False Positive
+Species	Bacillus sp. OK048	in input, but not found from name or NCBI lookup - False Positive
+Species	Variovorax sp. PDC80	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinobacteria bacterium	in input, but not found from name or NCBI lookup - False Positive
+Species	Pelagibacteraceae bacterium ETNP-OMZ-SAG-E2	in input, but not found from name or NCBI lookup - False Positive
+Species	Herbaspirillum sp. WT00C	in input, but not found from name or NCBI lookup - False Positive
+Species	Candidatus Tremblaya princeps	in input, but not found from name or NCBI lookup - False Positive
+Species	Candidatus Accumulibacter sp. 66-26	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinobacteria bacterium 69-20	in input, but not found from name or NCBI lookup - False Positive
+Species	Cellulomonas sp. 73-92	in input, but not found from name or NCBI lookup - False Positive
+Species	Candidatus Kapabacteria sp. 59-99	in input, but not found from name or NCBI lookup - False Positive
+Species	Microbacterium sp. 70-38	in input, but not found from name or NCBI lookup - False Positive
+Species	Micrococcales bacterium 73-13	in input, but not found from name or NCBI lookup - False Positive
+Species	Micrococcales bacterium 73-15	in input, but not found from name or NCBI lookup - False Positive
+Species	Thiobacillus sp. 65-1402	in input, but not found from name or NCBI lookup - False Positive
+Species	Thiobacillus sp. 65-29	in input, but not found from name or NCBI lookup - False Positive
+Species	Nitrosospira sp. 56-18	in input, but not found from name or NCBI lookup - False Positive
+Species	Babesia ovata	in input, but not found from name or NCBI lookup - False Positive
+Species	Rhodocyclaceae bacterium	in input, but not found from name or NCBI lookup - False Positive
+Species	Thiotrichales bacterium HS 08	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinotignum urinale	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomadura sp. CNU-125	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium sp. CNJ-954	in input, but not found from name or NCBI lookup - False Positive
+Species	Ornithinimicrobium sp. CNJ-824	in input, but not found from name or NCBI lookup - False Positive
+Species	Pectobacterium parmentieri	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium sp. NML130628	in input, but not found from name or NCBI lookup - False Positive
+Species	Jeongeupia sp. USM3	in input, but not found from name or NCBI lookup - False Positive
+Species	Hymenobacter coccineus	in input, but not found from name or NCBI lookup - False Positive
+Species	Salinivibrio sp. MA427	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomycetales bacterium	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces griseus	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces sp. VUL4 3	in input, but not found from name or NCBI lookup - False Positive
+Species	Bacillus obstructivus	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium sphenisci	in input, but not found from name or NCBI lookup - False Positive
+Species	Conexibacter woesei	in input, but not found from name or NCBI lookup - False Positive
+Species	Achromobacter sp. KAs 3-5	in input, but not found from name or NCBI lookup - False Positive
+Species	Candidatus Gastranaerophilales bacterium HUM 9	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces liubingyangii	in input, but not found from name or NCBI lookup - False Positive
+Species	Azospirillum brasilense	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseria dumasiana	in input, but not found from name or NCBI lookup - False Positive
+Species	bacterium F16	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinosynnema sp. ALI-1.44	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptoalloteichus tenebrarius	in input, but not found from name or NCBI lookup - False Positive
+Species	Desulfobacteraceae bacterium IS3	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces niveus	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces sp. CtC 72	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces sp. 1331.2	in input, but not found from name or NCBI lookup - False Positive
+Species	Juglanconis juglandina	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseria dentiae	in input, but not found from name or NCBI lookup - False Positive
+Species	Micrococcales bacterium KH10	in input, but not found from name or NCBI lookup - False Positive
+Species	Ruaniaceae bacterium KH17	in input, but not found from name or NCBI lookup - False Positive
+Species	Herbaspirillum sp. VT-16-41	in input, but not found from name or NCBI lookup - False Positive
+Species	Cohnella sp. CIP 111063	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces sclerotialus	in input, but not found from name or NCBI lookup - False Positive
+Species	Bifidobacterium italicum	in input, but not found from name or NCBI lookup - False Positive
+Species	Mycobacterium sp. AFP003	in input, but not found from name or NCBI lookup - False Positive
+Species	Noviherbaspirillum denitrificans	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinoplanes friuliensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Cellulomonas sp. 14-74-6	in input, but not found from name or NCBI lookup - False Positive
+Species	Gammaproteobacteria bacterium 28-57-27	in input, but not found from name or NCBI lookup - False Positive
+Species	Verrucomicrobia bacterium 12-59-8	in input, but not found from name or NCBI lookup - False Positive
+Species	Deltaproteobacteria bacterium CG07 land 8 20 14 0 80 60 11	in input, but not found from name or NCBI lookup - False Positive
+Species	Candidatus Magasanikbacteria bacterium CG10 big fil rev 8 21 14 0 10 36 16	in input, but not found from name or NCBI lookup - False Positive
+Species	Terasakiispira papahanaumokuakeensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Candidatus Zambryskibacteria bacterium CG10 big fil rev 8 21 14 0 10 42 12	in input, but not found from name or NCBI lookup - False Positive
+Species	Candidatus Marinimicrobia bacterium CG08 land 8 20 14 0 20 45 22	in input, but not found from name or NCBI lookup - False Positive
+Species	Acinetobacter sp. ANC 3832	in input, but not found from name or NCBI lookup - False Positive
+Species	Cryobacterium sp. LW097	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium kefirresidentii	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces sp. CS057	in input, but not found from name or NCBI lookup - False Positive
+Species	Sulfuriferula sp. AH1	in input, but not found from name or NCBI lookup - False Positive
+Species	Brevefilum fermentans	in input, but not found from name or NCBI lookup - False Positive
+Species	Bacteroidetes bacterium MED-G13	in input, but not found from name or NCBI lookup - False Positive
+Species	Flavobacteriaceae bacterium TMED42	in input, but not found from name or NCBI lookup - False Positive
+Species	Crocinitomicaceae bacterium TMED114	in input, but not found from name or NCBI lookup - False Positive
+Species	Methylococcaceae bacterium TMED282	in input, but not found from name or NCBI lookup - False Positive
+Species	Opitutales bacterium TMED158	in input, but not found from name or NCBI lookup - False Positive
+Species	Candidatus Paraburkholderia kirkii	in input, but not found from name or NCBI lookup - False Positive
+Species	Brevibacterium luteolum	in input, but not found from name or NCBI lookup - False Positive
+Species	Microtetraspora fusca	in input, but not found from name or NCBI lookup - False Positive
+Species	Campylobacter concisus	in input, but not found from name or NCBI lookup - False Positive
+Species	Nitrosospira sp. Nl5	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomycetaceae bacterium Marseille-P3850	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptosporangium amethystogenes	in input, but not found from name or NCBI lookup - False Positive
+Species	Cellulomonas sp. PSBB021	in input, but not found from name or NCBI lookup - False Positive
+Species	uncultured Desulfobacterium sp.	in input, but not found from name or NCBI lookup - False Positive
+Species	Candidatus Bathyarchaeota archaeon ex4484 205	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinobacteria bacterium HGW-Actinobacteria-3	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinobacteria bacterium HGW-Actinobacteria-4	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinobacteria bacterium HGW-Actinobacteria-8	in input, but not found from name or NCBI lookup - False Positive
+Species	Alphaproteobacteria bacterium HGW-Alphaproteobacteria-6	in input, but not found from name or NCBI lookup - False Positive
+Species	Bacteroidetes bacterium HGW-Bacteroidetes-17	in input, but not found from name or NCBI lookup - False Positive
+Species	Betaproteobacteria bacterium HGW-Betaproteobacteria-11	in input, but not found from name or NCBI lookup - False Positive
+Species	Betaproteobacteria bacterium HGW-Betaproteobacteria-4	in input, but not found from name or NCBI lookup - False Positive
+Species	Deltaproteobacteria bacterium HGW-Deltaproteobacteria-22	in input, but not found from name or NCBI lookup - False Positive
+Species	Ignavibacteriae bacterium HGW-Ignavibacteriae-4	in input, but not found from name or NCBI lookup - False Positive
+Species	Spirochaetae bacterium HGW-Spirochaetae-1	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium sp. Marseille-P4122	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces sp. FBKL.4005	in input, but not found from name or NCBI lookup - False Positive
+Species	Coxiellaceae bacterium RA15029	in input, but not found from name or NCBI lookup - False Positive
+Species	Propionibacteriaceae bacterium NML 160184	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptoalloteichus hindustanus	in input, but not found from name or NCBI lookup - False Positive
+Species	Arthrobacter sp. 7749	in input, but not found from name or NCBI lookup - False Positive
+Species	Synechococcus phage Bellamy	in input, but not found from name or NCBI lookup - False Positive
+Species	Glutamicibacter sp. BW80	in input, but not found from name or NCBI lookup - False Positive
+Species	Chloroflexi bacterium	in input, but not found from name or NCBI lookup - False Positive
+Species	Chromatiales bacterium	in input, but not found from name or NCBI lookup - False Positive
+Species	Micrococcales bacterium	in input, but not found from name or NCBI lookup - False Positive
+Species	Planctomycetes bacterium	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinobaculum massiliense	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium sp. NML 120412	in input, but not found from name or NCBI lookup - False Positive
+Species	Robiginitomaculum sp.	in input, but not found from name or NCBI lookup - False Positive
+Species	Thiotrichaceae bacterium	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium aquilae	in input, but not found from name or NCBI lookup - False Positive
+Species	Microbacterium testaceum	in input, but not found from name or NCBI lookup - False Positive
+Species	bacterium HR12	in input, but not found from name or NCBI lookup - False Positive
+Species	bacterium HR37	in input, but not found from name or NCBI lookup - False Positive
+Species	Candidatus Blochmannia floridanus	in input, but not found from name or NCBI lookup - False Positive
+Species	Marinobacter sp. ANT B65	in input, but not found from name or NCBI lookup - False Positive
+Species	Tropheryma whipplei	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces sp. Ru87	in input, but not found from name or NCBI lookup - False Positive
+Species	Pimelobacter simplex	in input, but not found from name or NCBI lookup - False Positive
+Species	Thalassospira sp. CSC3H3	in input, but not found from name or NCBI lookup - False Positive
+Species	Cryobacterium sp. Y62	in input, but not found from name or NCBI lookup - False Positive
+Species	Cryobacterium sp. N19	in input, but not found from name or NCBI lookup - False Positive
+Species	Mobiluncus curtisii	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseriaceae bacterium DSM 100970	in input, but not found from name or NCBI lookup - False Positive
+Species	Mobiluncus mulieris	in input, but not found from name or NCBI lookup - False Positive
+Species	Candidatus Parcubacteria bacterium	in input, but not found from name or NCBI lookup - False Positive
+Species	Cyanobacteria bacterium M5B4	in input, but not found from name or NCBI lookup - False Positive
+Species	Sphaerobacter thermophilus	in input, but not found from name or NCBI lookup - False Positive
+Species	Arthrobacter sp. GMC3	in input, but not found from name or NCBI lookup - False Positive
+Species	Chromobacterium sp. ATCC 53434	in input, but not found from name or NCBI lookup - False Positive
+Species	Tabrizicola sp. TH137	in input, but not found from name or NCBI lookup - False Positive
+Species	Zhongshania sp. ZX-21	in input, but not found from name or NCBI lookup - False Positive
+Species	Campylobacter sp. AAUH-44UCsig-a	in input, but not found from name or NCBI lookup - False Positive
+Species	Pseudomonas sp. MWU12-2115	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces sp. 553	in input, but not found from name or NCBI lookup - False Positive
+Species	Pseudonocardia autotrophica	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces nasicola	in input, but not found from name or NCBI lookup - False Positive
+Species	Helicobacter pylori	in input, but not found from name or NCBI lookup - False Positive
+Species	Conchiformibius kuhniae	in input, but not found from name or NCBI lookup - False Positive
+Species	Vibrio tasmaniensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseria elongata	in input, but not found from name or NCBI lookup - False Positive
+Species	Spiroplasma litorale	in input, but not found from name or NCBI lookup - False Positive
+Species	Ottowia thiooxydans	in input, but not found from name or NCBI lookup - False Positive
+Species	Bacillus soli	in input, but not found from name or NCBI lookup - False Positive
+Species	Methylobacterium populi	in input, but not found from name or NCBI lookup - False Positive
+Species	Halorubrum saccharovorum	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium halotolerans	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium caspium	in input, but not found from name or NCBI lookup - False Positive
+Species	Salinibacillus kushneri	in input, but not found from name or NCBI lookup - False Positive
+Species	Candidatus Burkholderia verschuerenii	in input, but not found from name or NCBI lookup - False Positive
+Species	Ichthyobacterium seriolicida	in input, but not found from name or NCBI lookup - False Positive
+Species	Deinococcus radiodurans	in input, but not found from name or NCBI lookup - False Positive
+Species	Methylococcus capsulatus	in input, but not found from name or NCBI lookup - False Positive
+Species	Nocardiopsis salina	in input, but not found from name or NCBI lookup - False Positive
+Species	marine gamma proteobacterium HTCC2143	in input, but not found from name or NCBI lookup - False Positive
+Species	Mahella australiensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces sp. C	in input, but not found from name or NCBI lookup - False Positive
+Species	Pseudoclavibacter helvolus	in input, but not found from name or NCBI lookup - False Positive
+Species	Glycomyces arizonensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Rhodococcus sp. RD6.2	in input, but not found from name or NCBI lookup - False Positive
+Species	Janibacter melonis	in input, but not found from name or NCBI lookup - False Positive
+Species	delta proteobacterium MLMS-1	in input, but not found from name or NCBI lookup - False Positive
+Species	Jonesia quinghaiensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Rhodococcus phenolicus	in input, but not found from name or NCBI lookup - False Positive
+Species	Desulfurispora thermophila	in input, but not found from name or NCBI lookup - False Positive
+Species	Porphyrobacter donghaensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseria bacilliformis	in input, but not found from name or NCBI lookup - False Positive
+Species	Microcystis aeruginosa	in input, but not found from name or NCBI lookup - False Positive
+Species	Gardnerella vaginalis	in input, but not found from name or NCBI lookup - False Positive
+Species	Pseudomonas xanthomarina	in input, but not found from name or NCBI lookup - False Positive
+Species	Cardiobacterium hominis	in input, but not found from name or NCBI lookup - False Positive
+Species	[Oscillatoria] sp. PCC 6506	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces dentalis	in input, but not found from name or NCBI lookup - False Positive
+Species	Aggregatibacter actinomycetemcomitans	in input, but not found from name or NCBI lookup - False Positive
+Species	Mannheimia haemolytica	in input, but not found from name or NCBI lookup - False Positive
+Species	Brevibacterium aurantiacum	in input, but not found from name or NCBI lookup - False Positive
+Species	Puccinia striiformis	in input, but not found from name or NCBI lookup - False Positive
+Species	Microbacterium oleivorans	in input, but not found from name or NCBI lookup - False Positive
+Species	Synergistes jonesii	in input, but not found from name or NCBI lookup - False Positive
+Species	Porphyra umbilicalis	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces ambofaciens	in input, but not found from name or NCBI lookup - False Positive
+Species	Bifidobacterium animalis	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium flavescens	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseria weaveri	in input, but not found from name or NCBI lookup - False Positive
+Species	Prosthecochloris sp. GSB1	in input, but not found from name or NCBI lookup - False Positive
+Species	Jiangella gansuensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Arcanobacterium haemolyticum	in input, but not found from name or NCBI lookup - False Positive
+Species	Burkholderia pseudomallei	in input, but not found from name or NCBI lookup - False Positive
+Species	Phaeodactylum tricornutum	in input, but not found from name or NCBI lookup - False Positive
+Species	Sanguibacter marinus	in input, but not found from name or NCBI lookup - False Positive
+Species	Arthrobacter sp. FB24	in input, but not found from name or NCBI lookup - False Positive
+Species	Flavonifractor plautii	in input, but not found from name or NCBI lookup - False Positive
+Species	Turicella otitidis	in input, but not found from name or NCBI lookup - False Positive
+Species	[Eubacterium] cellulosolvens	in input, but not found from name or NCBI lookup - False Positive
+Species	Turneriella parva	in input, but not found from name or NCBI lookup - False Positive
+Species	Symbiodinium microadriaticum	in input, but not found from name or NCBI lookup - False Positive
+Species	Azoarcus sp.	in input, but not found from name or NCBI lookup - False Positive
+Species	Pseudomonas fragi	in input, but not found from name or NCBI lookup - False Positive
+Species	Frankia sp. EAN1pec	in input, but not found from name or NCBI lookup - False Positive
+Species	Frankia inefficax	in input, but not found from name or NCBI lookup - False Positive
+Species	Rhodococcus triatomae	in input, but not found from name or NCBI lookup - False Positive
+Species	Cellulomonas bogoriensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium tuscaniense	in input, but not found from name or NCBI lookup - False Positive
+Species	Pseudomonas putida	in input, but not found from name or NCBI lookup - False Positive
+Species	Catenulispora acidiphila	in input, but not found from name or NCBI lookup - False Positive
+Species	Chlamydomonas reinhardtii	in input, but not found from name or NCBI lookup - False Positive
+Species	Volvox carteri	in input, but not found from name or NCBI lookup - False Positive
+Species	marine actinobacterium PHSC20C1	in input, but not found from name or NCBI lookup - False Positive
+Species	Plasmodium chabaudi	in input, but not found from name or NCBI lookup - False Positive
+Species	Janibacter sp. HTCC2649	in input, but not found from name or NCBI lookup - False Positive
+Species	Pseudoalteromonas tunicata	in input, but not found from name or NCBI lookup - False Positive
+Species	Psychromonas sp. CNPT3	in input, but not found from name or NCBI lookup - False Positive
+Species	Pseudomonas stutzeri	in input, but not found from name or NCBI lookup - False Positive
+Species	Amycolatopsis lurida	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomadura rifamycini	in input, but not found from name or NCBI lookup - False Positive
+Species	Gordonia soli	in input, but not found from name or NCBI lookup - False Positive
+Species	Dietzia cinnamea	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseria animaloris	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseria zoodegmatis	in input, but not found from name or NCBI lookup - False Positive
+Species	Demequina aestuarii	in input, but not found from name or NCBI lookup - False Positive
+Species	Rhizoclosmatium globosum	in input, but not found from name or NCBI lookup - False Positive
+Species	Propionimicrobium lymphophilum	in input, but not found from name or NCBI lookup - False Positive
+Species	Clavibacter michiganensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Acidobacterium capsulatum	in input, but not found from name or NCBI lookup - False Positive
+Species	Kribbia dieselivorans	in input, but not found from name or NCBI lookup - False Positive
+Species	Pediococcus stilesii	in input, but not found from name or NCBI lookup - False Positive
+Species	alpha proteobacterium BAL199	in input, but not found from name or NCBI lookup - False Positive
+Species	Purpureocillium lilacinum	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces ruminicola	in input, but not found from name or NCBI lookup - False Positive
+Species	Bifidobacterium thermophilum	in input, but not found from name or NCBI lookup - False Positive
+Species	Azoarcus tolulyticus	in input, but not found from name or NCBI lookup - False Positive
+Species	Serpula lacrymans	in input, but not found from name or NCBI lookup - False Positive
+Species	Kutzneria sp. 744	in input, but not found from name or NCBI lookup - False Positive
+Species	Xanthomonas citri	in input, but not found from name or NCBI lookup - False Positive
+Species	Rhodobacter sphaeroides	in input, but not found from name or NCBI lookup - False Positive
+Species	Dictyostelium discoideum	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces sp. Tu6071	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces mobaraensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Leeia oryzae	in input, but not found from name or NCBI lookup - False Positive
+Species	Bifidobacterium tsurumiense	in input, but not found from name or NCBI lookup - False Positive
+Species	Parasitella parasitica	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium pilosum	in input, but not found from name or NCBI lookup - False Positive
+Species	Planobispora rosea	in input, but not found from name or NCBI lookup - False Positive
+Species	Nitrospina gracilis	in input, but not found from name or NCBI lookup - False Positive
+Species	Microbacterium indicum	in input, but not found from name or NCBI lookup - False Positive
+Species	Smaragdicoccus niigatensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Crenothrix polyspora	in input, but not found from name or NCBI lookup - False Positive
+Species	Longilinea arvoryzae	in input, but not found from name or NCBI lookup - False Positive
+Species	Polaromonas naphthalenivorans	in input, but not found from name or NCBI lookup - False Positive
+Species	Pseudonocardia oroxyli	in input, but not found from name or NCBI lookup - False Positive
+Species	Ruania albidiflava	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium bovis	in input, but not found from name or NCBI lookup - False Positive
+Species	Mycobacterium agri	in input, but not found from name or NCBI lookup - False Positive
+Species	Morganella psychrotolerans	in input, but not found from name or NCBI lookup - False Positive
+Species	Pelotomaculum thermopropionicum	in input, but not found from name or NCBI lookup - False Positive
+Species	Zhihengliuella halotolerans	in input, but not found from name or NCBI lookup - False Positive
+Species	Microbacterium pygmaeum	in input, but not found from name or NCBI lookup - False Positive
+Species	Sanguibacter antarcticus	in input, but not found from name or NCBI lookup - False Positive
+Species	Isoptericola dokdonensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Nocardia seriolae	in input, but not found from name or NCBI lookup - False Positive
+Species	Clostridium algidicarnis	in input, but not found from name or NCBI lookup - False Positive
+Species	Glycomyces sambucus	in input, but not found from name or NCBI lookup - False Positive
+Species	Thiohalorhabdus denitrificans	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium accolens	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium jeikeium	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium minutissimum	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium pseudogenitalium	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium tuberculostearicum	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium vitaeruminis	in input, but not found from name or NCBI lookup - False Positive
+Species	[Bacteroides] pectinophilus	in input, but not found from name or NCBI lookup - False Positive
+Species	Ornithinimicrobium pekingense	in input, but not found from name or NCBI lookup - False Positive
+Species	Desulfotomaculum geothermicum	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinocatenispora sera	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptococcus suis	in input, but not found from name or NCBI lookup - False Positive
+Species	Limnobacter sp. MED105	in input, but not found from name or NCBI lookup - False Positive
+Species	Ascosphaera apis	in input, but not found from name or NCBI lookup - False Positive
+Species	Fusobacterium nucleatum	in input, but not found from name or NCBI lookup - False Positive
+Species	Candidatus Endoriftia persephone	in input, but not found from name or NCBI lookup - False Positive
+Species	Atopobium fossor	in input, but not found from name or NCBI lookup - False Positive
+Species	Aestuariimicrobium kwangyangense	in input, but not found from name or NCBI lookup - False Positive
+Species	Mycobacterium duvalii	in input, but not found from name or NCBI lookup - False Positive
+Species	Rhizobium phaseoli	in input, but not found from name or NCBI lookup - False Positive
+Species	Marmoricola aequoreus	in input, but not found from name or NCBI lookup - False Positive
+Species	Hydrogenovibrio crunogenus	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium glucuronolyticum	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomycetospora chiangmaiensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Penicillium italicum	in input, but not found from name or NCBI lookup - False Positive
+Species	Stenotrophomonas maltophilia	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces radiopugnans	in input, but not found from name or NCBI lookup - False Positive
+Species	Blautia obeum	in input, but not found from name or NCBI lookup - False Positive
+Species	[Ruminococcus] torques	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces odontolyticus	in input, but not found from name or NCBI lookup - False Positive
+Species	Pseudoflavonifractor capillosus	in input, but not found from name or NCBI lookup - False Positive
+Species	[Ruminococcus] gnavus	in input, but not found from name or NCBI lookup - False Positive
+Species	Collinsella aerofaciens	in input, but not found from name or NCBI lookup - False Positive
+Species	[Polyangium] brachysporum	in input, but not found from name or NCBI lookup - False Positive
+Species	Brevibacterium album	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces acidiscabies	in input, but not found from name or NCBI lookup - False Positive
+Species	Humibacter albus	in input, but not found from name or NCBI lookup - False Positive
+Species	[Clostridium] leptum	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium argentoratense	in input, but not found from name or NCBI lookup - False Positive
+Species	Monosiga brevicollis	in input, but not found from name or NCBI lookup - False Positive
+Species	Magnetospirillum gryphiswaldense	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces graevenitzii	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseria mucosa	in input, but not found from name or NCBI lookup - False Positive
+Species	Pseudoalteromonas citrea	in input, but not found from name or NCBI lookup - False Positive
+Species	Rothia mucilaginosa	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium striatum	in input, but not found from name or NCBI lookup - False Positive
+Species	Rhodococcus zopfii	in input, but not found from name or NCBI lookup - False Positive
+Species	Ferrimonas balearica	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium timonense	in input, but not found from name or NCBI lookup - False Positive
+Species	uncultured Pleomorphomonas sp.	in input, but not found from name or NCBI lookup - False Positive
+Species	Nitrosomonas ureae	in input, but not found from name or NCBI lookup - False Positive
+Species	Adlercreutzia equolifaciens	in input, but not found from name or NCBI lookup - False Positive
+Species	Kocuria flava	in input, but not found from name or NCBI lookup - False Positive
+Species	Legionella pneumophila	in input, but not found from name or NCBI lookup - False Positive
+Species	Simiduia agarivorans	in input, but not found from name or NCBI lookup - False Positive
+Species	Legionella erythra	in input, but not found from name or NCBI lookup - False Positive
+Species	Microbacterium profundi	in input, but not found from name or NCBI lookup - False Positive
+Species	Legionella lansingensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Pseudoclavibacter soli	in input, but not found from name or NCBI lookup - False Positive
+Species	Kiloniella laminariae	in input, but not found from name or NCBI lookup - False Positive
+Species	Legionella israelensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Glaesserella parasuis	in input, but not found from name or NCBI lookup - False Positive
+Species	Haemophilus influenzae	in input, but not found from name or NCBI lookup - False Positive
+Species	Veillonella sp. 3 1 44	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces filamentosus	in input, but not found from name or NCBI lookup - False Positive
+Species	Legionella rubrilucens	in input, but not found from name or NCBI lookup - False Positive
+Species	Mycobacterium noviomagense	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces massiliensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomadura kijaniata	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces sviceus	in input, but not found from name or NCBI lookup - False Positive
+Species	Reticulomyxa filosa	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces sp. Mg1	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces sp. SPB074	in input, but not found from name or NCBI lookup - False Positive
+Species	Legionella maceachernii	in input, but not found from name or NCBI lookup - False Positive
+Species	Devosia riboflavina	in input, but not found from name or NCBI lookup - False Positive
+Species	Thermobispora bispora	in input, but not found from name or NCBI lookup - False Positive
+Species	Acinetobacter baumannii	in input, but not found from name or NCBI lookup - False Positive
+Species	Devriesea agamarum	in input, but not found from name or NCBI lookup - False Positive
+Species	Desulfosporosinus acididurans	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces lydicus	in input, but not found from name or NCBI lookup - False Positive
+Species	Modestobacter marinus	in input, but not found from name or NCBI lookup - False Positive
+Species	Tetrabaena socialis	in input, but not found from name or NCBI lookup - False Positive
+Species	Brachybacterium alimentarium	in input, but not found from name or NCBI lookup - False Positive
+Species	Micromonospora inositola	in input, but not found from name or NCBI lookup - False Positive
+Species	Micromonospora inyonensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Pseudomonas amygdali	in input, but not found from name or NCBI lookup - False Positive
+Species	Pediococcus argentinicus	in input, but not found from name or NCBI lookup - False Positive
+Species	Cystoisospora suis	in input, but not found from name or NCBI lookup - False Positive
+Species	Paenibacillus sp. P22	in input, but not found from name or NCBI lookup - False Positive
+Species	Paenibacillus riograndensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseria cinerea	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseria flavescens	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinophytocola xinjiangensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseria lactamica	in input, but not found from name or NCBI lookup - False Positive
+Species	Xanthomonas arboricola	in input, but not found from name or NCBI lookup - False Positive
+Species	Leptospira fainei	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium sputi	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseria polysaccharea	in input, but not found from name or NCBI lookup - False Positive
+Species	Pseudoalteromonas sp. NJ631	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseria canis	in input, but not found from name or NCBI lookup - False Positive
+Species	Paeniglutamicibacter antarcticus	in input, but not found from name or NCBI lookup - False Positive
+Species	Bergeriella denitrificans	in input, but not found from name or NCBI lookup - False Positive
+Species	Heliobacterium modesticaldum	in input, but not found from name or NCBI lookup - False Positive
+Species	Dietzia timorensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Glaciibacter superstes	in input, but not found from name or NCBI lookup - False Positive
+Species	Kingella denitrificans	in input, but not found from name or NCBI lookup - False Positive
+Species	Spirochaeta cellobiosiphila	in input, but not found from name or NCBI lookup - False Positive
+Species	Kingella kingae	in input, but not found from name or NCBI lookup - False Positive
+Species	Gallibacterium genomosp. 3	in input, but not found from name or NCBI lookup - False Positive
+Species	Kingella oralis	in input, but not found from name or NCBI lookup - False Positive
+Species	Sciscionella marina	in input, but not found from name or NCBI lookup - False Positive
+Species	Thermoanaerobacter ethanolicus	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinobacillus minor	in input, but not found from name or NCBI lookup - False Positive
+Species	Eimeria necatrix	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces nanshensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Brucella pinnipedialis	in input, but not found from name or NCBI lookup - False Positive
+Species	Bordetella pertussis	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium lipophiloflavum	in input, but not found from name or NCBI lookup - False Positive
+Species	Thiothrix caldifontis	in input, but not found from name or NCBI lookup - False Positive
+Species	Haloglycomyces albus	in input, but not found from name or NCBI lookup - False Positive
+Species	Krasilnikoviella flava	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces denticolens	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces gerencseriae	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces hordeovulneris	in input, but not found from name or NCBI lookup - False Positive
+Species	Rhodoluna lacicola	in input, but not found from name or NCBI lookup - False Positive
+Species	Prauserella marina	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinopolymorpha alba	in input, but not found from name or NCBI lookup - False Positive
+Species	Brevibacterium mcbrellneri	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium coyleae	in input, but not found from name or NCBI lookup - False Positive
+Species	Mycobacterium heidelbergense	in input, but not found from name or NCBI lookup - False Positive
+Species	Treponema socranskii	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces cinnamoneus	in input, but not found from name or NCBI lookup - False Positive
+Species	Candidatus Rhodoluna planktonica	in input, but not found from name or NCBI lookup - False Positive
+Species	Helicobacter cinaedi	in input, but not found from name or NCBI lookup - False Positive
+Species	Eikenella corrodens	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium lubricantis	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces oris	in input, but not found from name or NCBI lookup - False Positive
+Species	Paraoerskovia marina	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseria subflava	in input, but not found from name or NCBI lookup - False Positive
+Species	Friedmanniella luteola	in input, but not found from name or NCBI lookup - False Positive
+Species	Friedmanniella sagamiharensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Enterobacter cloacae	in input, but not found from name or NCBI lookup - False Positive
+Species	Pantoea ananatis	in input, but not found from name or NCBI lookup - False Positive
+Species	Tersicoccus phoenicis	in input, but not found from name or NCBI lookup - False Positive
+Species	Thiomonas sp. CB2	in input, but not found from name or NCBI lookup - False Positive
+Species	Candidatus Liberibacter solanacearum	in input, but not found from name or NCBI lookup - False Positive
+Species	Neomicrococcus aestuarii	in input, but not found from name or NCBI lookup - False Positive
+Species	Propionibacterium acidifaciens	in input, but not found from name or NCBI lookup - False Positive
+Species	Serinibacter salmoneus	in input, but not found from name or NCBI lookup - False Positive
+Species	Anaerococcus hydrogenalis	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces viscosus	in input, but not found from name or NCBI lookup - False Positive
+Species	Rothia dentocariosa	in input, but not found from name or NCBI lookup - False Positive
+Species	Leishmania donovani	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces viridosporus	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptosporangium sp. M26	in input, but not found from name or NCBI lookup - False Positive
+Species	Sorangium cellulosum	in input, but not found from name or NCBI lookup - False Positive
+Species	Marinifilum fragile	in input, but not found from name or NCBI lookup - False Positive
+Species	Luteipulveratus mongoliensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Acidovorax delafieldii	in input, but not found from name or NCBI lookup - False Positive
+Species	Frankia sp. AvcI1	in input, but not found from name or NCBI lookup - False Positive
+Species	Candidatus Planktophila limnetica	in input, but not found from name or NCBI lookup - False Positive
+Species	Micrococcus terreus	in input, but not found from name or NCBI lookup - False Positive
+Species	Nocardioides terrae	in input, but not found from name or NCBI lookup - False Positive
+Species	Microvirgula aerodenitrificans	in input, but not found from name or NCBI lookup - False Positive
+Species	Enterococcus asini	in input, but not found from name or NCBI lookup - False Positive
+Species	Allomyces macrogynus	in input, but not found from name or NCBI lookup - False Positive
+Species	Burkholderia thailandensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Plasmodium berghei	in input, but not found from name or NCBI lookup - False Positive
+Species	Microbacterium azadirachtae	in input, but not found from name or NCBI lookup - False Positive
+Species	Proteus mirabilis	in input, but not found from name or NCBI lookup - False Positive
+Species	Plasmodium knowlesi	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium genitalium	in input, but not found from name or NCBI lookup - False Positive
+Species	Aeromicrobium marinum	in input, but not found from name or NCBI lookup - False Positive
+Species	Plasmodium vivax	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces sp. SPB78	found in both lists -- based on NCBI-ID lookup - True Positive
+Species	Streptomyces sp. SPB78	in input, but not found from name or NCBI lookup - False Positive
+Species	Coxiella sp. (in: Bacteria)	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinotignum schaalii	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces hominis	in input, but not found from name or NCBI lookup - False Positive
+Species	uncultured Clostridium sp.	in input, but not found from name or NCBI lookup - False Positive
+Species	Rhodococcus erythropolis	in input, but not found from name or NCBI lookup - False Positive
+Species	Mycobacterium wolinskyi	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium pyruviciproducens	in input, but not found from name or NCBI lookup - False Positive
+Species	Sanguibacter keddieii	in input, but not found from name or NCBI lookup - False Positive
+Species	Lelliottia amnigena	in input, but not found from name or NCBI lookup - False Positive
+Species	Vitreoscilla stercoraria	in input, but not found from name or NCBI lookup - False Positive
+Species	Luteimicrobium subarcticum	in input, but not found from name or NCBI lookup - False Positive
+Species	Virgibacillus subterraneus	in input, but not found from name or NCBI lookup - False Positive
+Species	Paenibacillus sp. oral taxon 786	in input, but not found from name or NCBI lookup - False Positive
+Species	Brevibacterium sandarakinum	in input, but not found from name or NCBI lookup - False Positive
+Species	Microlunatus soli	in input, but not found from name or NCBI lookup - False Positive
+Species	Leptotrichia hofstadii	in input, but not found from name or NCBI lookup - False Positive
+Species	Georgenia soli	in input, but not found from name or NCBI lookup - False Positive
+Species	Vitreoscilla filiformis	in input, but not found from name or NCBI lookup - False Positive
+Species	Simonsiella muelleri	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseria sp. oral taxon 014	in input, but not found from name or NCBI lookup - False Positive
+Species	Ruegeria lacuscaerulensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Gaeumannomyces tritici	in input, but not found from name or NCBI lookup - False Positive
+Species	Aeromonas hydrophila	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces sp. e14	in input, but not found from name or NCBI lookup - False Positive
+Species	Haloactinobacterium album	in input, but not found from name or NCBI lookup - False Positive
+Species	Cesiribacter andamanensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Oceanospirillum multiglobuliferum	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces sp. oral taxon 848	in input, but not found from name or NCBI lookup - False Positive
+Species	Oceanospirillum maris	in input, but not found from name or NCBI lookup - False Positive
+Species	Campylobacter lari	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium ulcerans	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces sp. oral taxon 849	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseria sp. KEM232	in input, but not found from name or NCBI lookup - False Positive
+Species	Erwinia tracheiphila	in input, but not found from name or NCBI lookup - False Positive
+Species	Litorimicrobium taeanense	in input, but not found from name or NCBI lookup - False Positive
+Species	Brachybacterium squillarum	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces europaeus	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces yerevanensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces eurocidicus	in input, but not found from name or NCBI lookup - False Positive
+Species	Leucobacter salsicius	in input, but not found from name or NCBI lookup - False Positive
+Species	Dietzia alimentaria	in input, but not found from name or NCBI lookup - False Positive
+Species	Neisseria sp. GT4A CT1	in input, but not found from name or NCBI lookup - False Positive
+Species	Vibrio cholerae	in input, but not found from name or NCBI lookup - False Positive
+Species	Curvibacter putative symbiont of Hydra magnipapillata	in input, but not found from name or NCBI lookup - False Positive
+Species	Vibrio parahaemolyticus	in input, but not found from name or NCBI lookup - False Positive
+Species	Propionibacterium sp. oral taxon 192	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces prasinopilosus	in input, but not found from name or NCBI lookup - False Positive
+Species	Lipomyces starkeyi	in input, but not found from name or NCBI lookup - False Positive
+Species	Auraticoccus monumenti	in input, but not found from name or NCBI lookup - False Positive
+Species	Demequina globuliformis	in input, but not found from name or NCBI lookup - False Positive
+Species	Lactobacillus gasseri	in input, but not found from name or NCBI lookup - False Positive
+Species	Kitasatospora albolonga	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces durhamensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces iakyrus	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces mirabilis	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces rishiriensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Micromonospora yangpuensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Frankia sp. Cg70.9	in input, but not found from name or NCBI lookup - False Positive
+Species	Frankia sp. EI5c	in input, but not found from name or NCBI lookup - False Positive
+Species	Cupriavidus basilensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Sphaerulina musiva	in input, but not found from name or NCBI lookup - False Positive
+Species	Petrotoga mobilis	in input, but not found from name or NCBI lookup - False Positive
+Species	Saprolegnia parasitica	in input, but not found from name or NCBI lookup - False Positive
+Species	Saitoella complicata	in input, but not found from name or NCBI lookup - False Positive
+Species	Mesorhizobium plurifarium	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces sp. oral taxon 178	in input, but not found from name or NCBI lookup - False Positive
+Species	uncultured Acidobacteria bacterium HF4000 26D02	in input, but not found from name or NCBI lookup - False Positive
+Species	uncultured Chloroflexi bacterium HF0200 09I09	in input, but not found from name or NCBI lookup - False Positive
+Species	uncultured Rhodobacterales bacterium HF4000 03E16	in input, but not found from name or NCBI lookup - False Positive
+Species	uncultured gamma proteobacterium EB080 L93H08	in input, but not found from name or NCBI lookup - False Positive
+Species	uncultured gamma proteobacterium EB750 07C09	in input, but not found from name or NCBI lookup - False Positive
+Species	uncultured Spirochaetales bacterium HF0500 06B09	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces sp. oral taxon 170	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces sp. oral taxon 448	in input, but not found from name or NCBI lookup - False Positive
+Species	Amycolatopsis mediterranei	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinobacillus pleuropneumoniae	in input, but not found from name or NCBI lookup - False Positive
+Species	Oceanicoccus sagamiensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Auricularia subglabra	in input, but not found from name or NCBI lookup - False Positive
+Species	Kocuria palustris	in input, but not found from name or NCBI lookup - False Positive
+Species	Nannochloropsis gaditana	in input, but not found from name or NCBI lookup - False Positive
+Species	Tessaracoccus bendigoensis	in input, but not found from name or NCBI lookup - False Positive
+Species	[Haemophilus] ducreyi	in input, but not found from name or NCBI lookup - False Positive
+Species	Rhodococcus sp. JVH1	in input, but not found from name or NCBI lookup - False Positive
+Species	Oceanibacterium hippocampi	in input, but not found from name or NCBI lookup - False Positive
+Species	Stachybotrys chartarum	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces bingchenggensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Photobacterium aphoticum	in input, but not found from name or NCBI lookup - False Positive
+Species	Micromonas pusilla virus 12T	in input, but not found from name or NCBI lookup - False Positive
+Species	Thauera terpenica	in input, but not found from name or NCBI lookup - False Positive
+Species	Parasutterella excrementihominis	in input, but not found from name or NCBI lookup - False Positive
+Species	Phycomyces blakesleeanus	in input, but not found from name or NCBI lookup - False Positive
+Species	Waddlia chondrophila	in input, but not found from name or NCBI lookup - False Positive
+Species	Mycetocola saprophilus	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces vitaminophilus	in input, but not found from name or NCBI lookup - False Positive
+Species	Roseateles depolymerans	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptococcus constellatus	in input, but not found from name or NCBI lookup - False Positive
+Species	Malassezia pachydermatis	in input, but not found from name or NCBI lookup - False Positive
+Species	uncultured bacterium	in input, but not found from name or NCBI lookup - False Positive
+Species	Scardovia inopinata	in input, but not found from name or NCBI lookup - False Positive
+Species	Bifidobacterium pullorum	in input, but not found from name or NCBI lookup - False Positive
+Species	Ralstonia sp. PBA	in input, but not found from name or NCBI lookup - False Positive
+Species	Cardiobacterium valvarum	in input, but not found from name or NCBI lookup - False Positive
+Species	Thioflavicoccus mobilis	in input, but not found from name or NCBI lookup - False Positive
+Species	Acidovorax cattleyae	in input, but not found from name or NCBI lookup - False Positive
+Species	Insolitispirillum peregrinum	in input, but not found from name or NCBI lookup - False Positive
+Species	Chlamydia trachomatis	in input, but not found from name or NCBI lookup - False Positive
+Species	Eubacterium aggregans	in input, but not found from name or NCBI lookup - False Positive
+Species	Bacteroides fragilis	in input, but not found from name or NCBI lookup - False Positive
+Species	Atopobium vaginae	in input, but not found from name or NCBI lookup - False Positive
+Species	Buttiauxella agrestis	in input, but not found from name or NCBI lookup - False Positive
+Species	Leminorella grimontii	in input, but not found from name or NCBI lookup - False Positive
+Species	Microbacterium chocolatum	in input, but not found from name or NCBI lookup - False Positive
+Species	Beutenbergia cavernae	in input, but not found from name or NCBI lookup - False Positive
+Species	Oxalobacter formigenes	in input, but not found from name or NCBI lookup - False Positive
+Species	Trypanosoma cruzi	in input, but not found from name or NCBI lookup - False Positive
+Species	Rothia nasimurium	in input, but not found from name or NCBI lookup - False Positive
+Species	Bacillus gottheilii	in input, but not found from name or NCBI lookup - False Positive
+Species	Pseudarthrobacter siccitolerans	in input, but not found from name or NCBI lookup - False Positive
+Species	Pseudomonas chlororaphis	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinotalea fermentans	in input, but not found from name or NCBI lookup - False Positive
+Species	Plasmodium ovale	in input, but not found from name or NCBI lookup - False Positive
+Species	Minicystis rosea	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium terpenotabidum	in input, but not found from name or NCBI lookup - False Positive
+Species	Desulfuromonas sp.	in input, but not found from name or NCBI lookup - False Positive
+Species	Oligella ureolytica	in input, but not found from name or NCBI lookup - False Positive
+Species	Caldanaerobacter subterraneus	in input, but not found from name or NCBI lookup - False Positive
+Species	Desulfosporosinus sp. OT	in input, but not found from name or NCBI lookup - False Positive
+Species	Cryptosporangium arvum	in input, but not found from name or NCBI lookup - False Positive
+Species	Microbacterium ketosireducens	in input, but not found from name or NCBI lookup - False Positive
+Species	Thermithiobacillus tepidarius	in input, but not found from name or NCBI lookup - False Positive
+Species	Bipolaris victoriae	in input, but not found from name or NCBI lookup - False Positive
+Species	Halioglobus pacificus	in input, but not found from name or NCBI lookup - False Positive
+Species	Helicobacter felis	in input, but not found from name or NCBI lookup - False Positive
+Species	Nonomuraea gerenzanensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Granulicella tundricola	in input, but not found from name or NCBI lookup - False Positive
+Species	Cupriavidus alkaliphilus	in input, but not found from name or NCBI lookup - False Positive
+Species	Plicaturopsis crispa	in input, but not found from name or NCBI lookup - False Positive
+Species	Salpingoeca rosetta	in input, but not found from name or NCBI lookup - False Positive
+Species	Besnoitia besnoiti	in input, but not found from name or NCBI lookup - False Positive
+Species	Streptomyces venezuelae	in input, but not found from name or NCBI lookup - False Positive
+Species	Burkholderia stabilis	in input, but not found from name or NCBI lookup - False Positive
+Species	Vitreoscilla sp. C1	in input, but not found from name or NCBI lookup - False Positive
+Species	Selenomonas ruminantium	in input, but not found from name or NCBI lookup - False Positive
+Species	Mycobacterium septicum	in input, but not found from name or NCBI lookup - False Positive
+Species	Pseudoglutamicibacter albus	in input, but not found from name or NCBI lookup - False Positive
+Species	Pseudoscardovia suis	in input, but not found from name or NCBI lookup - False Positive
+Species	Flavobacterium hydatis	in input, but not found from name or NCBI lookup - False Positive
+Species	Metallibacterium scheffleri	in input, but not found from name or NCBI lookup - False Positive
+Species	Hydnomerulius pinastri	in input, but not found from name or NCBI lookup - False Positive
+Species	Mycetocola miduiensis	in input, but not found from name or NCBI lookup - False Positive
+Species	Cryobacterium levicorallinum	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinobaculum schaalii	in true list but not found - False Negative
