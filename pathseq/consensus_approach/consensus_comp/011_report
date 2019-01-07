@@ -1,0 +1,130 @@
+Analysing File: consensus_comp/011_consensus.compTrue COMP File: true_comp/011.compKingdom	<not present>	in input, but not found - False Positive
+Kingdom	Bacteria	in true list but not found - False Negative
+Phylum	<not present>	in input, but not found - False Positive
+Phylum	Actinobacteria	in true list but not found - False Negative
+Phylum	Fusobacteria	in true list but not found - False Negative
+Phylum	Bacteroidetes	in true list but not found - False Negative
+Phylum	Proteobacteria	in true list but not found - False Negative
+Phylum	Firmicutes	in true list but not found - False Negative
+Phylum	Spirochaetes	in true list but not found - False Negative
+Class	<not present>	in input, but not found - False Positive
+Class	Actinobacteria	in true list but not found - False Negative
+Class	Fusobacteriia	in true list but not found - False Negative
+Class	Bacteroidia	in true list but not found - False Negative
+Class	Gammaproteobacteria	in true list but not found - False Negative
+Class	Bacilli	in true list but not found - False Negative
+Class	Negativicutes	in true list but not found - False Negative
+Class	Clostridia	in true list but not found - False Negative
+Class	Epsilonproteobacteria	in true list but not found - False Negative
+Class	Betaproteobacteria	in true list but not found - False Negative
+Class	Spirochaetia	in true list but not found - False Negative
+Class	Tissierellia	in true list but not found - False Negative
+Order	<not present>	in input, but not found - False Positive
+Order	Corynebacteriales	in true list but not found - False Negative
+Order	Fusobacteriales	in true list but not found - False Negative
+Order	Propionibacteriales	in true list but not found - False Negative
+Order	Bacteroidales	in true list but not found - False Negative
+Order	Actinomycetales	in true list but not found - False Negative
+Order	Actinobacteria	in true list but not found - False Negative
+Order	Enterobacterales	in true list but not found - False Negative
+Order	Bacillales	in true list but not found - False Negative
+Order	Lactobacillales	in true list but not found - False Negative
+Order	Veillonellales	in true list but not found - False Negative
+Order	Clostridiales	in true list but not found - False Negative
+Order	Pasteurellales	in true list but not found - False Negative
+Order	Micrococcales	in true list but not found - False Negative
+Order	Campylobacterales	in true list but not found - False Negative
+Order	Neisseriales	in true list but not found - False Negative
+Order	Spirochaetales	in true list but not found - False Negative
+Order	Tissierellales	in true list but not found - False Negative
+Family	<not present>	in input, but not found - False Positive
+Family	Corynebacteriaceae	in true list but not found - False Negative
+Family	Fusobacteriaceae	in true list but not found - False Negative
+Family	Propionibacteriaceae	in true list but not found - False Negative
+Family	Prevotellaceae	in true list but not found - False Negative
+Family	Porphyromonadaceae	in true list but not found - False Negative
+Family	Actinomycetaceae	in true list but not found - False Negative
+Family	Propionibacteriales	in true list but not found - False Negative
+Family	Enterobacteriaceae	in true list but not found - False Negative
+Family	Staphylococcaceae	in true list but not found - False Negative
+Family	Enterococcaceae	in true list but not found - False Negative
+Family	Bacteroidaceae	in true list but not found - False Negative
+Family	Leptotrichiaceae	in true list but not found - False Negative
+Family	Veillonellaceae	in true list but not found - False Negative
+Family	Eubacteriaceae	in true list but not found - False Negative
+Family	Lachnospiraceae	in true list but not found - False Negative
+Family	Aerococcaceae	in true list but not found - False Negative
+Family	Pasteurellaceae	in true list but not found - False Negative
+Family	Micrococcaceae	in true list but not found - False Negative
+Family	Bacillales Family XI. Incertae Sedis	in true list but not found - False Negative
+Family	Campylobacteraceae	in true list but not found - False Negative
+Family	Neisseriaceae	in true list but not found - False Negative
+Family	Listeriaceae	in true list but not found - False Negative
+Family	Spirochaetaceae	in true list but not found - False Negative
+Family	Peptoniphilaceae	in true list but not found - False Negative
+Family	Streptococcaceae	in true list but not found - False Negative
+Genus	Staphylococcus	found in both lists - True Positive
+Genus	Streptococcus	found in both lists - True Positive
+Genus	Gemella	found in both lists - True Positive
+Genus	Finegoldia	found in both lists - True Positive
+Genus	Treponema	found in both lists - True Positive
+Genus	Listeria	found in both lists - True Positive
+Genus	Actinotignum	found in both lists - True Positive
+Genus	Anaerococcus	found in both lists - True Positive
+Genus	Corynebacterium	found in both lists - True Positive
+Genus	Eubacterium	found in both lists - True Positive
+Genus	Varibaculum	found in both lists - True Positive
+Genus	Campylobacter	found in both lists - True Positive
+Genus	Propionimicrobium	found in both lists - True Positive
+Genus	Veillonella	found in both lists - True Positive
+Genus	Leptotrichia	found in both lists - True Positive
+Genus	Rothia	found in both lists - True Positive
+Genus	Streptobacillus	found in both lists - True Positive
+Genus	Abiotrophia	found in both lists - True Positive
+Genus	Neisseria	found in both lists - True Positive
+Genus	Blautia	found in both lists - True Positive
+Genus	Salmonella	found in both lists - True Positive
+Genus	Pasteurella	found in both lists - True Positive
+Genus	Bacteroides	found in both lists - True Positive
+Genus	Porphyromonas	found in both lists - True Positive
+Genus	Prevotella	found in both lists - True Positive
+Genus	Fusobacterium	found in both lists - True Positive
+Genus	Escherichia	found in both lists - True Positive
+Genus	Propionibacteriaceae	in true list but not found - False Negative
+Genus	Enterococcus	in true list but not found - False Negative
+Species	<not present>	in input, but not found from name or NCBI lookup - False Positive
+Species	Corynebacterium pseudogenitalium	in true list but not found - False Negative
+Species	Fusobacterium gonidiaformans	in true list but not found - False Negative
+Species	Propionimicrobium lymphophilum	in true list but not found - False Negative
+Species	Prevotella bivia	in true list but not found - False Negative
+Species	Porphyromonas somerae	in true list but not found - False Negative
+Species	Porphyromonas bennonis	in true list but not found - False Negative
+Species	Varibaculum cambriense	in true list but not found - False Negative
+Species	Actinotignum urinale	in true list but not found - False Negative
+Species	Propionimicrobium sp. BV2F7	in true list but not found - False Negative
+Species	Prevotella disiens	in true list but not found - False Negative
+Species	Prevotella timonensis	in true list but not found - False Negative
+Species	Actinobaculum schaalii	in true list but not found - False Negative
+Species	Escherichia coli	in true list but not found - False Negative
+Species	Staphylococcus epidermidis	in true list but not found - False Negative
+Species	Enterococcus faecalis	in true list but not found - False Negative
+Species	Bacteroides fragilis	in true list but not found - False Negative
+Species	Streptobacillus moniliformis	in true list but not found - False Negative
+Species	Veillonella parvula	in true list but not found - False Negative
+Species	Eubacterium ventriosum	in true list but not found - False Negative
+Species	Blautia hansenii	in true list but not found - False Negative
+Species	Abiotrophia defectiva	in true list but not found - False Negative
+Species	Pasteurella dagmatis	in true list but not found - False Negative
+Species	Rothia dentocariosa	in true list but not found - False Negative
+Species	Gemella haemolysans	in true list but not found - False Negative
+Species	Campylobacter rectus	in true list but not found - False Negative
+Species	Corynebacterium tuberculostearicum	in true list but not found - False Negative
+Species	Neisseria mucosa	in true list but not found - False Negative
+Species	Salmonella enterica	in true list but not found - False Negative
+Species	Listeria monocytogenes	in true list but not found - False Negative
+Species	Treponema vincentii	in true list but not found - False Negative
+Species	Leptotrichia goodfellowii	in true list but not found - False Negative
+Species	Anaerococcus lactolyticus	in true list but not found - False Negative
+Species	Staphylococcus aureus	in true list but not found - False Negative
+Species	Streptococcus anginosus	in true list but not found - False Negative
+Species	Finegoldia magna	in true list but not found - False Negative

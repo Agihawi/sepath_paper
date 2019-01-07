@@ -1,0 +1,45 @@
+NCBI-TaxID	Kingdom	Phylum	Class	Order	Family	Genus	Species	Number_of_Reads	Relative_Abundance	Sub-Species	Filename
+33029	Bacteria	Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	Anaerococcus	Anaerococcus hydrogenalis	1102377	0.0661647916674657	DSM 7454	ABXA01.1.fsa_nt.fna
+38303	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium pseudogenitalium	412072	0.0179676553173192	ATCC 33035	ABYQ02.1.fsa_nt.fna
+849	Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	Fusobacterium gonidiaformans	978782	0.0600476294529377	3-1-5R strain 3_1_5R	ACDD01.1.fsa_nt.fna
+507750	Bacteria	Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	Peptoniphilus	Peptoniphilus duerdenii	156679	0.00853575326111727	ATCC BAA-1640	AEEH01.1.fsa_nt.fna
+54005	Bacteria	Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	Peptoniphilus	Peptoniphilus harei	814267	0.0502921222856082	ACS-146-V-Sch2b	AENP01.1.fsa_nt.fna
+33034	Bacteria	Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	Anaerococcus	Anaerococcus prevotii	670520	0.0448040693094335	ACS-065-V-Col13	AEXM01.1.fsa_nt.fna
+29318	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces neuii	1653176	0.0877348181100194	BVS029A5	AGWP01.1.fsa_nt.fna
+131111	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces turicensis	357869	0.0207951565683575	ACS-279-V-Col4	AGWQ01.1.fsa_nt.fna
+322095	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	Porphyromonas somerae	2004	9.64296013137307e-05	DSM 23386	AQVC01.1.fsa_nt.fna
+190146	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinotignum	Actinotignum urinale	180136	0.0106373895083121	DSM 15805	ATUY01.1.fsa_nt.fna
+33012	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Propionimicrobium	Propionimicrobium lymphophilum	27395	0.00152616606195298	DSM 4903	AUIB01.1.fsa_nt.fna
+28128	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella corporis	1387978	0.0563972867695902	strain=DSM 18810	AUME01.1.fsa_nt.fna
+1111134	Bacteria	Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	Peptoniphilus	Peptoniphilus sp. BV3C26	116412	0.00685425104208099	NA	AWXB01.1.fsa_nt.fna
+386414	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella timonensis	164662	0.00597259976169871	4401737	CBQQ01.1.fsa_nt.fna
+562	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli	157312	0.00384328133977296	NA	GCF_000005845.2_ASM584v2_genomic.fna
+1282	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus epidermidis	13053	0.000577166427979694	NA	GCF_000007645.1_ASM764v1_genomic.fna
+1351	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus faecalis	263779	0.00890260700388522	NA	GCF_000007785.1_ASM778v1_genomic.fna
+1747	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium	Cutibacterium acnes	6346	0.00028107877370324	NA	GCF_000008345.1_ASM834v1_genomic.fna
+210	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	Helicobacter Pylori	160520	0.010913916750676	NA	GCF_000008525.1_ASM852v1_genomic.fna
+817	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides fragilis	521840	0.0111422983584809	NA	GCF_000009925.1_ASM992v1_genomic.fna
+34105	Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Streptobacillus	Streptobacillus moniliformis	987649	0.0669340201015766	NA	GCF_000024565.1_ASM2456v1_genomic.fna
+480	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	Moraxella catarrhalis	123770	0.00753266704999142	NA	GCF_000092265.1_ASM9226v1_genomic.fna
+1322	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	Blautia hansenii	197050	0.0073054921093736	NA	GCF_000156675.1_ASM15667v1_genomic.fna
+218538	Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Dialister	Dialister invisus	221071	0.0132225587939259	NA	GCF_000160055.1_ASM16005v1_genomic.fna
+46125	Bacteria	Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Abiotrophia	Abiotrophia defectiva	399030	0.0221440356495387	NA	GCF_000160075.2_ASM16007v2_genomic.fna
+629741	Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Kingella	Kingella oralis	91012	0.0042883884052436	NA	GCF_000160435.1_ASM16043v1_genomic.fna
+853	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Faecalibacterium	Faecalibacterium prausnitzii	41054	0.00150647126275947	NA	GCF_000162015.1_ASM16201v1_genomic.fna
+754	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Pasteurella	Pasteurella dagmatis	109368	0.00547987004191011	NA	GCF_000163475.1_ASM16347v1_genomic.fna
+563032	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	Rothia dentocariosa	215821	0.00976610080929148	NA	GCF_000164695.2_ASM16469v2_genomic.fna
+1379	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillales Family XI. Incertae Sedis	Gemella	Gemella haemolysans	4241	0.000250981754763716	NA	GCF_000173915.1_ASM17391v1_genomic.fna
+203	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter rectus	1064425	0.0480304867597396	NA	GCF_000174175.1_ASM17417v1_genomic.fna
+488	Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria mucosa	357069	0.0186645707340125	NA	GCF_000186165.1_Neis_muco_C102_V1_genomic.fna
+594	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	Salmonella enterica	410505	0.00906775478204033	NA	GCF_000195995.1_ASM19599v1_genomic.fna
+1308	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus thermophilus	59797	0.00351363274971829	NA	GCF_000253395.1_ASM25339v1_genomic.fna
+45201	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Mannheimia	Mannheimia haemolytica	111715	0.00463729113697187	NA	GCF_000376645.1_ASM37664v1_genomic.fna
+33032	Bacteria	Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	Anaerococcus	Anaerococcus lactolyticus	78281	0.00458320930494755	S7-1-13	JRMW01.1.fsa_nt.fna
+40543	Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Sneathia	Sneathia sanguinegens	82638	0.00725869786954064	strain CCUG41628	LOQF01.1.fsa_nt.fna
+2097	Bacteria	Tenericutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Mycoplasma	Mycoplasma genitalium	381178	0.0745170804801882	G37	NC_000908.2.fsa_nt.fna
+1311	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus agalactiae	119484	0.00612686987616163	NEM316	NC_004368.1.fsa_nt.fna
+2051	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Mobiluncus	Mobiluncus curtisii	972610	0.0513836304816207	ATCC 43063	NC_014246.1.fsa_nt.fna
+1280	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus	2888698	0.114036166010938	subsp. aureus ST398	NC_017333.1.fsa_nt.fna
+1328	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus anginosus	101592	0.0051577374790247	C238	NC_022239.1.fsa_nt.fna
+1260	Bacteria	Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	Finegoldia	Finegoldia magna	284149	0.0168149394337013	ATCC 53516	NZ_CM000955.1.fsa_nt.fna
+827	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter ureolyticus	351701	0.0242908795513147	RIGS 9880	NZ_CP012195.1.fsa_nt.fna

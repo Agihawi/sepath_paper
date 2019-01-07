@@ -1,0 +1,27 @@
+NCBI-TaxID	Kingdom	Phylum	Class	Order	Family	Genus	Species	Number_of_Reads	Relative_Abundance
+1760		Actinobacteria						3995	0.0
+1224		Proteobacteria						137	0.0
+976		Bacteroidetes						377	0.0
+1239		Firmicutes						527	0.0
+200643		Bacteroidetes	Bacteroidia					371	0.0
+1760		Actinobacteria	Actinobacteria					3995	0.0
+1236		Proteobacteria	Gammaproteobacteria					136	0.0
+91061		Firmicutes	Bacilli					506	0.0
+85009		Actinobacteria	Actinobacteria	Propionibacteriales				3954	0.0
+171549		Bacteroidetes	Bacteroidia	Bacteroidales				371	0.0
+186826		Firmicutes	Bacilli	Lactobacillales				415	0.0
+1385		Firmicutes	Bacilli	Bacillales				69	0.0
+72274		Proteobacteria	Gammaproteobacteria	Pseudomonadales				133	0.0
+171552		Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae			356	0.0
+468		Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae			133	0.0
+31957		Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae			3953	0.0
+1300		Firmicutes	Bacilli	Lactobacillales	Streptococcaceae			403	0.0
+838		Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella		333	0.0
+475		Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella		132	0.0
+1301		Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		401	0.0
+1378		Firmicutes	Bacilli	Bacillales		Gemella		61	0.0
+1301		Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus_agalactiae	17	0.0
+1378		Firmicutes	Bacilli	Bacillales		Gemella	Gemella_haemolysans	45	0.0
+1301		Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus_anginosus	47	0.0
+838		Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella_bivia	220	0.0
+475		Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	Moraxella_catarrhalis	41	0.0

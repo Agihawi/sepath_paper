@@ -1,0 +1,7 @@
+NCBI-TaxID	Kingdom	Phylum	Class	Order	Family	Genus	Species	Number_of_Reads	Relative_Abundance
+1224		Proteobacteria						115	100.0
+29547		Proteobacteria	Epsilonproteobacteria					115	100.0
+213849		Proteobacteria	Epsilonproteobacteria	Campylobacterales				115	100.0
+72294		Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae			115	100.0
+194		Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter		115	100.0
+194		Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter_ureolyticus	104	100.0

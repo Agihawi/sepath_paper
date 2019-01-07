@@ -1,0 +1,13 @@
+Analysing File: consensus_comp/012_consensus.compTrue COMP File: true_comp/012.compKingdom	<not present>	in input, but not found - False Positive
+Kingdom	Bacteria	in true list but not found - False Negative
+Phylum	<not present>	in input, but not found - False Positive
+Phylum	Proteobacteria	in true list but not found - False Negative
+Class	<not present>	in input, but not found - False Positive
+Class	Epsilonproteobacteria	in true list but not found - False Negative
+Order	<not present>	in input, but not found - False Positive
+Order	Campylobacterales	in true list but not found - False Negative
+Family	<not present>	in input, but not found - False Positive
+Family	Campylobacteraceae	in true list but not found - False Negative
+Genus	Campylobacter	found in both lists - True Positive
+Species	<not present>	in input, but not found from name or NCBI lookup - False Positive
+Species	Campylobacter ureolyticus	in true list but not found - False Negative

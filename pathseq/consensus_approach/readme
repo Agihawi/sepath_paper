@@ -1,0 +1,6 @@
+find_consensus.sh was used to obtain consensus comp files which were them compared to true_comp/ files to obtain a performance for consensus using comp_performance_2.R
+
+parameters used in consensus:
+motus unfiltered
+spades & kraken (4 contig threshold)
+pathseq >1 read minimum for classification

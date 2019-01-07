@@ -1,0 +1,34 @@
+Analysing File: consensus_comp/024_consensus.compTrue COMP File: true_comp/024.compKingdom	<not present>	in input, but not found - False Positive
+Kingdom	Bacteria	in true list but not found - False Negative
+Phylum	<not present>	in input, but not found - False Positive
+Phylum	Actinobacteria	in true list but not found - False Negative
+Phylum	Firmicutes	in true list but not found - False Negative
+Phylum	Proteobacteria	in true list but not found - False Negative
+Class	<not present>	in input, but not found - False Positive
+Class	Actinobacteria	in true list but not found - False Negative
+Class	Clostridia	in true list but not found - False Negative
+Class	Gammaproteobacteria	in true list but not found - False Negative
+Class	Epsilonproteobacteria	in true list but not found - False Negative
+Order	<not present>	in input, but not found - False Positive
+Order	Actinomycetales	in true list but not found - False Negative
+Order	Clostridiales	in true list but not found - False Negative
+Order	Enterobacterales	in true list but not found - False Negative
+Order	Pasteurellales	in true list but not found - False Negative
+Order	Campylobacterales	in true list but not found - False Negative
+Family	<not present>	in input, but not found - False Positive
+Family	Actinomycetaceae	in true list but not found - False Negative
+Family	Lachnospiraceae	in true list but not found - False Negative
+Family	Enterobacteriaceae	in true list but not found - False Negative
+Family	Pasteurellaceae	in true list but not found - False Negative
+Family	Campylobacteraceae	in true list but not found - False Negative
+Genus	Actinomyces	found in both lists - True Positive
+Genus	Campylobacter	found in both lists - True Positive
+Genus	Blautia	found in both lists - True Positive
+Genus	Salmonella	found in both lists - True Positive
+Genus	Mannheimia	found in both lists - True Positive
+Species	<not present>	in input, but not found from name or NCBI lookup - False Positive
+Species	Actinomyces neuii	in true list but not found - False Negative
+Species	Blautia hansenii	in true list but not found - False Negative
+Species	Salmonella enterica	in true list but not found - False Negative
+Species	Mannheimia haemolytica	in true list but not found - False Negative
+Species	Campylobacter ureolyticus	in true list but not found - False Negative

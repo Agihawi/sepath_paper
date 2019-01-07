@@ -1,0 +1,16 @@
+NCBI-TaxID	Kingdom	Phylum	Class	Order	Family	Genus	Species	Number_of_Reads	Relative_Abundance	Sub-Species	Filename
+598660	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium pyruviciproducens	883097	0.0533060660642072	ATCC BAA-1742	ATBY01.1.fsa_nt.fna
+190146	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinotignum	Actinotignum urinale	134155	0.0114017316391372	DSM 15805	ATUY01.1.fsa_nt.fna
+1111134	Bacteria	Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	Peptoniphilus	Peptoniphilus sp. BV3C26	1438408	0.121891592177985	NA	AWXB01.1.fsa_nt.fna
+562	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli	13922	0.000489521034749662	NA	GCF_000005845.2_ASM584v2_genomic.fna
+1351	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus faecalis	355100	0.0172487275007326	NA	GCF_000007785.1_ASM778v1_genomic.fna
+1747	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium	Cutibacterium acnes	683578	0.0435758094819606	NA	GCF_000008345.1_ASM834v1_genomic.fna
+34105	Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Streptobacillus	Streptobacillus moniliformis	365683	0.0356679752527471	NA	GCF_000024565.1_ASM2456v1_genomic.fna
+28037	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus mitis	1870500	0.142215413263035	NA	GCF_000027165.1_ASM2716v1_genomic.fna
+1322	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	Blautia hansenii	2207702	0.117799349410548	NA	GCF_000156675.1_ASM15667v1_genomic.fna
+218538	Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Dialister	Dialister invisus	622895	0.0536201444776424	NA	GCF_000160055.1_ASM16005v1_genomic.fna
+563032	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	Rothia dentocariosa	11459	0.00074628313261006	NA	GCF_000164695.2_ASM16469v2_genomic.fna
+1638	Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria monocytogenes	3781760	0.209614142659108	NA	GCF_000196035.1_ASM19603v1_genomic.fna
+596324	Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	Treponema vincentii	1091119	0.0661147823773968	NA	GCF_000412995.1_Trep_vinc_F0403_V1_genomic.fna
+33032	Bacteria	Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	Anaerococcus	Anaerococcus lactolyticus	1414415	0.11918444637969	S7-1-13	JRMW01.1.fsa_nt.fna
+1328	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus anginosus	97498	0.00712401514844879	C238	NC_022239.1.fsa_nt.fna

@@ -1,0 +1,74 @@
+NCBI-TaxID	Kingdom	Phylum	Class	Order	Family	Genus	Species	Number_of_Reads	Relative_Abundance
+32066		Fusobacteria						188	0.0
+544448		Tenericutes						174	0.0
+1760		Actinobacteria						994	0.0
+976		Bacteroidetes						70	0.0
+1239		Firmicutes						3963	0.0
+1224		Proteobacteria						601	0.0
+1760		Actinobacteria	Actinobacteria					982	0.0
+1236		Proteobacteria	Gammaproteobacteria					6	0.0
+29547		Proteobacteria	Epsilonproteobacteria					266	0.0
+1737404		Firmicutes	Tissierellia					1140	0.0
+203490		Fusobacteria	Fusobacteriia					188	0.0
+31969		Tenericutes	Mollicutes					174	0.0
+200643		Bacteroidetes	Bacteroidia					70	0.0
+28216		Proteobacteria	Betaproteobacteria					300	0.0
+186801		Firmicutes	Clostridia					925	0.0
+91061		Firmicutes	Bacilli					1668	0.0
+91347		Proteobacteria	Gammaproteobacteria	Enterobacterales				6	0.0
+2037		Actinobacteria	Actinobacteria	Actinomycetales				908	0.0
+186826		Firmicutes	Bacilli	Lactobacillales				1347	0.0
+206351		Proteobacteria	Betaproteobacteria	Neisseriales				299	0.0
+203491		Fusobacteria	Fusobacteriia	Fusobacteriales				188	0.0
+85009		Actinobacteria	Actinobacteria	Propionibacteriales				45	0.0
+1737405		Firmicutes	Tissierellia	Tissierellales				1139	0.0
+171549		Bacteroidetes	Bacteroidia	Bacteroidales				70	0.0
+2085		Tenericutes	Mollicutes	Mycoplasmatales				174	0.0
+213849		Proteobacteria	Epsilonproteobacteria	Campylobacterales				266	0.0
+186802		Firmicutes	Clostridia	Clostridiales				925	0.0
+186803		Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			457	0.0
+2092		Tenericutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae			174	0.0
+72294		Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae			266	0.0
+481		Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae			298	0.0
+1129771		Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae			9	0.0
+543		Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae			6	0.0
+171551		Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae			68	0.0
+31957		Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae			45	0.0
+1570339		Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae			1139	0.0
+81852		Firmicutes	Bacilli	Lactobacillales	Enterococcaceae			226	0.0
+2049		Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae			908	0.0
+1300		Firmicutes	Bacilli	Lactobacillales	Streptococcaceae			1118	0.0
+203492		Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae			178	0.0
+541000		Firmicutes	Clostridia	Clostridiales	Ruminococcaceae			410	0.0
+1301		Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		1118	0.0
+216851		Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Faecalibacterium		382	0.0
+43996		Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Catonella		434	0.0
+194		Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter		266	0.0
+836		Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas		67	0.0
+162289		Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	Peptoniphilus		1125	0.0
+482		Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria		181	0.0
+1653174		Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinotignum		149	0.0
+1350		Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		226	0.0
+2093		Tenericutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Mycoplasma		174	0.0
+76833		Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinobaculum		113	0.0
+2050		Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Mobiluncus		629	0.0
+848		Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium		176	0.0
+1330547		Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Kosakonia		6	0.0
+168808		Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Sneathia		6	0.0
+194		Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter_ureolyticus	259	0.0
+76833		Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinobaculum	Actinobaculum_massiliense	111	0.0
+1350		Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus_faecalis	85	0.0
+162289		Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	Peptoniphilus	Peptoniphilus_harei	478	0.0
+2050		Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Mobiluncus	Mobiluncus_curtisii	620	0.0
+216851		Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Faecalibacterium	Faecalibacterium_prausnitzii	382	0.0
+848		Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	Fusobacterium_gonidiaformans	43	0.0
+2093		Tenericutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Mycoplasma	Mycoplasma_genitalium	173	0.0
+1330547		Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Kosakonia	Kosakonia_oryzae	6	0.0
+1653174		Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinotignum	Actinotignum_schaalii	136	0.0
+1301		Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus_mitis	210	0.0
+836		Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	Porphyromonas_sp_HMSC065F10	66	0.0
+162289		Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	Peptoniphilus	Peptoniphilus_coxii	179	0.0
+482		Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria_elongata	127	0.0
+162289		Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	Peptoniphilus	Peptoniphilus_sp_DNF00840	8	0.0
+168808		Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Sneathia	Sneathia_amnii	6	0.0
+43996		Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Catonella	Catonella_morbi	434	0.0

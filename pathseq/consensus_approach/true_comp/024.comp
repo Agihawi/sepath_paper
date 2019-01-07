@@ -1,0 +1,6 @@
+NCBI-TaxID	Kingdom	Phylum	Class	Order	Family	Genus	Species	Number_of_Reads	Relative_Abundance	Sub-Species	Filename
+29318	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces neuii	745015	0.0297943448591402	BVS029A5	AGWP01.1.fsa_nt.fna
+1322	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	Blautia hansenii	136308	0.00380811730198774	NA	GCF_000156675.1_ASM15667v1_genomic.fna
+594	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	Salmonella enterica	443769	0.00738676379274939	NA	GCF_000195995.1_ASM19599v1_genomic.fna
+45201	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Mannheimia	Mannheimia haemolytica	4245614	0.132803436888816	NA	GCF_000376645.1_ASM37664v1_genomic.fna
+827	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter ureolyticus	15874625	0.826207337157307	RIGS 9880	NZ_CP012195.1.fsa_nt.fna

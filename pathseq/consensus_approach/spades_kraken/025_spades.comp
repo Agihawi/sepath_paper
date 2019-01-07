@@ -1,0 +1,168 @@
+NCBI-TaxID	Kingdom	Phylum	Class	Order	Family	Genus	Species	Number_of_Reads	Relative_Abundance
+4751	Fungi							2	100.0
+1239		Firmicutes						19188	0.0
+1224		Proteobacteria						20788	0.0
+976		Bacteroidetes						4285	0.0
+1760		Actinobacteria						3603	0.0
+544448		Tenericutes						176	0.0
+4890	Fungi	Ascomycota						2	0.0
+32066		Fusobacteria						579	0.0
+147550	Fungi	Ascomycota	Sordariomycetes					2	0.0
+203490		Fusobacteria	Fusobacteriia					579	0.0
+1737404		Firmicutes	Tissierellia					3469	0.0
+29547		Proteobacteria	Epsilonproteobacteria					425	0.0
+1760		Actinobacteria	Actinobacteria					3580	0.0
+200643		Bacteroidetes	Bacteroidia					4275	0.0
+91061		Firmicutes	Bacilli					9856	0.0
+909932		Firmicutes	Negativicutes					276	0.0
+28216		Proteobacteria	Betaproteobacteria					4048	0.0
+31969		Tenericutes	Mollicutes					176	0.0
+186801		Firmicutes	Clostridia					4718	0.0
+1236		Proteobacteria	Gammaproteobacteria					10140	0.0
+5592	Fungi	Ascomycota	Sordariomycetes	Microascales				1	0.0
+85006		Actinobacteria	Actinobacteria	Micrococcales				658	0.0
+213849		Proteobacteria	Epsilonproteobacteria	Campylobacterales				424	0.0
+91347		Proteobacteria	Gammaproteobacteria	Enterobacterales				2613	0.0
+2037		Actinobacteria	Actinobacteria	Actinomycetales				602	0.0
+135625		Proteobacteria	Gammaproteobacteria	Pasteurellales				6412	0.0
+5125	Fungi	Ascomycota	Sordariomycetes	Hypocreales				1	0.0
+171549		Bacteroidetes	Bacteroidia	Bacteroidales				4275	0.0
+203491		Fusobacteria	Fusobacteriia	Fusobacteriales				579	0.0
+186802		Firmicutes	Clostridia	Clostridiales				4716	0.0
+2085		Tenericutes	Mollicutes	Mycoplasmatales				176	0.0
+186826		Firmicutes	Bacilli	Lactobacillales				8326	0.0
+68295		Firmicutes	Clostridia	Thermoanaerobacterales				2	0.0
+1737405		Firmicutes	Tissierellia	Tissierellales				3450	0.0
+1385		Firmicutes	Bacilli	Bacillales				606	0.0
+206351		Proteobacteria	Betaproteobacteria	Neisseriales				4045	0.0
+85007		Actinobacteria	Actinobacteria	Corynebacteriales				193	0.0
+1843489		Firmicutes	Negativicutes	Veillonellales				275	0.0
+72274		Proteobacteria	Gammaproteobacteria	Pseudomonadales				1083	0.0
+85009		Actinobacteria	Actinobacteria	Propionibacteriales				2054	0.0
+31977		Firmicutes	Negativicutes	Veillonellales	Veillonellaceae			275	0.0
+2049		Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae			602	0.0
+5593	Fungi	Ascomycota	Sordariomycetes	Microascales	Microascaceae			1	0.0
+481		Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae			4043	0.0
+72293		Proteobacteria	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae			335	0.0
+171551		Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae			5	0.0
+2092		Tenericutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae			176	0.0
+81852		Firmicutes	Bacilli	Lactobacillales	Enterococcaceae			399	0.0
+90964		Firmicutes	Bacilli	Bacillales	Staphylococcaceae			587	0.0
+72294		Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae			85	0.0
+1300		Firmicutes	Bacilli	Lactobacillales	Streptococcaceae			7703	0.0
+712		Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae			6412	0.0
+203492		Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae			186	0.0
+815		Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae			807	0.0
+186827		Firmicutes	Bacilli	Lactobacillales	Aerococcaceae			173	0.0
+186804		Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae			1	0.0
+541000		Firmicutes	Clostridia	Clostridiales	Ruminococcaceae			2674	0.0
+186803		Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			1794	0.0
+1268		Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae			654	0.0
+543		Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae			2537	0.0
+1653		Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae			192	0.0
+171552		Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae			3306	0.0
+468		Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae			1083	0.0
+1129771		Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae			392	0.0
+1570339		Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae			3450	0.0
+186814		Firmicutes	Clostridia	Thermoanaerobacterales	Thermoanaerobacteraceae			2	0.0
+31957		Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae			2054	0.0
+475		Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella		1081	0.0
+32257		Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Kingella		3895	0.0
+2050		Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Mobiluncus		91	0.0
+1654		Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces		103	0.0
+39948		Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Dialister		266	0.0
+572511		Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia		461	0.0
+203133		Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Propionimicrobium		1958	0.0
+848		Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium		184	0.0
+1378		Firmicutes	Bacilli	Bacillales		Gemella		17	0.0
+1716		Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium		163	0.0
+34104		Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Streptobacillus		382	0.0
+1330547		Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Kosakonia		36	0.0
+150022		Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	Finegoldia		258	0.0
+543311		Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	Parvimonas		3	0.0
+41687	Fungi	Ascomycota	Sordariomycetes	Microascales	Microascaceae	Scedosporium		1	0.0
+836		Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas		5	0.0
+620		Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Shigella		4	0.0
+1350		Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		399	0.0
+140458		Firmicutes	Clostridia	Thermoanaerobacterales	Thermoanaerobacteraceae	Thermacetogenium		2	0.0
+165779		Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	Anaerococcus		2106	0.0
+561		Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia		108	0.0
+482		Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria		86	0.0
+168808		Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Sneathia		5	0.0
+1686313		Firmicutes	Clostridia	Clostridiales		Fenollaria		1	0.0
+838		Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella		3290	0.0
+508215		Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Rothia		654	0.0
+1653174		Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinotignum		344	0.0
+75984		Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Mannheimia		3592	0.0
+590		Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella		1570	0.0
+816		Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides		806	0.0
+209		Proteobacteria	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Helicobacter		335	0.0
+216851		Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Faecalibacterium		2641	0.0
+44259		Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Filifactor		1	0.0
+194		Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter		85	0.0
+745		Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Pasteurella		2642	0.0
+2093		Tenericutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Mycoplasma		176	0.0
+1301		Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		7692	0.0
+46123		Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Abiotrophia		170	0.0
+43994		Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Johnsonella		1	0.0
+162289		Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	Peptoniphilus		947	0.0
+1279		Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		586	0.0
+194		Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter_concisus	4	0.0
+543311		Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	Parvimonas	Parvimonas_micra	3	0.0
+2093		Tenericutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Mycoplasma	Mycoplasma_genitalium	175	0.0
+2050		Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Mobiluncus	Mobiluncus_curtisii	87	0.0
+75984		Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Mannheimia	Mannheimia_haemolytica	3555	0.0
+216851		Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Faecalibacterium	Faecalibacterium_prausnitzii	2641	0.0
+34104		Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Streptobacillus	Streptobacillus_moniliformis	342	0.0
+165779		Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	Anaerococcus	Anaerococcus_lactolyticus	1977	0.0
+165779		Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	Anaerococcus	Anaerococcus_mediterraneensis	1	0.0
+1279		Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus_aureus	30	0.0
+816		Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_fragilis	105	0.0
+39948		Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Dialister	Dialister_invisus	264	0.0
+44259		Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Filifactor	Filifactor_alocis	1	0.0
+836		Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	Porphyromonas_sp_HMSC077F02	5	0.0
+162289		Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	Peptoniphilus	Peptoniphilus_obesi	2	0.0
+1279		Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus_epidermidis	2	0.0
+140458		Firmicutes	Clostridia	Thermoanaerobacterales	Thermoanaerobacteraceae	Thermacetogenium	Thermacetogenium_phaeum	2	0.0
+194		Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter_curvus	1	0.0
+165779		Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	Anaerococcus	Anaerococcus_tetradius	1	0.0
+43994		Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Johnsonella	Johnsonella_ignava	1	0.0
+194		Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter_sp_10_1_50	6	0.0
+209		Proteobacteria	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	Helicobacter_pylori	326	0.0
+1330547		Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Kosakonia	Kosakonia_oryzae	36	0.0
+1654		Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces_turicensis	96	0.0
+838		Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella_corporis	164	0.0
+620		Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Shigella	Shigella_flexneri	4	0.0
+590		Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	Salmonella_enterica	1535	0.0
+1686313		Firmicutes	Clostridia	Clostridiales		Fenollaria	Fenollaria_timonensis	1	0.0
+561		Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia_coli	73	0.0
+1716		Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium_pseudogenitalium	102	0.0
+745		Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Pasteurella	Pasteurella_dagmatis	2614	0.0
+162289		Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	Peptoniphilus	Peptoniphilus_harei	7	0.0
+1378		Firmicutes	Bacilli	Bacillales		Gemella	Gemella_haemolysans	16	0.0
+475		Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	Moraxella_catarrhalis	81	0.0
+1350		Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus_faecalis	178	0.0
+1737404		Firmicutes	Tissierellia				Tissierellia_bacterium_KA00581	10	0.0
+194		Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter_ureolyticus	61	0.0
+162289		Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	Peptoniphilus	Peptoniphilus_grossensis	1	0.0
+838		Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella_timonensis	2616	0.0
+1301		Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus_agalactiae	40	0.0
+165779		Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	Anaerococcus	Anaerococcus_sp_HMSC075B03	1	0.0
+572511		Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	Blautia_sp_Marseille-P3201T	1	0.0
+165779		Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	Anaerococcus	Anaerococcus_senegalensis	5	0.0
+1301		Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus_thermophilus	2509	0.0
+1653174		Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinotignum	Actinotignum_urinale	344	0.0
+32257		Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Kingella	Kingella_oralis	3894	0.0
+162289		Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	Peptoniphilus	Peptoniphilus_sp_DNF00840	1	0.0
+1301		Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus_anginosus	495	0.0
+508215		Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	Rothia_dentocariosa	55	0.0
+572511		Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	Blautia_hansenii	400	0.0
+168808		Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Sneathia	Sneathia_amnii	5	0.0
+162289		Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	Peptoniphilus	Peptoniphilus_duerdenii	873	0.0
+203133		Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Propionimicrobium	Propionimicrobium_lymphophilum	1950	0.0
+162289		Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	Peptoniphilus	Peptoniphilus_sp_HMSC062D09	7	0.0
+46123		Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Abiotrophia	Abiotrophia_defectiva	158	0.0
+150022		Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	Finegoldia	Finegoldia_magna	258	0.0
+31977		Firmicutes	Negativicutes	Veillonellales	Veillonellaceae		Veillonellaceae_bacterium_KA00182	1	0.0
+848		Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	Fusobacterium_gonidiaformans	47	0.0
+41687	Fungi	Ascomycota	Sordariomycetes	Microascales	Microascaceae	Scedosporium	Scedosporium_apiospermum	1	0.0

@@ -1,0 +1,28 @@
+NCBI-TaxID	Kingdom	Phylum	Class	Order	Family	Genus	Species	Number_of_Reads	Relative_Abundance
+1760		Actinobacteria						32	0.0
+1224		Proteobacteria						1571	0.0
+1239		Firmicutes						3969	0.0
+29547		Proteobacteria	Epsilonproteobacteria					46	0.0
+1236		Proteobacteria	Gammaproteobacteria					1478	0.0
+186801		Firmicutes	Clostridia					3929	0.0
+1760		Actinobacteria	Actinobacteria					32	0.0
+186802		Firmicutes	Clostridia	Clostridiales				3929	0.0
+91347		Proteobacteria	Gammaproteobacteria	Enterobacterales				1178	0.0
+135625		Proteobacteria	Gammaproteobacteria	Pasteurellales				289	0.0
+213849		Proteobacteria	Epsilonproteobacteria	Campylobacterales				46	0.0
+2037		Actinobacteria	Actinobacteria	Actinomycetales				31	0.0
+72294		Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae			46	0.0
+543		Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae			1145	0.0
+2049		Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae			31	0.0
+186803		Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			3778	0.0
+712		Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae			289	0.0
+572511		Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia		995	0.0
+194		Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter		46	0.0
+1330547		Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Kosakonia		7	0.0
+75984		Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Mannheimia		243	0.0
+590		Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella		985	0.0
+194		Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter_ureolyticus	42	0.0
+590		Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	Salmonella_enterica	961	0.0
+572511		Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	Blautia_hansenii	873	0.0
+75984		Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Mannheimia	Mannheimia_haemolytica	238	0.0
+1330547		Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Kosakonia	Kosakonia_oryzae	7	0.0

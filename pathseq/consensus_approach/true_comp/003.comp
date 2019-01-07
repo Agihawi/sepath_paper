@@ -1,0 +1,19 @@
+NCBI-TaxID	Kingdom	Phylum	Class	Order	Family	Genus	Species	Number_of_Reads	Relative_Abundance	Sub-Species	Filename
+849	Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	Fusobacterium gonidiaformans	1782987	0.312180890804012	3-1-5R strain 3_1_5R	ACDD01.1.fsa_nt.fna
+54005	Bacteria	Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	Peptoniphilus	Peptoniphilus harei	24546	0.00432675300631613	ACS-146-V-Sch2b	AENP01.1.fsa_nt.fna
+202789	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinobaculum	Actinobaculum massiliense	235817	0.0377610396469979	ACS-171-V-Col2	AGWL01.1.fsa_nt.fna
+501496	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	Porphyromonas bennonis	320739	0.0513057894137522	DSM 23058	AQWR01.1.fsa_nt.fna
+59505	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinotignum	Actinobaculum schaalii	535825	0.0803100559481509	strain CCUG 27420	CP008802.1.fsa_nt.fna
+1351	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus faecalis	359719	0.0346488326964712	NA	GCF_000007785.1_ASM778v1_genomic.fna
+1747	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium	Cutibacterium acnes	526936	0.0666091817184682	NA	GCF_000008345.1_ASM834v1_genomic.fna
+28037	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus mitis	156465	0.0235898403279433	NA	GCF_000027165.1_ASM2716v1_genomic.fna
+43997	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Catonella	Catonella morbi	452284	0.042071934125057	NA	GCF_000160035.2_ASM16003v2_genomic.fna
+853	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Faecalibacterium	Faecalibacterium prausnitzii	467324	0.0489408721738651	NA	GCF_000162015.1_ASM16201v1_genomic.fna
+488	Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria mucosa	605	9.02546277175943e-05	NA	GCF_000186165.1_Neis_muco_C102_V1_genomic.fna
+495	Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria elongata	463849	0.0665233548216263	NA	GCF_000818035.1_ASM81803v1_genomic.fna
+40543	Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Sneathia	Sneathia sanguinegens	207277	0.051961093521143	strain CCUG41628	LOQF01.1.fsa_nt.fna
+755172	Bacteria	Firmicutes	Tissierellia	Tissierellales	Peptoniphilaceae	Peptoniphilus	Peptoniphilus coxii	190764	0.0336404916944313	strain DNF00729	LSDG01.1.fsa_nt.fna
+2097	Bacteria	Tenericutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Mycoplasma	Mycoplasma genitalium	161629	0.0901769486656771	G37	NC_000908.2.fsa_nt.fna
+2051	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Mobiluncus	Mobiluncus curtisii	170692	0.0257363804626245	ATCC 43063	NC_014246.1.fsa_nt.fna
+1280	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus	59	6.64723027835665e-06	subsp. aureus ST398	NC_017333.1.fsa_nt.fna
+827	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter ureolyticus	152803	0.0301196391154686	RIGS 9880	NZ_CP012195.1.fsa_nt.fna

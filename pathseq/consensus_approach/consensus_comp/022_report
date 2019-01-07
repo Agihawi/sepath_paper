@@ -1,0 +1,36 @@
+Analysing File: consensus_comp/022_consensus.compTrue COMP File: true_comp/022.compKingdom	<not present>	in input, but not found - False Positive
+Kingdom	Bacteria	in true list but not found - False Negative
+Phylum	<not present>	in input, but not found - False Positive
+Phylum	Bacteroidetes	in true list but not found - False Negative
+Phylum	Actinobacteria	in true list but not found - False Negative
+Phylum	Proteobacteria	in true list but not found - False Negative
+Phylum	Firmicutes	in true list but not found - False Negative
+Class	<not present>	in input, but not found - False Positive
+Class	Bacteroidia	in true list but not found - False Negative
+Class	Actinobacteria	in true list but not found - False Negative
+Class	Gammaproteobacteria	in true list but not found - False Negative
+Class	Bacilli	in true list but not found - False Negative
+Order	<not present>	in input, but not found - False Positive
+Order	Bacteroidales	in true list but not found - False Negative
+Order	Propionibacteriales	in true list but not found - False Negative
+Order	Pseudomonadales	in true list but not found - False Negative
+Order	Bacillales	in true list but not found - False Negative
+Order	Lactobacillales	in true list but not found - False Negative
+Family	<not present>	in input, but not found - False Positive
+Family	Prevotellaceae	in true list but not found - False Negative
+Family	Propionibacteriaceae	in true list but not found - False Negative
+Family	Moraxellaceae	in true list but not found - False Negative
+Family	Bacillales Family XI. Incertae Sedis	in true list but not found - False Negative
+Family	Streptococcaceae	in true list but not found - False Negative
+Genus	Streptococcus	found in both lists - True Positive
+Genus	Gemella	found in both lists - True Positive
+Genus	Moraxella	found in both lists - True Positive
+Genus	Prevotella	found in both lists - True Positive
+Genus	Cutibacterium	in true list but not found - False Negative
+Species	<not present>	in input, but not found from name or NCBI lookup - False Positive
+Species	Prevotella bivia	in true list but not found - False Negative
+Species	Cutibacterium acnes	in true list but not found - False Negative
+Species	Moraxella catarrhalis	in true list but not found - False Negative
+Species	Gemella haemolysans	in true list but not found - False Negative
+Species	Streptococcus agalactiae	in true list but not found - False Negative
+Species	Streptococcus anginosus	in true list but not found - False Negative

@@ -1,0 +1,7 @@
+NCBI-TaxID	Kingdom	Phylum	Class	Order	Family	Genus	Species	Number_of_Reads	Relative_Abundance	Sub-Species	Filename
+28125	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella bivia	3674918	0.242710457288379	DSM 20514	AJVZ01.1.fsa_nt.fna
+1747	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium	Cutibacterium acnes	96285	0.00625948890515962	NA	GCF_000008345.1_ASM834v1_genomic.fna
+480	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	Moraxella catarrhalis	2018833	0.18033749500396	NA	GCF_000092265.1_ASM9226v1_genomic.fna
+1379	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillales Family XI. Incertae Sedis	Gemella	Gemella haemolysans	4596430	0.399251711341181	NA	GCF_000173915.1_ASM17391v1_genomic.fna
+1311	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus agalactiae	247586	0.0186340494613912	NEM316	NC_004368.1.fsa_nt.fna
+1328	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus anginosus	2050646	0.152806797999929	C238	NC_022239.1.fsa_nt.fna
