@@ -14,7 +14,16 @@ Each fasta file was split into multiple parts using ```fasta-splitter.pl``` and 
 
 ``` comparisons/ ``` contains each of the scripts used to benchmark test output data. ```comp_performance2.R``` was the main script used to compare input comp files to true comp files and obtain performance metrics. The ```Analysis/``` directory contains raw comp files, the reports for each condition, such as what taxa were reported as false negative/false positive/true positive, and plots for all parameters tested. ```true_comp/``` contains the true composition for each metagenome tested. ```performancelogs/``` contains the summary output of each parameters tested including a subfolder for top performers and the code used to generate plots for the paper.
 
- ``` pipelines/ ``` contains outlines of pipelines used to run each tool and example methods of reformatting each tool output. Within this folder ```human_repletion``` has example pipelines for each parameter used for human depletion methods. ```tool_comparison/``` has example pipelines of running each tool but is not an exhaustive representation of each parameter ran.
+``` pipelines/ ``` contains outlines of pipelines used to run each tool and example methods of reformatting each tool output. Within this folder ```human_repletion``` has example pipelines for each parameter used for human depletion methods. ```tool_comparison/``` has example pipelines of running each tool but is not an exhaustive representation of each parameter ran.
 
+``` motus_abundance_correlation/ ``` contains scripts used to derive the correlation between motus relative abundance of true positive classifications vs actual relative abundance in the simulated metagenomic datasets
+
+``` simulation_summary/ ``` contains summary of the simulated metagenomes
+
+``` pathseq/ ``` contains analysis from using the pathseq tool
+
+``` krakenuniq/ ``` contains the analysis from using the krakenuniq tool which includes adjusting filtering parameters and trialling the tool on all datasets (following metagenomic assembly using MetaSPAdes
+
+``` spades_contig_coverage_filtering/ ``` contains the analysis used when altering the minimum contig coverage produced from MetaSPAdes assembly and shows that performance is not particularly altered
 
 
