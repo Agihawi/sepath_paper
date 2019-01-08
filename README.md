@@ -26,4 +26,4 @@ Each fasta file was split into multiple parts using ```fasta-splitter.pl``` and 
 
 ``` spades_contig_coverage_filtering/ ``` contains the analysis used when altering the minimum contig coverage produced from MetaSPAdes assembly and shows that performance is not particularly altered
 
-
+``` human_depletion/``` contains data + ploting scripts for estimating the best human depletion tool and filtering bbduk parameters
