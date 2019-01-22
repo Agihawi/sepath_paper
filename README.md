@@ -3,7 +3,7 @@ A collection of scripts and data used in the SEPATH manuscript
 
 This repository contains compressed scripts and data used in the development and benchmarking of SEPATH.
 
-The directory ``` simulations/ ``` contains information regarding the metagenome simulations including the composition of each of the files. ```???_bear``` files in this directory contain each of the contig headers and their abundance which was parsed to BEAR for metagenome simulation. ```final_generation.R``` contains the script used to randomly generate abundance files which were distributed to each contig proportionately based on contig length using ```scaff_to_new_BEAR_abund.R```.  
+The directory ``` simulations/ ``` contains information regarding the metagenome simulations including the composition of each of the files. ```???_bear``` files in this directory contain each of the contig headers and their abundance which was parsed to BEAR for metagenome simulation. ```final_generation.R``` contains the script used to randomly generate abundance files which were distributed to each contig proportionately based on contig length using ```scaff_to_new_BEAR_abund.R```.  The file ``` simulations/ref_genome_location.txt ``` contains FTP links to each of the contituent genomes in NCBI and the name of the submitter
 
 ```input_file_referrences.txt``` contains a list of each file and its associated taxonomic ID. ```genomecounts.txt``` contains a list of each file and its estimated genome length.
 
